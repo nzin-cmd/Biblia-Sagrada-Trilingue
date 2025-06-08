@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bíblia Sagrada</title>
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval';">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <button id="lerBtn" class="active">Ler</button>
+      <button id="buscarBtn">Buscar</button>
+      <div class="right">
+        <button id="themeBtn"><span id="themeIcon"></span></button>
+        <div class="custom-select" id="langSelect">
+          <div class="select-selected">🌍Idiomas</div>
+          <div class="select-items select-hide">
+            <div data-value="pt">Português</div>
+            <div data-value="fr">Français</div>
+            <div data-value="ln">Lingála</div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <main id="mainContent">
+    <!-- Conteúdo dinâmico aqui -->
+  </main>
+  <script src="script.js"></script>
+</body>
+</html> 
