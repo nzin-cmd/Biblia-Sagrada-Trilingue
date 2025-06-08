@@ -1,0 +1,916 @@
+020	PRO	001	001	Masese ya Salomo, mwana mobali ya Davidi, mokonzi ya Isalaele:
+020	PRO	001	002	mpo na koyeba bwanya, kozwa mateya mpe kososola maloba ya mayele;
+020	PRO	001	003	mpo na kozwa mateya ya bwanya oyo epesaka bizaleli ya sembo, ya boyengebene mpe makambo ya alima;
+020	PRO	001	004	mpo na kopesa mayele epai ya bazoba, mpe boyebi epai ya bilenge.
+020	PRO	001	005	Tika ete moto ya bwanya ayoka yango, mpe akobakisa bwanya na ye, bongo moto ya mayele akoyeba mayele ya kotambolisa bato;
+020	PRO	001	006	mpo na kososola masese mpe sambole, maloba ya bwanya mpe kolimbola makambo.
+020	PRO	001	007	Kotosa Yawe ezali mosisa ya mayele; bato oyo bazangi mayele batiolaka bwanya mpe toli.
+020	PRO	001	008	Mwana na ngai ya mobali, yoka toli ya tata na yo, mpe kobwaka te mateya ya mama na yo;
+020	PRO	001	009	Pamba te ekozala lokola ekoti ya ngolu na moto na yo, mpe lokola mayaka ya kitoko na kingo na yo.
+020	PRO	001	010	Mwana na ngai ya mobali, soki bato ya masumu balingi kokweyisa yo, komitika te.
+020	PRO	001	011	Soki balobi na yo: « Yaka elongo na biso, tika ete tosala motambo mpo na koboma bato, tokosepela mpo na kokanga moto oyo ayebi likambo te!
+020	PRO	001	012	Ndenge mokili ya bakufi esalaka, tokomela ye ya bomoi, tokomela ye mobimba lokola bato oyo bakitaka na libulu ya kufa; (Sheol h7585)
+020	PRO	001	013	tokozwa biloko ya talo ya ndenge na ndenge, mpe tokotondisa bandako na biso na bomengo ya bitumba;
+020	PRO	001	014	okozwa ndambo na yo epai na biso, pamba te biso nyonso tokosangisa biloko na biso esika moko; »
+020	PRO	001	015	mwana na ngai ya mobali, kokende elongo na bango te, longola makolo na yo na nzela na bango;
+020	PRO	001	016	pamba te makolo na bango ekimaka mbangu mpo na kolanda mabe, mpe bapotaka mbangu mpo na kosopa makila.
+020	PRO	001	017	Solo, ezali pamba kotia monyama liboso ya miso ya bikelamu nyonso oyo ezali na mapapu.
+020	PRO	001	018	Kasi bango, batiaka mitambo mpo na kosopa makila na bango moko, bamilukelaka pasi na bomoi na bango.
+020	PRO	001	019	Moto oyo alukaka kozwa bomengo na nzela ya lokuta asukaka kaka bongo, mpe bomengo yango ebomaka kaka ye moko.
+020	PRO	001	020	Bwanya azali koganga na libanda, atomboli mongongo na ye na bisika oyo bato ebele bakutanaka;
+020	PRO	001	021	azali koganga na bisika ya loyenge mpe azali koloba liboso ya ekuke ya engumba:
+020	PRO	001	022	« Yo moto oyo ozangi mayele, kino tango nini okolinga bozoba na yo? Kino tango nini batioli bakokoba kosepela kotiola? Mpe bino bazoba, kino tango nini bokokoba koyina mayele?
+020	PRO	001	023	Soki boyoki makebisi na Ngai, nakosopela bino Molimo na Ngai mpe nakososolisa bino maloba na Ngai.
+020	PRO	001	024	Kasi lokola bosundolaki Ngai tango nazalaki kobelela mpe moto moko te asalaki keba tango natandaki loboko,
+020	PRO	001	025	lokola bobwakaki toli na Ngai mpe boboyaki kondima pamela na Ngai,
+020	PRO	001	026	Ngai mpe nakoseka bino tango pasi ekoyela bino, nakotiola bino tango minyoko ekokomela bino,
+020	PRO	001	027	tango minyoko ekokomela bino na pwasa lokola mvula ya kake makasi, tango somo ekoyela bino lokola ekumbaki, tango mawa mpe somo ekokomela bino.
+020	PRO	001	028	Bakoganga epai na Ngai, kasi nakoyanola bango te; bakoluka Ngai na ngonga ya malamu, kasi bakomona Ngai te.
+020	PRO	001	029	Lokola bayinaki boyebi mpe baponaki te nzela ya kotosa Yawe,
+020	PRO	001	030	lokola baboyaki kondima toli na Ngai mpe batiolaki pamela na Ngai,
+020	PRO	001	031	bakolia mbuma ya etamboli na bango mpe bakotonda na mabongisi ya mitema na bango moko.
+020	PRO	001	032	Pamba te kotomboka ya bato oyo bazangi mayele ekoboma bango, mpe bozangi bokebi ya bato oyo bazangi mayele ekoboma kaka bango moko;
+020	PRO	001	033	kasi moto oyo ayokaka Ngai akovanda na kimia mpe akobanga mabe moko te. »
+020	PRO	002	001	Mwana na ngai, soki ondimi maloba na ngai mpe obateli kati na motema na yo mibeko na ngai;
+020	PRO	002	002	soki opesi litoyi na yo na maloba ya bwanya mpe okabi motema na yo na makambo ya mayele;
+020	PRO	002	003	soki obeleli mayele mpe ogangi epai ya bososoli;
+020	PRO	002	004	soki oluki yango penza ndenge balukaka palata to bomengo oyo ebombama,
+020	PRO	002	005	okososola solo soki kotosa Yawe elakisi nini mpe okozwa boyebi ya Nzambe.
+020	PRO	002	006	Pamba te Yawe nde apesaka bwanya, mpe maloba ya monoko na Ye epesaka mayele mpe bososoli.
+020	PRO	002	007	Abongiselaka bato ya sembo elonga mpe azali nguba ya bato oyo batambolaka na bosembo.
+020	PRO	002	008	Pamba te abatelaka bayengebene mpe nzela ya bato oyo batosaka Ye.
+020	PRO	002	009	Boye, okososola likambo nini ezali solo, alima, sembo: nzela nyonso oyo ememaka na bolamu.
+020	PRO	002	010	Pamba te bwanya ekokota kati na motema na yo mpe boyebi ekosepelisa molimo na yo.
+020	PRO	002	011	Bososoli ekobatela yo, mpe mayele ekobomba yo
+020	PRO	002	012	mpo na kobikisa yo na nzela mabe, na moto oyo alobaka makambo ezanga tina,
+020	PRO	002	013	na bato oyo batikaka nzela ya sembo mpo na kolanda nzela ya molili,
+020	PRO	002	014	na bato oyo basepelaka kosala mabe, na bato oyo bazalaka na esengo ya kokota na bozindo ya mabe,
+020	PRO	002	015	na bato oyo nzela na bango etengama-tengama mpe etamboli na bango etonda na mobulu.
+020	PRO	002	016	Bwanya ekobikisa yo lisusu liboso ya mwasi mopaya, liboso ya mwasi oyo atonda na maloba ya sukali,
+020	PRO	002	017	oyo akima mobali na ye ya bolenge mpe abosana boyokani oyo asalaki elongo na Nzambe na ye;
+020	PRO	002	018	pamba te ndako na ye ememaka na kufa, mpe nzela na ye ememaka na mboka ya bakufi.
+020	PRO	002	019	Moto moko te oyo akotaka epai na ye azongaka mpe amonaka lisusu nzela ya bomoi.
+020	PRO	002	020	Boye, okotambola na nzela ya bato malamu mpe okolanda nzela ya bato ya sembo.
+020	PRO	002	021	Pamba te bato ya sembo bakovanda na mokili, mpe bato oyo bazangi pamela bakotikala kati na yango;
+020	PRO	002	022	kasi bato mabe bakokufa na mokili mpe bakolongola bango kati na mokili ya bato ya songisongi.
+020	PRO	003	001	Mwana na Ngai, kobosana mateya na ngai te, kasi batela mibeko na ngai kati na motema na yo;
+020	PRO	003	002	pamba te ekoyeisa mikolo ya bomoi na yo milayi, ekobakisa mibu ebele na bomoi na yo mpe ekomemela yo kimia.
+020	PRO	003	003	Tika ete bolamu mpe bosolo ekabwana na yo te, linga yango zingazinga na kingo na yo, mpe koma yango na etando ya motema na yo!
+020	PRO	003	004	Okozwa ngolu mpe kombo ya malamu na miso ya Nzambe mpe na miso ya bato.
+020	PRO	003	005	Ndimela Yawe na motema na yo mobimba, mpe kotia motema te na mayele na yo.
+020	PRO	003	006	Yebaka Ye na banzela na yo nyonso, mpe Ye akokomisa yango alima.
+020	PRO	003	007	Tika ete omimonaka te moto ya bwanya na miso na yo moko; tosa Yawe mpe longwa na mabe.
+020	PRO	003	008	Ekozala kisi mpo na kokomisa nzoto na yo kolongono mpe kolendisa mikuwa na yo.
+020	PRO	003	009	Pesaka Yawe lokumu na nzela ya biloko na yo mpe ya bambuma ya liboso ya bozwi na yo nyonso.
+020	PRO	003	010	Bongo bibombelo na yo ekotonda na biloko, mpe bambeki na yo ekotonda na vino.
+020	PRO	003	011	Mwana na ngai, yamba toli ya Yawe, koboya te pamela na Ye;
+020	PRO	003	012	pamba te Yawe apamelaka moto oyo Ye alingaka, ndenge kaka tata apamelaka mwana na ye, oyo alingaka.
+020	PRO	003	013	Esengo na moto oyo amoni bwanya! Esengo na moto oyo azwi mayele!
+020	PRO	003	014	Pamba te kozala na yango eleki kozala na palata na motuya, mpe lifuti na yango eleki wolo oyo balekisi na moto na motuya.
+020	PRO	003	015	Ezali na motuya koleka babiju, mpe eloko moko te oyo moto akoki koluka ekokani na yango.
+020	PRO	003	016	Kati na loboko na Ye ya mobali, ezali na bomoi ya molayi; mpe kati na loboko na Ye ya mwasi, ezali na lokumu mpe bomengo.
+020	PRO	003	017	Nzela na Ye ezali ya esengo, mpe banzela na Ye nyonso ya mike ezali ya kimia.
+020	PRO	003	018	Bwanya ezali nzete ya bomoi mpo na bato oyo basimbaka yango; bato oyo bakokanga yango makasi bakozala na esengo.
+020	PRO	003	019	Na nzela ya bwanya, Yawe atiaki miboko ya mabele; na nzela ya mayele, alendisaki likolo.
+020	PRO	003	020	Na nzela ya mayele na Ye, mozindo ya se ya mabele ebimisaki mayi mpe mapata enokisaki mvula.
+020	PRO	003	021	Mwana na ngai, tika ete bwanya mpe bososoli ezala mosika ya miso na yo te; batela yango malamu,
+020	PRO	003	022	pamba te ekozala bomoi mpo na yo mpe ngolu mpo na kingo na yo.
+020	PRO	003	023	Boye, okotambola na kimia na nzela na yo, mpe lokolo na yo ekobeta libaku te.
+020	PRO	003	024	Tango okolala, okobanga eloko moko te, pamba te pongi na yo ekozala ya kimia.
+020	PRO	003	025	Somo ya pwasa ekobangisa yo te, ezala tango bato mabe bakobimela yo na pwasa;
+020	PRO	003	026	pamba te Yawe akozala elikya na yo mpe akobatela makolo na yo mpo ete ekangama te na motambo.
+020	PRO	003	027	Koboyaka te kosala bolamu epai ya moto oyo azali na bosenga, tango maboko na yo ezali na makoki ya kosala yango.
+020	PRO	003	028	Kolobaka na moninga na yo te: « Kende, bongo oya sima; nakopesa yo yango lobi; » soki ozali na makoki ya kosala likambo yango.
+020	PRO	003	029	Kosalaka moninga na yo mabe te soki azali kovanda na kimia epai na yo.
+020	PRO	003	030	Kolukelaka moto makambo te, oyo ezanga tina soki asali yo mabe te.
+020	PRO	003	031	Kolulaka te moto ya mobulu mpe koponaka ata nzela moko te, kati na banzela na ye.
+020	PRO	003	032	Pamba te Yawe ayinaka bato mabe, kasi ayebisaka basekele na Ye epai ya bato ya sembo.
+020	PRO	003	033	Yawe alakelaka mabe ndako ya moto mabe, kasi apambolaka ndako ya moto ya sembo;
+020	PRO	003	034	asambwisaka batioli, kasi atalisaka ngolu na Ye epai ya bato oyo bamikitisaka.
+020	PRO	003	035	Bato ya bwanya bakozwa nkembo, kasi bazoba bakozala na soni.
+020	PRO	004	001	Bana na ngai, boyokaka mateya ya tata, bozalaka na bokebi mpo ete bozwa mayele.
+020	PRO	004	002	Pamba te nazali kopesa bino mateya ya malamu; bobwaka mateya na ngai te.
+020	PRO	004	003	Ngai mpe nazalaki mwana malamu na miso ya tata na ngai, boye mama na ngai alingaki ngai makasi lokola mwana oyo abotama kaka ye moko.
+020	PRO	004	004	Tata na ngai azalaki koteya mpe koloba na ngai boye: « Tika ete motema na yo ebatela maloba na ngai, bomba mibeko na ngai mpe okozala na bomoi,
+020	PRO	004	005	zwa bwanya, zwa mayele, kobosana yango te, kopesa mokongo te na maloba ya monoko na ngai,
+020	PRO	004	006	kosundola bwanya te, mpe yango ekobatela yo, linga yango mpe ekobomba yo.
+020	PRO	004	007	Tala ebandeli ya bwanya: Zwa bwanya, pesa biloko nyonso oyo ozali na yango mpo ete ozwa mayele.
+020	PRO	004	008	Simba yango makasi, mpe ekotombola yo; yamba yango, mpe ekopesa yo lokumu.
+020	PRO	004	009	Ekolatisa yo ekoti ya lokumu na moto, ekopesa yo motole ya nkembo. »
+020	PRO	004	010	Mwana na ngai, yoka mpe yamba maloba na ngai, mpe mibu ya bomoi na yo ekobakisama.
+020	PRO	004	011	Nazali kolakisa yo nzela ya bwanya, nazali kotambolisa yo na nzela ya alima.
+020	PRO	004	012	Mpo ete makolo na yo ezala na mikakatano te tango okotambola; mpe soki okimi mbangu, okokweya te.
+020	PRO	004	013	Tingama makasi na mateya oyo bapesi yo, kobwaka yango te, batela yango malamu mpo ete ezali bomoi na yo.
+020	PRO	004	014	Kokotaka te na nzela ya bato ya mobulu mpe kotambolaka te na nzela ya bato mabe.
+020	PRO	004	015	Longwa kati na bango, kolekela wana te, kosala mpe maseki kuna te, kasi kende na yo na nzela mosusu.
+020	PRO	004	016	Pamba te balalaka pongi te soki basali nanu moto mabe te, mpe pongi ekimaka bango soki babomi moto te;
+020	PRO	004	017	baliaka lipa na nzela ya mabe mpe bamelaka vino na nzela ya mobulu.
+020	PRO	004	018	Nzokande, nzela ya bato ya sembo ezali lokola pole ya tongo makasi, oyo kongenga na yango eyaka malembe-malembe kino tango moyi ekobima makasi.
+020	PRO	004	019	Nzela ya bato ya mobulu ezali lokola molili, bayebaka te eloko nini ekokweyisa bango.
+020	PRO	004	020	Mwana na ngai, zala na bokebi na maloba na ngai, pesa litoyi na yo na mateya na ngai.
+020	PRO	004	021	Tika ete ezala te mosika ya miso na yo! Batela yango malamu kati na motema na yo,
+020	PRO	004	022	pamba te ezali bomoi mpo na bato oyo bazwaka yango, mpe epesaka nzoto kolongono.
+020	PRO	004	023	Batela malamu motema na yo koleka biloko nyonso, pamba te makambo nyonso oyo tosalaka, wana tozali na bomoi, ewutaka na motema.
+020	PRO	004	024	Longola lokuta na monoko na yo, mpe longola mabe na bibebu na yo.
+020	PRO	004	025	Tika ete miso na yo etalaka kaka liboso, mpe salaka makambo na bosembo mpe bosolo.
+020	PRO	004	026	Bongisa nzela oyo makolo na yo ekolekela, mpe tambola kaka na nzela oyo oyebi malamu.
+020	PRO	004	027	Kotengama te, ezala na ngambo ya loboko ya mobali to ya mwasi, longola makolo na yo na mabe.
+020	PRO	005	001	Mwana na ngai, zala na bokebi na bwanya na ngai, mpe pesa litoyi na yo na mayele na ngai,
+020	PRO	005	002	mpo ete ozala na bososoli, mpe bibebu na yo ebomba boyebi.
+020	PRO	005	003	Pamba te bibebu ya mwasi ya ndumba ebimisaka mafuta ya nzoyi, mpe lolemo na ye ezali elengi lokola mafuta;
+020	PRO	005	004	kasi na suka na nyonso, azali bololo lokola masanga ya bololo, songe lokola mopanga ya minu mibale.
+020	PRO	005	005	Makolo na ye ekokita kino na kufa, ekokende kino na mokili ya bakufi. (Sheol h7585)
+020	PRO	005	006	Amitungisaka te mpo na nzela ya bomoi, alandaka nzela oyo ayebi te esika nini ekosuka.
+020	PRO	005	007	Sik’oyo mwana na ngai, yoka ngai, kopesa maloba na ngai mokongo te;
+020	PRO	005	008	longola nzela na yo pembeni na ye mpe kopusana te liboso ya ndako na ye,
+020	PRO	005	009	noki te akoya kokaba lokumu na yo epai ya bato mosusu, mpe mibu na yo epai ya moto mabe;
+020	PRO	005	010	noki te bapaya bakotonda na biloko oyo yo omoneli pasi, mpe mbuma ya mosala na yo ekokende na ndako ya mopaya;
+020	PRO	005	011	noki te okokoma kolelalela na suka tango nzoto na yo ekolemba mpe makasi na yo ekosila,
+020	PRO	005	012	mpe oloba: « Mpo na nini nayinaki mateya, mpe motema na ngai eboyaki koyoka toli?
+020	PRO	005	013	Mpo na nini nayokaki te mongongo ya balakisi na ngai mpe napesaki litoyi te epai ya bato oyo bazalaki koteya ngai?
+020	PRO	005	014	Etikalaki kaka moke ete nakweya na mabe ya mozindo, kati na Lingomba ya bato ya Nzambe. »
+020	PRO	005	015	Melaka mayi ya libulu na yo moko, oyo ezali kobima penza na libulu na yo.
+020	PRO	005	016	Boni, bitima na yo esopa penza mayi na libanda to miluka na yo esopa penza mayi na balabala?
+020	PRO	005	017	Tika ete ezala kaka mpo na yo moko, kasi kokabola yango te na bapaya.
+020	PRO	005	018	Tika ete etima na yo epambolama, mpe sepela na mwasi ya bolenge na yo,
+020	PRO	005	019	oyo azali lokola mbuli kitoko ya mwasi, lokola mboloko ya mafuta. Tika ete tango nyonso, mabele na ye etondisaka yo na esengo, mpe bolingo na ye elangwisaka yo!
+020	PRO	005	020	Mwana na ngai ya mobali, mpo na nini kokufela kolinga mwasi ya ndumba? Mpo na nini kosepela kosakana na mabele ya mwasi mosusu?
+020	PRO	005	021	Solo, nzela ya moto ezali liboso ya Yawe, mpe ayekolaka malamu makambo nyonso oyo moto asalaka.
+020	PRO	005	022	Moto mabe akokangama kaka na motambo ya mabe na ye moko mpe na singa ya lisumu na ye,
+020	PRO	005	023	akokufa likolo ya bozoba, mpe liboma na ye ekobungisa ye nzela.
+020	PRO	006	001	Mwana na ngai, soki ondimi niongo ya moninga na yo, soki obeti tolo mpo na kondima niongo ya mopaya,
+020	PRO	006	002	omikangi nde singa na maloba na yo, omikangi nde na motambo ya maloba ya monoko na yo.
+020	PRO	006	003	Boye, mwana na ngai, sala makambo oyo mpo ete omikangola, pamba te omikabaki na maboko ya moninga na yo; kende komikitisa liboso na ye mpe tingama na ye,
+020	PRO	006	004	kotika te ete miso na yo elala pongi to enimba;
+020	PRO	006	005	mikangola na motambo lokola mboloko na maboko ya mobomi banyama ya zamba, mpe lokola ndeke na motambo ya mokangi bandeke.
+020	PRO	006	006	Yo moto ya goyigoyi, kende epai ya furmi, tala malamu ezaleli na yango mpe okozwa bwanya!
+020	PRO	006	007	Yango ezalaka na mokambi te, mokengeli te to mokonzi te;
+020	PRO	006	008	ebongisaka bilei na yango na tango ya moyi makasi, ebombaka yango na tango ya kobuka mbuma.
+020	PRO	006	009	Yo moto ya goyigoyi, okolala pongi kino tango nini? Kino tango nini okolamuka na pongi na yo?
+020	PRO	006	010	Mwa pongi moke, mwa kopema moke, mwa kokanga maboko moke mpo na kolala
+020	PRO	006	011	mpe bobola ekoyela yo na pwasa lokola moleki nzela, mpe pasi ekoyela yo lokola moyibi.
+020	PRO	006	012	Moto oyo atambolaka na lokuta na monoko azali moto ya Beliali, moto mabe:
+020	PRO	006	013	Abetaka-betaka miso, apesaka bilembo na makolo na ye mpe alobaka na nzela ya bilembo ya misapi;
+020	PRO	006	014	azalaka na makanisi mabe kati na motema na ye, asalaka tango nyonso mabongisi ya mabe mpe alukaka kaka tango nyonso makelele.
+020	PRO	006	015	Yango wana, pasi ekoyela ye na pwasa, akobukana mbala moko, mpe kisi ya kobikisa ye ekozala te.
+020	PRO	006	016	Yawe ayinaka makambo wana motoba; mpe makambo oyo sambo ezali mabe penza na miso na Ye:
+020	PRO	006	017	Kodongola, lolemo ya lokuta, maboko oyo ebomaka moto oyo asali mabe te,
+020	PRO	006	018	motema oyo ekanisaka mabongisi ya mabe, makolo oyo epotaka mbangu na mabe,
+020	PRO	006	019	motatoli mabe oyo alobaka lokuta mpe moto oyo alukaka makelele kati na bandeko.
+020	PRO	006	020	Mwana na ngai, batela mibeko ya tata na yo mpe kosundola te mateya ya mama na yo.
+020	PRO	006	021	Kanga yango tango nyonso na motema na yo, lata yango na kingo na yo.
+020	PRO	006	022	Pamba te ekolakisa yo nzela tango okokende na mobembo, ekobatela yo tango okolala pongi mpe ekosolola na yo tango okolamuka.
+020	PRO	006	023	Mibeko ezali mwinda, mateya ezali pole, makebisi mpe pamela ezali nzela ya bomoi,
+020	PRO	006	024	mpo na kobatela yo mosika ya mwasi ya ndumba, mosika ya lokuta ya lolemo ya mwasi ya mopaya.
+020	PRO	006	025	Kotika te ete motema na yo elula kitoko na ye, mpe miso na ye ekweyisa yo.
+020	PRO	006	026	Pamba te likolo ya mwasi ya ndumba, okoki kobungisa ezala eteni na yo ya lipa, mpe mwasi ya libala akoki kobebisa bomoi ya motuya.
+020	PRO	006	027	Boni, moto akoki solo kozika moto, bongo bilamba na ye ezika te?
+020	PRO	006	028	Moto akoki solo kotambola na likolo ya makala ya moto, bongo makolo na ye ezika te?
+020	PRO	006	029	Boye, moto nyonso oyo akosangisa nzoto na mwasi ya ndeko na ye akozanga te kozwa etumbu.
+020	PRO	006	030	Kotiola moyibi te soki ayibi mpo ete azali na nzala mpe azangi eloko ya kolia.
+020	PRO	006	031	Kasi soki bakangi ye, akozongisa mbala sambo, akopesa biloko nyonso ya ndako na ye.
+020	PRO	006	032	Mobali oyo asalaka ekobo na mwasi ya moninga azali lokola moto oyo azangi mayele; kosala ekobo ya boye ezali nde komiboma;
+020	PRO	006	033	akobuka lokola mbuma: minyoko mpe kosambwa; bongo soni na ye ekosila te.
+020	PRO	006	034	Pamba te zuwa epelisaka kanda makasi kati na mobali, mpe akozala na mawa te na mokolo oyo akozongisa mabe na mabe;
+020	PRO	006	035	akotikala kondima ata lifuti moko te mpo ete akoka kolimbisa, mpe akoboya yango ata soki babakisi bakado.
+020	PRO	007	001	Mwana na ngai, batela mibeko na ngai mpe bomba yango malamu kati na motema na yo.
+020	PRO	007	002	Batela mateya na ngai malamu, mpe okozala na bomoi; batela mibeko na ngai lokola mbuma ya liso na yo.
+020	PRO	007	003	Lata yango na loboko na yo lokola lopete, koma yango na etando ya motema na yo.
+020	PRO	007	004	Loba na Bwanya: « Ozali ndeko na ngai ya mwasi, » mpe bengaka Mayele « Moninga na ngai; »
+020	PRO	007	005	mpo ete ekoka kobatela yo liboso ya mwasi ya ndumba mpe ekoka kokebisa yo liboso ya mwasi oyo alobaka maloba ya elengi, nzokande ezali ya lokuta.
+020	PRO	007	006	Mokolo moko, nazalaki kotala wuta na madusu ya lininisa ya ndako na ngai,
+020	PRO	007	007	namonaki kati na molongo ya bato oyo bazangi mayele, kati na bilenge mibali, elenge mobali moko oyo azangi penza mayele.
+020	PRO	007	008	Azalaki koleka na balabala, pene ya esika oyo mwasi wana ya ndumba avandaka, mpe akotaki na nzela oyo ekenda kino na ndako ya mwasi ya ndumba.
+020	PRO	007	009	Ezalaki na pokwa, tango moyi elimwaki, mpe molili ya butu ekomaki koya.
+020	PRO	007	010	Mpe tala, mwasi yango ya ndumba ayaki kokutana na elenge mobali, alataki penza lokola mwasi ya ndumba, mpe motema na ye etonda na mayele mabe;
+020	PRO	007	011	azalaki mwasi ya makelele makasi mpe ya mobulu, makolo na ye evandaka na ndako te,
+020	PRO	007	012	atalaka-talaka na bisika nyonso, tango mosusu na libanda, tango mosusu na bisika oyo bato ebele bakutanaka.
+020	PRO	007	013	Mwasi yango ya ndumba asimbaki elenge mobali, ayambaki ye, alaliselaki ye miso mpe alobaki na ye:
+020	PRO	007	014	« Nazalaki na niongo ya mbeka ya kozongisa matondi epai na Yawe; mpe lelo, nasili kokokisa ndayi na ngai.
+020	PRO	007	015	Yango wana, nabimaki mpo na kokutana na yo; nazalaki koluka yo, mpe, tala, namoni yo.
+020	PRO	007	016	Natandi mbeto na ngai na babulangeti ya langi ya ndenge na ndenge, basala na basinga ya lino oyo ewutaka na Ejipito.
+020	PRO	007	017	Na mbeto na ngai, nasopi malasi ya mire, ya aloe mpe ya sinamoni.
+020	PRO	007	018	Yaka tolangwa bolingo kino na tongo, tomipesa mobimba na elengi ya bolingo,
+020	PRO	007	019	pamba te mobali na ngai azali na ye na ndako te, akendeki mobembo na mokili ya mosika,
+020	PRO	007	020	akendeki na saki ya mbongo na maboko, akozonga na ndako te kino na tango oyo sanza engengaka. »
+020	PRO	007	021	Na nzela ya maloba na ye ya sukali, alongaki kokosa ye; na nzela ya maloba na ye ya elengi, amemaki ye.
+020	PRO	007	022	Elenge mobali alandaki ye mbala moko, lokola ngombe oyo bazali komema na bisika oyo babomaka banyama, lokola moto ya liboma oyo bakangi mpo na kobeta ye
+020	PRO	007	023	kino tango likonga ekotobola ye motema, lokola ndeke oyo ekeyi mbangu na motambo na kozanga koyeba ete ekeyi kokufa.
+020	PRO	007	024	Sik’oyo, mwana na ngai ya mobali, yoka ngai, pesa ngai matoyi na yo mpo na koyoka maloba ya monoko na ngai!
+020	PRO	007	025	Tika ete mwasi ya boye akumba te motema na yo! Kopengwa te na banzela na ye,
+020	PRO	007	026	pamba te asili kokweyisa mpe kozokisa bato ebele, mpe asili kobomisa bingambe mibali.
+020	PRO	007	027	Ndako na ye ezali penza nzela ya mboka ya bakufi, oyo ememaka kino na bandako ya kufa. (Sheol h7585)
+020	PRO	008	001	Boni, Bwanya azali kobelela te? Mayele azali koyokisa mongongo na ye te?
+020	PRO	008	002	Atelemi na songe ya bangomba, na pembeni ya nzela, na bisika oyo banzela ekutana,
+020	PRO	008	003	azali koganga pene ya bikuke, na ekotelo ya engumba:
+020	PRO	008	004	« Bato, nazali koganga makasi epai na bino, nazali nde koloba na bino bato!
+020	PRO	008	005	Bino bato oyo bozanga mayele, bokoma na bososoli! Bino bazoba, bokoma mayele!
+020	PRO	008	006	Boyoka, pamba te nazali na makambo ya motuya ya koyebisa bino, nafungoli monoko na ngai mpo na koloba makambo ya sembo.
+020	PRO	008	007	Pamba te monoko na ngai ebimisaka maloba ya solo, mpe bibebu na ngai eyinaka mabe.
+020	PRO	008	008	Maloba nyonso oyo ebimaka na monoko na ngai ezali sembo, ezalaka na likambo moko te ya lokuta to ya mabe;
+020	PRO	008	009	nyonso ezali pole mpo na moto ya mayele, mpe sembo mpo na bato oyo bazali na bososoli.
+020	PRO	008	010	Boluka mateya na ngai kasi palata te, boyebi kasi wolo te oyo eleki peto,
+020	PRO	008	011	pamba te bwanya ezali na motuya koleka mayaka ya kitoko, bongo eloko moko te ya motuya ekokani na yango.
+020	PRO	008	012	Ngai, Bwanya, navandaka elongo na kokanisa, boye nayebi kokundola mayele mpe bososoli.
+020	PRO	008	013	Kotosa Yawe ezali koyina mabe. Nayinaka lolendo, lofundu, nzela ya masumu mpe monoko ya lokuta.
+020	PRO	008	014	Toli mpe bososoli ezali ya ngai, ngai nde mayele mpe makasi.
+020	PRO	008	015	Ezali na nzela na ngai nde bakonzi batambolisaka mokili, mpe bakambi basalaka mibeko ya sembo;
+020	PRO	008	016	ezali na nzela na ngai nde bakambi, bankumu mpe basambisi nyonso ya mokili bayangelaka.
+020	PRO	008	017	Nalingaka bato oyo balingaka ngai, mpe bato oyo balukaka ngai bamonaka ngai.
+020	PRO	008	018	Bozwi mpe lokumu, bomengo oyo ewumelaka mpe bosembo etambolaka elongo na ngai.
+020	PRO	008	019	Mbuma na ngai ezali kitoko koleka wolo, ezala wolo ya peto, mpe mbuma oyo nabotaka eleki palata ya kitoko.
+020	PRO	008	020	Natambolaka na nzela ya bosembo, mpe nasalelaka banzela oyo ememaka na boyengebene,
+020	PRO	008	021	mpo na kopesa libula epai ya bato oyo balingaka ngai mpe mpo na kotondisa bibombelo na bango.
+020	PRO	008	022	Yawe asalaki ngai liboso ete asala nyonso, liboso ya misala na Ye nyonso ya kala;
+020	PRO	008	023	aponaki ngai liboso ete mokili ezala, wuta na ebandeli penza, wuta na tango oyo biloko nyonso ya mokili ezalaki nanu te.
+020	PRO	008	024	Nabotamaki tango mayi ya bozindo ezalaki nanu te, tango miluka ebimisaki nanu mayi na yango te,
+020	PRO	008	025	liboso ete bangomba ya milayi mpe bangomba ya mikuse ezala na bisika na yango,
+020	PRO	008	026	tango amisalelaki nanu te, ezala mabele to bilanga to mpe putulu ya mokili.
+020	PRO	008	027	Nazalaki wana tango atandaki likolo na esika na yango, mpe tango akataki mondelo ya etando monene ya mayi ya bozindo,
+020	PRO	008	028	tango atiaki mapata na likolo mpe abimisaki mayi wuta na bitima,
+020	PRO	008	029	tango akatelaki ebale monene mondelo mpo ete mayi ezindisa mokili na Ye te, tango atiaki miboko ya mabele;
+020	PRO	008	030	nazalaki pembeni na Ye lokola mosungi, nazalaki kosepelisa ye tango nyonso, mpe nazalaki tango nyonso na esengo liboso na Ye;
+020	PRO	008	031	nazalaki kosepela kati na mokili na Ye mpe nazalaki na esengo kati na bato.
+020	PRO	008	032	Sik’oyo, mwana na ngai, yoka ngai: Esengo na bato oyo babatelaka banzela na ngai!
+020	PRO	008	033	Boyoka mateya na ngai mpe bokokoma bato ya bwanya, bomeka kobwaka yango te!
+020	PRO	008	034	Esengo na moto oyo ayokelaka ngai, oyo asenzelaka na ekuke na ngai mokolo na mokolo, mpe akengelaka na ekotelo na ngai!
+020	PRO	008	035	Pamba te moto oyo amoni ngai amoni bomoi mpe azwi ngolu na miso ya Yawe.
+020	PRO	008	036	Kasi moto oyo atosaka ngai te amisalaka mabe ye moko: moto nyonso oyo ayinaka ngai alingaka kufa. »
+020	PRO	009	001	Bwanya atongi ndako na ye, atelemisi yango na makonzi sambo;
+020	PRO	009	002	abomi banyama na ye, akamoli masanga na ye ya vino mpe, na sima, atandi mesa.
+020	PRO	009	003	Atindi basali na ye ya basi mpo ete babelela wuta na basonge ya bangomba ya engumba:
+020	PRO	009	004	« Tika ete moto nyonso oyo azangi mayele aya awa! » Atindi maloba epai ya bato oyo bazangi bososoli:
+020	PRO	009	005	« Boya kolia bilei na ngai mpe komela vino oyo nakamoli,
+020	PRO	009	006	botika nzela na bino ya bozoba mpe bokozala na bomoi, botambola na nzela ya mayele. »
+020	PRO	009	007	Moto nyonso oyo apamelaka motioli amilukelaka kosambwa, moto nyonso oyo apamelaka moto mabe amilukelaka ngambo.
+020	PRO	009	008	Kopamela motioli te, noki te akoyina yo; kasi pamela moto ya bwanya, mpe akolinga yo.
+020	PRO	009	009	Teya moto ya bwanya, mpe akokoma lisusu na bwanya koleka; teya moto ya sembo, mpe akobakisa lisusu boyebi na ye.
+020	PRO	009	010	Kotosa Yawe ezali mosisa ya bwanya; koyeba Mosantu, yango nde kozala mayele.
+020	PRO	009	011	Pamba te, na nzela na ngai, mikolo ya bomoi na yo ekokoma ebele, mpe mibu ya bomoi na yo ekobakisama.
+020	PRO	009	012	Soki ozali moto ya bwanya, bwanya na yo ezali mpo na litomba na yo moko; kasi soki ozali motioli, yo moko kaka nde okomona pasi.
+020	PRO	009	013	Mwasi ya zoba azali mwasi ya makelele, ayokaka te mpe azanga mayele,
+020	PRO	009	014	avandaka na ekuke ya ndako na ye, atiaka kiti na ye na bisika ya likolo ya engumba,
+020	PRO	009	015	mpo na kobenga baleki nzela, bato oyo bazali kokende na nzela na bango.
+020	PRO	009	016	Tika ete moto oyo azangi mayele aya awa! Atindi maloba epai ya bato oyo bazanga bososoli:
+020	PRO	009	017	« Mayi oyo bayibi ezalaka elengi, mpe lipa oyo baliaka na kobombama ezalaka kitoko. »
+020	PRO	009	018	Kasi bayebi te ete epai na ye nde bakufi basanganaka, mpe ete babengami na ye bazali kati na mokili ya bakufi. (Sheol h7585)
+020	PRO	010	001	Masese ya Salomo: Mwana ya bwanya asepelisaka tata na ye, kasi mwana ya zoba ayokisaka mama na ye pasi na motema.
+020	PRO	010	002	Bomengo oyo ezwami na nzela ya mabe epesaka litomba te, kasi bosembo ekangolaka na kufa.
+020	PRO	010	003	Yawe atikaka te ete moto ya sembo akufa nzala, kasi apimelaka bato mabe biloko oyo bazali na yango posa.
+020	PRO	010	004	Maboko ya goyigoyi ekomisaka moto mobola, kasi maboko oyo esalaka ekomisaka moto mozwi.
+020	PRO	010	005	Moto oyo abombaka biloko na eleko ya mvula azali mwana mayele, kasi moto oyo alalaka pongi na eleko ya kobuka mbuma azali mwana ya soni.
+020	PRO	010	006	Mapamboli ezali na likolo ya moto ya moto ya sembo lokola motole, kasi monoko ya moto mabe ebombaka bitumba.
+020	PRO	010	007	Makanisi ya moto ya sembo ezali na lipamboli, kasi bakobosana kombo ya moto mabe.
+020	PRO	010	008	Motema ya bwanya endimaka mibeko, kasi moto oyo alobaka makambo ya bozoba amilukelaka libebi.
+020	PRO	010	009	Moto ya sembo atambolaka na kimia, kasi moto oyo atambolaka na banzela etengama-tengama akobima na pwasa.
+020	PRO	010	010	Moto oyo afinaka liso na mayele mabe alukaka mobulu, kasi moto oyo apamelaka na bosolo alukaka kimia.
+020	PRO	010	011	Monoko ya moto ya sembo ezali etima ya bomoi, kasi monoko ya moto mabe ebombaka makambo mabe.
+020	PRO	010	012	Koyina ebendaka koswana, kasi bolingo ezipaka mabe.
+020	PRO	010	013	Bibebu ya moto ya mayele ezalaka na bwanya, kasi fimbu ezali malamu mpo na mokongo ya moto oyo azangi mayele.
+020	PRO	010	014	Moto ya bwanya abombaka boyebi, kasi monoko ya zoba ebendaka pasi.
+020	PRO	010	015	Bomengo ya mozwi ezali engumba na ye, oyo batonga makasi, kasi bobola ya bato bakelela ezali libebi na bango.
+020	PRO	010	016	Lifuti ya moto ya sembo ememaka ye na bomoi, kasi lifuti ya moto mabe ememaka na lisumu.
+020	PRO	010	017	Moto oyo ayokaka pamela atambolaka na nzela ya bomoi, kasi moto oyo ayokaka pamela te apengwisaka bato mosusu.
+020	PRO	010	018	Moto oyo abombaka koyina kati na motema na ye azali na bibebu ya lokuta, mpe moto oyo atongaka bato azali zoba.
+020	PRO	010	019	Moto oyo alobaka maloba ebele azangaka te kosala masumu, kasi moto oyo abatelaka bibebu na ye azali moto ya bwanya.
+020	PRO	010	020	Lolemo ya moto ya sembo ezali lokola palata ya talo, kasi motema ya moto mabe ezali na tina te.
+020	PRO	010	021	Bibebu ya moto ya sembo ebikisaka bato ebele, kasi zoba akokufa na bozoba na ye.
+020	PRO	010	022	Lipamboli ya Yawe ekomisaka moto mozwi, mpe abakisaka pasi te na likolo na yango.
+020	PRO	010	023	Kosala mabe esepelisaka moto oyo azangi mayele, kasi bwanya esepelisaka moto ya mayele.
+020	PRO	010	024	Makambo oyo moto mabe abangaka, yango kaka nde ekomelaka ye, kasi baposa ya moto ya sembo ekokokisama.
+020	PRO	010	025	Ndenge mbonge elekaka, ndenge wana mpe moto mabe akozala lisusu te, kasi moto ya sembo akotikala lokola moboko mpo na libela.
+020	PRO	010	026	Ndenge masanga ya ngayi esalaka minu ngayi, mpe molinga esalaka miso pasi, ndenge wana mpe moto ya goyigoyi azalaka epai ya bato oyo batindaka ye pasi.
+020	PRO	010	027	Kotosa Yawe eyeisaka bomoi molayi, kasi bomoi ya bato mabe ekokoma mokuse.
+020	PRO	010	028	Elikya ya moto ya sembo ekosuka na esengo, kasi elikya ya moto mabe ekosuka na pamba.
+020	PRO	010	029	Nzela ya Yawe ezali ekimelo ya makasi mpo na bato oyo batambolaka na boyengebene, kasi ezali nde libebi mpo na bato oyo basalaka mabe.
+020	PRO	010	030	Moto ya sembo akotikala kokweya te, kasi bato mabe bakovanda na mokili te.
+020	PRO	010	031	Monoko ya moto ya sembo epesaka bwanya, kasi lolemo ya lokuta ekokatama.
+020	PRO	010	032	Bibebu ya moto ya sembo eyebaka makambo oyo ezali malamu, kasi monoko ya moto mabe ezalaka kaka na makambo mabe.
+020	PRO	011	001	Bimekelo kilo ya lokuta ezali lokola makambo ya nkele na miso ya Yawe, kasi kilo ya sembo ezali elengi na miso na Ye.
+020	PRO	011	002	Tango lolendo eyaka, soni mpe eyaka, kasi bwanya ezali elongo na bato oyo bamikitisaka.
+020	PRO	011	003	Boyengebene ya bato ya sembo etambolisaka bango, kasi mayele mabe ya bato oyo batambolaka na boyengebene te ebebisaka bango.
+020	PRO	011	004	Bomengo ekolongisa ata moke te na mokolo ya kanda ya Nzambe, kasi bosembo ekangolaka na kufa.
+020	PRO	011	005	Bosembo ya moto oyo atambolaka alima ekomisaka nzela na ye sembo, kasi moto mabe akokweya mpo na mabe na ye moko.
+020	PRO	011	006	Bosembo ya bato oyo batambolaka alima ekangolaka bango, kasi bato oyo batambolaka na boyengebene te bakweyaka na motambo ya baposa na bango.
+020	PRO	011	007	Soki moto mabe akufi, elikya na ye mpe ekufi; boye, elikya nyonso oyo etiami na bomengo na ye mpe ekufi.
+020	PRO	011	008	Moto ya sembo akokangolama na pasi, mpe moto mabe akomona pasi na esika ya moto ya sembo.
+020	PRO	011	009	Moto ya mbindo abebisaka moninga na ye na maloba ya monoko na ye, kasi boyebi ekokangola bato ya sembo.
+020	PRO	011	010	Tango bato ya sembo bapambolamaka, engumba esepelaka; mpe tango moto mabe akufaka, bato bagangaka na esengo.
+020	PRO	011	011	Engumba etongamaka na nzela ya mapamboli ya bato ya sembo, kasi ebebisamaka na nzela ya monoko ya bato mabe.
+020	PRO	011	012	Moto oyo atiolaka moninga na ye azangi mayele, kasi moto ya mayele avandaka kimia.
+020	PRO	011	013	Moto oyo aswanaka abimisaka basekele, kasi moto oyo azali na molimo ya sembo abombaka basekele.
+020	PRO	011	014	Mpo na kozanga koyeba kokamba, ekolo ekokweya; kasi lobiko ezali kati na motango ebele ya bapesi toli.
+020	PRO	011	015	Moto oyo abetaka tolo mpo na kondima baniongo ya mopaya akomona solo pasi, kasi moto oyo aboyaka kozwa bikateli akozala na kimia.
+020	PRO	011	016	Mwasi ya malamu azwaka lokumu, mpe bato ya makasi bazwaka bomengo.
+020	PRO	011	017	Moto oyo asalelaka bato bolamu amisalelaka nde bolamu, kasi moto na kanza amimonisaka pasi.
+020	PRO	011	018	Moto mabe asalaka mosala na lokuta, kasi moto oyo alonaka na bosembo akozwa lifuti ya malonga.
+020	PRO	011	019	Lokola bosembo ememaka na bomoi, moto oyo alandaka nzela ya mabe alandaka nde nzela ya kufa.
+020	PRO	011	020	Bato ya kilikili bazalaka nkele na miso ya Yawe, kasi bato oyo bazangi pamela basepelisaka Ye.
+020	PRO	011	021	Moto mabe akosambisama solo, kasi bakitani ya bayengebene bakokangolama.
+020	PRO	011	022	Mwasi ya kitoko, kasi azangi mayele, azali lokola lopete ya wolo na zolo ya ngulu.
+020	PRO	011	023	Baposa ya moto ya sembo esukaka kaka malamu, nzokande elikya ya moto mabe ezelaka kaka kanda ya Nzambe.
+020	PRO	011	024	Moto oyo akabaka na motema malamu azwaka mingi koleka, mpe moto oyo abombaka kaka akomaka mobola.
+020	PRO	011	025	Moto oyo akabaka akokoma na bomengo; mpe moto oyo apesaka bato mosusu mayi, ye mpe bakopesa ye mayi.
+020	PRO	011	026	Moto oyo abombaka ble, bato bakolakela ye mabe; kasi lipamboli ezali epai na moto oyo akoteka yango.
+020	PRO	011	027	Moto oyo alukaka kosala bolamu akozwa ngolu, kasi pasi ekomelaka moto oyo alukaka kosala mabe.
+020	PRO	011	028	Moto oyo atiaka elikya na bomengo na ye akokweya, kasi bayengebene bakozala kitoko lokola makasa ya sika.
+020	PRO	011	029	Moto oyo akotisaka mobulu kati na ndako na ye akozwa mopepe lokola libula, mpe moto oyo azangi mayele akokoma mowumbu ya moto ya bwanya.
+020	PRO	011	030	Mbuma ya moto ya sembo ezali nzete ya bomoi, mpe moto ya bwanya abengaka bato pene na ye.
+020	PRO	011	031	Soki moto ya sembo azwaka litomba na ye awa na mokili, ekozala boni mpo na moto mabe mpe mosumuki?
+020	PRO	012	001	Moto oyo alingaka koyekola alingaka boyebi, kasi moto oyo aboyaka pamela azali zoba.
+020	PRO	012	002	Moto ya malamu azwaka ngolu na miso ya Yawe, kasi Nzambe akatelaka moto ya mayele mabe etumbu.
+020	PRO	012	003	Motema mabe elendisaka moto te; mosisa ya bato ya sembo ekatanaka te.
+020	PRO	012	004	Mwasi ya malamu azali motole ya mobali na ye, kasi mwasi oyo ayokisaka soni azali lokola bokono oyo ezali kolia mikuwa.
+020	PRO	012	005	Mabongisi ya bayengebene ezalaka ya sembo, kasi makanisi ya bato mabe ezalaka kaka lokuta.
+020	PRO	012	006	Maloba ya bato mabe ezali mitambo mpo na kosopa makila, kasi maloba ya bayengebene ebikisaka bango.
+020	PRO	012	007	Bato mabe bakokweyisama mpe bakozala lisusu te, kasi ndako ya bayengebene ekowumela seko.
+020	PRO	012	008	Bwanya epesaka moto lokumu, kasi motema mabe ememaka kotiolama.
+020	PRO	012	009	Eleki malamu kozala moto pamba mpe kozala na mosali, na esika ya komimona moto monene mpe kozanga bilei.
+020	PRO	012	010	Moto ya sembo ayebaka ata baposa ya bibwele na ye, kasi motema ya moto mabe eyokaka mawa te.
+020	PRO	012	011	Moto oyo asalaka bilanga atondaka na bilei, kasi moto oyo alandaka bagoyigoyi azangi mayele.
+020	PRO	012	012	Moto mabe alingaka misuni ya bato mabe, kasi mosisa ya bayengebene ebotaka mingi.
+020	PRO	012	013	Moto ya misala mabe akangamaka na motambo ya maloba na ye ya lokuta, kasi moyengebene akobika kati na pasi.
+020	PRO	012	014	Na nzela ya mbuma ya monoko na ye, moto akotondisama na bolamu; mpe moto akozwa lifuti ya misala ya maboko na ye.
+020	PRO	012	015	Nzela ya moto oyo azangi mayele emonanaka alima na miso na ye, kasi moto oyo ayokaka toli azali moto ya bwanya.
+020	PRO	012	016	Kotomboka ya moto oyo azangi mayele eyebanaka kaka mokolo wana, kasi moto ya mayele abombaka soni na ye.
+020	PRO	012	017	Motatoli ya malamu apesaka matatoli ya solo, kasi motatoli ya mabe apesaka matatoli ya lokuta.
+020	PRO	012	018	Maloba ya bato oyo balobaka mingi ezokisaka lokola mopanga, kasi lolemo ya bato ya bwanya ezali lokola mafuta oyo ebikisaka.
+020	PRO	012	019	Moto oyo alobaka solo akowumela mpo na libela, kasi mokosi akowumela kaka mpo na tango moke.
+020	PRO	012	020	Lokuta ezalaka kati na mitema ya bato oyo basalaka mabongisi ya mabe, kasi esengo ezali mpo na bato oyo bakopesaka batoli ya kimia.
+020	PRO	012	021	Mabe moko te ekokomela bayengebene, kasi bato mabe bakotondisama na pasi.
+020	PRO	012	022	Bibebu oyo ekosaka ezali nkele na miso ya Yawe, kasi bibebu oyo ekokisaka bosembo ezalaka elengi na miso na Ye.
+020	PRO	012	023	Moto ya mayele abombaka boyebi, kasi motema ya zoba etatolaka makambo ya bozoba.
+020	PRO	012	024	Maboko oyo esalaka ezwaka bokonzi, kasi maboko ya goyigoyi ememaka na bowumbu.
+020	PRO	012	025	Motema oyo etondi na komitungisa ekobuka moto, kasi liloba ya esengo esepelisaka moto.
+020	PRO	012	026	Moyengebene alakisaka baninga na ye nzela, kasi nzela ya moto mabe ebungisaka ye moko moto mabe.
+020	PRO	012	027	Moto ya goyigoyi azangaka bilei, mpe moto ya nzunzu akomaka mozwi monene.
+020	PRO	012	028	Bomoi ezalaka kati na nzela ya bosembo, mpe kufa ezalaka te kati na nzela ya bosembo.
+020	PRO	013	001	Mwana mayele ayokaka mateya ya tata na ye, kasi mwana oyo atiolaka ayokaka pamela te.
+020	PRO	013	002	Mbuma ya monoko eleisaka moto bilei ya malamu, kasi molimo ya moto oyo atambolaka na bosembo te ememaka na mobulu.
+020	PRO	013	003	Moto oyo abatelaka monoko na ye abatelaka molimo na ye, kasi moto oyo afungolaka monoko na ye makasi akosuka na libebi.
+020	PRO	013	004	Moto ya goyigoyi ayokaka baposa, kasi akoki kokokisa yango te; nzokande baposa ya moto ya nzunzu ekokisamaka.
+020	PRO	013	005	Moto ya sembo ayinaka maloba ya lokuta, kasi moto mabe amiyinisaka mpe apanzaka soni.
+020	PRO	013	006	Bosembo ebatelaka moto oyo atambolaka alima na nzela na ye, kasi mabe ebebisaka bongo ya moto ya masumu.
+020	PRO	013	007	Ezali na moto moko oyo asalaka makambo lokola mozwi, nzokande azali na ye ata na eloko moko te; mpe ezali na moto mosusu oyo asalaka makambo lokola mobola, nzokande azali na bozwi mingi.
+020	PRO	013	008	Bomengo ya mozwi ebatelaka bomoi na ye, kasi bato mabe batungisaka mobola te.
+020	PRO	013	009	Pole ya bato ya sembo engengaka makasi, kasi mwinda ya bato mabe ekufaka.
+020	PRO	013	010	Lolendo ememaka kaka na koswana, kasi bato oyo bayokaka toli bazwaka bwanya.
+020	PRO	013	011	Bomengo oyo ezwami na lombangu mpe na nzela ya mabe esilaka noki, kasi bomengo oyo babakisaka na moke-moke ekomaka ebele.
+020	PRO	013	012	Elikya oyo ekokisami te epesaka bokono na motema, kasi posa oyo ekokisami ezali nzete ya bomoi.
+020	PRO	013	013	Moto oyo atiolaka liloba amiyokisaka pasi, kasi moto oyo atosaka malako akozwa lifuti.
+020	PRO	013	014	Mateya ya moto ya bwanya ezali etima ya bomoi, ekangolaka na mitambo ya kufa.
+020	PRO	013	015	Boyebi ememelaka bato ngolu, kasi nzela ya bato oyo babukaka mibeko ezalaka pasi.
+020	PRO	013	016	Moto ya mayele asalaka makambo kolanda boyebi, kasi zoba, atandaka bozoba na ye.
+020	PRO	013	017	Motindami ya mabe akweyaka kati na pasi, kasi motindami ya sembo amemaka lobiko.
+020	PRO	013	018	Bobola mpe soni ekomelaka bato oyo baboyaka koyekola, kasi moto oyo andimaka pamela akozwa lokumu.
+020	PRO	013	019	Posa oyo ekokisami esalaka esengo na motema, kasi kokabwana na mabe ezali likambo ya nkele na miso ya zoba.
+020	PRO	013	020	Moto oyo asanganaka na bato ya bwanya akomaka moto ya bwanya, kasi moto oyo atambolaka nzela moko na bazoba akomona pasi.
+020	PRO	013	021	Mabe elandaka bato ya masumu, kasi bolamu ezali lifuti ya bato ya sembo.
+020	PRO	013	022	Moto oyo asalaka bolamu atikelaka bakitani na ye libula, kasi bomengo ya moto ya masumu ebombamaka mpo na moyengebene.
+020	PRO	013	023	Bilanga ya mobola ekoki kobotela ye bilei ebele, kasi ezali na bato oyo bazali kobeba mpo na kozanga bosembo.
+020	PRO	013	024	Moto oyo aboyaka kobeta mwana na ye fimbu alingaka ye te, kasi moto oyo alingaka mwana na ye abetaka ye.
+020	PRO	013	025	Moyengebene aliaka mpe atondaka, kasi libumu ya moto mabe ezalaka na nzala.
+020	PRO	014	001	Mwasi ya bwanya atongaka ndako na ye, kasi mwasi oyo azangi mayele abukaka yango na maboko na ye moko.
+020	PRO	014	002	Moto oyo atambolaka alima atosaka Yawe, kasi moto oyo nzela na ye etengama-tengama atiolaka Ye.
+020	PRO	014	003	Kati na monoko ya moto oyo azangi mayele, ezalaka na nzete ya lolendo, kasi bibebu ya moto ya bwanya ebatelaka ye.
+020	PRO	014	004	Esika oyo ezalaka na ngombe te, elielo mpe ezalaka na eloko te, pamba te ezali makasi ya bangombe nde epesaka bomengo.
+020	PRO	014	005	Motatoli ya sembo akosaka te, kasi motatoli ya mabe alobaka lokuta.
+020	PRO	014	006	Motioli alukaka bwanya mpe azwaka yango te, kasi boyebi eyaka na pete epai na moto ya mayele.
+020	PRO	014	007	Zala mosika ya zoba, pamba te okotikala kozwa boyebi te na bibebu na ye.
+020	PRO	014	008	Bwanya ya moto ya mayele esosolisaka ye nzela na ye, kasi bozoba ya bato oyo bazangi mayele: lokuta.
+020	PRO	014	009	Bazoba balingaka te kosenga bolimbisi, kasi ngolu na Nzambe ezalaka kati na bato ya sembo.
+020	PRO	014	010	Motema eyebaka pasi na yango moko, moko te akoki kokabola na yango esengo.
+020	PRO	014	011	Ndako ya moto mabe ekobukana, kasi ndako ya kapo ya bayengebene ekofuluka.
+020	PRO	014	012	Nzela mosusu emonanaka sembo na miso ya bato, nzokande, na suka, ememaka na kufa.
+020	PRO	014	013	Ezala kati na koseka, motema ekoki kozala na mawa, mpe esengo ekoki kosuka na mawa.
+020	PRO	014	014	Bato oyo batambolaka na boyengebene te bakozwa lifuti kolanda misala na bango, kasi moto ya sembo mpe akozwa lifuti kolanda misala na ye.
+020	PRO	014	015	Moto oyo azangi mayele andimaka makambo nyonso oyo balobaka, kasi moto ya mayele atambolaka na bokebi.
+020	PRO	014	016	Moto ya bwanya abangaka mabe mpe akimaka yango, kasi zoba atombokaka, na elikya nyonso.
+020	PRO	014	017	Moto oyo asilikaka noki asalaka makambo ya bozoba, mpe bayinaka moto ya mayele mabe.
+020	PRO	014	018	Bato oyo bazangi mayele bazwaka bozoba lokola libula, kasi bato ya mayele bazwaka boyebi lokola motole.
+020	PRO	014	019	Bato mabe bakofukama liboso ya bato ya malamu, bato ya mitema mabe bakofukama na ekuke ya bato ya sembo.
+020	PRO	014	020	Mobola ayinamaka ata epai na moninga na ye moko, kasi mozwi azalaka na baninga ebele.
+020	PRO	014	021	Moto oyo atiolaka moninga na ye asalaka lisumu, kasi esengo na moto oyo asalaka bato bakelela bolamu.
+020	PRO	014	022	Boni, bato oyo babongisaka kosala mabe bazali na libunga te? Kasi boboto mpe solo ezali epai ya bato oyo babongisaka kosala bolamu.
+020	PRO	014	023	Mosala nyonso epesaka litomba, kasi maloba ya pamba ememaka na bobola.
+020	PRO	014	024	Bozwi ya bato ya bwanya ezalaka lokola motole na bango, kasi bozoba ya bato oyo bazangi mayele ezalaka lokola liboma.
+020	PRO	014	025	Motatoli oyo alobaka solo abikisaka bato ebele, kasi motatoli ya mabe alobaka lokuta.
+020	PRO	014	026	Moto oyo atosaka Yawe akomaka na kondima makasi, mpe bana na ye bakozwa ekimelo.
+020	PRO	014	027	Kotosa Yawe ezali etima ya bomoi, ekangolaka na mitambo ya kufa.
+020	PRO	014	028	Kozala na bato ebele epesaka mokonzi lokumu, kasi mokonzi akweyaka soki azali na bato te.
+020	PRO	014	029	Moto oyo asilikaka noki te azalaka mayele, kasi moto oyo akangaka motema te abimisaka bozoba na ye.
+020	PRO	014	030	Motema oyo ezali na kimia epesaka bomoi na nzoto, kasi bilulela epolisaka mikuwa.
+020	PRO	014	031	Moto oyo anyokolaka mobola atiolaka Mokeli ya mobola yango, kasi moto oyo asalelaka moto akelela bolamu apesaka Ye lokumu.
+020	PRO	014	032	Babenganaka moto mabe mpo na mabe na ye, kasi moto ya sembo awumelaka na elikya kino ata na kufa.
+020	PRO	014	033	Bwanya ewumelaka kati na motema ya moto oyo azali na bososoli; kasi boni, ekoyebana solo kati na bazoba?
+020	PRO	014	034	Bosembo etombolaka ekolo, kasi lisumu ememelaka bato soni.
+020	PRO	014	035	Mokonzi asepelaka na mosali ya bwanya, kasi mosali oyo ayokisaka ye soni apelisaka kanda na ye.
+020	PRO	015	001	Eyano ya kimia ekimisaka kanda, kasi maloba oyo ezokisaka ebakisaka kanda.
+020	PRO	015	002	Lolemo ya moto ya bwanya ekomisaka boyebi elengi, kasi monoko ya bato oyo bazangi mayele ebimisaka bozoba.
+020	PRO	015	003	Miso na Yawe ezalaka bisika nyonso mpo na kotala bato mabe mpe bato ya malamu.
+020	PRO	015	004	Maloba ya kimia ezali lokola nzete ya bomoi, kasi maloba ya botomboki ezokisaka motema.
+020	PRO	015	005	Moto oyo azangi mayele atiolaka mateya ya tata na ye, kasi moto oyo andimaka pamela akokoma mayele.
+020	PRO	015	006	Ezalaka na bomengo ebele kati na ndako ya moyengebene, kasi lifuti ya moto mabe ememaka pasi.
+020	PRO	015	007	Bibebu ya moto ya bwanya esopaka boyebi, kasi ezali bongo te na motema ya zoba.
+020	PRO	015	008	Mbeka ya moto mabe ezalaka nkele na miso ya Yawe, kasi libondeli ya moto ya sembo esepelisaka Ye.
+020	PRO	015	009	Nzela ya moto mabe ezalaka nkele na miso ya Yawe, kasi alingaka moto oyo alandaka nzela ya sembo.
+020	PRO	015	010	Moto oyo abimaka libanda ya nzela ya sembo akozwa pamela ya makasi; moto oyo aboyaka pamela akokufa.
+020	PRO	015	011	Ndenge mboka ya bakufi mpe mokili ya mozindo ezali penza polele liboso ya Yawe, ndenge wana mpe mitema ya bana ya bato ezali polele liboso na Ye. (Sheol h7585)
+020	PRO	015	012	Moto ya moto makasi alingaka te moto oyo apamelaka ye, yango wana akendaka te epai ya bato ya bwanya.
+020	PRO	015	013	Motema ya esengo engengisaka elongi, kasi motema ya mawa elembisaka molimo.
+020	PRO	015	014	Motema ya moto ya mayele elukaka boyebi, kasi monoko ya zoba ebimisaka kaka bozoba.
+020	PRO	015	015	Mikolo nyonso ezalaka mabe mpo na moto oyo azali na pasi, kasi bomoi ya moto oyo azali na esengo ezalaka tango nyonso na feti.
+020	PRO	015	016	Kozala na eloko moko kati na kotosa Yawe ezali malamu koleka kozala na bomengo mingi kati na komitungisa.
+020	PRO	015	017	Kolia ndunda kati na bolingo ezali malamu koleka kolia ngombe ya mafuta kati na koyina.
+020	PRO	015	018	Moto oyo atombokaka noki ayeisaka koswana, kasi moto oyo akangaka motema akitisaka koswana.
+020	PRO	015	019	Nzela ya moto ya goyigoyi ezalaka lokola banzela mike ya banzube, kasi nzela ya bato ya sembo ezalaka ya kosembolama.
+020	PRO	015	020	Mwana ya bwanya asepelisaka tata na ye, kasi moto oyo azangi mayele atiolaka mama na ye.
+020	PRO	015	021	Bozoba esepelisaka moto oyo azangi mayele, kasi moto ya mayele atambolaka alima na nzela na ye.
+020	PRO	015	022	Mabongisi ekokisamaka te soki bato basangani te mpo na kopesa mayele, kasi ekokisamaka malamu soki bapesi toli bazali ebele.
+020	PRO	015	023	Kozongisa eyano ya malamu epesaka moto esengo, mpe liloba oyo elobami na tango oyo ekoki ezalaka kitoko.
+020	PRO	015	024	Nzela ya bomoi ememaka moto ya bwanya na likolo, mpo na kobatela ye ete akita na mboka ya bakufi te. (Sheol h7585)
+020	PRO	015	025	Yawe abukaka ndako ya moto ya lolendo, kasi alendisaka libula ya mwasi oyo akufisa mobali.
+020	PRO	015	026	Makanisi ya moto mabe ezalaka nkele na miso ya Yawe, kasi maloba ya malamu ezalaka peto na miso na Ye.
+020	PRO	015	027	Moto oyo alukaka litomba na nzela ya sembo te amemaka mitungisi na libota na ye, kasi moto oyo aboyaka kanyaka akozala na bomoi.
+020	PRO	015	028	Motema ya moyengebene ekanisaka liboso ya kopesa eyano, kasi monoko ya moto mabe ebimisaka maloba ya mabe.
+020	PRO	015	029	Yawe azalaka mosika ya bato mabe, kasi ayokaka libondeli ya bayengebene.
+020	PRO	015	030	Eloko oyo esepelisaka miso esepelisaka mpe motema; sango malamu elendisaka mikuwa.
+020	PRO	015	031	Moto oyo ayokaka pamela oyo epesaka bomoi avandaka kati na bato ya bwanya.
+020	PRO	015	032	Moto oyo asundolaka koyekola atiolaka nde bomoi na ye moko, kasi moto oyo andimaka pamela akomaka mayele.
+020	PRO	015	033	Kotosa Yawe ezali eteyelo ya bwanya; komikitisa eyaka liboso ya nkembo.
+020	PRO	016	001	Motema ya moto esalaka mabongisi, kasi eyano ewutaka epai na Yawe.
+020	PRO	016	002	Nzela nyonso ya moto emonanaka peto na miso na ye, kasi Yawe nde amekaka mitema.
+020	PRO	016	003	Pesa misala na yo epai na Yawe, mpe mabongisi na yo ekokokisama.
+020	PRO	016	004	Yawe asalaka makambo nyonso na tina, ezala bato mabe, asala bango mpo na mokolo ya pasi.
+020	PRO	016	005	Moto nyonso ya lolendo azalaka nkele na miso ya Yawe; solo, akozanga te kozwa etumbu.
+020	PRO	016	006	Bolingo mpe bosembo elongolaka mbeba; kotosa Yawe etindaka moto kokima mabe.
+020	PRO	016	007	Soki Yawe asepeli na nzela ya moto, akoyokanisa ye na banguna na ye.
+020	PRO	016	008	Kozwa biloko moke kati na bosembo ezali malamu koleka kozwa bomengo ebele kati na nzela ya mabe.
+020	PRO	016	009	Motema ya moto esalaka mabongisi, kasi ezali Yawe nde asalaka ete ekokisama to te.
+020	PRO	016	010	Maloba ya mokonzi ezali lokola Liloba na Nzambe, ekweyaka te kati na kosambisama.
+020	PRO	016	011	Emekelo kilo ya sembo mpe basani oyo bamekelaka kilo ezali ya Yawe, mpe kilo nyonso ya saki ezali likambo na Ye.
+020	PRO	016	012	Ezali malamu te mpo na mokonzi kosala mabe, pamba te bokonzi elendisamaka nde na nzela ya bosembo.
+020	PRO	016	013	Bakonzi balingaka maloba ya solo, mpe bapesaka moto oyo alobaka na bosembo lokumu.
+020	PRO	016	014	Kanda ya mokonzi ememaka na kufa, kasi moto ya bwanya ayebaka kokitisa yango.
+020	PRO	016	015	Soki elongi ya mokonzi ezali kongenga, elingi koloba: bomoi. Bolamu na ye ezali lokola lipata ya mvula ya eleko ya suka.
+020	PRO	016	016	Bwanya ezali malamu koleka wolo, mpe kozwa mayele ezali na litomba koleka palata.
+020	PRO	016	017	Bato ya sembo batambolaka na nzela oyo epesaka mabe mokongo. Moto oyo abatelaka motema na ye abatelaka nde bomoi na ye.
+020	PRO	016	018	Lolendo eyaka liboso ya kobebisama, mpe komimatisa eyaka liboso ya kokweyisama.
+020	PRO	016	019	Kozala moto ya komikitisa mpe kozala elongo na bato bakelela ezali malamu koleka kokabola bomengo ya bitumba elongo na bato ya lolendo.
+020	PRO	016	020	Moto oyo akanisaka na tina na makambo amonaka bolamu. Esengo na moto oyo atiaka elikya na Yawe.
+020	PRO	016	021	Babengaka moto oyo azali na motema ya bwanya moto ya mayele, mpe bibebu ya kimia ebakisaka boyebi.
+020	PRO	016	022	Mayele ezali etima ya bomoi mpo na bato oyo bazali na yango, kasi bozoba ezali etumbu mpo na bazoba.
+020	PRO	016	023	Motema ya moto ya bwanya ekomisaka monoko na ye mayele, mpe bibebu na ye ebakisaka boyebi.
+020	PRO	016	024	Maloba ya elengi ezalaka lokola mafuta ya nzoyi, epesaka kimia na motema mpe lobiko na mikuwa.
+020	PRO	016	025	Nzela mosusu emonanaka sembo na miso ya bato, nzokande, na suka, ememaka na kufa.
+020	PRO	016	026	Nzala etindaka mosali ete asala mosala, monoko na ye etindikaka ye na mosala.
+020	PRO	016	027	Moto ya Beliali abongisaka kosala mabe, mpe maloba na ye ezali lokola moto oyo etumbaka.
+020	PRO	016	028	Moto mabe alonaka koswana, moto ya songisongi akabolaka baninga.
+020	PRO	016	029	Moto ya mobulu abendaka moninga na ye mpe atambolisaka ye na nzela ya mabe.
+020	PRO	016	030	Moto oyo akangi miso mpe bibebu na ye mpo na kosala mabongisi ya mabe asili kosala masumu.
+020	PRO	016	031	Suki ya pembe ezali motole ya nkembo; bazwaka yango na nzela ya bosembo.
+020	PRO	016	032	Moto oyo akangaka motema azali makasi koleka elombe, mpe moto oyo ayebi komikanga azali makasi koleka moto oyo abotolaka bingumba.
+020	PRO	016	033	Bakobetaka zeke kati na elamba ya Nganga-Nzambe, kasi mikano nyonso ewutaka na Yawe.
+020	PRO	017	001	Kolia na kimia ndambo ya lipa ya kokawuka ezali malamu koleka kovanda na ndako etonda na misuni elongo na koswana.
+020	PRO	017	002	Mosali ya bwanya akozala na bokonzi likolo ya mwana mobali oyo asalaka soni, mpe akozwa libula elongo na bandeko.
+020	PRO	017	003	Bapetolaka palata na kikalungu, mpe bapetolaka wolo na fulu ya moto makasi, kasi ezali Yawe nde amekaka mitema.
+020	PRO	017	004	Moto oyo asalaka mabe ayokaka maloba ya bato mabe, mokosi apesaka litoyi na ye na maloba ya lokuta.
+020	PRO	017	005	Moto oyo anyokolaka mobola anyokolaka Mokeli ya mobola yango; moto oyo asepelaka na pasi ya moninga akozanga te kozwa etumbu.
+020	PRO	017	006	Bakitani bazali motole ya bakoko, mpe baboti bazali lokumu ya bana.
+020	PRO	017	007	Ndenge maloba ya lokumu ebongi te mpo na moto mabe, ndenge mpe maloba ya lokuta ebongi te mpo na mokonzi.
+020	PRO	017	008	Kanyaka ezalaka lokola kisi na miso ya moto oyo azali na yango; alongaka na esika nyonso oyo akendaka.
+020	PRO	017	009	Moto oyo abombaka mabe alukaka bolingo, kasi moto oyo azongelaka yango tango nyonso akabolaka bato oyo balingani.
+020	PRO	017	010	Pamela ezalaka na litomba mpo na moto ya mayele, kasi kobeta zoba bafimbu nkama moko ezalaka na litomba te.
+020	PRO	017	011	Moto mabe alukaka kaka kotomboka, kasi bakotindela ye ntoma ya motema mabe mpo na kotelemela ye.
+020	PRO	017	012	Kokutana na ngombolo oyo babotoli bana ezali malamu koleka kokutana na zoba oyo azali kati na bolema.
+020	PRO	017	013	Pasi etikaka ata moke te ndako ya moto oyo azongisaka mabe mpo na malamu.
+020	PRO	017	014	Kobanda koswana ezali lokola kofungola nzela ya mayi; tika na yo liboso ete kobendana ekoma makasi.
+020	PRO	017	015	Moto oyo alongisaka bato mabe mpe moto oyo akweyisaka bato ya sembo bazali, bango mibale, nkele na miso ya Yawe.
+020	PRO	017	016	Mpo na nini mbongo ezala na maboko ya zoba? Mpo ete asomba bwanya wana azali na posa na yango te!
+020	PRO	017	017	Molingami alingaka tango nyonso, mpe akomaka ndeko na tango ya pasi.
+020	PRO	017	018	Moto oyo azangi mayele abetaka tolo mpo na kondima baniongo ya mopaya.
+020	PRO	017	019	Moto oyo alingaka koswana alingaka masumu; moto oyo atongaka ekuke na ye na likolo amilukelaka kokweya.
+020	PRO	017	020	Moto ya motema mabe abongaka te, mpe moto ya lolemo ya lokuta akomona pasi.
+020	PRO	017	021	Kozala na mwana ya zoba esalaka pasi na motema, mpe tata ya moto ya liboma akotikala kozala na esengo te.
+020	PRO	017	022	Motema ya esengo ebikisaka nzoto, kasi motema oyo etutami ebukaka mikuwa.
+020	PRO	017	023	Moto mabe azwaka kanyaka na nkuku mpo na kobebisa nzela ya bosembo.
+020	PRO	017	024	Bwanya emonanaka na elongi ya moto ya mayele, kasi miso ya zoba ekendaka kino na suka ya mokili.
+020	PRO	017	025	Mwana oyo azangi mayele apesaka tata na ye mawa, mpe ayokisaka mama na ye pasi na motema.
+020	PRO	017	026	Ezali malamu te kopesa moto ya sembo etumbu, mpe ezali malamu te kobeta bato ya lokumu na miso ya bosembo.
+020	PRO	017	027	Moto oyo abatelaka monoko na ye azali na boyebi; moto oyo alengaka-lengaka te azali mayele.
+020	PRO	017	028	Ezala moto ya liboma, soki avandi kimia, amonanaka lokola moto ya bwanya; moto oyo akangaka monoko na ye amonanaka lokola moto ya mayele.
+020	PRO	018	001	Moyimi alukaka kaka kosepelisa baposa na ye, atelemelaka bososoli nyonso.
+020	PRO	018	002	Moto oyo azangi mayele asepelaka te kozwa tango ya kokanisa, kasi asepelaka kaka kotalisa makanisi ya motema na ye.
+020	PRO	018	003	Soki moto mabe ayei, kotiola mpe eyaka; soki soni eyei, kofinga mpe eyaka.
+020	PRO	018	004	Maloba ya monoko ya moto ezalaka lokola mayi ya mozindo; etima ya bwanya ezalaka lokola mayi ya ebale oyo etondi makasi.
+020	PRO	018	005	Ezali malamu te kolongisa moto mabe mpe kokweyisa moyengebene, kati na kosambisama.
+020	PRO	018	006	Bibebu ya moto oyo azangi mayele eyeisaka koswana, mpe monoko na ye eyeisaka fimbu.
+020	PRO	018	007	Monoko ya moto oyo azangi mayele ememelaka ye kufa, mpe bibebu na ye ezalaka motambo mpo na molimo na ye moko.
+020	PRO	018	008	Maloba ya moto ya songisongi ezalaka lokola bilei ya kitoko, ekitaka na esengo kino na libumu.
+020	PRO	018	009	Moto oyo azongaka sima na mosala na ye azali ndeko ya mobebisi.
+020	PRO	018	010	Kombo ya Yawe ezali lokola ndako molayi batonga makasi; moyengebene akimelaka kuna mpe azwaka ebombamelo ya makasi.
+020	PRO	018	011	Bomengo ya mozwi ezali engumba na ye, oyo batonga makasi; akanisaka ete ezali lokola mir ya molayi.
+020	PRO	018	012	Liboso ete moto akweya, motema na ye ekomaka na lolendo; kasi komikitisa eyaka liboso ya nkembo.
+020	PRO	018	013	Kopesa eyano liboso ya koyoka ezali liboma mpe bozoba.
+020	PRO	018	014	Kimia kati na motema elendisaka moto na tango ya bokono, kasi nani akokoka kolendisa motema oyo etutami?
+020	PRO	018	015	Motema ya moto ya mayele ezwaka mayele, mpe litoyi ya moto ya bwanya elukaka boyebi.
+020	PRO	018	016	Kado efungolelaka moto oyo apesi yango nzela mpe ekotisaka ye liboso ya bato minene.
+020	PRO	018	017	Moto ya liboso na kosamba amonanaka lokola nde alongi; kasi soki moto oyo azali kosamba na ye ayei, akotelemela ye.
+020	PRO	018	018	Zeke esilisaka koswana mpe ekataka makambo kati na bato ya makasi.
+020	PRO	018	019	Kokota lisusu na motema ya ndeko oyo osali mabe ezalaka pasi koleka kokota na engumba batonga makasi; mpe koswana na moto ezali lokola kokanga bikuke ya ndako batonga makasi na bibende ya minene.
+020	PRO	018	020	Moto atondisaka libumu na ye na nzela ya mbuma ya monoko na ye mpe akotonda na lifuti ya bibebu na ye.
+020	PRO	018	021	Kufa mpe bomoi ezali na se ya nguya ya lolemo; moto oyo alingaka lolemo akolia mbuma na yango.
+020	PRO	018	022	Mobali oyo azwi mwasi ya malamu azwi bomengo, azwi ngolu kowuta epai na Yawe.
+020	PRO	018	023	Mobola alobaka na mongongo ya kobondela, kasi mozwi azongisaka eyano na lolendo.
+020	PRO	018	024	Moto oyo azalaka na balingami ebele amitiaka na pasi, kasi ezali na molingami moko ya motema, oyo aleki ata ndeko.
+020	PRO	019	001	Mobola oyo atambolaka na bosembo azali malamu koleka mokosi oyo azangi mayele.
+020	PRO	019	002	Ezali malamu te kobungisa mayele, kati na bolingo oyo eleka ndelo. Lokolo ya moto oyo atambolaka noki-noki ezangaka te kobeta libaku.
+020	PRO	019	003	Bozoba ya moto ebebisaka bomoi na ye; mpe, na sima, akomaka kotombokela Yawe.
+020	PRO	019	004	Mozwi azalaka na baninga ebele, kasi mobola akabwanaka ata na molingami na ye ya motema.
+020	PRO	019	005	Motatoli ya lokuta akozwa etumbu; moto oyo akosaka akozanga te kozwa etumbu.
+020	PRO	019	006	Bato mingi balukaka kosepelisa moto ya lokumu, mpe moto nyonso alukaka kozala molingami ya moto oyo asungaka bato.
+020	PRO	019	007	Soki bandeko nyonso ya mobola bayinaka ye, mpo na nini baninga na ye bakima ye te? Ata tango azali nanu koloba, batikalaka lisusu wana te.
+020	PRO	019	008	Moto oyo alukaka kozwa bwanya alingaka bomoi na ye; moto oyo alingaka mayele alongaka.
+020	PRO	019	009	Motatoli ya lokuta azwaka etumbu; moto oyo akosaka akobebisama.
+020	PRO	019	010	Bomoi ya lokumu ebongi na zoba te; ebongi mpe te na mowumbu kopesa mitindo na bakambi.
+020	PRO	019	011	Bwanya ya moto ekomisaka ye motema molayi; mpe azwaka lokumu tango atalaka pamba mabe oyo basalaka ye.
+020	PRO	019	012	Kanda ya mokonzi ezali lokola koganga ya nkosi, kasi bolamu na ye ezali lokola mamwe.
+020	PRO	019	013	Mwana ya zoba azali pasi mpo na tata na ye; koswana ya mwasi ezali lokola linzanza ya ndako, oyo etangisaka mayi tango nyonso.
+020	PRO	019	014	Moto akoki kozwa bandako mpe bomengo lokola libula kowuta epai ya batata, kasi mwasi ya bwanya azali likabo kowuta na Yawe.
+020	PRO	019	015	Bogoyigoyi ememaka moto na pongi makasi, mpe moto ya goyigoyi akufaka nzala.
+020	PRO	019	016	Moto oyo atosaka mibeko abatelaka molimo na ye; moto oyo akebaka te na etamboli na ye akokufa.
+020	PRO	019	017	Moto oyo asalaka bolamu epai ya mobola adefisaka Yawe, bongo Yawe akozongisela ye bolamu.
+020	PRO	019	018	Pesaka mwana na yo etumbu wana elikya ezali nanu, kasi kotomboka na yo ekoma te kino na posa ya koboma ye.
+020	PRO	019	019	Tika ete moto oyo asilikaka makasi amema mokumba ya kanda na ye; pamba te soki obikisi ye, okotinda ye ete azongela lisusu.
+020	PRO	019	020	Yoka toli mpe ndima mateya, mpo ete okoma moto ya bwanya.
+020	PRO	019	021	Motema ya moto ezalaka na makanisi ebele, kasi ezali mokano ya Yawe nde ekokisamaka.
+020	PRO	019	022	Eloko oyo moto alingaka epai ya moninga na ye moto ezali bolingo ya solo, mpe mobola azali malamu koleka mokosi.
+020	PRO	019	023	Kotosa Yawe ememaka na bomoi, esalaka ete moto azala na kimia; boye ata mabe moko te ekokomela ye.
+020	PRO	019	024	Moto ya goyigoyi akotisaka loboko na ye kati na bilei, kasi akokaka te kozongisa yango na monoko na ye.
+020	PRO	019	025	Beta motioli fimbu, mpe zoba akozwa mayele; sembola moto ya mayele, mpe akozwa boyebi.
+020	PRO	019	026	Mwana oyo abetaka tata na ye mpe abenganaka mama na ye ayeisaka soni mpe mawa.
+020	PRO	019	027	Mwana na ngai, soki otiki koyoka mateya, okobunga nzela ya maloba ya boyebi.
+020	PRO	019	028	Moto oyo atiolaka bosembo azali motatoli ya zoba; mpe monoko ya bato mabe emelaka kaka mabe.
+020	PRO	019	029	Etumbu esalema mpo na batioli, mpe fimbu esalema mpo na bazoba.
+020	PRO	020	001	Vino elobisaka bato maloba ya soni, masanga ya makasi ememaka mobulu; moto nyonso oyo amipesaka na yango akotikala te kokoma moto ya bwanya.
+020	PRO	020	002	Somo oyo mokonzi apesaka ezali lokola koganga ya nkosi; moto oyo apesaka ye kanda amilukelaka ye moko pasi.
+020	PRO	020	003	Koboya koswana epesaka moto lokumu, kasi moto oyo azangi mayele amipesaka na yango.
+020	PRO	020	004	Moto ya goyigoyi asalaka bilanga te likolo ya kobanga malili; boye na tango ya kobuka mbuma, alukaka mpe kobuka, kasi akozwa eloko te.
+020	PRO	020	005	Makanisi ya motema ya moto ezalaka lokola ebale ya mozindo, moto ya mayele alukaka kotoka kati na yango.
+020	PRO	020	006	Bato ebele batatolaka bolamu na bango, kasi nani akomona moto ya sembo?
+020	PRO	020	007	Moyengebene atambolaka na bosembo na ye; boye sima na ye, bana na ye bakozala bato ya esengo.
+020	PRO	020	008	Soki mokonzi avandi na kiti mpo na kosambisa, miso na ye ebenganaka mabe nyonso.
+020	PRO	020	009	Nani akoki koloba: « Nabatelaka motema na ngai peto, nazali peto, nazali na masumu te? »
+020	PRO	020	010	Kilo mibale mpe bimekelo mibale, nyonso ezali nkele na miso ya Yawe.
+020	PRO	020	011	Bayebaka elenge mobali na nzela ya misala na ye, soki ezaleli na ye ezali peto mpe sembo.
+020	PRO	020	012	Ezala litoyi oyo eyokaka to liso oyo emonaka, ezali Yawe nde asalaki nyonso mibale.
+020	PRO	020	013	Kolingaka pongi te, noki te okokoma mobola; sala ete miso na yo ezalaka ya kofungwama, mpe okozanga te bilei ya kobomba.
+020	PRO	020	014	Moto oyo asombaka biloko alobaka: « Biloko oyo ezali mabe! Ezali malamu te! » Kasi soki akei, atombolaka mapeka mpo na biloko oyo azwi.
+020	PRO	020	015	Wolo mpe babiju ezalaka na yango ebele, kasi bibebu oyo ebimisaka boyebi eleki na motuya.
+020	PRO	020	016	Kamata elamba ya moto oyo alapi ndayi mpo na niongo ya moto mosusu; bomba yango lokola ndanga soki alapi ndayi mpo na mwasi mopaya.
+020	PRO	020	017	Bilei oyo ezwami na nzela ya lokuta ezalaka elengi na monoko ya moto, kasi, na sima, monoko na ye etondaka na zelo.
+020	PRO	020	018	Soki ozali kosala mabongisi, tunaka toli; mpe soki olingi kobunda bitumba, zala na ekenge mpe na mayele.
+020	PRO	020	019	Moto ya bilobaloba abimisaka basekele; yango wana kima bato oyo balobaka mingi.
+020	PRO	020	020	Moto oyo alakelaka tata to mama na ye mabe, mwinda na ye ekokufa kati na molili.
+020	PRO	020	021	Bomengo oyo moto azwi noki-noki na ebandeli ekopambolama te na suka.
+020	PRO	020	022	Kolobaka te: « Nakozongisa mabe na mabe oyo basali ngai! » Kasi talela Yawe, mpe akobikisa yo.
+020	PRO	020	023	Kilo oyo ekesana na kilo mosusu ezalaka nkele na miso ya Yawe, mpe emekelo kilo ya lokuta ezalaka eloko ya malamu te.
+020	PRO	020	024	Ezali Yawe nde atambolisaka matambe ya moto; bongo ndenge nini moto akoki kososola ye moko nzela na ye?
+020	PRO	020	025	Ezali motambo mpo na moto koloba na lombangu: « Eloko oyo ebulisami mpo na Yawe, » mpe kokanisa sima na ye kolapa ndayi.
+020	PRO	020	026	Mokonzi ya bwanya abenganaka bato mabe mpe azangaka te kopesa bango etumbu.
+020	PRO	020	027	Molimo ya moto ezali mwinda oyo Yawe apesi ye; esosolaka bozindo nyonso ya motema ya moto.
+020	PRO	020	028	Bolamu mpe solo ebatelaka mokonzi; alendisaka bokonzi na ye na nzela ya bolamu.
+020	PRO	020	029	Makasi ezali biju ya bilenge, mpe suki ya pembe ezali lokumu ya mibange.
+020	PRO	020	030	Bapota elongolaka mabe, mpe bafimbu esukolaka bozindo ya molimo ya moto.
+020	PRO	021	001	Kati na loboko na Yawe, motema ya mokonzi ezalaka lokola moluka oyo atindaka esika nyonso oyo alingi.
+020	PRO	021	002	Nzela nyonso ya moto emonanaka alima na miso na ye, kasi ezali Yawe nde amekaka mitema.
+020	PRO	021	003	Na miso na Yawe, kosala makambo ya sembo mpe ya alima ezali motuya koleka bambeka ya kotumba.
+020	PRO	021	004	Miso ya lofundu, motema ya lolendo mpe kongenga ya bato mabe ezali masumu.
+020	PRO	021	005	Mabongisi ya moto oyo asalaka mosala ememaka ye na bomengo, kasi kozala motema moto-moto ememaka na kozanga.
+020	PRO	021	006	Kozwa bomengo na nzela ya lokuta ezali kaka molinga oyo epanzanaka mpe motambo oyo ememaka na kufa.
+020	PRO	021	007	Makambo ya bato mabe ebebisaka bango moko, pamba te baboyaka kosala makambo ya sembo.
+020	PRO	021	008	Nzela ya moto mabe ezalaka na mabaku, kasi mosala ya moto ya peto ezalaka sembo.
+020	PRO	021	009	Kovanda na songe ya ndako ezali malamu koleka kovanda elongo na mwasi oyo aswanaka-swanaka.
+020	PRO	021	010	Molimo ya moto mabe elingaka kaka makambo mabe; ata moninga na ye penza azwaka ngolu te na miso na ye.
+020	PRO	021	011	Tango bapesaka motioli etumbu, zoba akomaka moto ya bwanya; mpe tango bapesaka malako epai ya moto ya bwanya, azwaka solo boyebi.
+020	PRO	021	012	Nzambe ya sembo atalaka na bokebi makambo oyo esalemaka kati na bandako ya bato mabe, mpe akweyisaka bango kati na pasi.
+020	PRO	021	013	Soki moto akangi matoyi na ye mpo na koboya koyoka koganga ya mobola, ye mpe bakoyanola ye te tango akoganga.
+020	PRO	021	014	Likabo oyo bapesi na nkuku ekitisaka kanda, mpe kado oyo batie na tolo ekitisaka kanda makasi.
+020	PRO	021	015	Ezali esengo mpo na moyengebene kosambisa makambo na sembo, kasi yango ezali pasi makasi mpo na bato oyo basalaka mabe.
+020	PRO	021	016	Moto oyo abungi nzela ya bwanya akovanda kati na lisanga ya bakufi.
+020	PRO	021	017	Moto oyo alingaka biyenga akokoma mobola; moto oyo alingaka masanga ya vino mpe mafuta akotikala kokoma mozwi te.
+020	PRO	021	018	Moto mabe azalaka lokola motuya oyo bafutaka mpo na kosikola moto ya sembo; moto ya sembo te azalaka lokola motuya oyo bafutaka mpo na kosikola moto ya alima.
+020	PRO	021	019	Kovanda kati na esobe ezali malamu koleka kovanda esika moko na mwasi oyo aswanaka-swanaka mpe asilikaka-silikaka.
+020	PRO	021	020	Bilei ya kitoko mpe mafuta ezalaka kati na ndako ya moto ya bwanya, kasi moto oyo azangi mayele abebisaka yango.
+020	PRO	021	021	Moto oyo alukaka bosembo mpe bolingo akozwa bomoi, bomengo mpe lokumu.
+020	PRO	021	022	Moto ya bwanya abundisaka engumba ya bato ya makasi, mpe akweyisaka bandako ya makasi oyo bato batielaka mitema.
+020	PRO	021	023	Moto oyo abatelaka monoko mpe lolemo na ye abatelaka molimo na ye na pasi.
+020	PRO	021	024	Kombo ya moto ya lofundu mpe ya lolendo ezali: « Motioli. » Asalaka makambo na lolendo oyo eleka ndelo.
+020	PRO	021	025	Baposa ya moto ya goyigoyi ekoboma ye, pamba te maboko na ye eboyaka kosala.
+020	PRO	021	026	Mokolo mobimba, akufaka na ye kaka na baposa makasi; kasi moto ya sembo apesaka na kobomba te.
+020	PRO	021	027	Mbeka ya moto mabe ezalaka nkele; ezalaka nkele koleka soki amemi yango na makanisi mabe.
+020	PRO	021	028	Motatoli ya lokuta akokufa, kasi moto oyo ayokaka akoloba tango nyonso.
+020	PRO	021	029	Moto mabe akangaka elongi na ye, kasi moto ya sembo alendisaka nzela na ye.
+020	PRO	021	030	Liboso na Yawe, bwanya moko te, mayele moko te mpe toli moko te ekoki kolonga.
+020	PRO	021	031	Mpunda ebongisama mpo na mokolo ya bitumba, kasi elonga ewutaka na Yawe.
+020	PRO	022	001	Kokende sango ya malamu ezali malamu koleka kozala na bomengo mingi; lokumu ezali malamu koleka palata mpe wolo.
+020	PRO	022	002	Mozwi mpe mobola bazali na likambo moko ya lisanga: ezali Yawe nde azali Mokeli na bango mibale.
+020	PRO	022	003	Moto ya mayele amonaka likama na mosika mpe amibombaka, kasi moto oyo azangi mayele akoleka wana mpe akokutana na pasi.
+020	PRO	022	004	Komikitisa mpe kotosa Yawe ememaka bozwi, lokumu mpe bomoi.
+020	PRO	022	005	Nzela ya bato mabe ezalaka na banzube mpe mitambo, kasi moto oyo abatelaka molimo na ye azalaka mosika na yango.
+020	PRO	022	006	Lakisa mwana nzela oyo asengeli kotambola wuta na bomwana na ye; ezala tango akokoma mokolo, akobunga yango te.
+020	PRO	022	007	Mozwi azalaka mokonzi ya mobola, mpe modefi azalaka mowumbu ya modefisi.
+020	PRO	022	008	Moto oyo alonaka masumu abukaka pasi, mpe makasi ya kanda na ye nyonso ekosuka.
+020	PRO	022	009	Moto oyo akabaka na esengo akopambolama, pamba te akabolaka bilei na ye na mobola.
+020	PRO	022	010	Bengana motioli, bongo kowelana, koswana mpe kofingana ekosila.
+020	PRO	022	011	Moto oyo alingaka kozala peto na motema, oyo ngolu ezalaka na bibebu na ye, mokonzi azalaka molingami na ye.
+020	PRO	022	012	Miso na Yawe ebatelaka boyebi, kasi akweyisaka maloba ya moto oyo azangi mayele.
+020	PRO	022	013	Moto ya goyigoyi alobaka: « Nkosi ezali kuna na libanda, ekoboma ngai na kati-kati ya balabala. »
+020	PRO	022	014	Monoko ya mwasi ya ndumba ezalaka lokola libulu ya mozindo; moto oyo Yawe asilikeli akweyaka kuna.
+020	PRO	022	015	Motema ya mwana moke ezalaka na bozoba, bongo fimbu ya pamela elongolaka yango kati na ye.
+020	PRO	022	016	Moto oyo anyokolaka mobola mpo ete akoma na bomengo mingi mpe oyo apesaka mozwi bakado bakokweya na bobola.
+020	PRO	022	017	Pesa matoyi mpe yoka toli ya bato ya bwanya, mpe tika ete motema na yo endima mateya na ngai.
+020	PRO	022	018	Pamba te ekozala esengo soki obombi yango na motema na yo, mpe soki yango nyonso ezali pene ya bibebu na yo.
+020	PRO	022	019	Nateyi yo yango lelo mpo ete elikya na yo ezala kati na Yawe.
+020	PRO	022	020	Boni, lobi eleki, nakomelaki yo te batoli koleka tuku misato, batoli ya bwanya mpe ya boyebi,
+020	PRO	022	021	batoli oyo epesaka mateya ya solo mpe maloba ya solo mpo ete okoka kozongisa biyano ya solo na moto oyo atindi yo?
+020	PRO	022	022	Kobotola te na makasi biloko ya mobola, pamba te azali mobola, konyokola te moto ya pasi na esambiselo,
+020	PRO	022	023	pamba te Yawe akobundela bango mpe akobebisa bomoi ya bato oyo bakobebisa bomoi na bango.
+020	PRO	022	024	Kozala molingami te ya moto ya kanda, mpe kosangana te na moto ya motema moto-moto,
+020	PRO	022	025	noki te okoyekola nzela na ye mpe okokangama na motambo na ye.
+020	PRO	022	026	Kozala te na molongo ya bato oyo batombolaka maboko mpo na kondima kofuta baniongo ya bato mosusu,
+020	PRO	022	027	pamba te soki ozali na yo na makoki ya kofuta te, mpo na nini okolinga ete babotola ata mbeto na yo ya kolala?
+020	PRO	022	028	Kozongisa na sima te mondelo ya kala oyo batata na yo bakataki.
+020	PRO	022	029	Osila komona moto oyo ayebi mosala na ye malamu? Akosala kaka liboso ya bakonzi, akosala te liboso ya bato ya molili.
+020	PRO	023	001	Soki ovandi mpo na kolia mesa moko elongo na mokonzi, tala malamu moto oyo azali liboso na yo.
+020	PRO	023	002	Tia mbeli na mongongo na yo soki ozalaka lokoso.
+020	PRO	023	003	Kolula te bilei na ye ya kitoko, pamba te, tango mosusu, ezali na yango bololo.
+020	PRO	023	004	Koboma nzoto te mpo na koluka kozwa bomengo, kotia mayele na yo te kati na yango.
+020	PRO	023	005	Tango okobwaka miso na ngambo ya bomengo, ekobunga, pamba te ezalaka na mapapu mpe epumbwaka na likolo makasi lokola mpongo.
+020	PRO	023	006	Kolia te bilei ya moto oyo azali kotala yo na miso mabe mpe kolula te bilei na ye ya kitoko,
+020	PRO	023	007	pamba te azalaka ndenge makanisi ya motema na ye ezali. Alobaka: « Lia mpe mela, » kasi motema na ye ezali elongo na yo te.
+020	PRO	023	008	Okosanza eteni oyo oliaki, mpe maloba na yo ya kitoko ekokende pamba.
+020	PRO	023	009	Kolobaka na zoba te, pamba te akotiola bwanya ya maloba na yo.
+020	PRO	023	010	Kozongisa te na sima mondelo ya kala mpe kokota te na bilanga ya bana bitike,
+020	PRO	023	011	pamba te Molobeli na bango azalaka makasi, akozwa makambo na bango na maboko mpo na kotelemela yo.
+020	PRO	023	012	Tika ete motema na yo endimaka kotosa mibeko, mpe matoyi na yo eyokaka maloba ya boyebi!
+020	PRO	023	013	Kozangisa te kopesa mwana etumbu; soki obeti ye fimbu, akokufa te.
+020	PRO	023	014	Na kobeta ye fimbu, okokangola molimo na ye na lifelo. (Sheol h7585)
+020	PRO	023	015	Mwana na ngai, soki motema na yo ezali na bwanya, motema na ngai ekozala na esengo.
+020	PRO	023	016	Solo, bomoto na ngai nyonso ekotonda na esengo, soki bibebu na yo elobi makambo ya sembo.
+020	PRO	023	017	Tika ete motema na yo elulaka te bato ya masumu, kasi zalaka tango nyonso na posa makasi ya kotosa Yawe;
+020	PRO	023	018	pamba te suka na yo ekozala solo malamu mpe elikya na yo ekozala ya pamba te.
+020	PRO	023	019	Mwana na ngai, yoka mpe zala na bwanya, batela motema na yo kati na nzela ya sembo.
+020	PRO	023	020	Kozala esika moko te na balangwi masanga to na bato ya lokoso,
+020	PRO	023	021	pamba te balangwi masanga mpe bato na lokoso bakomaka babola, mpe bogoyigoyi ekolatisa bango bilamba epasuka.
+020	PRO	023	022	Yokela tata oyo aboti yo, mpe kotiola mama na yo te ata soki anuni.
+020	PRO	023	023	Luka bosolo, kasi koteka yango te; sala se bongo na bwanya, na mateya mpe na mayele.
+020	PRO	023	024	Tata ya moto ya sembo akozala na esengo mingi, mpe moto oyo abota mwana ya bwanya akosepela kati na ye.
+020	PRO	023	025	Tika ete tata na yo mpe mama na yo basepela! Tika ete mama oyo abota yo azala na esengo!
+020	PRO	023	026	Mwana na ngai ya mobali, pesa ngai motema na yo, mpe tika ete miso na yo esepela na nzela na ngai!
+020	PRO	023	027	Pamba te mwasi ya ndumba azali lokola libulu ya monene, mpe mwasi ya mopaya azali lokola libulu ya mozindo.
+020	PRO	023	028	Mwasi ya ndumba atelemaka na ekenge lokola moyibi mpe akomisaka mibali bazoba koleka.
+020	PRO	023	029	Mpo na nani: « Ah ngai, mawa! » Mpo na nani: « Eh! » Mpo na nani koswanaswana? Mpo na nani kolelalela? Mpo na nani kowelana ezanga tina? Mpo na nani kotelisa miso?
+020	PRO	023	030	Mpo na bato oyo bawumelaka liboso ya masanga ya vino, mpo na bato oyo bamelaka masanga ya makasi.
+020	PRO	023	031	Kotalaka te masanga ya vino tango ezali motane, tango ezali kongala kati na kopo mpe kokita na pete na mongongo.
+020	PRO	023	032	Na suka na yango, ekoswa yo lokola nyoka mpe ekotia yo minu lokola etupa.
+020	PRO	023	033	Miso na yo ekomona biloko na ndenge ya kokamwa, mpe motema na yo ekobimisa makambo ya bozoba.
+020	PRO	023	034	Boye, okokoma lokola moto oyo alali kati na ebale monene, mpe lokola moto oyo alali na songe ya nzete ya molayi.
+020	PRO	023	035	Okoloba: « Babeti ngai, kasi nazali koyoka pasi te; babeti ngai fimbu, kasi nazali koyoka eloko te! Tango nini nakolamuka? Nakozongela lisusu komela vino. »
+020	PRO	024	001	Kolulaka te bato oyo basalaka mabe mpe kolukaka te kozala elongo na bango,
+020	PRO	024	002	pamba te mitema na bango ekanisaka kaka kosala mabe, mpe bibebu na bango eyeisaka kaka mobulu soki elobi.
+020	PRO	024	003	Ndako etongamaka na nzela ya bwanya, mpe elendisamaka na nzela ya mayele.
+020	PRO	024	004	Bashambre ekotondisama na biloko nyonso ya talo mpe ya kitoko na nzela ya boyebi.
+020	PRO	024	005	Moto ya bwanya atondi na nguya, moto oyo azalaka na boyebi alendisaka nguya na ye.
+020	PRO	024	006	Pamba te kolonga na etumba esengaka bwanya, mpe lobiko ezalaka kati na motango ebele ya bapesi toli.
+020	PRO	024	007	Bwanya ezalaka likolo mingi mpo na zoba, yango wana azalaka te na likambo ya koloba kati na mayangani oyo esalemaka pembeni ya ekuke.
+020	PRO	024	008	Moto oyo asalaka mabongisi ya kosala mabe akokende sango lokola moteki baninga.
+020	PRO	024	009	Mabongisi ya bozoba ezali masumu, mpe bato bayinaka motioli.
+020	PRO	024	010	Soki omilembisi na mokolo ya pasi, makasi na yo ekozala pamba.
+020	PRO	024	011	Kangola bato oyo bazali komema bango na kufa, mpe bikisa bato oyo bazali kokende na kufa lokola bato oyo balangwe masanga.
+020	PRO	024	012	Soki olobi: « Tala, toyebaki likambo moko te kati na makambo oyo nyonso; » boni, Ye oyo amekaka mitema asosolaka yango te? Ye oyo abatelaka molimo na yo ayebaka yango te? Afutaka te moto na moto kolanda misala na ye?
+020	PRO	024	013	Mwana na ngai, lia mafuta ya nzoyi, pamba te ezalaka kitoko! Mwa ndambo ya mafuta ya nzoyi ekozala elengi na lolemo na yo.
+020	PRO	024	014	Yeba lisusu ete bwanya ezali elengi mpo na molimo na yo; soki ozwi yango, yeba ete lobi na yo ekozala malamu, mpe elikya na yo ekozala ya pamba te.
+020	PRO	024	015	Yo moto mabe, komeka te kotia mitambo kati na ndako ya moto ya sembo, mpe komeka te kopanza yango,
+020	PRO	024	016	pamba te ata soki moto ya sembo akweyi mbala sambo, akotelema kaka; nzokande pasi ekweyisaka moto mabe.
+020	PRO	024	017	Soki monguna na yo akweyi, kosepela te; mpe soki apengwi, tika ete motema na yo esepela te;
+020	PRO	024	018	noki te Yawe akomona, akosepela te mpe akokitisela yo kanda na Ye.
+020	PRO	024	019	Kosilika te likolo ya bato oyo basalaka mabe, kolula te bato mabe;
+020	PRO	024	020	pamba te lobi ya malamu ekozala te mpo na moto oyo asalaka mabe, mpe mwinda ya bato mabe ekokufa.
+020	PRO	024	021	Mwana na ngai, tosaka Yawe mpe mokonzi, kosanganaka te na batomboki,
+020	PRO	024	022	pamba te bango mibale bakoki kotindela batomboki pasi na pwasa. Bongo, nani ayebi pasi oyo bakoki kotinda?
+020	PRO	024	023	Makambo oyo mpe ezali toli ya bato ya bwanya: Kopona bilongi, kati na kosambisa, ezali malamu te.
+020	PRO	024	024	Moto oyo alobaka na moto mabe: « Ozali moto ya sembo, » bato bakolakela ye mabe, mpe bikolo ekotombokela ye.
+020	PRO	024	025	Kasi bato oyo bapamelaka moto mabe bakozala malamu mpe lipamboli ekozala likolo na bango.
+020	PRO	024	026	Eyano ya solo ezali lokola beze ya bibebu.
+020	PRO	024	027	Bongisa libanda ya mosala na yo, bongisa bilanga na yo, bongo na sima, tonga ndako na yo.
+020	PRO	024	028	Kotatola na pamba te mpo na kosala moninga na yo mabe; mpo na nini olingi kosalela bibebu na yo na lokuta?
+020	PRO	024	029	Kolobaka te: « Nakosala ye ndenge asali ngai, nakozongisela ye kolanda makambo oyo ye asali. »
+020	PRO	024	030	Nalekaki pembeni ya elanga ya moto ya goyigoyi, mpe pembeni ya elanga ya vino ya moto oyo azangi mayele;
+020	PRO	024	031	bongo, tala ndenge etondi na banzube, tala ndenge matiti mabe ezipi yango, mpe mir na yango ya mabanga ebukani.
+020	PRO	024	032	Tango natiaki makanisi na ngai kati na makambo oyo namonaki, nazwaki mayele oyo:
+020	PRO	024	033	mwa pongi moke, mwa kopema moke, mwa kokanga maboko moke mpo na kolala,
+020	PRO	024	034	bobola ekoyela yo na pwasa lokola moleki nzela, mpe pasi ekoyela yo lokola moyibi.
+020	PRO	025	001	Tala masese mosusu ya Salomo oyo bato ya Ezekiasi, mokonzi ya Yuda, bakomaki.
+020	PRO	025	002	Nzambe azwaka nkembo mpo ete asalaka makambo oyo bato bayebaka te, mpe bakonzi bazwaka nkembo mpo ete balukaka kososola tina ya makambo.
+020	PRO	025	003	Ndenge bakokaka te komeka bosanda ya Lola to bozindo ya mabele, ndenge wana mpe bakoki te kososola mitema ya bakonzi.
+020	PRO	025	004	Soki olongoli mbindo na palata, ekobimisa mbeki mpo na monyangwisi bibende na moto.
+020	PRO	025	005	Soki olongoli moto mabe liboso ya mokonzi, kiti na ye ya bokonzi ekolendisama na bosembo.
+020	PRO	025	006	Komikumisaka te liboso ya mokonzi, mpe komivandisaka te na esika ya bato minene;
+020	PRO	025	007	pamba te eleki malamu ete baloba na yo: « Yaka kovanda na esika oyo ya lokumu, » na esika ete bayokisa yo soni na miso ya mokonzi.
+020	PRO	025	008	Kowelaka te kokende kofunda epai ya basambisi makambo oyo osili komona na miso, pamba te okosala nini na suka soki moninga na yo asukisi yo?
+020	PRO	025	009	Soki ozali kowelana na moninga na yo, kobimisa sekele ya moto mosusu te,
+020	PRO	025	010	noki te ayoka yango mpe ayokisa yo soni, boye okosambwa mpo na libela.
+020	PRO	025	011	Liloba oyo elobami na tango oyo ekoki ezali lokola wolo oyo basangisi na palata.
+020	PRO	025	012	Pamela ya moto ya bwanya epai ya moto oyo ayokaka ezali lokola wolo ya peto mpe sheneti ya wolo.
+020	PRO	025	013	Motindami ya sembo azalaka lokola mopepe ya malili ya mvula ya pembe na tango ya kobuka bambuma, asalaka esengo ya mokonzi na ye.
+020	PRO	025	014	Moto oyo amikumisaka ete akabaka, nzokande apesaka na ye eloko te, azali lokola mapata mpe mopepe oyo ezangi mvula.
+020	PRO	025	015	Moto oyo akangaka motema akoki kobongola makanisi ya mokonzi, mpe maloba ya malamu ebukaka mikuwa.
+020	PRO	025	016	Soki omoni mafuta ya nzoyi, lia oyo ekoki na yo, pamba te soki olie yango na lokoso, okosanza yango.
+020	PRO	025	017	Kokendaka pamba-pamba te na ndako ya moninga na yo, noki te akotonda yo mpe akolemba yo.
+020	PRO	025	018	Moto oyo apesaka matatoli ya lokuta mpo na kosala moninga na ye mabe azali lokola marto, mopanga mpe mbanzi ya songe.
+020	PRO	025	019	Kotia elikya na zoba na tango na pasi ezali lokola lino ebukani mpe lokolo elembi.
+020	PRO	025	020	Koyembela moto oyo azali na mawa banzembo ya esengo ezali lokola kolongola ye kazaka na tango ya malili to kotia masanga ya ngayi na pota.
+020	PRO	025	021	Soki monguna na yo azali na nzala, pesa ye bilei; soki azali na posa ya mayi, pesa ye mayi ya komela.
+020	PRO	025	022	Pamba te, soki osali bongo, okotondisa makala ya moto na likolo ya moto na ye, mpe Yawe akofuta yo.
+020	PRO	025	023	Mopepe oyo ewutaka na ngambo ya nor, ebetisaka mvula, mpe lolemo oyo etongaka ekomisaka bilongi kanda-kanda.
+020	PRO	025	024	Kovanda na songe ya ndako ezali malamu koleka kovanda elongo na mwasi oyo aswanaka-swanaka.
+020	PRO	025	025	Basango ya malamu oyo ewuti na mokili ya mosika ezali lokola mayi ya pio kati na motema ya moto oyo azali na posa ya mayi.
+020	PRO	025	026	Moto ya sembo oyo asopanaka liboso ya moto mabe azali lokola liziba ya potopoto mpe etima oyo ebimisaka mayi ya mabe.
+020	PRO	025	027	Ezali malamu te kolia mafuta ya nzoyi ebele, mpe ezali malamu te koluka lokumu na yo moko.
+020	PRO	025	028	Moto oyo akokaka te kokonza molimo na ye azali lokola engumba oyo ebukana mpe ezanga bamir.
+020	PRO	026	001	Ndenge mvula ya pembe elimwaka na tango ya molunge, mpe mvula enokaka te na tango ya elanga, ndenge wana mpe lokumu oyo bapesi na zoba ekowumela na ye te.
+020	PRO	026	002	Ndenge ndeke ya moke oyo babengaka mwano ekendaka bipai na bipai to mbilambila epumbwaka-pumbwaka, ndenge wana mpe elakeli mabe ezwaka te moto oyo asali na ye mabe te.
+020	PRO	026	003	Ndenge fimbu ezalaka malamu mpo na mpunda, mpe ekangiseli ezalaka malamu mpo na monoko ya ane, ndenge wana mpe fimbu ezalaka malamu mpo na mokongo ya zoba.
+020	PRO	026	004	Kozongisela zoba te kolanda bozoba na ye, noki te okokokana na ye.
+020	PRO	026	005	Zongisela zoba kolanda bozoba na ye, noki te akomimona moto ya bwanya na miso na ye moko.
+020	PRO	026	006	Moto oyo atindaka sango na nzela ya zoba azali lokola moto oyo amikati makolo mpe amilukeli makambo.
+020	PRO	026	007	Ndenge makolo ya ebosono ezalaka makasi te, ndenge wana mpe masese ezalaka na nguya te kati na monoko ya zoba.
+020	PRO	026	008	Kopesa zoba lokumu ezali lokola kotia libanga na ebambelo mabanga.
+020	PRO	026	009	Lisese kati na monoko ya zoba ezali lokola etape ya banzube kati na loboko ya moto oyo alangwe masanga.
+020	PRO	026	010	Moto oyo azwaka zoba to moleki nzela na mosala azali lokola soda oyo azokisaka moto nyonso na likonga.
+020	PRO	026	011	Ndenge kaka mbwa ezongelaka kolia biloko oyo yango moko esanzi, ndenge wana mpe zoba azongelaka bozoba na ye.
+020	PRO	026	012	Eleki malamu kotia elikya na zoba, na esika ete otia elikya na moto oyo amimonaka moto ya bwanya na miso na ye moko.
+020	PRO	026	013	Moto ya goyigoyi alobaka: « Nkosi ekangi nzela! Nyama moko ya mabe ezali na kati-kati ya balabala! »
+020	PRO	026	014	Moto ya goyigoyi abalukaka na mbeto na ye ndenge ekuke ebalukaka na biloko oyo efungolaka yango.
+020	PRO	026	015	Moto ya goyigoyi akotisaka loboko na ye kati na bilei, kasi akokaka te kozongisa yango na monoko.
+020	PRO	026	016	Moto ya goyigoyi amimonaka ete azali na bwanya koleka bato sambo ya mayele.
+020	PRO	026	017	Moto oyo akotaka makambo oyo etali ye te azali lokola moto oyo akangi mbwa na matoyi.
+020	PRO	026	018	Ndenge moto ya liboma abwakaka moto, makonga mpe kufa,
+020	PRO	026	019	ndenge wana mpe moto oyo akosi moninga na ye alobaka: « Ezalaki kaka mpo na kosala maseki! »
+020	PRO	026	020	Soki bakoni ezali te, moto ekokufa; soki bato ya songisongi bazali te, koswana ekokita.
+020	PRO	026	021	Ndenge makala engalaka na mbabola, mpe bakoni epelisaka moto, ndenge wana mpe moto oyo alinga koswana ayeisaka matata.
+020	PRO	026	022	Maloba ya moto ya songisongi ezalaka lokola bilei ya kitoko, ekitaka na esengo kino na libumu.
+020	PRO	026	023	Maloba ya sukali ya moto ya motema mabe ezalaka lokola palata ya mbindo oyo bapakoli na mbeki basala na mabele.
+020	PRO	026	024	Moto oyo ayinaka moninga na ye amibombaka na maloba na ye, kasi atondi na lokuta kati na motema na ye.
+020	PRO	026	025	Ata soki abimisi maloba ya esengo, kondimela ye te, pamba te makambo sambo ya mbindo ebombama kati na motema na ye.
+020	PRO	026	026	Akoki solo kobomba makanisi na ye ya mabe na maloba ya lokuta, kasi motema mabe na ye ekosuka se na koyebana na miso ya bato nyonso.
+020	PRO	026	027	Moto oyo atimolaka libulu akweyaka ye moko kati na yango; mpe moto oyo atindikaka libanga, libanga yango ekozongela kaka ye moko.
+020	PRO	026	028	Lolemo ya lokuta eyinaka bato oyo ezokisi, mpe maloba ya sukali ememaka libebi.
+020	PRO	027	001	Komikumisa te mpo na mokolo ya lobi, pamba te oyebi te likambo nini mokolo ekoki kobota.
+020	PRO	027	002	Tika ete moto mosusu akumisa yo, kasi monoko na yo moko te; tika ete mopaya akumisa yo, kasi bibebu na yo moko te.
+020	PRO	027	003	Libanga mpe zelo ezalaka kilo, kasi kanda ya zoba ezalaka kilo koleka nyonso mibale.
+020	PRO	027	004	Kotomboka ememaka makambo ya somo, mpe kanda ebebisaka; kasi nani akoki kotelema liboso ya zuwa?
+020	PRO	027	005	Pamela oyo epesami na polele ezali malamu koleka moto oyo aboyi kopamela mpo na bolingo.
+020	PRO	027	006	Bapota oyo molingami azokisi ezali malamu koleka babeze ebele ya monguna.
+020	PRO	027	007	Moto oyo atondi aboyaka ata mafuta ya nzoyi, kasi moto oyo azali na nzala ayokaka ata bilei ya bololo elengi.
+020	PRO	027	008	Moto oyo ayengaka-yengaka mosika ya mokili na ye azali lokola ndeke oyo ezali koyengayenga mosika ya zala na yango.
+020	PRO	027	009	Mafuta mpe malasi esepelisaka motema, mpe molingami malamu apesaka toli na motema ya esengo.
+020	PRO	027	010	Kosundola te molingami na yo to molingami ya tata na yo, mpe kokende te na ndako ya ndeko na yo tango ozali na pasi; kozala na molingami ya pembeni ezali malamu koleka kozala na ndeko ya mosika.
+020	PRO	027	011	Mwana na ngai, zala moto ya bwanya mpe sepelisa motema na ngai, mpo ete nazala na eyano ya kopesa na moto oyo akoluka kotiola ngai.
+020	PRO	027	012	Moto ya mayele amonaka likama na mosika mpe amibombaka, kasi moto oyo azangi mayele alekaka kaka wana mpe akutanaka na pasi.
+020	PRO	027	013	Kamata elamba ya moto oyo alapi ndayi mpo na niongo ya moto mosusu; bomba yango lokola ndanga soki alapi ndayi mpo na mwasi mopaya.
+020	PRO	027	014	Soki moto moko ayei kopambola molingami na ye, na mongongo makasi mpe na tongo-tongo, bakozwa yango lokola elakeli mabe.
+020	PRO	027	015	Mwasi oyo alinga koswana azali lokola ndako oyo etangaka na tango ya mvula.
+020	PRO	027	016	Kokanga ye ezali lokola koluka kokanga mopepe to mafuta na loboko.
+020	PRO	027	017	Ndenge kaka ebende epelisaka ebende mosusu, ndenge wana mpe moto abongaka soki akutani na moto mosusu.
+020	PRO	027	018	Moto oyo abongisaka nzete na ye ya figi aliaka mpe mbuma na yango, mpe moto oyo abatelaka mokonzi azwaka lokumu.
+020	PRO	027	019	Ndenge mayi ezalaka lokola kitalatala mpo na elongi, ndenge wana mpe motema ya moto elakisaka bomoto na ye moko.
+020	PRO	027	020	Ndenge lifelo mpe mboka ya bakufi etondaka te, ndenge wana mpe miso ya moto etondaka te. (Sheol h7585)
+020	PRO	027	021	Bapetolaka palata na kikalungu, mpe bapetolaka wolo na fulu ya moto makasi, kasi bamekaka moto na nzela ya lokumu na ye.
+020	PRO	027	022	Ata soki otuti moto ya liboma na liboka elongo na mbuma, liboma na ye ekotikala te kolongwa kati na ye.
+020	PRO	027	023	Yeba malamu ndenge bibwele na yo ezali, mpe kengela yango malamu,
+020	PRO	027	024	pamba te bomengo ewumelaka seko na seko te, motole mpe ewumelaka te mpo na libela.
+020	PRO	027	025	Soki bakati matiti ya bibwele, matiti ya sika ekobota mpe bakolokota matiti ya bangomba;
+020	PRO	027	026	bameme ekopesa yo bilamba, mpe bantaba ekosunga yo mpo na kosomba elanga.
+020	PRO	027	027	Okozala na miliki ebele ya bantaba mpo na koleisa ndako na yo mpe basali na yo ya basi.
+020	PRO	028	001	Moto mabe akimaka ata soki moto moko te abengani ye, kasi bato ya sembo bazalaka na mpiko lokola nkosi.
+020	PRO	028	002	Soki kotomboka ezali kati na mokili, bakonzi bakomaka ebele; kasi moto ya mayele mpe ya bososoli ayeisaka kimia.
+020	PRO	028	003	Mokonzi oyo anyokolaka bato bakelela azali lokola mvula ya makasi oyo ebebisaka biloko mpe ememaka nzala.
+020	PRO	028	004	Bato oyo babukaka mibeko bakumisaka bato mabe, kasi bato oyo babatelaka mibeko batelemelaka bato mabe.
+020	PRO	028	005	Bato mabe basosolaka te makambo ya bosembo, kasi bato oyo balukaka Yawe basosolaka yango nyonso.
+020	PRO	028	006	Mobola oyo atambolaka na bosembo azali malamu koleka mozwi oyo nzela na ye ezali mabe.
+020	PRO	028	007	Moto oyo abatelaka mibeko azali mwana mayele, kasi moto oyo atambolaka na bato ya loyenge ayokisaka tata na ye soni.
+020	PRO	028	008	Moto oyo abakisaka bomengo na ye na nzela ya moyibi abombelaka yango moto oyo asalisaka babola.
+020	PRO	028	009	Moto oyo akangi matoyi na ye mpo na koboya koyoka mobeko, libondeli na ye ekomaka nkele na miso ya Nzambe.
+020	PRO	028	010	Moto oyo amemaka bato ya sembo na nzela ya mabe akokangama na motambo oyo asali ye moko, kasi bato oyo bazangi pamela bakozwa esengo lokola libula na bango.
+020	PRO	028	011	Mozwi amimonaka lokola moto ya bwanya, kasi mobola oyo azali mayele ayebaka ye malamu.
+020	PRO	028	012	Tango bato ya sembo balongaka, ezalaka esengo mingi; kasi tango bato mabe bazwaka bokonzi, bato bamibombaka.
+020	PRO	028	013	Moto oyo abombaka masumu na ye abongaka te, kasi ye oyo atubelaka mpe atikaka yango azwaka ngolu.
+020	PRO	028	014	Esengo na moto oyo abangaka tango nyonso kosala mabe, kasi ye oyo ayeisaka motema na ye libanga akweyaka kati na pasi.
+020	PRO	028	015	Mokonzi mabe oyo azali kokamba bato bakelela azali lokola nkosi ya kanda to lokola ngombolo oyo ezali kolanda nyama ya kolia.
+020	PRO	028	016	Mokonzi oyo anyokolaka bato azangi mayele, kasi oyo aboyaka bomengo na nzela ya moyibi ayeisaka mikolo ya bomoi na ye ebele.
+020	PRO	028	017	Moto oyo amitungisaka mpo ete abomi moninga akimaka kino na libulu ya kufa; tika ete moto moko te akanga ye nzela.
+020	PRO	028	018	Moto oyo atambolaka na bosembo akozwa lobiko, kasi moto ya mobulu oyo alandaka banzela mibale akokweya na moko.
+020	PRO	028	019	Moto oyo asalaka bilanga atondaka na bilei, kasi moto oyo alandaka bagoyigoyi akotonda na bobola.
+020	PRO	028	020	Moto ya sembo afulukaka na mapamboli, kasi moto oyo awelaka kokoma mozwi na lombangu akozanga te kozwa etumbu.
+020	PRO	028	021	Kopona bilongi ezalaka malamu te; nzokande ata mpo na eteni ya lipa, moto akoki mpe kosala mabe.
+020	PRO	028	022	Moto ya bilulela azalaka motema moto-moto mpo na kozwa bomengo, mpe ayebaka te ete bobola ekokomela ye.
+020	PRO	028	023	Moto oyo apamelaka moninga na ye akozwa ngolu na suka koleka moto oyo alobaka maloba ya sukali.
+020	PRO	028	024	Moto oyo ayibaka tata mpe mama na ye, bongo alobaka: « Ezali na yango mabe te, » azali moninga ya mobomi.
+020	PRO	028	025	Moto ya lokoso ayeisaka koswana, kasi moto oyo atiaka elikya na Yawe akotonda na mafuta.
+020	PRO	028	026	Moto oyo atiaka elikya kati na ye moko kaka azali zoba, kasi moto oyo atambolaka na bwanya akokangolama.
+020	PRO	028	027	Moto oyo akabelaka babola akozanga eloko te, kasi moto oyo aboyaka kotala bango akotonda na bilakeli mabe.
+020	PRO	028	028	Tango bato mabe bazwaka bokonzi, bato bamibombaka; kasi tango bakufaka, bato ya sembo bakomaka ebele.
+020	PRO	029	001	Moto oyo atiaka moto makasi soki bapameli ye, akokweyisama na pwasa mpe akobika te.
+020	PRO	029	002	Soki bato ya sembo bakomi ebele, bato basepelaka; kasi soki bato mabe bakomi koyangela, bato balelaka.
+020	PRO	029	003	Moto oyo alingaka bwanya asalaka esengo ya tata na ye, kasi moto oyo alandaka basi ya ndumba akosilisa bomengo na ye nyonso.
+020	PRO	029	004	Mokonzi oyo akambaka na bosembo ayeisaka kimia na mokili na ye, kasi mokonzi oyo afutisaka mpako ebele abebisaka mokili yango.
+020	PRO	029	005	Moto oyo alobaka na moninga na ye maloba ya sukali atielaka ye motambo na se ya matambe.
+020	PRO	029	006	Lisumu ya moto mabe ezalaka na motambo, kasi moto ya sembo agangaka na esengo mpe asepelaka.
+020	PRO	029	007	Moto ya sembo ayebaka pasi ya babola, kasi moto mabe ayebaka na ye kutu yango te.
+020	PRO	029	008	Batioli batiaka mobulu kati na engumba, kasi bato ya bwanya basilisaka kanda.
+020	PRO	029	009	Soki moto ya bwanya akei kosamba elongo na moto ya liboma, ezala asiliki to aseki, akotikala kozala na kimia te.
+020	PRO	029	010	Bato oyo basopaka makila balingaka bato ya sembo te, kasi bato malamu balukaka bato ya sembo.
+020	PRO	029	011	Zoba alandaka baposa nyonso ya motema na ye, kasi moto ya bwanya akangaka yango mpe akitisaka yango.
+020	PRO	029	012	Soki mokonzi akomi koyoka makambo ya lokuta, basali na ye nyonso bakokoma bato mabe.
+020	PRO	029	013	Mobola mpe monyokoli bazali na likambo moko ya lisanga: Yawe angengisaka miso ya bango mibale.
+020	PRO	029	014	Mokonzi oyo asambisaka babola na bosembo, kiti na ye ya bokonzi ekolendisama tango nyonso.
+020	PRO	029	015	Fimbu mpe pamela epesaka bwanya, kasi mwana oyo basundola ayokisaka mama na ye soni.
+020	PRO	029	016	Soki bato mabe bakomi ebele, mabe mpe ekomaka ebele; kasi bato ya sembo bakomona bango kokweya.
+020	PRO	029	017	Pesa mwana na yo etumbu, bongo okozala na kimia mpe akotondisa motema na yo na esengo.
+020	PRO	029	018	Soki emoniseli ezali te, bato bakotambola ngulungulu. Esengo na moto oyo atosaka Mobeko!
+020	PRO	029	019	Bapamelaka mosali na maloba te; pamba te akososola, kasi akoyoka te.
+020	PRO	029	020	Soki omoni moto kowela koloba liboso ete akanisa, malamu kotia elikya na zoba, kasi na ye te.
+020	PRO	029	021	Moto oyo alengelaka mosali na ye wuta bolenge akosuka na kokomisa ye moto makasi.
+020	PRO	029	022	Moto ya kanda amemaka koswana, mpe moto oyo atombokaka noki akomaka na mabe koleka.
+020	PRO	029	023	Lolendo ya moto ekitisaka ye, kasi moto ya komikitisa azwaka lokumu.
+020	PRO	029	024	Moto oyo akabolaka biloko elongo na moyibi amiyinaka; ayokaka bilakeli mabe, kasi amekaka te kofunda ye.
+020	PRO	029	025	Kobanga bato ezalaka motambo na se ya matambe, kasi Yawe abatelaka moto oyo atiaka elikya na Ye.
+020	PRO	029	026	Bato ebele balukaka kokoma balingami ya mokonzi, nzokande ezali Yawe nde apesaka oyo ekoki na moto na moto.
+020	PRO	029	027	Bato ya sembo bayinaka moto ya masumu, mpe moto mabe ayinaka etamboli ya bato ya sembo.
+020	PRO	030	001	Tala maloba ya Aguri, mwana mobali ya Yake. Ezali ye nde alobaki yango epai ya Itieli, epai ya Itieli mpe Ukali:
+020	PRO	030	002	Solo, nazali zoba koleka bato nyonso, nazali ata na mayele ya bomoto te;
+020	PRO	030	003	nayekolaki bwanya te, mpe nazali na boyebi ya Mosantu te.
+020	PRO	030	004	Nani amata na Lola to mpe akita wuta kuna? Nani asangisa mopepe kati na maboko na ye? Nani akanga mayi na kazaka na ye? Nani akata bandelo nyonso ya mabele? Kombo na ye nani? Mpe kombo ya mwana na ye ezali nani? Yebisa ngai soki oyebi!
+020	PRO	030	005	Liloba nyonso ya Nzambe ezalaka na libunga te, ezali nguba mpo na bato oyo bazwaka yango lokola ebombamelo na bango.
+020	PRO	030	006	Kobakisa eloko moko te na maloba na Ye, noki te apamela yo mpe abimisa yo mokosi.
+020	PRO	030	007	Oh Yawe, nasengi Yo biloko mibale, kopimela ngai yango te liboso ete nakufa:
+020	PRO	030	008	longola mosika na ngai makambo ya pamba mpe ya lokuta, kopesa ngai te bobola to bozwi, kasi pesa ngai kaka, mokolo na mokolo, lipa oyo ekoki na ngai,
+020	PRO	030	009	pamba te soki natondi makasi, nakoki kowangana Yo mpe koloba: « Yawe nde nani? » To soki nazali na bobola, nakoki koyiba mpe koyokisa Kombo ya Nzambe na ngai soni.
+020	PRO	030	010	Kotonga mowumbu te liboso ya nkolo na ye, noki te alakela yo mabe, mpe omona pasi.
+020	PRO	030	011	Ezali na bato oyo balakelaka batata na bango mabe mpe bapambolaka te bamama na bango.
+020	PRO	030	012	Ezali na bato oyo bamimonaka peto na miso na bango moko, nzokande bamipetoli na mbindo na bango te.
+020	PRO	030	013	Ezali na bato oyo batonda na lolendo mpe bamonaka bato mosusu pamba.
+020	PRO	030	014	Ezali na bato oyo minu na bango ezali lokola mipanga, lokola mbeli mpo na koboma babola kati na mokili mpe bato bakelela kati na bato.
+020	PRO	030	015	Sonzo ezalaka na bana basi mibale, egangaka kaka: « Pesa! Pesa! » Ezali na biloko misato oyo etondaka te, minei oyo elobaka te: « Ekoki! »
+020	PRO	030	016	Mboka ya bakufi, libumu ya mwasi oyo abotaka te, mabele oyo etondaka mayi te, mpe moto oyo elobaka te: « Ekoki! » (Sheol h7585)
+020	PRO	030	017	Liso oyo etiolaka tata mpe ezanga botosi epai ya mama, ekotobolama na bayanganga ya lubwaku, mpe bana ya mpongo ekolia yango.
+020	PRO	030	018	Ezali na biloko misato oyo nasosolaka te, ata kutu minei oyo nayebaka te:
+020	PRO	030	019	Nzela ya mpongo na likolo, nzela ya nyoka na likolo ya libanga, nzela ya masuwa kati na ebale, mpe nzela ya elenge mobali epai ya elenge mwasi.
+020	PRO	030	020	Tala ndenge mwasi ya ndumba asalaka: Soki alie, apangusaka monoko; mpe na sima, akoloba: « Nasali na ngai mabe te! »
+020	PRO	030	021	Ezali na makambo misato oyo eningisaka mokili, ata kutu minei oyo mokili ekokaka kondima te:
+020	PRO	030	022	Mowumbu oyo akomi mokonzi, zoba oyo atondi na bomengo,
+020	PRO	030	023	mwasi oyo balingaka te, kasi abali; mpe mwasi mosali oyo azwi bomengo ya nkolo na ye ya mwasi.
+020	PRO	030	024	Ezali na banyama mike minei na mokili, oyo, nzokande, ezalaka na bwanya mingi:
+020	PRO	030	025	Bafurmi: ezali bikelamu oyo ezanga makasi, kasi ebongisaka bilei na yango na tango ya elanga;
+020	PRO	030	026	bampanya ya zamba: ezali bikelamu oyo ezanga nguya, kasi etongaka bandako na yango kati na mabanga;
+020	PRO	030	027	mabanki: ezalaka na mokonzi te, kasi nyonso etambolaka nzela moko na molongo;
+020	PRO	030	028	moselekete: loboko ekoki kokanga yango, kasi ezalaka kati na bandako ya bakonzi.
+020	PRO	030	029	Ezali na banyama misato oyo etambolaka malamu, ata kutu minei oyo edendaka soki ezali kotambola:
+020	PRO	030	030	Nkosi: nyama ya makasi kati na banyama, ezongaka sima te ata liboso ya nani;
+020	PRO	030	031	soso ya mobali, ntaba mobali, mpe mokonzi oyo azali kotambola liboso ya mampinga na ye.
+020	PRO	030	032	Soki osali bozoba mpo na komikumisa, mpe soki ozali na makanisi mabe, tia loboko na monoko na yo,
+020	PRO	030	033	pamba te kobeta-beta mabele ebimisaka manteka, kobeta zolo ebimisaka makila, mpe kotumbola kanda eyeisaka koswana.
+020	PRO	031	001	Maloba ya mokonzi Lemweli, mateya oyo mama na ye ateyaki ye:
+020	PRO	031	002	Eh mwana na ngai ya mobali, mwana oyo abimi na libumu na ngai, mwana mobali oyo nalapelaka ndayi:
+020	PRO	031	003	Kosilisa makasi na yo na basi te, komitika te na basi oyo bapengwisaka bakonzi!
+020	PRO	031	004	Eh Lemweli, ebongi te mpo na bakonzi; te, ebongi te mpo na bato minene kotuna: « Wapi masanga ya makasi? »
+020	PRO	031	005	Noki te soki bameli yango, bakobosana mibeko mpe bakokata na bosembo te makambo ya banyokolami.
+020	PRO	031	006	Pesa masanga ya makasi epai ya bato oyo balingi kokufa, mpe vino epai ya bato oyo bazali kotungisama na motema.
+020	PRO	031	007	Tika bango bamela mpo ete babosana pasi na bango mpe batika kokanisa lisusu minyoko na bango.
+020	PRO	031	008	Fungola monoko na yo mpo na kolobela bato oyo bazali na makoki ya koloba te, mpe mpo na kolongisa bato oyo bazanga basungi.
+020	PRO	031	009	Fungola monoko na yo mpe sambisa na bosembo, bundela babola mpe bato oyo bakelela.
+020	PRO	031	010	Nani akoki komona mwasi ya lokumu? Azali na motuya koleka babiju ya talo.
+020	PRO	031	011	Mobali na ye atielaka ye motema mpe azangaka te biloko ya motuya.
+020	PRO	031	012	Tango nyonso ya bomoi na ye, apesaka mobali na ye esengo, kasi mawa te;
+020	PRO	031	013	alukaka bapwale ya meme mpe basinga ya lino, bongo maboko na ye etongaka yango na esengo.
+020	PRO	031	014	Azali lokola masuwa ya bato ya mombongo, akendaka koluka bilei na ye mosika;
+020	PRO	031	015	alamukaka wana butu ezali nanu, abongisaka bilei mpo na ndako na ye mpe akabolelaka basali na ye ya basi misala.
+020	PRO	031	016	Soki asepeli na elanga, asombaka yango; mpe na mbuma ya misala na ye, alonaka elanga ya vino.
+020	PRO	031	017	Akangaka loketo na ye makasi mpe akembisaka maboko na ye na mosala.
+020	PRO	031	018	Amonaka ete mombongo na ye etambolaka malamu; mpe kino na butu, mwinda na ye ekokufa te.
+020	PRO	031	019	Maboko na ye esimbaka mitonga oyo batongelaka, mpe misapi na ye etongaka bilamba.
+020	PRO	031	020	Afungolaka loboko na ye mpo na kokabela babola, mpe asembolaka yango mpo na kosunga bato bakelela.
+020	PRO	031	021	Tango mvula ya pembe ekitaka, abangaka eloko moko te mpo na ndako na ye, pamba te bato nyonso kati na ndako na ye balataka bilamba ya malili.
+020	PRO	031	022	Asalaka babulangeti mpo na mbeto na ye mpe alataka bilamba na ye ya lino ya kitoko mpe ya motane.
+020	PRO	031	023	Bapesaka mobali na ye lokumu, na ekuke ya engumba, tango avandaka elongo na bakambi ya mokili.
+020	PRO	031	024	Asalaka bilamba ya lino mpe atekaka yango, asalaka mombongo ya mikaba.
+020	PRO	031	025	Alataka lokola elamba: molende na mosala mpe lokumu; mikolo ya lobi ebangisaka ye te, asekaka nde yango.
+020	PRO	031	026	Alobaka na bwanya, mpe lolemo na ye epesaka malakisi na bolingo.
+020	PRO	031	027	Azalaka na bokebi na makambo nyonso oyo elekaka na ndako na ye, mpe aliaka lipa na bogoyigoyi te.
+020	PRO	031	028	Bana na ye bakotelema mpo na kokumisa ye, mpe tala ndenge mobali na ye mpe akumisaka ye:
+020	PRO	031	029	« Basi ebele basalaka makambo ya lokumu; kasi yo, oleki bango nyonso! »
+020	PRO	031	030	Bonzenga ya elongi ekosaka, mpe kitoko ya nzoto ezalaka pamba; kasi mwasi oyo atosaka Yawe, ye nde abongi na lokumu.
+020	PRO	031	031	Bopesa ye bambuma ya misala na ye! Tika ete bapesa ye lokumu, na bikuke ya engumba, mpo na misala nyonso oyo asalaka!
+#

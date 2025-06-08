@@ -1,0 +1,281 @@
+015	EZR	001	001	Na mobu ya liboso ya Sirisi, mokonzi ya Persi, Yawe alamusaki molimo ya Sirisi, mokonzi ya Persi, mpo na kokokisa liloba oyo alobaki na nzela ya mosakoli Jeremi, mpo ete asakola mpe akoma boye kati na mokili na ye mobimba:
+015	EZR	001	002	« Tala makambo oyo Sirisi, mokonzi ya Persi, alobi: ‹ Yawe, Nzambe ya Likolo, apesi ngai babokonzi nyonso ya mabele mpe mokumba ya kotongela Ye Tempelo, na Yelusalemi kati na Yuda.
+015	EZR	001	003	Tika ete moto nyonso oyo, kati na bino, azali na molongo ya bato ya Yawe akende na Yelusalemi kati na Yuda mpo na kotonga Tempelo ya Yawe, Nzambe ya Isalaele, oyo azali Nzambe kati na Yelusalemi!
+015	EZR	001	004	Tika ete bavandi ya bisika nyonso oyo bato ya Yuda bazali bapesa bango, mpo na Ndako ya Nzambe oyo ezali na Yelusalemi, makabo oyo: palata, wolo, bibwele, biloko ya ndenge na ndenge mpe makabo oyo bakati bango moko kopesa wuta na mokano ya mitema na bango. › »
+015	EZR	001	005	Bongo bakambi ya mabota ya Yuda mpe ya Benjame, Banganga-Nzambe mpe Balevi, elongo na moto nyonso oyo Nzambe atutaki motema babongamaki mpo na kokende kotonga Tempelo ya Yawe, na Yelusalemi.
+015	EZR	001	006	Bato nyonso oyo bazalaki zingazinga na bango basungaki bango; bapesaki biloko esalema na palata mpe na wolo, bibwele, biloko ya ndenge na ndenge, bakado ya talo mpe makabo oyo bakataki bango moko kopesa wuta na mokano ya mitema na bango.
+015	EZR	001	007	Mokonzi Sirisi abimisaki biloko ya Tempelo ya Yawe, oyo Nabukodonozori amemaki wuta na Yelusalemi mpo na kotia yango kati na tempelo ya nzambe na ye.
+015	EZR	001	008	Sirisi, mokonzi ya Persi, atindaki Mitredati, mobombi bozwi na ye, ete abimisa, atanga mpe apesa yango epai ya Sheshibatsari, moto ya libota ya bakambi ya Yuda.
+015	EZR	001	009	Tala biloko yango mpe motango na yango: bakopo ya wolo ezalaki tuku misato; bakopo ya palata ezalaki nkoto moko; basani ya mbele ya palata ezalaki tuku mibale na libwa;
+015	EZR	001	010	basani ya wolo ezalaki tuku misato; basani minene ya palata ezalaki nkama minei na zomi; biloko mosusu ezalaki nkoto moko.
+015	EZR	001	011	Motango ya biloko nyonso ya wolo mpe ya palata ezalaki nkoto mitano na nkama minei. Sheshibatsari amemaki biloko yango nyonso tango bato oyo bakendeki na bowumbu balongwaki na Babiloni mpo na kozonga na Yelusalemi.
+015	EZR	002	001	Tala bato ya etuka ya Yuda, oyo Nabukodonozori, mokonzi ya Babiloni, amemaki na bowumbu na mokili ya Babiloni, mpe, wuta na bowumbu, bazongaki na Yelusalemi mpe na Yuda, moto na moto kati na engumba na ye.
+015	EZR	002	002	Bazongaki nzela moko na Zorobabeli, Jozue, Neyemi, Seraya, Reyelaya, Maridoshe, Bilishani, Misipari, Bigivayi, Rewumi, Baana. Tala motango ya bana ya Isalaele:
+015	EZR	002	003	Bakitani ya Pareoshi: nkoto mibale na nkama moko na tuku sambo na mibale.
+015	EZR	002	004	Bakitani ya Shefatia: nkama misato na tuku sambo na mibale.
+015	EZR	002	005	Bakitani ya Ara: nkama sambo na tuku sambo na mitano.
+015	EZR	002	006	Bakitani ya Paati-Moabi na nzela ya Jozue mpe Joabi: nkoto mibale na nkama mwambe na zomi na mibale.
+015	EZR	002	007	Bakitani ya Elami: nkoto moko na nkama mibale na tuku mitano na minei.
+015	EZR	002	008	Bakitani ya Zatu: nkama libwa na tuku minei na mitano.
+015	EZR	002	009	Bakitani ya Zakayi: nkama sambo na tuku motoba.
+015	EZR	002	010	Bakitani ya Bani: nkama motoba na tuku minei na mibale.
+015	EZR	002	011	Bakitani ya Bebayi: nkama motoba na tuku mibale na misato.
+015	EZR	002	012	Bakitani ya Azigadi: nkoto moko na nkama mibale na tuku mibale na mibale.
+015	EZR	002	013	Bakitani ya Adonikami: nkama motoba na tuku motoba na motoba.
+015	EZR	002	014	Bakitani ya Bigivayi: nkoto mibale na tuku mitano na motoba.
+015	EZR	002	015	Bakitani ya Adini: nkama minei na tuku mitano na minei.
+015	EZR	002	016	Bakitani ya Ateri na nzela ya Ezekiasi: tuku libwa na mwambe.
+015	EZR	002	017	Bakitani ya Betsayi: nkama misato na tuku mibale na misato.
+015	EZR	002	018	Bakitani ya Yora: nkama moko na zomi na mibale.
+015	EZR	002	019	Bakitani ya Ashumi: nkama mibale na tuku mibale na misato.
+015	EZR	002	020	Bakitani ya Gibari: tuku libwa na mitano.
+015	EZR	002	021	Bato ya mboka Beteleemi, nkama moko na tuku mibale na misato.
+015	EZR	002	022	Bato ya mboka Netofa: tuku mitano na motoba.
+015	EZR	002	023	Bato ya mboka Anatoti: nkama moko na tuku mibale na mwambe.
+015	EZR	002	024	Bato ya Azimaveti: tuku minei na mibale.
+015	EZR	002	025	Bakitani ya Kiriati-Yearimi, Kefira mpe Beyeroti: nkama sambo na tuku minei na misato.
+015	EZR	002	026	Bakitani ya Rama mpe Geba: nkama motoba na tuku mibale na moko.
+015	EZR	002	027	Bato ya mboka Mikimasi: nkama moko na tuku mibale na mibale.
+015	EZR	002	028	Bato ya bamboka Beteli mpe Ayi: nkama mibale na tuku mibale na misato.
+015	EZR	002	029	Bakitani ya Nebo: tuku mitano na mibale.
+015	EZR	002	030	Bakitani ya Magibishi: nkama moko na tuku mitano na motoba.
+015	EZR	002	031	Bakitani ya Elami mosusu: nkoto moko na nkama mibale na tuku mitano na minei.
+015	EZR	002	032	Bakitani ya Arimi: nkama misato na tuku mibale.
+015	EZR	002	033	Bakitani ya Lodi, Adidi mpe Ono: nkama sambo na tuku mibale na mitano.
+015	EZR	002	034	Bakitani ya Jeriko: nkama misato na tuku minei na mitano.
+015	EZR	002	035	Bakitani ya Sena: nkoto misato na nkama motoba na tuku misato.
+015	EZR	002	036	Tala motango ya Banganga-Nzambe: Bakitani ya Yedaeya, na nzela ya libota ya Jozue: nkama libwa na tuku sambo na misato.
+015	EZR	002	037	Bakitani ya Imeri: nkoto moko na tuku mitano na mibale.
+015	EZR	002	038	Bakitani ya Pashuri: nkoto moko na nkama mibale na tuku minei na sambo.
+015	EZR	002	039	Bakitani ya Arimi: nkoto moko na zomi na sambo.
+015	EZR	002	040	Tala motango ya Balevi: Bakitani ya Jozue na nzela ya Kadimieli mpe ya Odavia: tuku sambo na minei.
+015	EZR	002	041	Tala motango ya bayembi: Bakitani ya Azafi: nkama moko na tuku mibale na mwambe.
+015	EZR	002	042	Tala motango ya bakengeli bikuke ya Tempelo: Bakitani ya Shalumi, Ateri, Talimoni, Akubi, Atita mpe Shobayi: nkama moko na tuku misato na libwa.
+015	EZR	002	043	Tala basali ya Tempelo: Bakitani ya Tsika, Asufa, Tabaoti,
+015	EZR	002	044	Kerosi, Siya, Padoni,
+015	EZR	002	045	Lebana, Agaba, Akubi
+015	EZR	002	046	Agabi, Shalimayi, Anani,
+015	EZR	002	047	Gideli, Gaari, Reaya,
+015	EZR	002	048	Retsini, Nekoda, Gazami,
+015	EZR	002	049	Uza, Paseya, Besayi,
+015	EZR	002	050	Asina, Mewunimi, Nefusimi,
+015	EZR	002	051	Bakibuki, Akufa, Aruri,
+015	EZR	002	052	Batsiluti, Meyida, Arisha,
+015	EZR	002	053	Barikosi, Sisera, Tama,
+015	EZR	002	054	Netsia mpe Atifa.
+015	EZR	002	055	Tala bakitani ya basali ya Salomo: Bakitani ya Sotayi, Sofereti, Peruda,
+015	EZR	002	056	Yala, Darikoni, Gideli,
+015	EZR	002	057	Shefatia, Atili, Pokereti-Atsebayimi mpe Ami.
+015	EZR	002	058	Motango ya basali ya Tempelo mpe ya bakitani ya basali ya Salomo: nkama misato na tuku libwa na mibale.
+015	EZR	002	059	Tala molongo ya bato oyo bawutaki na bowumbu, na bingumba Teli-Mela, Teli-Arisha, Kerubi-Adani mpe Imeri, kasi balongaki te kolakisa ete mabota na bango ya botata ewuta na Isalaele:
+015	EZR	002	060	Bakitani ya Delaya, Tobiya mpe Nekoda: nkama motoba na tuku mitano na mibale.
+015	EZR	002	061	Mpe kati na Banganga-Nzambe: Bakitani ya Obaya, ya Akotsi mpe ya Barizilayi oyo abengamaki « Barizilayi » mpo ete abalaki mwana mwasi ya Barizilayi, moto ya Galadi.
+015	EZR	002	062	Balukaki mikanda oyo bakoma bakombo ya bakoko na bango, kasi batikalaki komona yango te. Boye balongolaki bango na mosala ya bonganga-Nzambe, pamba te bazalaki mbindo.
+015	EZR	002	063	Moyangeli apekisaki bango kolia bilei ya bule kino tango Nganga-Nzambe moko akotuna toli ya Yawe na tina na bango, na nzela ya Urimi mpe Tumimi.
+015	EZR	002	064	Motango ya lisanga mobimba ya bato oyo bawutaki na bowumbu ezalaki nkoto tuku minei na mibale na nkama misato na tuku motoba,
+015	EZR	002	065	bakisa bawumbu na bango ya mibali mpe ya basi, nkoto sambo na nkama misato na tuku misato na sambo; bazalaki na bayembi na bango ya basi mpe ya mibali, nkama mibale;
+015	EZR	002	066	bampunda ya bitumba, nkama sambo na tuku misato na motoba; bamile nkama mibale na tuku minei na mitano;
+015	EZR	002	067	bashamo nkama minei na tuku misato na mitano; mpe ba-ane nkoto motoba na nkama sambo na tuku mibale.
+015	EZR	002	068	Tango bakomaki na Tempelo ya Yawe, na Yelusalemi, bakambi mingi ya mabota bapesaki makabo oyo bakataki bango moko kopesa wuta na mokano ya mitema na bango mpo na kotonga lisusu Tempelo ya Nzambe, na esika na yango ya kala.
+015	EZR	002	069	Bapesaki na libenga ya misala, moto na moto kolanda ezweli na ye, mbongo ya bibende ya wolo nkoto tuku motoba na moko, mbongo ya bibende ya palata nkoto mitano, mpe banzambala nkama moko ya mosala ya bonganga-Nzambe.
+015	EZR	002	070	Banganga-Nzambe, Balevi, bakengeli bikuke, bayembi, basali ya Tempelo, ndambo kati na bato mpe bato nyonso ya Isalaele bavandaki kati na bingumba na bango.
+015	EZR	003	001	Na sanza ya sambo, bana ya Isalaele oyo bavandaki kati na bingumba na bango basanganaki na Yelusalemi lokola moto moko.
+015	EZR	003	002	Jozue, mwana mobali ya Yotsadaki, elongo na baninga na ye, Banganga-Nzambe, mpe Zorobabeli, mwana mobali ya Shealitieli, elongo na bandeko na ye, babandaki kotonga etumbelo ya Nzambe ya Isalaele mpo na kobonza kuna mbeka ya kotumba kolanda makomi kati na Mobeko ya Moyize, moto na Nzambe.
+015	EZR	003	003	Atako bazalaki koyoka bato oyo bazalaki pembeni na bango somo, batongaki etumbelo na likolo ya miboko na yango ya kala mpe babonzaki wana mpo na Yawe mbeka ya kotumba ya tongo mpe ya pokwa.
+015	EZR	003	004	Bongo kolanda makomi, basepelaki feti ya Bandako ya kapo, mpe babonzaki mikolo nyonso bambeka ya kotumba kolanda motango oyo ekatama mpo na mokolo na mokolo.
+015	EZR	003	005	Sima na yango, babonzaki mbeka ya kotumba ya tango nyonso, bambeka ya kotumba oyo ekatama mpo na feti ya ebandeli ya sanza mpe mpo na feti nyonso oyo ekatama mpo na Yawe, mpe bambeka ya kotumba mpo na bato nyonso oyo bazalaki bango moko kopesa makabo wuta na mokano ya mitema na bango.
+015	EZR	003	006	Bato babandaki kobonzela Yawe bambeka ya kotumba na mokolo ya liboso ya sanza ya sambo, atako bamitongelaki nanu te miboko ya Tempelo ya Yawe.
+015	EZR	003	007	Bapesaki mbongo epai ya batongi ndako mpe epai ya basharipantie; bongo bapesaki lisusu bilei, masanga mpe mafuta epai ya bato ya Sidoni mpe ya Tiri mpo ete bamema, na nzela ya ebale monene, banzete ya sedele longwa na Libani kino na Jafa, na ndingisa ya Sirisi, mokonzi ya Persi.
+015	EZR	003	008	Na sanza ya mibale ya mobu ya mibale sima na bango kokoma na Ndako ya Nzambe kati na Yelusalemi, Zorobabeli, mwana mobali ya Shealitieli; Jozue, mwana mobali ya Yotsadaki, elongo na bandeko na bango mosusu, Banganga-Nzambe, Balevi mpe bato nyonso oyo bazongaki na Yelusalemi wuta na bowumbu, babandaki misala ya kotonga. Baponaki Balevi oyo bazalaki na mibu kobanda tuku mibale mpe komata mpo ete balandela misala ya kotonga Tempelo ya Yawe.
+015	EZR	003	009	Jozue elongo na bana na ye ya mibali mpe bandeko na ye ya mibali, Kadimieli elongo na bana na ye ya mibali oyo bazalaki bakitani ya Yuda, bapesamelaki mokumba ya kolandela bato oyo bazalaki kotonga Ndako ya Nzambe. Mpe bakitani ya Enadadi elongo na bana na bango ya mibali mpe bandeko na bango, Balevi, bazalaki kosunga bango.
+015	EZR	003	010	Tango batongi ndako basilisaki kotonga miboko ya Tempelo ya Yawe, Banganga-Nzambe kati na bilamba na bango ya mosala ya bonganga-Nzambe elongo na bakelelo na bango na maboko; Balevi, bakitani ya Azafi, elongo na manzanza, batelemaki na bisika na bango mpo na kokumisa Yawe, kolanda mitindo ya Davidi, mokonzi ya Isalaele.
+015	EZR	003	011	Bazalaki koyemba banzembo mpo na kokumisa mpe kozongisela Yawe matondi: « Solo, azali malamu, bolingo na Ye mpo na Isalaele ewumelaka seko na seko! » Bongo bato nyonso bazalaki kobeta milolo makasi mpo na kokumisa Yawe mpo ete bazalaki kotia miboko ya Tempelo ya Yawe.
+015	EZR	003	012	Nzokande, kati na Banganga-Nzambe oyo ya mikolo, kati na Balevi oyo ya mikolo mpe kati na bakambi ya mabota, oyo ya mikolo, ezalaki na ebele oyo bamonaki Tempelo ya liboso; bongo bazalaki kolela na mongongo makasi wana bazalaki kotia miboko ya Tempelo ya sika na miso na bango. Mpe kaka na tango yango, ebele ya bato mosusu bazalaki kosepela na koganga makasi mpe na kobeta milolo nzela moko na maboko.
+015	EZR	003	013	Boye bato bakokaki te kokesenisa makelele ya bato oyo bazali koganga mpo na esengo mpe makelele ya bato oyo bazali kolela, pamba te bato bazalaki koganga makasi mpe makelele na bango ezalaki koyokana kino na mosika.
+015	EZR	004	001	Tango banguna ya Yuda mpe ya Benjame bayokaki ete bato oyo bawutaki na bowumbu bazali kotonga Tempelo ya Yawe, Nzambe ya Isalaele,
+015	EZR	004	002	bayaki epai ya Zorobabeli mpe bakambi ya mabota; balobaki na bango: — Botika ete tosunga bino na mosala ya kotonga Tempelo oyo, pamba te biso mpe tolukaka Nzambe na bino mpe tobonzelaka Ye mbeka wuta na tango ya Esari-Adoni, mokonzi ya Asiri, oyo amemaki biso awa.
+015	EZR	004	003	Kasi Zorobabeli, Jozue mpe bakambi mosusu ya mabota ya Isalaele bazongisaki: — Bokotonga te elongo na biso Tempelo ya Yawe, Nzambe na biso; tokotonga yango biso moko mpo na Yawe, Nzambe ya Isalaele, kolanda mitindo ya Sirisi, mokonzi ya Persi.
+015	EZR	004	004	Bato ya bikolo oyo ezalaki elongo na bango kati na mboka balembisaki bato ya Yuda nzoto mpe babangisaki bango mpo ete bakoba lisusu te kotonga;
+015	EZR	004	005	bapesaki bapesi toli kanyaka mpo ete batelemela mpe babebisa mabongisi na bango na nzela ya batoli ya mabe, na mikolo nyonso ya Sirisi kino na oyo ya Dariusi, bango mibale bakonzi ya Persi.
+015	EZR	004	006	Kaka na ebandeli ya bokonzi ya Kizerisesi, batindelaki ye mokanda mpo na kofunda bato ya Yuda mpe ya Yelusalemi.
+015	EZR	004	007	Bongo na mikolo ya Aritakizerisesi lokola mokonzi ya Persi, Bishilami, Mitredati, Tabeyeli mpe baninga na bango ya mosala bakomelaki Aritakizerisesi mokanda. Bakomaki yango na makomi mpe na lokota ya Arami.
+015	EZR	004	008	Moyangeli Rewumi mpe Shimishayi, mokomi mikanda na ye, bakomelaki mokonzi Aritakizerisesi mokanda oyo na tina na Yelusalemi:
+015	EZR	004	009	« Moyangeli Rewumi mpe Shimishayi, mokomi mikanda, elongo na baninga na bango, basambisi mpe bakambi ya bato ya Dini, ya Arifarisataki, ya Taripeli, ya Afarasi, ya Ereki, ya Babiloni, ya Size, ya Deya, ya Elami,
+015	EZR	004	010	mpe bato ya bikolo mosusu oyo Asuribanipali, mokonzi monene mpe mokonzi ya lokumu, amemaki na bowumbu mpo na kotia bango kati na engumba Samari mpe kati na bituka nyonso ya ngambo ya weste ya ebale Efrate. »
+015	EZR	004	011	Tala maloba oyo batindelaki ye na mokanda: « Epai ya mokonzi Aritakizerisesi. Maloba kowuta na biso basali na yo, bato ya ngambo ya weste ya ebale Efrate.
+015	EZR	004	012	Tika ete mokonzi ayeba ete Bayuda oyo bawutaki epai na yo bakomi kati na biso, na Yelusalemi; bazali kotonga engumba ya batomboki mpe ya bato ya mobulu, bazali kotonga bamir mpe kobongisa lisusu miboko.
+015	EZR	004	013	Tika ete mokonzi ayeba lisusu ete, soki engumba oyo etongami lisusu mpe babongisi bamir na yango, bakofuta lisusu te mpako ya mokonzi, mpako ya mabele mpe mpako ya nzela; na bongo, bomengo ya mokonzi ekokita.
+015	EZR	004	014	Sik’oyo, lokola tozwi libaku ya kosala epai ya mokonzi mpe lokola ezali malamu te mpo na biso komona lokumu ya mokonzi kobebisama, totindi sango oyo mpo na kotalisa makambo oyo epai ya mokonzi
+015	EZR	004	015	mpo ete baluka kati na babuku ya bakonzi oyo bazalaki liboso na yo mpo na kososola malamu. Okomona solo kati na babuku yango ete engumba oyo ezali engumba ya batomboki, etungisaka bakonzi mpe bituka. Mpe lisusu, wuta kala, ezali esika ya batomboki. Yango wana engumba oyo ebebisamaki.
+015	EZR	004	016	Tozali koyebisa mokonzi ete soki batongi lisusu engumba oyo mpe babongisi bamir na yango, okotikala lisusu na eloko moko te na ngambo ya weste ya ebale Efrate. »
+015	EZR	004	017	Mokonzi azongisaki eyano oyo: « Epai ya moyangeli Rewumi; Shimishayi, mokomi mikanda na ye, mpe baninga na bango mosusu ya mosala oyo bavandaka na Samari mpe kati na bituka nyonso na ngambo ya weste ya ebale Efrate: Napesi bino mbote.
+015	EZR	004	018	Batangaki mpe babongolaki na miso na ngai mokanda oyo botindelaki biso.
+015	EZR	004	019	Napesaki mitindo mpo ete baluka koyeba mpe kososola bosolo. Boye emonani solo ete, wuta na kala, engumba oyo etombokelaka kaka bakonzi mpe etindaka bato na botomboki mpe na mobulu.
+015	EZR	004	020	Na Yelusalemi, ezalaki na bakonzi ya nguya oyo bazalaki kokonza etuka mobimba ya ngambo ya weste ya ebale Efrate mpe epai ya banani bazalaki kofuta mpako ya mokonzi, mpako ya mabele mpe mpako ya nzela.
+015	EZR	004	021	Boye, bopesa sik’oyo mitindo epai ya bato wana ete bakoba lisusu te kotonga mpo ete engumba wana etongama lisusu te kino tango ngai moko nakopesa mitindo.
+015	EZR	004	022	Bosala keba ete bozwa likambo oyo na pete te. Mpo na nini kotika nzela ete mobulu oyo ekola mpe ekitisa bomengo ya mokonzi? »
+015	EZR	004	023	Tango kaka batangaki mokanda ya mokonzi Aritakizerisesi liboso ya Rewumi; Shimishayi, mokomi mikanda na ye, mpe baninga na bango ya mosala bakendeki mbala moko na Yelusalemi epai ya Bayuda mpe bapekisaki bango na makasi ete bakoba lisusu te kotonga.
+015	EZR	004	024	Wuta tango wana, misala ya Ndako ya Nzambe kati na Yelusalemi etelemaki kino na mobu ya mibale ya bokonzi ya Dariusi, mokonzi ya Persi.
+015	EZR	005	001	Mosakoli Aje mpe mosakoli Zakari, mwana mobali ya Ido, basakolaki mpo na bato ya Yuda oyo bazalaki kati na mokili ya Yuda mpe na engumba Yelusalemi, na Kombo ya Nzambe ya Isalaele, oyo azalaki kati na bango.
+015	EZR	005	002	Bongo, Zorobabeli, mwana mobali ya Shealitieli, mpe Jozue, mwana mobali ya Yotsadaki, bazongelaki mosala ya kotonga lisusu Tempelo ya Nzambe kati na Yelusalemi. Mpe basakoli ya Nzambe bazalaki elongo na bango mpo na kosunga bango.
+015	EZR	005	003	Mbala moko, Tatinayi, moyangeli ya etuka oyo ezalaki na ngambo ya weste ya ebale Efrate, mpe Shetari-Bozinayi elongo na baninga na bango ya mosala batunaki bango: — Nani apesi bino nzela ya kotonga lisusu Tempelo oyo mpe ya kotelemisa lisusu mir oyo?
+015	EZR	005	004	Batunaki lisusu: — Bato oyo bazali kotonga Ndako oyo, bakombo na bango banani?
+015	EZR	005	005	Kasi liso ya Nzambe na bango ezalaki kosenzela bakambi ya Bayuda. Boye bapekisaki bango te kosala misala na bango kino tango Dariusi azwaki mokanda na tina na yango mpe kino tango bazwaki mokanda ya eyano kowuta na Dariusi.
+015	EZR	005	006	Tala mokanda oyo Tatinayi, moyangeli ya etuka ya ngambo ya weste ya ebale Efrate, Shetari-Bozinayi elongo na baninga na bango ya mosala, bakambi ya bituka ya ngambo ya weste ya ebale Efrate, batindelaki mokonzi Dariusi.
+015	EZR	005	007	Tala makambo oyo bakomaki kati na mokanda yango: « Epai ya mokonzi Dariusi. Tika ete bokonzi na yo ewumela na kimia!
+015	EZR	005	008	Tika ete mokonzi ayeba ete tokendeki na etuka ya Yuda kino na Tempelo ya Nzambe Monene. Bato bazali kotonga yango na mabanga bakata mpe bazali kotia mabaya na likolo ya bamir. Mosala yango ezali kotambola malamu mpe kokende noki kati na maboko na bango.
+015	EZR	005	009	Totunaki bakambi na bango motuna oyo: ‹ Nani apesi bino nzela ya kotonga lisusu Tempelo oyo mpe ya kotelemisa lisusu bamir? ›
+015	EZR	005	010	Totunaki bango bakombo na bango mpo ete toyebisa yo yango mpe tokomela yo bakombo ya bakambi na bango.
+015	EZR	005	011	Kasi tala eyano oyo bapesaki biso: ‹ Tozali basali ya Nzambe ya Likolo mpe ya se; tozali kotonga lisusu Tempelo oyo etongamaki wuta mibu ebele na kala. Mokonzi moko monene ya Isalaele atongaki mpe asilisaki yango.
+015	EZR	005	012	Kasi lokola batata na biso batumbolaki kanda ya Nzambe ya Likolo, akabaki bango na maboko ya Nabukodonozori, moto ya Chalide, mokonzi ya Babiloni. Ezali ye nde abukaki Tempelo oyo mpe amemaki bato na bowumbu, na Babiloni.
+015	EZR	005	013	Nzokande, na mobu ya liboso ya bokonzi na ye lokola mokonzi ya Babiloni, Sirisi apesaki mitindo ya kotonga lisusu Ndako oyo ya Nzambe,
+015	EZR	005	014	alongolaki kutu na tempelo ya Babiloni biloko basala na wolo mpe na palata, oyo Nabukodonozori azwaki na Ndako ya Nzambe kati na Yelusalemi mpe amemaki na tempelo ya Babiloni. Mokonzi Sirisi apesaki biloko yango epai ya Sheshibatsari oyo ye, Sirisi, atiaki lokola moyangeli.
+015	EZR	005	015	Alobaki na ye: ‘Kamata biloko oyo mpe kende kotia yango kati na Tempelo ya Yelusalemi; mpe tika ete Tempelo ya Nzambe etongama lisusu na esika na yango ya kala.’
+015	EZR	005	016	Ezali bongo nde Sheshibatsari ayaki awa na Yelusalemi mpo na kotonga miboko ya Ndako ya Nzambe. Wuta mokolo wana kino na mokolo ya lelo, Tempelo ezali kotongama, kasi misala esili nanu te. ›
+015	EZR	005	017	Sik’oyo, soki yango esepelisi mokonzi, tika ete baluka kati na babuku ya kala ya bakonzi ya Babiloni mpo na kotala soki mokonzi Sirisi apesaki solo mitindo ya kotonga lisusu Ndako ya Nzambe kati na Yelusalemi. Mpe tika ete mokonzi atindela biso mokano na ye na tina na likambo oyo. »
+015	EZR	006	001	Mokonzi Dariusi apesaki mitindo, mpe balukaki kati na babuku ya kala oyo ezalaki na Babiloni, kati na ebombelo bomengo ya mokonzi.
+015	EZR	006	002	Mpe bamonaki buku moko kati na Ekibatane, engumba mokonzi ya etuka ya Medi. Tala makomi oyo ezalaki kati na buku yango: « Ekaniseli:
+015	EZR	006	003	Na mobu ya liboso ya mokonzi Sirisi, mokonzi Sirisi azwaki mokano na tina na Tempelo ya Nzambe kati na Yelusalemi: Tempelo ya Nzambe esengeli kotongama lisusu mpo ete ezala esika ya kobonza mbeka; boye esengeli kozongisa miboko na yango. Tempelo ekozala na bametele pene tuku misato na bosanda mpe bametele pene tuku misato na mokuse.
+015	EZR	006	004	Ekozala na milongo misato ya mabanga bakata mpe molongo moko ya mabaya ya sika mpo na motondo. Mbongo ya kofuta mpo na misala yango ekowuta na bomengo ya mokonzi.
+015	EZR	006	005	Lisusu, biloko basala na wolo mpe na palata ya Ndako ya Nzambe, oyo Nabukodonozori azwaki na Tempelo kati na Yelusalemi mpe amemaki na Babiloni, esengeli kozonga na bisika na yango kati na Tempelo, na Yelusalemi; basengeli kotia yango kati na Ndako ya Nzambe.
+015	EZR	006	006	Sik’oyo, Tatinayi, moyangeli ya etuka oyo ezali na ngambo ya weste ya ebale Efrate, Shetari-Bozinayi mpe bino baninga na bango ya mosala, bakambi ya etuka, bozala mosika ya likambo oyo.
+015	EZR	006	007	Botika ete misala ya kotonga lisusu Ndako oyo ya Nzambe ekoba. Tika ete moyangeli mpe bakambi ya Bayuda batonga yango lisusu na esika na yango ya kala.
+015	EZR	006	008	Tala mitindo oyo ngai nazali kopesa bino na tina na oyo bosengeli kosala mpo na kosunga bakambi ya Bayuda mpe mpo na misala ya botongi Ndako oyo ya Nzambe: ‹ Bosengeli tango nyonso kozwaka mbongo ya misala na bomengo ya mokonzi, oyo ewutaka na mpako oyo etuka ya ngambo ya weste ya ebale Efrate efutaka mpo na mokonzi, mpo na kofuta bato wana na ndenge ekoki mpe mpo ete misala etelema te.
+015	EZR	006	009	Bosengeli mpe kopesaka mikolo nyonso epai ya Banganga-Nzambe ya Yelusalemi biloko nyonso oyo bakozala na yango na bosenga mpo na mbeka ya kotumba ya Nzambe ya Likolo: bana ngombe ya mibali, bameme ya mibali, bana meme, ble, mungwa, masanga ya vino mpe mafuta. Soki bakomi na bosenga ya biloko, bino bosengeli kopesa bango yango mikolo nyonso, mpe esengeli te kozanga,
+015	EZR	006	010	mpo ete bakoka kobonzaka mbeka ya solo kitoko epai ya Nzambe ya Likolo, mpe mpo ete basambelaka mpo na bomoi malamu ya mokonzi elongo na bana na ye ya mibali.
+015	EZR	006	011	Bongo tala mokano oyo nasili kozwa mpo na moto nyonso oyo akobongola to akotosa te mitindo oyo: bakolongola libaya moko kati na ndako na ye, bakotelemisa yango, bakodiembika ye na libaya yango mpe bakokomisa ndako na ye mopiku ya biloko ya mbindo.
+015	EZR	006	012	Tika ete Nzambe oyo atiaki Kombo na Ye kuna akweyisa mokonzi nyonso to bato nyonso oyo bakomeka kotombola loboko mpo na koboya kotosa to kobongola mitindo na ngai na kobuka Tempelo oyo ya Nzambe kati na Yelusalemi. Ezali ngai, Dariusi, moto napesi mitindo yango. Tika ete botosa yango malamu mpe na lombangu. › »
+015	EZR	006	013	Boye, Tatinayi, moyangeli ya etuka ya ngambo ya weste ya ebale Efrate, mpe Shetari-Bozinayi elongo na baninga na bango ya mosala batosaki mitindo ya mokonzi Dariusi na lombangu mpe na ndenge ezaleli.
+015	EZR	006	014	Boye bakambi ya Bayuda bakobaki misala ya kotonga, mpe balongaki wana balendisamaki na maloba ya basakoli Aje mpe Zakari, mokitani ya Ido. Basilisaki kotonga kolanda mitindo ya Nzambe ya Isalaele mpe ya Sirisi, Dariusi, mpe Aritakizerisesi, bakonzi ya Persi.
+015	EZR	006	015	Basilisaki kotonga Ndako mobimba ya Nzambe, na mokolo ya misato ya sanza ya Adari, tango mokonzi Dariusi akokisaki mibu motoba na bokonzi.
+015	EZR	006	016	Bato ya Isalaele, Banganga-Nzambe, Balevi mpe bato mosusu oyo bawutaki na bowumbu basalaki feti ya libulisi ya Ndako ya Nzambe.
+015	EZR	006	017	Babonzaki bangombe ya mibali nkama moko, bameme ya mibali nkama mibale, bana meme nkama minei mpo na libulisi ya Ndako ya Nzambe; mpe bantaba ya mibali zomi na mibale, moko mpo na ekolo moko na moko ya Isalaele, lokola mbeka mpo na masumu ya Isalaele mobimba.
+015	EZR	006	018	Bakabolaki mpe Banganga-Nzambe kolanda milongo na bango, mpe Balevi kolanda masanga na bango mpo na mosala ya Nzambe kati na Yelusalemi, ndenge ekomama kati na buku ya Moyize.
+015	EZR	006	019	Na mokolo ya zomi na minei ya sanza ya liboso, bana ya Isalaele oyo bawutaki na bowumbu basepelaki feti ya Pasika.
+015	EZR	006	020	Banganga-Nzambe mpe Balevi bamipetolaki kolanda mibeko mpe bakomaki peto. Boye Balevi bakataki kingo ya mpate lokola mbeka ya Pasika mpo na bato nyonso oyo bawutaki na bowumbu, mpo na bandeko na bango, Banganga-Nzambe, mpe mpo na bango moko.
+015	EZR	006	021	Bana ya Isalaele oyo bawutaki na bowumbu baliaki yango elongo na bato nyonso oyo bakabwanaki na misala ya mbindo ya bikolo ya mokili mpe basanganaki elongo na bango mpo na koluka Yawe, Nzambe ya Isalaele.
+015	EZR	006	022	Na mikolo sambo, basalaki na esengo feti ya Mapa ezanga levire, pamba te Yawe atondisaki bango na esengo ndenge abongolaki makanisi ya mokonzi ya Asiri mpo ete asunga bango na misala ya botongi Ndako ya Nzambe, ya Nzambe ya Isalaele.
+015	EZR	007	001	Sima na makambo oyo, tango Aritakizerisesi azalaki mokonzi ya Persi, Esidrasi, mwana mobali ya Seraya, mwana mobali ya Azaria, mwana mobali ya Ilikia,
+015	EZR	007	002	mwana mobali ya Shalumi, mwana mobali ya Tsadoki, mwana mobali ya Ayitubi,
+015	EZR	007	003	mwana mobali ya Amaria, mwana mobali ya Azaria, mwana mobali ya Merayoti,
+015	EZR	007	004	mwana mobali ya Zerakia, mwana mobali ya Uzi, mwana ya Buki,
+015	EZR	007	005	mwana mobali ya Abishuwa, mwana mobali ya Pineasi, mwana mobali ya Eleazari, mwana mobali ya Aron, mokonzi ya Banganga-Nzambe,
+015	EZR	007	006	alongwaki na Babiloni. Esidrasi yango azalaki molakisi malamu ya mibeko mpe ayebaki penza malamu Mobeko ya Moyize oyo Yawe, Nzambe ya Isalaele, apesaki na bato na Ye. Bongo lokola loboko ya Yawe, Nzambe na ye, ezalaki likolo na ye, mokonzi apesaki ye biloko nyonso oyo asengaki.
+015	EZR	007	007	Kati na bana ya Isalaele, Banganga-Nzambe, Balevi, bayembi, bakengeli bikuke mpe basali ya Tempelo, ndambo bazongaki na Yelusalemi na mobu ya sambo ya mokonzi Aritakizerisesi.
+015	EZR	007	008	Esidrasi mpe akomaki elongo na bango na Yelusalemi na sanza ya mitano ya mobu ya sambo ya mokonzi.
+015	EZR	007	009	Alongwaki na Babiloni na mokolo ya liboso ya sanza ya liboso mpe akomaki na Yelusalemi na mokolo ya liboso ya sanza ya mitano, pamba te loboko ya ngolu ya Nzambe na ye ezalaki likolo na ye,
+015	EZR	007	010	mpo ete Esidrasi amipesaki ye moko penza, na motema na ye mobimba, mpo na koyekola mpe kotia na misala mibeko ya Yawe mpe mpo na kolakisa na bana ya Isalaele bikateli mpe mitindo ya mibeko yango.
+015	EZR	007	011	Tala mokanda oyo mokonzi Aritakizerisesi apesaki epai ya Esidrasi, Nganga-Nzambe mpe molakisi ya Mobeko, oyo ayebaki penza malamu makambo oyo etali mitindo mpe bikateli ya Yawe mpo na Isalaele:
+015	EZR	007	012	« Aritakizerisesi, mokonzi ya bakonzi; Epai ya Esidrasi, Nganga-Nzambe mpe molakisi ya Mobeko ya Nzambe ya Likolo: Mbote na yo!
+015	EZR	007	013	Napesi mitindo ete, kati na bokonzi na ngai, moto nyonso kati na bato ya Isalaele, kati na Banganga-Nzambe mpe Balevi na bango, oyo alingi kokende na Yelusalemi akende elongo na yo.
+015	EZR	007	014	Ngai, mokonzi elongo na bapesi toli na ngai sambo, totindi yo koluka koyeba makambo oyo ezali koleka na Yuda mpe na Yelusalemi, kolanda Mobeko ya Nzambe na yo, oyo ezali na maboko na yo,
+015	EZR	007	015	mpe komema palata mpe wolo oyo mokonzi mpe bapesi toli na ye bapesi bango moko wuta na mokano ya mitema na bango, epai ya Nzambe ya Isalaele, oyo Ndako na Ye ezali na Yelusalemi;
+015	EZR	007	016	elongo na palata mpe wolo nyonso oyo okozwa na etuka ya Babiloni, makabo oyo bato mpe Banganga-Nzambe bakataki bango moko kopesa wuta na mokano ya mitema na bango, mpo na Tempelo ya Nzambe na bango kati na Yelusalemi.
+015	EZR	007	017	Boye, okosala keba ete osomba bangombe, bameme ya mibali mpe bana meme elongo na nyonso oyo esengeli mpo na makabo na yango ya gato mpe ya masanga, mpe okobonza yango na etumbelo ya Nzambe na bino kati na Yelusalemi.
+015	EZR	007	018	Na palata mpe wolo oyo etikali, yo mpe bandeko na yo, Bayuda, bokoki kosala nyonso oyo bokomona ete ezali malamu kolanda mokano ya Yawe, Nzambe na bino.
+015	EZR	007	019	Okopesa epai ya Nzambe ya Yelusalemi, biloko nyonso oyo bakopesa yo mpo na mosala ya Tempelo ya Nzambe na yo.
+015	EZR	007	020	Na nzela ya bomengo ya mokonzi, okoki kozwa biloko nyonso mosusu oyo okozala na yango na bosenga mpo na misala ya Ndako ya Nzambe na yo.
+015	EZR	007	021	Sik’oyo, ngai, mokonzi Aritakizerisesi, napesi mitindo epai ya babateli bomengo nyonso ya mokonzi kati na etuka ya ngambo ya weste ya ebale Efrate, ete bopesa na lombangu eloko nyonso oyo Esidrasi, Nganga-Nzambe mpe molakisi ya Mobeko ya Nzambe ya Likolo, akosenga bino
+015	EZR	007	022	kino na kilo ya palata nkoto misato na nkama mitano, kilo ya ble nkoto tuku minei na mitano, balitele ya vino nkoto minei na nkama mitano, balitele ya mafuta nkoto minei na nkama mitano mpe kilo ya mungwa oyo bakoki kotanga te.
+015	EZR	007	023	Tika ete makambo nyonso oyo Nzambe ya Likolo atindi mpo na Tempelo na Ye esalema ndenge kaka atindi yango, mpo ete kanda na Ye ekitela te mokili ya mokonzi mpe bana na ye ya mibali.
+015	EZR	007	024	Bosengeli lisusu koyeba ete bozali lisusu na ndingisa te ya kosenga na Nganga-Nzambe nyonso, Molevi nyonso, moyembi nyonso, mokengeli nyonso ya ekuke, mosali nyonso ya Tempelo, mpe na mosali nyonso mosusu ya Ndako ya Nzambe ete afuta mpako ya mokonzi, mpako ya mabele mpe mpako ya nzela.
+015	EZR	007	025	Bongo yo, Esidrasi, kolanda bwanya ya Nzambe na yo, oyo ozali na yango, pona bilombe mpe basambisi mpo na mosala ya kokata makambo ya bato nyonso oyo, kati na etuka ya ngambo ya weste ya ebale Efrate, bayebi mibeko ya Nzambe na yo; mpe lakisa yango na bato oyo bayebi yango te.
+015	EZR	007	026	Moto nyonso oyo akotosa te Mobeko ya Nzambe na yo mpe mobeko ya mokonzi asengeli bongo kozwa etumbu ya kufa to kokende na bowumbu to kokaba bomengo na ye mpo ete babotola yango to mpe kokota na boloko. »
+015	EZR	007	027	Tika ete Yawe, Nzambe ya batata na biso, akumisama, Ye oyo atiaki makanisi ya lolenge oyo na motema ya mokonzi, mpo ete akoka kopesa lokumu na Tempelo ya Yawe kati na Yelusalemi,
+015	EZR	007	028	mpe oyo asaleli ngai bolamu na Ye liboso ya mokonzi, ya bapesi toli na ye mpe ya bakalaka na ye nyonso, pamba te loboko ya Yawe, Nzambe na ngai, ezalaki likolo na ngai! Boye, nazwaki makasi mpe nasangisaki bakambi ya Isalaele mpo ete bazonga elongo na ngai.
+015	EZR	008	001	Tala bakambi ya mabota, kolanda ndenge babotamela, oyo bazongaki elongo na ngai, wuta na Babiloni, na tango Aritakizerisesi azalaki mokonzi:
+015	EZR	008	002	Kati na bakitani ya Pineasi: Gerishomi. Kati na bakitani ya Itamari: Daniele. Kati na bakitani ya Davidi: Atushi.
+015	EZR	008	003	Kati na bakitani ya Shekania, ya Pareoshi: Zakari elongo na bato na ye oyo batangaki, nkama moko na tuku mitano.
+015	EZR	008	004	Kati na bakitani ya Paati-Moabi: Eliowenayi, mwana mobali ya Zerakia, elongo na bato na ye nkama mibale.
+015	EZR	008	005	Kati na bakitani ya Zatu: Shekania, mwana mobali ya Yaazieli, elongo na bato na ye nkama misato.
+015	EZR	008	006	Kati na bakitani ya Adini: Ebedi, mwana mobali ya Jonatan, elongo na bato na ye tuku mitano.
+015	EZR	008	007	Kati na bakitani ya Elami: Ezayi, mwana mobali ya Atalia elongo na bato na ye tuku sambo.
+015	EZR	008	008	Kati na bakitani ya Shefatia: Zebadia, mwana mobali ya Mikaeli, elongo na bato na ye tuku mwambe.
+015	EZR	008	009	Kati na bakitani ya Joabi: Abidiasi, mwana mobali ya Yeyeli, elongo na bato na ye nkama mibale na zomi na mwambe.
+015	EZR	008	010	Kati na bakitani ya Bani: Shelomiti, mwana mobali ya Yosifia, elongo na bato na ye nkama moko na tuku motoba.
+015	EZR	008	011	Kati na bakitani ya Bebayi: Zakari, mwana mobali ya Bebayi, elongo na bato na ye tuku mibale na mwambe.
+015	EZR	008	012	Kati na bakitani ya Azigadi: Yoanani, mwana mobali ya Akatani, elongo na bato na ye nkama moko na zomi.
+015	EZR	008	013	Kati na bakitani ya Adonikami: bana ya suka oyo bakombo na bango ezalaki Elifeleti, Yeyeli mpe Shemaya, elongo na bato na bango tuku motoba.
+015	EZR	008	014	Kati na bakitani ya Bigivayi: Utayi mpe Zabudi elongo na bato na bango tuku sambo.
+015	EZR	008	015	Nasangisaki bango pene ya ebale oyo ezalaki kotiola na ngambo ya Akava, mpe tovandaki kuna mikolo misato. Tango natalaki malamu bato mpe Banganga-Nzambe, namonaki ata Molevi moko te kuna.
+015	EZR	008	016	Boye nabengisaki Eliezeri, Arieli, Shemaya, Elinatani, Yaribi, Elinatani, Natan, Zakari mpe Meshulami oyo bazalaki bakambi; Yoyaribi mpe Elinatani oyo bazalaki bato ya mayele.
+015	EZR	008	017	Natindaki bango epai ya Ido, mokambi ya mboka Kasifia; nayebisaki bango makambo oyo basengeli koloba na Ido mpe bandeko na ye ya mosala, basali ya Tempelo, oyo bazalaki kovanda na Kasifia, mpo ete bamemela biso basali mpo na Ndako ya Nzambe na biso.
+015	EZR	008	018	Lokola loboko ya ngolu ya Nzambe na biso ezalaki likolo na biso, bamemelaki biso Sherebia, moto ya mayele, kati na bakitani ya Maali, mwana mobali ya Levi, mwana mobali ya Isalaele, elongo na bana na ye ya mibali mpe bandeko na ye ya mibali, bango nyonso zomi na mwambe,
+015	EZR	008	019	elongo na Ashabia mpe Ezayi, bakitani ya Merari, elongo na bandeko na ye ya mibali mpe bana na bango ya mibali. Bango nyonso bazalaki tuku mibale.
+015	EZR	008	020	Bamemaki lisusu basali ya Tempelo, nkama mibale na tuku mibale, bakitani ya bato oyo Davidi mpe lisanga ya bakalaka na ye batiaki mpo na kosunga Balevi. Batangaki bango nyonso na bakombo na bango.
+015	EZR	008	021	Kuna, pene ya ebale Akava, napesaki mitindo ya kokila bilei mpo na komikitisa liboso ya Nzambe na biso mpe kosenga Ye mobembo malamu mpo na biso, mpo na bana na biso mpe mpo na biloko na biso nyonso.
+015	EZR	008	022	Nayokaki soni mpo na kosenga epai ya mokonzi basoda mpe basoda oyo batambolaka likolo ya bampunda, mpo na kobatela biso na nzela liboso ya banguna na biso; pamba te tolobaki na mokonzi: « Loboko ya ngolu ya Nzambe na biso ezali likolo ya moto nyonso oyo alukaka Ye, kasi kanda makasi na Ye ekitelaka bato nyonso oyo basundolaka Ye. »
+015	EZR	008	023	Boye, tokilaki bilei mpe tosengaki ngolu yango epai ya Nzambe na biso, mpe Ye ayanolaki libondeli na biso.
+015	EZR	008	024	Bongo na sima, natiaki kati na bakonzi ya Banganga-Nzambe bakonzi zomi na mibale: Sherebia, Ashabia elongo na bandeko na bango zomi.
+015	EZR	008	025	Namekaki liboso na bango makabo ya palata, ya wolo mpe bisalelo nyonso oyo mokonzi, bapesi toli na ye, bakalaka na ye mpe Isalaele mobimba bapesaki mpo na Ndako ya Nzambe na biso.
+015	EZR	008	026	Napesaki bango kilo nkoto tuku mibale ya palata, kilo nkoto misato ya bisalelo basala na palata, kilo nkoto misato ya wolo,
+015	EZR	008	027	bakopo ya wolo tuku mibale oyo ezali na motuya ya mbongo ya bibende ya wolo nkoto moko mpe biloko mibale ya kitoko basala na bronze oyo engalaka lokola wolo.
+015	EZR	008	028	Nalobaki na bango: « Bino elongo na biloko oyo, bobulisami mpo na Yawe. Palata mpe wolo oyo ezali makabo oyo bato bakati bango moko kopesa wuta na mokano ya mitema na bango, epai na Yawe, Nzambe ya tata na bino.
+015	EZR	008	029	Bosenzela mpe bobatela yango malamu kino tango bokomeka kilo na yango liboso ya bakonzi ya Banganga-Nzambe, ya Balevi mpe ya bakambi ya mabota ya Isalaele, kati na bashambre ya Tempelo ya Yawe, na Yelusalemi. »
+015	EZR	008	030	Banganga-Nzambe mpe Balevi bayambaki palata, wolo mpe bisalelo ya bule oyo bamekaki kilo na yango, mpo na komema yango na Ndako ya Nzambe na biso, na Yelusalemi.
+015	EZR	008	031	Na mokolo ya zomi na mibale ya sanza ya liboso, tolongwaki na ebale Akava mpo na kokende na Yelusalemi. Loboko ya Nzambe na biso ezalaki likolo na biso, mpe abatelaki biso na nzela liboso ya banguna mpe ya bato ya mobulu.
+015	EZR	008	032	Tokomaki na Yelusalemi mpe topemaki kuna mikolo misato.
+015	EZR	008	033	Na mokolo ya minei, tomekaki kilo ya palata, ya wolo mpe bisalelo ya bule kati na Ndako ya Nzambe na biso, liboso ya kopesa yango na maboko ya Nganga-Nzambe Meremoti, mwana mobali ya Uri; azalaki elongo na Eleazari, mwana mobali ya Pineasi, mpe Balevi Yozabadi, mwana mobali ya Jozue, mpe Noadia, mwana mobali ya Binuwi.
+015	EZR	008	034	Batangaki mpe bamekaki kilo ya biloko nyonso; mpe bakomaki yango na buku kaka na tango wana.
+015	EZR	008	035	Bato oyo bakendeki na bowumbu bazongaki wuta na bowumbu mpe babonzaki mpo na Isalaele mobimba lokola mbeka ya kotumba epai ya Nzambe ya Isalaele: bangombe ya mibali zomi na mibale, bameme ya mibali tuku libwa na motoba, bana meme tuku sambo na sambo, mpe bantaba zomi na mibale lokola mbeka ya masumu. Babonzaki nyonso lokola mbeka ya kotumba mpo na Yawe.
+015	EZR	008	036	Batindaki lisusu sango ya mitindo ya mokonzi epai ya bayangeli oyo mokonzi atiaki na bituka mpe epai ya bayangeli ya etuka ya ngambo ya weste ya ebale Efrate, oyo basungaki bato mpe Tempelo ya Nzambe.
+015	EZR	009	001	Sima na makambo nyonso oyo esalemaki, bakambi ya Isalaele bayaki epai na ngai mpe balobaki: « Bato ya Isalaele, Banganga-Nzambe mpe Balevi bakabwani te na bato ya bikolo, oyo bazali kati na bango; bakabwani mpe te na misala na bango ya mbindo. Batamboli kaka kolanda misala ya mbindo ya bato ya Kanana, ya Iti, ya Perizi, ya Yebusi, ya Amoni, ya Moabi, ya Ejipito mpe ya Amori,
+015	EZR	009	002	pamba te babali bana basi ya bikolo wana ya bapaya mpo na bango moko mpe mpo na bana na bango ya mibali. Boye, basangisi libota ya bule na bikolo ya bapaya oyo bazali kati na bango. Bakambi mpe bakalaka bazalaki bato ya liboso ya kosala makambo wana ya mbindo. »
+015	EZR	009	003	Tango nayokaki bongo, napasolaki nzambala mpe kazaka na ngai, napikolaki suki ya moto na ngai mpe mandefu na ngai mpe namivandisaki wana na mabele.
+015	EZR	009	004	Bato nyonso oyo bazalaki kolenga mpo na maloba na Nzambe ya Isalaele basanganaki pene na ngai, mpo na misala ya mbindo ya bato oyo bawutaki na bowumbu. Navandaki na mawa kino na tango ya likabo ya pokwa.
+015	EZR	009	005	Bongo na tango ya likabo ya pokwa, nasalaki makasi atako nazalaki na pasi makasi kati na motema, natelemaki na nzambala mpe kazaka na ngai, oyo epasuka; nafukamaki mpe natombolaki maboko na ngai epai na Yawe, Nzambe na ngai.
+015	EZR	009	006	Nalobaki: « Oh Nzambe na ngai! Nazali kati na mobulu mpe nazali koyoka soni makasi mpo na kotombola elongi na ngai epai na Yo, Nzambe na ngai; pamba te masumu mpe mabe na biso ekomi ebele penza mpe emati kino na Likolo!
+015	EZR	009	007	Wuta na tango ya bakoko na biso kino na mokolo ya lelo, mabe na biso ekomi ebele. Likolo ya masumu na biso, biso elongo na bakonzi mpe Banganga-Nzambe na biso tokabamaki na mopanga, na bowumbu, na kobebisama mpe na soni makasi na maboko ya bakonzi ya bapaya, ndenge ezali komonana na mokolo ya lelo.
+015	EZR	009	008	Kasi sik’oyo, oh Yawe, Nzambe na biso, na mwa tango moke, osaleli biso ngolu ya kobikisa ndambo ya bato kati na biso mpe ya kopesa biso esika kati na mokili na Yo ya bule. Na boye, Yo Nzambe na biso, ongengisi miso na biso na pole mpe opesi biso lisungi kati na bowumbu na biso.
+015	EZR	009	009	Pamba te, atako tozali bawumbu, kasi Yo Nzambe na biso, osundoli biso te kati na bowumbu na biso. Omonisi biso bolamu na Yo na nzela ya bakonzi ya Persi: bapesi biso makasi ya sika mpo na kotonga lisusu Ndako ya Nzambe na biso, na kobongisa bamir na yango oyo ebukanaki-bukanaki mpe na kopesa biso mir ya kobombamela kati na Yuda mpe na Yelusalemi.
+015	EZR	009	010	Sik’oyo, oh Nzambe na biso, toloba lisusu nini na makambo oyo ezali kosalema? Pamba te tobateli te mibeko na Yo,
+015	EZR	009	011	oyo opesaki na nzela ya basali na Yo, basakoli, tango olobaki: ‹ Mokili oyo bozali kokota mpo na kokamata yango ezali mokili oyo ebebisami na mbindo ya bato wana. Na nzela ya misala na bango ya nkele, batondisi mokili yango nyonso na mbindo na bango.
+015	EZR	009	012	Boye, bopesa te na libala bana na bino ya basi epai ya bana na bango ya mibali to bozwa te na libala bana na bango ya basi mpo na bana na bino ya mibali. Tango nyonso, bosalaka te boyokani ya bondeko elongo na bango mpo ete bokoka kozala makasi, bokoka kolia bambuma malamu ya mokili mpe bokoka kotikela yango bana na bino lokola libula mpo na libela. ›
+015	EZR	009	013	Makambo nyonso oyo ekomeli biso ezali mbano ya etamboli mabe na biso mpe ya ngambo na biso monene. Mpe lisusu, oh Nzambe na biso, na kotala ebele ya masumu oyo tosali, etumbu oyo opesi biso ezali moke penza, mpo ete otikeli biso kutu ndambo ya bato oyo!
+015	EZR	009	014	Boni, tozongela lisusu kobuka mibeko na Yo mpe kobalana na bato oyo basalaka makambo ya nkele? Boni, kanda makasi na Yo ekopela te kino kosilisa koboma biso mpe kotikela biso moto ata moko te na bomoi?
+015	EZR	009	015	Oh Yawe, Nzambe ya Isalaele, ozali penza sembo! Na ngolu na Yo, na mokolo ya lelo, tozali batikali kati na bato na biso mpe tozali awa liboso na Yo, elongo na masumu na biso; nzokande moko te kati na biso akoki kotelema bongo liboso na Yo! »
+015	EZR	010	001	Wana Esidrasi azalaki kobondela mpe kotubela masumu, azalaki ya kofukama mpe azalaki kolela liboso ya Ndako ya Nzambe. Ebele ya bana ya Isalaele: mibali, basi mpe bana, basanganaki pene na ye mpe, bango nyonso, bazalaki kolela makasi.
+015	EZR	010	002	Bongo Shekania, mwana mobali ya Yeyeli, moko kati na bakitani ya Elami, alobaki na Esidrasi: « Solo, tosalaki makambo ya mbindo na miso ya Nzambe na biso, pamba te tobali basi ya bapaya kati na bikolo oyo ezali elongo na biso kati na mboka oyo; kasi atako bongo, elikya ezali nanu mpo na Isalaele!
+015	EZR	010	003	Sik’oyo, tika ete tosala boyokani elongo na Nzambe na biso mpo na kobengana basi wana nyonso elongo na bana na bango, kolanda toli na yo Esidrasi, nkolo na ngai, mpe kolanda toli ya bato nyonso oyo balengaka liboso ya mibeko ya Nzambe na biso! Tika ete esalema kolanda Mobeko!
+015	EZR	010	004	Telema, pamba te yo nde osengeli kotala likambo oyo! Tozali elongo na yo mpo na kosunga yo. Yika mpiko mpe sala! »
+015	EZR	010	005	Esidrasi atelemaki mpe asengaki na bakonzi ya Banganga-Nzambe, Balevi mpe bana nyonso ya Isalaele kolapa ndayi ete bakosalela makambo oyo ndenge elobami. Mpe balapaki ndayi.
+015	EZR	010	006	Bongo Esidrasi alongwaki liboso ya Ndako ya Nzambe mpe akendeki na shambre ya Yoanani, mwana mobali ya Eliashibi. Wana azalaki kuna, atikalaki kolia eloko moko te mpe komela mayi te; pamba te azalaki kokoba kosala matanga likolo ya makambo ya mbindo ya bato oyo bawutaki na bowumbu.
+015	EZR	010	007	Bapanzaki sango kati na Yuda mpe na Yelusalemi ete bato nyonso oyo bawutaki na bowumbu basangana na Yelusalemi.
+015	EZR	010	008	Kolanda mokano ya bakalaka mpe bakambi ya bato, moto nyonso oyo akomonana te sima na mikolo misato, bakobotola biloko na ye nyonso mpe bakolongola ye na lisanga ya bato oyo bawutaki na bowumbu.
+015	EZR	010	009	Sima na mikolo yango misato, bato nyonso ya Yuda mpe ya Benjame basanganaki na Yelusalemi. Na mokolo ya tuku mibale ya sanza ya libwa, bato nyonso bavandaki kati na lopango, liboso ya Ndako ya Nzambe, mpe bazalaki kolenga makasi likolo ya makambo oyo mpe mpo ete mvula ezalaki kobeta makasi.
+015	EZR	010	010	Nganga-Nzambe Esidrasi atelemaki mpe alobaki na bango: — Bosalaki makambo ya mbindo awa bobalaki basi ya bapaya; mpe, na nzela na yango, bobakiselaki Isalaele ngambo.
+015	EZR	010	011	Sik’oyo, boyambola masumu na bino epai na Yawe, Nzambe ya batata na bino, mpe bokokisa mokano na Ye! Bokabwana na bato ya bikolo ya bapaya oyo bazali kati na bino mpe bokabwana na basi na bino ya bapaya.
+015	EZR	010	012	Lisanga mobimba ezongisaki na mongongo makasi: — Ezali se bongo, tokosala ndenge olobi!
+015	EZR	010	013	Nzokande tozali bato ebele awa, mpe ezali eleko ya mvula; tokoki kowumela na libanda te. Kutu, ezali te likambo ya mokolo moko to ya mikolo mibale, pamba te ebele kati na biso basali masumu kati na likambo oyo.
+015	EZR	010	014	Tika ete bakambi na biso batikala awa na esika ya lisanga mobimba! Mpe tika ete bato nyonso oyo, kati na bingumba na biso, babalaki basi ya bapaya bakende liboso ya bakambi mpe basambisi ya engumba moko na moko, na mikolo oyo bakokatela bango, kino kanda makasi ya Nzambe na biso ekolongwa kati na biso na tina na likambo yango.
+015	EZR	010	015	Kaka Jonatan, mwana mobali ya Azaeli, mpe Yakizia, mwana mobali ya Tikiva, elongo na Meshulami mpe Shabetayi, moto ya libota ya Levi, nde batelemelaki mokano oyo.
+015	EZR	010	016	Kasi bato oyo bawutaki na bowumbu basalaki ndenge elobamaki. Nganga-Nzambe Esidrasi aponaki bakambi ya mabota, moko mpo na libota moko na moko, mpe abengaki bango nyonso na bakombo na bango. Babandaki kovanda mpo na koyekola makambo yango na mokolo ya liboso ya sanza ya zomi.
+015	EZR	010	017	Mpe, na mokolo ya liboso ya sanza ya liboso, basilisaki koyekola makambo ya mibali nyonso oyo babalaki basi ya bapaya.
+015	EZR	010	018	Tala kati na bakitani ya Banganga-Nzambe, mibali oyo babalaki basi ya bapaya: Kati na bakitani ya Jozue, mwana mobali ya Yotsadaki elongo na bandeko na ye ya mibali: Maaseya, Eliezeri, Yaribi mpe Gedalia.
+015	EZR	010	019	Bango nyonso batombolaki maboko mpo na kozwa mokano ya kobengana basi na bango mpe ya kobonza meme ya mobali lokola mbeka mpo na masumu na bango.
+015	EZR	010	020	Kati na bakitani ya Imeri: Anani mpe Zebadia.
+015	EZR	010	021	Kati na bakitani ya Arimi: Maaseya, Eli, Shemaya, Yeyeli mpe Oziasi.
+015	EZR	010	022	Kati na bakitani ya Pashuri: Eliowenayi, Maaseya, Isimaeli, Netaneeli, Yozabadi mpe Eleasa.
+015	EZR	010	023	Kati na Balevi: Yozabadi, Shimei, Kelaya oyo bazalaki kobenga lisusu Kelita, Petaya, Yuda mpe Eliezeri.
+015	EZR	010	024	Kati na babeti mindule: Eliashibi. Kati na bakengeli bikuke: Shalumi, Telemi mpe Uri.
+015	EZR	010	025	Kati na bato mosusu ya Isalaele: kati na bakitani ya Pareoshi: Ramia, Yiziya, Malikiya, Miyamini, Eleazari, Malikiya mpe Benaya.
+015	EZR	010	026	Kati na bakitani ya Elami: Matania, Zakari, Yeyeli, Abidi, Yeremoti mpe Eli.
+015	EZR	010	027	Kati na bakitani ya Zatu: Eliowenayi, Eliashibi, Matania, Yeremoti, Zabadi mpe Aziza.
+015	EZR	010	028	Kati na bakitani ya Bebayi: Yoanani, Anania, Zabayi mpe Atilayi.
+015	EZR	010	029	Kati na bakitani ya Bani: Meshulami, Maluki, Adaya, Yashubi, Sheali mpe Ramoti.
+015	EZR	010	030	Kati na bakitani ya Paati-Moabi: Adina, Kelali, Benaya, Maaseya, Matania, Betisaleyeli, Binuwi mpe Manase.
+015	EZR	010	031	Kati na bakitani ya Arimi: Eliezeri, Yishiya, Malikiya, Shemaya, Simeoni,
+015	EZR	010	032	Benjame, Maluki mpe Shemaria.
+015	EZR	010	033	Kati na bakitani ya Ashumi: Matinayi, Matata, Zabadi, Elifeleti, Yeremayi, Manase mpe Shimei.
+015	EZR	010	034	Kati na bakitani ya Bani: Madayi, Amirami, Ueli,
+015	EZR	010	035	Benaya, Bedia, Keluwu,
+015	EZR	010	036	Vania, Meremoti, Eliashibi,
+015	EZR	010	037	Matania, Matinayi, Yasayi,
+015	EZR	010	038	Bani, Binuwi, Shimei,
+015	EZR	010	039	Shelemiya, Natan, Adaya,
+015	EZR	010	040	Makinadibayi, Shashayi, Sharayi,
+015	EZR	010	041	Azareyeli, Shelemiya, Shemaria,
+015	EZR	010	042	Shalumi, Amaria mpe Jozefi.
+015	EZR	010	043	Kati na bakitani ya Nebo: Yeyeli, Matitia, Zabadi, Zebina, Yadayi, Joeli mpe Benaya.
+015	EZR	010	044	Mibali oyo nyonso nde babalaki basi ya bapaya, mpe mingi kati na bango bazwaki bana na nzela ya basi yango.
+#

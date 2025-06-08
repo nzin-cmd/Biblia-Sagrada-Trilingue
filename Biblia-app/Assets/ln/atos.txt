@@ -1,0 +1,1008 @@
+044	ACT	001	001	Teofile: Kati na buku na ngai ya liboso, nakomaki makambo nyonso oyo Yesu asalaki mpe ateyaki wuta na ebandeli
+044	ACT	001	002	kino na mokolo oyo amemamaki na Likolo, sima na Ye kopesa mitindo, na nzela ya Molimo Mosantu, epai ya bantoma oyo aponaki.
+044	ACT	001	003	Sima na kufa na Ye, amimonisaki epai na bango; mpe na nzela ya bilembo mingi, alakisaki bango ete azali na bomoi. Abimelaki bango mikolo tuku minei mpe alobelaki bango makambo oyo etali Bokonzi ya Nzambe.
+044	ACT	001	004	Mokolo moko, wana azalaki kolia elongo na bango, apesaki bango mitindo oyo: « Bolongwa na Yelusalemi te, kasi bozela likabo oyo Tata na Ngai alakaki, likabo oyo boyokaki Ngai kolobela.
+044	ACT	001	005	Pamba te Yoane abatisaki na mayi; kasi bino, sima na mwa mikolo, bokobatisama kati na Molimo Mosantu. »
+044	ACT	001	006	Lokola basanganaki zingazinga na Ye, batunaki Ye: — Nkolo, ekozala na tango wana nde okozongisa Bokonzi epai ya Isalaele?
+044	ACT	001	007	Yesu azongiselaki bango: — Likambo ya koyeba tango to mikolo oyo Tata abongisa, na mokano na Ye moko, etali bino te.
+044	ACT	001	008	Kasi bokozwa nguya, wana Molimo Mosantu akokitela bino; mpe bokozala batatoli na Ngai kati na Yelusalemi, na etuka mobimba ya Yuda, ya Samari, mpe kino na basuka ya mokili.
+044	ACT	001	009	Sima na Yesu koloba bongo, amemamaki, wana bazalaki kotala, mpe lipata moko ezipaki Ye na miso na bango.
+044	ACT	001	010	Mpe wana bazalaki nanu kotala na likolo ndenge Yesu azali komata, mbala moko bato mibale balata bilamba ya pembe-pembe batelemaki pembeni na bango mpe balobaki:
+044	ACT	001	011	— Bato ya Galile, mpo na nini botikali awa na kotala na likolo? Yesu oyo alongwe kati na bino mpo na kokende na Likolo, akozonga ndenge kaka bomoni Ye kokende na Likolo.
+044	ACT	001	012	Bantoma bazongaki na Yelusalemi wuta na ngomba oyo babengaka Ngomba ya banzete ya Olive, oyo ezali pene ya Yelusalemi, na mosika ya bametele pene nkoto moko.
+044	ACT	001	013	Tango bakomaki, bamataki na shambre ya likolo, kati na etaje epai wapi bazalaki kosangana mbala na mbala. Ezalaki: Petelo, Yoane, Jake, Andre, Filipo, Toma, Bartelemi, Matayo; Jake, mwana mobali ya Alife; Simona oyo azalaki moto ya lingomba ya Bazelote; mpe Jide, mwana mobali ya Jake.
+044	ACT	001	014	Bango nyonso, na motema moko, bazalaki na molende ya kosangana mbala na mbala mpo na kosambela elongo na basi, elongo na Mari, mama ya Yesu, mpe elongo na bandeko ya Yesu.
+044	ACT	001	015	Mokolo moko kati na mikolo yango, Petelo atelemaki kati na bandimi pene nkama moko na tuku mibale
+044	ACT	001	016	mpe alobaki na bango: « Bandeko na ngai, esengelaki ete masakoli ya Makomi ekokisama; pamba te Molimo Mosantu aloba wuta kala, na nzela ya Davidi, na tina na Yuda oyo atambolisaki bato oyo bakangaki Yesu.
+044	ACT	001	017	Azalaki moko kati na biso mpe asanganaki elongo na biso kati na lotomo oyo epesamelaki biso. »
+044	ACT	001	018	Na nzela ya mbongo oyo azwaki lokola lifuti ya mabe na ye, asombaki elanga; akweyaki kuna moto na se, libumu na ye epasukaki, mpe misopo na ye nyonso epanzanaki.
+044	ACT	001	019	Bato nyonso ya Yelusalemi bayokaki sango yango; yango wana bakomaki kobenga elanga yango « Akelidama » oyo elingi koloba, na lokota na bango: Elanga ya makila.
+044	ACT	001	020	Nzokande, ekomama boye kati na buku ya banzembo: « Tika ete ndako na ye etikala polele, mpe tika ete moto moko te avanda kati na yango! » Mpe: « Tika ete moto mosusu azwa mokumba na ye! »
+044	ACT	001	021	Boye, tosengeli kopona moto moko kati na mibali oyo bazalaki elongo na biso tango nyonso oyo Nkolo Yesu azalaki kotambola na mokili elongo na biso,
+044	ACT	001	022	kobanda na tango oyo Yoane abatisaki Ye kino na mokolo oyo balongolaki Ye kati na biso. Pamba te moko kati na mibali yango asengeli kokoma, elongo na biso, motatoli ya lisekwa na Ye.
+044	ACT	001	023	Bapesaki bakombo ya bato mibale: Jozefi oyo babengaki « Barsabasi » mpe ayebanaki lisusu na kombo Yusitusi, mpe Matiasi.
+044	ACT	001	024	Bongo basambelaki boye: « Oh Nkolo, Yo oyo oyebi mitema ya bato nyonso, lakisa biso nani oyo oponi kati na bato oyo mibale,
+044	ACT	001	025	mpo ete akoma ntoma mpe azwa, kati na lotomo oyo ya bontoma, esika oyo Yuda atikaki mpo na kokende na esika oyo ebongi na ye. »
+044	ACT	001	026	Bongo babetaki zeke, mpe zeke ekweyaki epai ya Matiasi; boye Matiasi aponamaki, mpe babakisaki ye na lisanga ya bantoma zomi na moko.
+044	ACT	002	001	Tango mokolo ya Pantekoti ekomaki, bango nyonso basanganaki esika moko.
+044	ACT	002	002	Mbala moko, lokito moko ewutaki na likolo lokola lokito ya mopepe makasi, mpe etondisaki ndako mobimba epai wapi bazalaki kosangana.
+044	ACT	002	003	Bamonaki biloko moko lokola ndemo ya moto kokabwana mpe kovanda na moto ya moko na moko kati na bango.
+044	ACT	002	004	Bango nyonso batondisamaki na Molimo Mosantu mpe babandaki koloba na nkota mosusu, ndenge Molimo azalaki kolakisa bango.
+044	ACT	002	005	Nzokande, kati na Yelusalemi, ezalaki na Bayuda oyo babangaka Nzambe, oyo bawutaki na bikolo nyonso ya mokili.
+044	ACT	002	006	Tango bayokaki lokito wana, ebele ya bato bayaki mbangu kosangana wana mpe bakomaki kokamwa, pamba te moko na moko kati na bango azalaki koyoka bango koloba na monoko na ye ya mboka.
+044	ACT	002	007	Bakamwaki mingi penza mpe bakomaki kotuna: « Boni, bato nyonso oyo bazali koloba, bazali bato ya Galile te?
+044	ACT	002	008	Boye, ndenge nini moto na moto kati na biso azali koyoka bango koloba na monoko na ye ya mboka?
+044	ACT	002	009	Bato ya Parte, ya Mede mpe ya Elami, bavandi ya Mezopotami, ya Yuda, ya Kapadose, ya Ponti mpe ya Azia,
+044	ACT	002	010	ya Friji mpe ya Pafili, ya Ejipito mpe ya Libi oyo ezali pembeni ya Sirene, bapaya oyo bawutaki na Rome,
+044	ACT	002	011	bango nyonso, ezala Bayuda to bapaya oyo bakota na lingomba ya Bayuda: bato ya Kreti mpe ya Arabi, biso nyonso tozali koyoka bango kotatola misala minene ya Nzambe, na nkota na biso ya mboka! »
+044	ACT	002	012	Bango nyonso, elekelaki bango, bazalaki kokamwa mingi mpe bakomaki kotunana: « Likambo oyo elingi koloba nini? »
+044	ACT	002	013	Nzokande, bato mosusu bazalaki koseka bango mpe koloba: « Balangwe vino ya sika. »
+044	ACT	002	014	Petelo atelemaki elongo na bantoma zomi na moko; mpe na mongongo makasi, alobaki na ebele ya bato: — Bino Bayuda, mpe bino nyonso oyo bovandaka na Yelusalemi, botika ete nalimbola mpo na bino likambo oyo, boyoka malamu makambo oyo nalingi koloba.
+044	ACT	002	015	Bato oyo balangwe masanga te ndenge bozali kokanisa. Pamba te tozali nanu na ngonga ya libwa ya tongo.
+044	ACT	002	016	Kasi ezali nde makambo oyo mosakoli Joeli alobaki:
+044	ACT	002	017	« Na mikolo ya suka, elobaki Nzambe, nakosopa Molimo na Ngai kati na bato nyonso. Bana na bino ya mibali mpe ya basi bakosakola; bilenge na bino bakozwa bimoniseli, mibange na bino bakolota bandoto.
+044	ACT	002	018	Solo, na mikolo wana, nakosopa Molimo na Ngai kati na basali na Ngai ya mibali mpe ya basi, mpe bakosakola.
+044	ACT	002	019	Nakolakisa bikamwa kuna na Likolo, mpe bilembo ya kokamwa awa na mokili: makila, moto mpe likonzi ya milinga.
+044	ACT	002	020	Moyi ekobongwana molili, sanza ekobongwana makila liboso ete mokolo ya Nkolo ekoma, mokolo oyo ya monene mpe ya nkembo.
+044	ACT	002	021	Boye, moto nyonso oyo akobelela Kombo ya Nkolo akobikisama. »
+044	ACT	002	022	Bato ya Isalaele, boyoka maloba oyo: Yesu ya Nazareti, moto oyo, na nzela ya bikamwa, ya bilembo mpe ya misala ya minene, Nzambe alakisaki bino ete awutaki epai na Ye ndenge bino moko boyebi yango,
+044	ACT	002	023	akabamaki na maboko na bino kolanda mokano oyo Nzambe asila kozwa na mabongisi na Ye wuta kala. Bongo bino, na lisungi ya bato mabe, bobomaki Ye na kobaka Ye na ekulusu.
+044	ACT	002	024	Kasi Nzambe abukaki minyololo ya kufa, asekwisaki Ye, pamba te ekokaki kosalema te ete kufa ekanga Ye.
+044	ACT	002	025	Boye, tala makambo oyo Davidi aloba na tina na Ye: « Nazalaki komona Nkolo mikolo nyonso liboso na ngai, pamba te azali pene na ngai mpo ete naningana te.
+044	ACT	002	026	Yango wana, motema na ngai etondi na esengo, mpe lolemo na ngai ezali kosepela. Solo, nzoto na ngai ekopema na elikya,
+044	ACT	002	027	pamba te okosundola ngai te kati na mboka ya bakufi mpe okotika te ete mosantu na Yo apola. (Hadēs g86)
+044	ACT	002	028	Pamba te olakisaki ngai nzela ya bomoi, mpe okotondisa ngai na esengo kati na bozalisami na Yo. »
+044	ACT	002	029	Bandeko na ngai, tika ete naloba na bino solo na tina na Davidi, koko na biso, ete akufa mpe bakunda ye; mpe kunda na ye ezali awa kino lelo.
+044	ACT	002	030	Kasi azalaki mosakoli mpe ayebaki ete Nzambe apesaki ye elaka, na nzela ya ndayi, ete moko kati na bakitani na ye akovanda na kiti na ye ya bokonzi.
+044	ACT	002	031	Davidi amonaki makambo oyo wuta kala, alobelaki lisekwa ya Klisto ete Nzambe akosundola Ye te kati na mboka ya bakufi mpe akotika te ete nzoto na Ye epola. (Hadēs g86)
+044	ACT	002	032	Nzambe asekwisaki Yesu kati na bakufi; boye biso nyonso tozali batatoli ya lisekwa yango.
+044	ACT	002	033	Sima na loboko ya mobali ya Nzambe konetola Ye, azwaki epai ya Tata, Molimo Mosantu oyo Ye Tata alakaki, mpe asopeli biso Molimo Mosantu yango ndenge bozali komona mpe koyoka sik’oyo.
+044	ACT	002	034	Pamba te, Davidi amataki te na Likolo, kasi alobaki: « Nkolo alobaki na Nkolo na ngai: ‹ Vanda na ngambo ya loboko na Ngai ya mobali
+044	ACT	002	035	kino nakomisa banguna na Yo enyatelo makolo na Yo. › »
+044	ACT	002	036	Boye, tika ete bato nyonso ya Isalaele bayeba na bosolo ete Nzambe akomisi Yesu oyo bobakaki na ekulusu Nkolo mpe Klisto.
+044	ACT	002	037	Tango bato bayokaki bongo, mitema na bango eyokaki pasi makasi mpe balobaki na Petelo mpe bantoma mosusu: — Bandeko, tosala nini?
+044	ACT	002	038	Petelo azongiselaki bango: — Bobongola mitema; tika ete moko na moko kati na bino azwa libatisi na Kombo na Yesu-Klisto mpo ete masumu na ye elimbisama, bongo bokozwa likabo ya Molimo Mosantu.
+044	ACT	002	039	Pamba te elaka oyo ezali mpo na bino, mpo na bana na bino mpe mpo na bavandi nyonso ya bikolo ya mosika, bato nyonso oyo Nkolo, Nzambe na biso, akobenga.
+044	ACT	002	040	Petelo azalaki kokebisa bango na maloba ebele mpe azalaki kolendisa bango na maloba oyo: — Boyamba lobiko mpo ete bozwa etumbu te oyo ezali kozela bato mabe.
+044	ACT	002	041	Bato oyo bandimaki mateya ya Petelo bazwaki libatisi. Mpe na mokolo wana, bato pene nkoto misato babakisamaki na lisanga ya bandimi.
+044	ACT	002	042	Bazalaki komipesa mingi penza na malakisi ya bantoma, na kozala lisanga, na kobuka lipa mpe na kosambela.
+044	ACT	002	043	Bato nyonso batondisamaki na somo, mpo ete bantoma bazalaki kosala makamwisi ebele mpe bilembo ya kokamwa.
+044	ACT	002	044	Bandimi nyonso bakomaki na bomoko, mpe biloko na bango ezalaki mpo na bango nyonso.
+044	ACT	002	045	Bazalaki koteka mabele na bango mpe biloko na bango, mpe bazalaki kokabola mbongo kati na bango, ndenge ezalaki posa ya moto na moto.
+044	ACT	002	046	Mikolo nyonso bazalaki kokoba kosangana na Tempelo. Bazalaki kokabola lipa na bandako na bango, kolia bilei na bango na esengo nyonso mpe na motema ya komikitisa.
+044	ACT	002	047	Bazalaki kokumisa Nzambe, mpe bato nyonso bazalaki kolinga bango. Bongo, mikolo nyonso, Nkolo azalaki kobakisa na lisanga na bango bato oyo bazalaki kobika.
+044	ACT	003	001	Ezalaki mokolo moko, Petelo mpe Yoane bakendeki na Tempelo na tango ya mabondeli: ezalaki na ngonga ya misato sima na midi.
+044	ACT	003	002	Nzokande, ezalaki mpe na bato moko oyo bazalaki komema moto moko akufa makolo wuta abotama, mpe bazalaki kotia ye mikolo nyonso na ekuke ya Tempelo mpo ete asengaka mbongo epai ya bato oyo bazalaki kokota. Bazalaki kobenga ekuke yango « Ekuke ya kitoko. »
+044	ACT	003	003	Tango amonaki Petelo mpe Yoane kokota na Tempelo, asengaki bango likabo ya mawa.
+044	ACT	003	004	Boye, Petelo mpe Yoane batalaki ye malamu, mpe Petelo alobaki na ye: — Tala biso!
+044	ACT	003	005	Moto yango atalaki bango malamu penza, na likanisi ya kozwa eloko epai na bango.
+044	ACT	003	006	Kasi Petelo alobaki na ye: — Nazangi mbongo to wolo ya kopesa yo, kasi oyo nazali na yango, nazali kopesa yo yango: na Kombo na Yesu-Klisto ya Nazareti, telema mpe tambola.
+044	ACT	003	007	Bongo, asimbaki ye na loboko ya mobali mpe atelemisaki ye. Mbala moko, makolo na ye ekomaki makasi.
+044	ACT	003	008	Mbala moko, atelemaki mpe abandaki kotambola, akotaki nzela moko na bango kati na lopango ya Tempelo: azalaki kotambola, kopumbwa mpe kokumisa Nzambe.
+044	ACT	003	009	Tango bato nyonso bamonaki ye kotambola mpe kokumisa Nzambe,
+044	ACT	003	010	basosolaki ete ezali moto oyo azalaki kovanda na « Ekuke ya kitoko » ya Tempelo mpo na kosenga makabo ya mawa. Bango nyonso bakamwaki mingi penza, mpe somo ekangaki bango mpo na makambo oyo esalemaki epai na ye.
+044	ACT	003	011	Lokola moto yango atingamaki na Petelo mpe Yoane, bato nyonso bakamwaki mpe bayaki na lombangu epai na bango, na esika oyo babengaka « Veranda ya Salomo. »
+044	ACT	003	012	Tango Petelo amonaki bongo, alobaki na bango: — Bato ya Isalaele, mpo na nini bozali kokamwa likambo oyo? Mpo na nini bozali kotala biso lokola nde biso bato tosali ete moto oyo atambola, na nzela ya nguya mpe botosi na biso kati na makambo ya Nzambe?
+044	ACT	003	013	Biso te! Ezali Nzambe ya Abrayami, Nzambe ya Izaki, mpe Nzambe ya Jakobi, Nzambe ya bakoko na biso, nde apesi nkembo na Yesu, Mosali na Ye, oyo bino bokabaki mpo ete baboma Ye. Yango wana, bowanganaki Ye liboso ya Pilato tango azwaki mokano ya kokangola Ye.
+044	ACT	003	014	Bowanganaki Ye oyo azali Mosantu mpe Sembo. Boye, bosengaki ete Pilato atikela bino mobomi na esika ya Yesu.
+044	ACT	003	015	Bobomaki nde Mobandisi ya bomoi. Kasi Nzambe asekwisaki Ye kati na bakufi, bongo biso tozali penza batatoli ya likambo yango.
+044	ACT	003	016	Ezali na nzela ya kondima kati na Kombo na Yesu nde moto oyo bozali komona mpe boyebi azwi makasi ya kotelema. Ezali Kombo na Yesu mpe kondima oyo ewuti kati na Yesu nde ekomisi nzoto na ye mobimba kolongono ndenge bozali komona yango.
+044	ACT	003	017	Sik’oyo bandeko na ngai, nayebi ete bosalaki makambo na kozanga boyebi, ndenge bakonzi na bino basalaki.
+044	ACT	003	018	Kasi ezali ndenge wana nde Nzambe akokisaki makambo oyo aloba wuta kala na nzela ya basakoli nyonso, ete Klisto na Ye asengeli komona pasi.
+044	ACT	003	019	Yango wana, bobongola mitema mpe bozonga epai ya Nzambe mpo ete alimbisa masumu na bino,
+044	ACT	003	020	mpe mpo ete Nkolo akoka kopesa bino tango ya kopema mpe akoka kotindela bino Klisto oyo apona mpo na bino—Ye nde Yesu.
+044	ACT	003	021	Asengeli kotikala kuna na Likolo kino na tango oyo Nzambe akobongisa biloko nyonso, ndenge alaka yango wuta kala na nzela ya babulami na Ye, basakoli. (aiōn g165)
+044	ACT	003	022	Pamba te Moyize alobaki: « Yawe, Nzambe na bino, akobimisela bino mosakoli moko lokola ngai, oyo akowuta kati na bandeko na bino; bosengeli kotosa nyonso oyo akoloba na bino.
+044	ACT	003	023	Moto nyonso oyo akotosa te mosakoli yango, bakolongola ye kati na bato na ye na nzela ya kufa. »
+044	ACT	003	024	Basakoli nyonso, kobanda na Samuele kino na basakoli oyo bayaki sima na ye, bango nyonso basakolaki na tina na makambo oyo ezali kosalema na mikolo oyo.
+044	ACT	003	025	Bino nde bozali bakitani ya basakoli mpe ya Boyokani oyo Nzambe asalaki elongo na bakoko na bino, tango alobaki na Abrayami: « Nakopambola mabota nyonso ya mokili na nzela ya bakitani na yo! »
+044	ACT	003	026	Tango Nzambe asekwisaki Mosali na Ye, atindaki Ye nanu epai na bino mpo ete apambola bino na kolongola, moko na moko kati na bino, mosika na banzela na bino ya mabe.
+044	ACT	004	001	Wana Petelo mpe Yoane bazalaki nanu koloba na bato, Banganga-Nzambe, mokonzi ya bakengeli ya Tempelo mpe Basaduseo bayaki,
+044	ACT	004	002	na kanda makasi ndenge bamonaki bantoma koteya bato mpe kotatola ete bakufi bakosekwa ndenge Yesu asekwaki.
+044	ACT	004	003	Bakangaki Petelo mpe Yoane, bongo babwakaki bango na boloko kino na mokolo oyo elandaki, pamba te pokwa esilaki kokoma.
+044	ACT	004	004	Kasi kati na bato oyo bayokaki mateya, mingi bandimaki yango; bongo motango ya bandimi ebakisamaki mpe bakomaki bato pene nkoto mitano.
+044	ACT	004	005	Boye, mokolo oyo elandaki, bakonzi ya Bayuda, bakambi ya bato mpe balakisi ya Mobeko basanganaki na Yelusalemi.
+044	ACT	004	006	Ana, mokonzi ya Banganga-Nzambe, azalaki wana elongo na Kayifa, Yoane, Alekizandre mpe bato mosusu ya libota ya mokonzi ya Banganga-Nzambe.
+044	ACT	004	007	Bamemaki Petelo mpe Yoane liboso na bango, mpe bakomaki kotuna bango mituna: — Bozali kosala makambo oyo na nguya nini to na kombo ya nani?
+044	ACT	004	008	Bongo, Petelo oyo atondisamaki na Molimo Mosantu alobaki na bango: — Bakonzi mpe bakambi ya bato!
+044	ACT	004	009	Lokola botuni biso lelo na tina na bolamu oyo esalemi epai ya mokufi makolo mpe ndenge nini asili kobika,
+044	ACT	004	010	tika ete, bino nyonso mpe bato nyonso ya Isalaele, boyeba ete ezali na Kombo na Yesu-Klisto ya Nazareti nde moto oyo atelemi liboso na bino na nzoto kolongono; kaka Yesu oyo bino bobakaki na ekulusu, kasi Nzambe asekwisaki Ye kati na bakufi.
+044	ACT	004	011	Ye nde azali « libanga oyo bino, batongi ndako, bobwakaki, kasi ekomi libanga ya songe ya ndako, mpe esimbi ndako mobimba. »
+044	ACT	004	012	Lobiko ekoki kozwama na moto mosusu te, pamba te kombo mosusu ezali te na mokili, oyo epesama na bato, oyo ekoki kobikisa biso.
+044	ACT	004	013	Wana bamonaki ndenge nini Petelo mpe Yoane bazalaki koloba na mpiko, mpe wana basosolaki ete bazali bato batanga te mpe bato pamba, bakamwaki mingi. Boye, basosolaki ete bango mpe bazalaki elongo na Yesu.
+044	ACT	004	014	Kasi, lokola bazalaki komona moto oyo abikisamaki atelemi elongo na bango, bazalaki ata na liloba moko te ya koloba.
+044	ACT	004	015	Bongo, bapesaki mitindo ete babimisa bango na Likita-Monene; mpe batikalaki bango moko mpo na koyekola likambo yango malamu.
+044	ACT	004	016	Bazalaki kotunana: — Tosala penza nini na bato oyo? Pamba te bavandi nyonso ya Yelusalemi bayebi malamu ete bango nde basalaki likamwisi wana ya monene; tokoki kowangana yango te.
+044	ACT	004	017	Kasi, mpo ete sango ya likambo oyo ekoba te kopanzana kati na bato, tokebisa bango boye: « Bomeka lisusu te koloba na Kombo na Yesu, ezala ata na nani! »
+044	ACT	004	018	Bongo, babengaki Petelo elongo na Yoane mpe bapekisaki bango ete bameka lisusu te koloba to koteya na Kombo na Yesu, ezala ata na lolenge nini.
+044	ACT	004	019	Kasi Petelo mpe Yoane bazongiselaki bango: — Botala nanu ata bino moko, eloko nini ezali sembo na miso ya Nzambe: kotosa bino to kotosa Nzambe?
+044	ACT	004	020	Pamba te biso, tokokoka te kotika koloba makambo oyo tomonaki mpe toyokaki!
+044	ACT	004	021	Sima na kogangela bango, batikaki bango mpo ete bakende, pamba te bamonaki te ndenge nini bakokaki kopesa bango etumbu, mpo ete bato nyonso bazalaki kokumisa Nzambe mpo na likambo oyo esalemaki.
+044	ACT	004	022	Pamba te moto oyo abikaki na ndenge ya kokamwa azalaki na mibu koleka tuku minei.
+044	ACT	004	023	Tango batikaki bango, Petelo mpe Yoane bakendeki koyebisa baninga na bango makambo nyonso oyo bakonzi ya Banganga-Nzambe mpe bakambi balobelaki bango.
+044	ACT	004	024	Tango bayokaki bongo, batombolaki mingongo na bango elongo mpo na kobondela Nzambe; balobaki: — Nkolo Yawe, Yo nde okela Likolo, mabele, ebale monene mpe nyonso oyo ezali kati na yango;
+044	ACT	004	025	Yo nde olobaki na nzela ya Molimo Mosantu, na monoko ya koko na biso, Davidi, mosali na yo: « Mpo na nini bikolo ezali kosala makelele, mpe bato bazali kosala makita ya pamba?
+044	ACT	004	026	Bakonzi ya mokili batomboki, mpe bakambi basangani mpo na kotelemela Nkolo mpe Mopakolami na Ye. »
+044	ACT	004	027	Pamba te, Erode mpe Ponse Pilato basanganaki penza kati na engumba oyo, elongo na bato ya bikolo mosusu mpe bana ya Isalaele, mpo na kosalela Yesu likita, Mosali na Yo, Mosantu, oyo obulisa.
+044	ACT	004	028	Ezali ndenge wana nde bakokisaki mabongisi oyo osala wuta kala, na nguya mpe na mokano na Yo.
+044	ACT	004	029	Sik’oyo Nkolo, tala ndenge bazali kotungisa biso, mpe pesa basali na Yo makasi ya koteya Liloba na Yo na molende nyonso.
+044	ACT	004	030	Boye, sembola loboko na Yo mpo na kobikisa babeli, kosala bilembo ya kokamwa mpe misala minene, na Kombo na Yesu, Mosali na Yo, Mosantu.
+044	ACT	004	031	Boye, tango basilisaki kobondela, esika oyo basanganaki eninganaki; bango nyonso batondisamaki na Molimo Mosantu mpe bakomaki koteya Liloba na Nzambe na molende nyonso.
+044	ACT	004	032	Bandimi nyonso bazalaki motema moko mpe makanisi moko. Moko te kati na bango azalaki koloba ete biloko na ye ezali kaka ya ye moko, kasi biloko nyonso ezalaki mpo na bango nyonso.
+044	ACT	004	033	Bantoma bakobaki kotatola lisekwa ya Nkolo Yesu na nguya monene, mpe ngolu monene ezalaki na bango nyonso.
+044	ACT	004	034	Moko te kati na bango akelelaki; pamba te bato oyo bazalaki na mabele to na bandako bazalaki koteka yango, bazalaki komema mbongo oyo batekelaki
+044	ACT	004	035	mpe kotia yango na makolo ya bantoma. Bantoma bazalaki kokabola yango na moto na moto, kolanda bosenga na ye.
+044	ACT	004	036	Boye, Jozefi, moto ya libota ya Levi, oyo abotama na esanga Shipre mpe bantoma bapesaki ye kombo mosusu, Barnabasi oyo elakisi « molendisi, »
+044	ACT	004	037	atekaki mpe elanga na ye mpe amemaki mbongo epai ya bantoma.
+044	ACT	005	001	Nzokande, ezalaki na moto moko na kombo Ananiasi. Atekaki eteni ya mabele na ye na boyokani na Safira, mwasi na ye.
+044	ACT	005	002	Abombaki ndambo ya mbongo mpo na ye moko, boye amemaki ndambo oyo etikalaki mpe apesaki yango na bantoma. Mwasi na ye mpe ayebaki yango.
+044	ACT	005	003	Boye, Petelo atunaki ye: — Ananiasi, ndenge nini Satana atondisi motema na yo mpo ete okosa Molimo Mosantu, mpe obomba ndambo ya mbongo oyo otekeli elanga na yo?
+044	ACT	005	004	Boni, liboso ete oteka yango, ezalaki ya yo te? Mpe sima na koteka yango, okokaki te kosala na mbongo yango likambo nyonso oyo motema na yo elingi? Mpo na nini ozwaki likanisi ya kosala likambo ya boye? Okosi bato te, kasi okosi nde Nzambe!
+044	ACT	005	005	Tango Ananiasi ayokaki bongo, akweyaki mpe akufaki. Bongo, bato nyonso oyo bayokaki likambo yango batondaki na somo.
+044	ACT	005	006	Boye, bilenge mibali bayaki, bazipaki nzoto na ye mpe bamemaki yango libanda mpo na kokunda yango.
+044	ACT	005	007	Sima na ngonga pene misato, mwasi ya Ananiasi akotaki, kasi ayebaki te likambo oyo ewutaki kosalema.
+044	ACT	005	008	Petelo atunaki ye: — Yebisa ngai, ezali na talo wana nde yo mpe Ananiasi botekaki elanga wana? Safira azongisaki: — Ezali bongo, etekamaki Kaka na talo wana.
+044	ACT	005	009	Petelo alobaki na ye: — Mpo na nini boyokanaki mpo na komeka Molimo ya Nkolo? Yoka, makolo ya bato oyo bawuti kokunda mobali na yo esili kokoma liboso ya ekuke; yo mpe, bakomema yo.
+044	ACT	005	010	Kaka na tango yango, akweyaki liboso ya Petelo mpe akufaki. Boye tango bilenge mibali bakotaki, bakutaki ye ya kokufa. Bamemaki ye mpe bakendeki kokunda ye pembeni ya mobali na ye.
+044	ACT	005	011	Somo monene etondisaki Lingomba mobimba mpe bato nyonso oyo bayokaki sango yango.
+044	ACT	005	012	Bantoma bazalaki kosala bilembo mingi ya kokamwa mpe misala minene kati na bato. Boye, bandimi nyonso bazalaki na momesano ya kosangana na veranda ya Salomo.
+044	ACT	005	013	Moko te kati na bato oyo bazalaki na lisanga na bango te azalaki komeka kosangana na bango, ata bato bazalaki kopesa bango lokumu mingi.
+044	ACT	005	014	Nzokande, mibali mpe basi ebele penza bazalaki kondimela Nkolo mpe kobakisama na lisanga na bango.
+044	ACT	005	015	Bongo, bazalaki komema babeli na babalabala, kolalisa bango na bambeto mpe na bitoko mpo ete tango Petelo akoleka, elilingi na ye ekoka kozipa bamoko kati na bango.
+044	ACT	005	016	Mpe lisusu, bato ebele oyo bazalaki kowuta na bingumba ya zingazinga bazalaki kosangana na Yelusalemi; bazalaki komema babeli na bango mpe bato oyo bazalaki kotungisama na milimo ya mbindo; mpe bango nyonso bazalaki kobikisama.
+044	ACT	005	017	Bongo mokonzi ya Banganga-Nzambe mpe bato nyonso oyo bazalaki kosala na ye elongo, oyo bazalaki bato ya lisanga ya Basaduseo, batondaki na zuwa.
+044	ACT	005	018	Bakangaki bantoma mpe babwakaki bango na boloko ya monene.
+044	ACT	005	019	Kasi na butu, anjelu moko ya Nkolo afungolaki bikuke ya boloko, abimisaki bantoma mpe alobaki na bango:
+044	ACT	005	020	— Bokende kotelema kati na Tempelo mpe kuna, boyebisa bato maloba nyonso ya bomoi oyo ya sika.
+044	ACT	005	021	Bantoma batosaki. Boye, na tongo-tongo, bakotaki na Tempelo mpe bakomaki koteya bato. Tango mokonzi ya Banganga-Nzambe mpe bato oyo basalaka na ye elongo bakomaki, babengisaki Likita-Monene—lisanga mobimba ya bakambi ya bana ya Isalaele—mpe bapesaki mitindo ete bakende kozwa bantoma na boloko.
+044	ACT	005	022	Kasi tango bakengeli bakomaki na boloko, bakutaki bango te. Bazongaki mpe balobaki:
+044	ACT	005	023	— Tokuti boloko ya kokangama malamu mpe bakengeli liboso ya bikuke; kasi tango tofungoli yango, tomoni ata moto moko te na kati.
+044	ACT	005	024	Tango mokonzi ya bakengeli ya Tempelo mpe bakonzi ya Banganga-Nzambe bayokaki sango yango, bakomaki mitema likolo mpe bakomaki kotunana soki likambo yango ekosuka ndenge nini.
+044	ACT	005	025	Bongo moto moko ayaki koyebisa bango: — Boyoka! Bato oyo bobwakaki na boloko, batelemi kuna na Tempelo mpe bazali koteya bato.
+044	ACT	005	026	Mbala moko, mokonzi ya bakengeli akendeki elongo na basoda na ye mpo na kozwa bantoma. Kasi amemaki bango na makasi te, pamba te bazalaki kobanga ete bato babamba bango mabanga.
+044	ACT	005	027	Wana bamemaki bango, batiaki bango liboso ya Likita-Monene, mpe mokonzi ya Banganga-Nzambe abandaki kotuna bango mituna.
+044	ACT	005	028	Alobaki: — Topekisaki bino ete bomeka lisusu te koteya na Kombo wana. Kasi tala sik’oyo ndenge botondisi Yelusalemi na mateya na bino mpe bolingi komemisa biso ngambo ya makila ya moto wana.
+044	ACT	005	029	Kasi Petelo mpe bantoma mosusu bazongisaki: — Esengeli kotosa Nzambe, kasi bato te!
+044	ACT	005	030	Nzambe ya bakoko na biso asekwisaki Yesu kati na bakufi, Yesu oyo bino bobomaki mpe bobakaki na nzete.
+044	ACT	005	031	Ezali Ye nde Nzambe atomboli na nzela ya loboko na Ye ya mobali lokola Mokonzi mpe Mobikisi, mpo ete bana ya Isalaele bakoka kozwa nzela ya kobongola mitema mpe kozwa bolimbisi ya masumu na bango.
+044	ACT	005	032	Biso, tozali batatoli ya makambo oyo; ndenge moko mpe Molimo Mosantu oyo Nzambe apesaki na bato oyo batosaka Ye azali motatoli ya makambo yango.
+044	ACT	005	033	Tango bayokaki bongo, batombokaki makasi mpe bazwaki mokano ya kobomisa bantoma.
+044	ACT	005	034	Kasi Mofarizeo Gamalieli, molakisi ya Mobeko mpe moto ya lokumu mingi na miso ya bato nyonso, atelemaki kati na Likita-Monene mpe atindaki ete babimisa bantoma mpo na mwa tango moke.
+044	ACT	005	035	Alobaki na bango: — Bato ya Isalaele, bosala keba mpo na makambo oyo bolingi kosala bato oyo.
+044	ACT	005	036	Eleki mikolo mingi te, moto moko na kombo Teodasi awutaki kobima. Azalaki komimona moto monene, mpe bato pene nkama minei bazalaki kolanda ye. Kasi tango babomaki ye, bato nyonso oyo bazalaki kolanda ye bapalanganaki mpe lisanga na ye ekufaki.
+044	ACT	005	037	Sima na ye, tango tozalaki kotanga motango ya bato kati na mokili, moto moko mpe lisusu na kombo Yuda, moto ya Galile, abimaki mpe amemaki bato ebele na botomboki. Ye mpe lisusu babomaki ye, bongo bato nyonso oyo bazalaki kolanda ye bapalanganaki.
+044	ACT	005	038	Yango wana, na likambo oyo, boyoka toli na ngai: Bokota lisusu makambo ya bato oyo te mpe botika bango bakende! Pamba te soki makanisi to mosala na bango ewuti na moto, solo, ekosuka kaka na nzela.
+044	ACT	005	039	Kasi soki yango ewuti na Nzambe, solo, bokolonga te kosukisa bato oyo. Bosala keba ete bobundisa Nzambe te. Bato ya Likita-Monene bandimaki likanisi ya Gamalieli,
+044	ACT	005	040	babengisaki bantoma, babetisaki bango bafimbu mpe bapekisaki bango ete bateya lisusu Kombo ya Yesu te. Sima na yango batikaki bango kokende.
+044	ACT	005	041	Bantoma balongwaki liboso ya Likita-Monene, na esengo mingi ya komona ete bakoki mpo na komona pasi na tina na Kombo na Yesu.
+044	ACT	005	042	Mokolo na mokolo bazalaki kotika te koteya, mpe kosakola Sango Malamu na Tempelo to na ndako moko na moko ete Yesu azali Klisto.
+044	ACT	006	001	Na mikolo wana, motango ya bayekoli ezalaki kaka kobakisama. Bayuda oyo bazalaki koloba lokota ya Greki bakomaki koyimayima mpo na kotelemela Bayuda oyo bazalaki koloba lokota ya Ebre, pamba te basi na bango oyo bakufisa mibali bazalaki kozangela na tango ya kokabola bilei ya mokolo na mokolo.
+044	ACT	006	002	Boye, bantoma zomi na mibale basangisaki bayekoli nyonso mpe balobaki na bango: — Ekozala malamu te mpo na biso kotika mosala ya koteya Liloba na Nzambe mpo na komipesa na mosala ya kokabola bilei.
+044	ACT	006	003	Yango wana bandeko, bopona mibali sambo kati na bino, oyo bayebana na bizaleli na bango ya malamu, oyo batonda na Molimo Mosantu mpe na bwanya mpo ete topesa bango mokumba yango.
+044	ACT	006	004	Boye, biso tokomipesa na mabondeli mpe na mosala ya koteya Liloba na Nzambe.
+044	ACT	006	005	Likanisi yango esepelisaki lisanga mobimba. Boye, baponaki Etieni, moto oyo atonda na kondima mpe na Molimo Mosantu; Filipo, Prokore, Nikanori, Timoni, Parimenasi mpe Nikola, moto ya Antioshe, oyo akotaki na lingomba ya Bayuda.
+044	ACT	006	006	Balakisaki bango epai ya Bantoma; Bantoma basambelaki mpo na bango mpe batiaki bango maboko.
+044	ACT	006	007	Boye, Liloba na Nzambe ezalaki kokoba kopanzana, motango ya bayekoli ezalaki mpe kobakisama makasi na Yelusalemi mpe Banganga-Nzambe ebele bakomaki kondimela Yesu.
+044	ACT	006	008	Nzokande, Etieni, moto oyo atondaki na ngolu mpe na nguya ya Nzambe, azalaki kosala bikamwa mpe bilembo minene kati na bato.
+044	ACT	006	009	Bongo bato mosusu ya ndako ya mayangani oyo ebengamaka Ndako ya mayangani ya bansomi: Bayuda ya Sirene, ya Alekizandri, ya bituka ya Silisi mpe ya Azia; bakomaki kotia tembe na miso ya Etieni.
+044	ACT	006	010	Kasi bazangaki makoki ya kotelemela bwanya mpe Molimo oyo azalaki kotinda ye koloba.
+044	ACT	006	011	Bongo, bapesaki kanyaka epai ya bato mpo ete baloba: « Toyokaki Etieni koloba maloba ya kofinga Moyize mpe Nzambe. »
+044	ACT	006	012	Batombokisaki bato, bakambi mpe balakisi ya Mobeko. Boye, bayaki kokanga Etieni na mbalakata mpe bamemaki ye na Likita-Monene.
+044	ACT	006	013	Kuna, babimisaki batatoli ya lokuta oyo balobaki: — Moto oyo azali kotika te koloba mabe mpo na kobebisa lokumu ya esika oyo ya bule mpe ya mibeko;
+044	ACT	006	014	pamba te toyokaki ye koloba ete Yesu ya Nazareti akobuka Tempelo oyo mpe akobongola bizaleli oyo Moyize atikela biso.
+044	ACT	006	015	Bato nyonso oyo bavandaki na Likita-Monene batalaki Etieni malamu penza, mpe bamonaki ete elongi na ye ekomaki lokola elongi ya anjelu.
+044	ACT	007	001	Bongo, mokonzi ya Banganga-Nzambe atunaki ye: — Boni, makambo oyo bafundeli yo ezali ya solo?
+044	ACT	007	002	Etieni azongisaki: — Batata mpe bandeko, boyoka ngai! Nzambe ya nkembo abimelaki koko na biso Abrayami tango azalaki na Mezopotami, liboso ete akende kovanda na Sharani.
+044	ACT	007	003	Boye, Nzambe alobaki na ye: « Longwa na mokili na yo mpe na libota na yo, mpe kende na mokili oyo nakolakisa yo! »
+044	ACT	007	004	Boye, alongwaki na mokili ya Chalide mpe akendeki kovanda na mokili ya Sharani. Sima na kufa ya tata na ye, Nzambe atindaki ye na mokili oyo, mokili oyo bino bozali kovanda sik’oyo.
+044	ACT	007	005	Apesaki ye mabele moko te awa, ezala ata mwa eteni. Kasi Nzambe apesaki ye elaka, ye elongo na bakitani na ye sima na ye, ete bakozwa mokili lokola libula, atako, na tango wana, Abrayami azalaki nanu na mwana te.
+044	ACT	007	006	Tala makambo oyo Nzambe alobaki: « Bakitani na ye bakozala bapaya kati na mokili ya bapaya; bakokomisa bango bawumbu mpe bakonyokola bango mibu nkama minei. »
+044	ACT	007	007	Kasi Nzambe alobaki lisusu: « Nakopesa etumbu na ekolo oyo ekokomisa bango bawumbu. Mpe na sima, bakobima longwa na mokili yango mpe bakosambela Ngai na esika oyo. »
+044	ACT	007	008	Bongo Nzambe asalaki boyokani elongo na Abrayami, mpe elembo ya boyokani yango ezalaki: kokatama ngenga. Abrayami abotaki Izaki mpe akataki ye ngenga na mokolo ya mwambe ya mbotama na ye; Izaki abotaki Jakobi mpe akataki ye ngenga, bongo Jakobi mpe abotaki bakoko na biso zomi na mibale mpe akataki bango ngenga.
+044	ACT	007	009	Lokola bakoko na biso bayokelaki Jozefi likunya, batekaki ye mpo ete azala mowumbu na Ejipito. Kasi Nzambe azalaki na ye elongo
+044	ACT	007	010	mpe akangolaki ye na minyoko na ye nyonso; Apesaki ye bwanya mpe asalelaki ye ngolu na miso ya Faraon, mokonzi ya Ejipito, oyo akomisaki ye moyangeli ya Ejipito mpe ya ndako na ye mobimba.
+044	ACT	007	011	Nzokande, nzala moko ya makasi ekotaki na Ejipito mobimba mpe na Kanana, ememaki pasi penza, bongo bakoko na biso bazalaki lisusu na eloko ya kolia te.
+044	ACT	007	012	Tango Jakobi ayokaki ete ble ezali na Ejipito, atindaki bakoko na biso mbala ya liboso.
+044	ACT	007	013	Na mbala ya mibale, Jozefi amilakisaki epai ya bandeko na ye, bongo Faraon ayaki koyeba libota ya Jozefi.
+044	ACT	007	014	Bongo, Jozefi atindaki ete bakende kozwa tata na ye Jakobi elongo na bandeko na ye nyonso. Bango nyonso bazalaki bato tuku sambo na mitano.
+044	ACT	007	015	Boye, Jakobi akendeki kovanda na Ejipito epai wapi ye elongo na bakoko na biso bakufaki.
+044	ACT	007	016	Bamemaki banzoto na bango na engumba ya Sishemi mpe bakundaki yango kati na kunda oyo Abrayami asombaki na mbongo epai ya bana ya Amori, tata ya Sishemi.
+044	ACT	007	017	Wana tango oyo Nzambe alingaki kokokisa elaka oyo apesaki na Abrayami ekomaki pene, motango ya bato na biso, kati na Ejipito, ekomaki ebele penza,
+044	ACT	007	018	kino mokonzi mosusu, oyo ayebaki Jozefi te, azwaki bokonzi na Ejipito.
+044	ACT	007	019	Na mayele mabe, mokonzi yango anyokolaki bakoko na biso kino kotinda bango na makasi ete babwaka bana na bango oyo babotami sika mpo ete bakufa.
+044	ACT	007	020	Ezalaki na tango wana nde Moyize abotamaki. Nzambe asalaki ye kitoko mingi. Babatelaki ye sanza misato na ndako ya tata na ye.
+044	ACT	007	021	Wana baboti na ye batiaki ye libanda, mwana mwasi ya Faraon azwaki ye mpe abokolaki ye lokola mwana na ye penza.
+044	ACT	007	022	Bayekolisaki Moyize na bwanya nyonso ya bato ya Ejipito, mpe akomaki moto na nguya na maloba mpe na misala.
+044	ACT	007	023	Tango Moyize akokisaki mibu tuku minei, azwaki mokano ya kokende kotala bandeko na ye, bana ya Isalaele.
+044	ACT	007	024	Awa amonaki moto moko ya Ejipito kobeta moto ya ekolo na ye, akotelaki moto ya Isalaele, azongisaki mabe na mabe epai ya moto ya Ejipito mpe abomaki ye.
+044	ACT	007	025	Moyize akanisaki ete bandeko na ye bakososola ete Nzambe azali kosalela ye mpo na kopesa bango lobiko, kasi basosolaki yango te.
+044	ACT	007	026	Mokolo oyo elandaki, Moyize akutaki bana ya Isalaele mibale kobunda. Bongo amekaki kozongisa boyokani kati na bango; alobaki na bango: « Ah baninga na ngai, bozali bandeko; mpo na nini bozali kosalana mabe? »
+044	ACT	007	027	Kasi moto oyo azalaki konyokola ndeko na ye atindikaki Moyize mpe alobaki: « Nani atie yo mokonzi mpe mosambisi kati na biso?
+044	ACT	007	028	Olingi koboma ngai ndenge obomaki moto ya Ejipito lobi? »
+044	ACT	007	029	Tango Moyize ayokaki bongo, akimaki na mokili ya Madiani epai wapi avandaki lokola mopaya mpe abotaki bana mibale ya mibali.
+044	ACT	007	030	Sima na mibu tuku minei, anjelu moko abimelaki Moyize kati na esobe, pene ya ngomba Sinai, kati na ndemo ya moto oyo ezalaki komata longwa kati na mwa nzete oyo ezalaki kopela.
+044	ACT	007	031	Tango Moyize amonaki yango, akamwaki makasi. Mpe awa azalaki kopusana mpo na kotala yango malamu, ayokaki mongongo ya Nkolo koloba:
+044	ACT	007	032	« Nazali Nzambe ya bakoko na yo, Nzambe ya Abrayami, Nzambe ya Izaki, mpe Nzambe ya Jakobi. » Moyize alengaki na somo mpe akokaki kutu kotala te.
+044	ACT	007	033	Bongo, Nkolo alobaki na ye: « Longola basandale na yo na makolo na yo, pamba te esika oyo otelemi ezali mabele ya bule.
+044	ACT	007	034	Namoni minyoko ya bato na Ngai kati na Ejipito. Nayoki kolela na bango mpe nakiti mpo na kokangola bango. Mpe yaka sik’oyo, nakotinda yo ete ozonga na Ejipito. »
+044	ACT	007	035	Kaka Moyize oyo bandeko na ye baboyaki na koloba na ye: « Nani atie yo mokonzi mpe mosambisi, » ye nde Nzambe atindaki mpo ete azala mokonzi mpe mokangoli na bango, na lisungi ya anjelu oyo abimelaki ye na mwa nzete.
+044	ACT	007	036	Abimisaki bango na mokili ya Ejipito, na nzela ya bikamwa mpe ya bilembo minene oyo asalaki kuna, na ebale monene ya Motane mpe na esobe, mibu tuku minei.
+044	ACT	007	037	Ezalaki kaka Moyize wana oyo alobaki na bana ya Isalaele: « Nzambe akobimisela bino mosakoli moko lokola ngai, oyo akowuta kati na bandeko na bino. »
+044	ACT	007	038	Azalaki kati na mayangani oyo bakoko na biso basanganaki na esobe; ye nde azalaki molobeli, kati na bakoko na biso mpe anjelu oyo asololaki na ye, na ngomba Sinai epai wapi azwaki Maloba ya bomoi mpo na kopesa biso.
+044	ACT	007	039	Kasi bakoko na biso baboyaki kotosa ye; batombokelaki ye mpe bazwaki likanisi ya kozonga na Ejipito.
+044	ACT	007	040	Balobaki na Aron: « Salela biso banzambe oyo bakotambola liboso na biso. Pamba te toyebi te soki makambo nini ekomeli Moyize oyo abimisaki biso na mokili ya Ejipito! »
+044	ACT	007	041	Ezalaki na mikolo wana nde basalaki nzambe ya ekeko, na lolenge ya mwana ngombe; babonzelaki nzambe yango ya ekeko mbeka mpe basalaki feti mpo na lokumu ya misala ya maboko na bango.
+044	ACT	007	042	Kasi Nzambe apesaki bango mokongo mpe atikaki bango kosambela mampinga ya likolo, ndenge ekomama kati na buku ya basakoli: « Oh bato ya Isalaele, boni, bozalaki kobonzela Ngai mbeka mpe kopesa Ngai makabo na mibu tuku minei oyo bolekisaki na esobe?
+044	ACT	007	043	Bomemaki nde ndako ya kapo ya Moloki mpe monzoto ya nzambe na bino Rofa, banzambe ya bikeko oyo bosalaki mpo na kogumbamela! Yango wana, nakotinda bino na bowumbu, mosika koleka Babiloni! »
+044	ACT	007	044	Bakoko na biso bazalaki na Ndako ya kapo ya Boyokani kati na esobe, batongaki yango ndenge Nzambe atindaki Moyize, kolanda ndakisa oyo amonaki.
+044	ACT	007	045	Sima na kozwa Ndako ya kapo yango, bakoko na biso na bokambami ya Jozue, bamemaki yango tango babotolaki mikili ya Bapagano, mikili oyo Nzambe abenganaki liboso na bango. Mpe Ndako ya kapo yango etikalaki kuna kino na tango ya Davidi;
+044	ACT	007	046	oyo azwaki ngolu na miso ya Nzambe mpe asengaki ete atongela Nzambe ya Jakobi ndako.
+044	ACT	007	047	Kasi Salomo nde moto atongelaki ye ndako.
+044	ACT	007	048	Nzokande, Ye-Oyo-Aleki-Likolo avandaka te kati na bandako oyo bato batonga, ndenge kaka mosakoli aloba:
+044	ACT	007	049	« Likolo ezali Kiti na Ngai ya bokonzi, mpe mabele ezali enyatelo makolo na Ngai. Ndako ya ndenge nini penza bokoki kotongela Ngai, elobi Nkolo, to esika ya bopemi ya ndenge nini penza bokoki kobongisela Ngai?
+044	ACT	007	050	Boni, ezali loboko na Ngai te nde esalaki biloko wana nyonso? »
+044	ACT	007	051	Bato ya mito makasi, ya mitema mabanga mpe bakufa matoyi! Bozali ndenge moko kaka na bakoko na bino: botelemelaka tango nyonso Molimo Mosantu!
+044	ACT	007	052	Boni, ezalaki solo ata na mosakoli moko oyo bakoko na bino bazangaki konyokola? Kutu, babomaki ezala basakoli oyo basakolaki koya ya Moyengebene, Ye oyo bosili sik’oyo koteka mpe koboma,
+044	ACT	007	053	bino bato oyo bozwaki Mobeko ya Nzambe na nzela ya ba-anjelu, kasi botosaki yango te.
+044	ACT	007	054	Tango bato ya Likita-Monene bayokaki bongo, batombokaki makasi mpe bakomaki kolia minu mpo na Etieni.
+044	ACT	007	055	Kasi lokola Etieni atondisamaki na Molimo Mosantu, atalaki na Likolo, amonaki nkembo ya Nzambe mpe Yesu atelema na ngambo ya loboko ya mobali ya Nzambe.
+044	ACT	007	056	Alobaki: — Botala, namoni Likolo efungwami mpe Mwana na moto atelema na ngambo ya loboko ya mobali ya Nzambe!
+044	ACT	007	057	Bongo, bakangaki matoyi na bango, bagangaki makasi penza, mpe bango nyonso basangelaki ye,
+044	ACT	007	058	bamemaki ye libanda ya engumba mpe babambaki ye mabanga. Na tango wana, batatoli batikaki bilamba na bango epai ya elenge mobali moko na kombo Saulo.
+044	ACT	007	059	Wana bazalaki kobamba ye mabanga, Etieni azalaki kosambela na koloba: — Nkolo Yesu, yamba molimo na ngai!
+044	ACT	007	060	Bongo, afukamaki mpe agangaki makasi: — Nkolo, kotangela bango lisumu oyo te! Tango kaka Etieni alobaki bongo, akufaki.
+044	ACT	008	001	Saulo mpe azalaki na molongo ya bato oyo bandimaki ete baboma Etieni. Kobanda na mokolo wana, minyoko ya makasi ekweyelaki Lingomba kati na Yelusalemi; mpe bandimi nyonso bapalanganaki na Yuda mpe na Samari, longola kaka bantoma.
+044	ACT	008	002	Bato oyo batosaka mibeko ya Nzambe bakundaki Etieni mpe balelaki ye mingi.
+044	ACT	008	003	Kasi Saulo akomaki koluka kopanza Lingomba; azalaki kokota na bandako nyonso mpo na kokanga mibali mpe basi, mpe kobwaka bango na boloko.
+044	ACT	008	004	Bandimi oyo bapalanganaki bazalaki koteya Liloba na Nzambe bisika nyonso bazalaki kokende.
+044	ACT	008	005	Filipo akendeki na engumba moko ya Samari mpe, kuna, ateyaki Klisto.
+044	ACT	008	006	Bongo tango ebele ya bato bayokaki mpe bamonaki bikamwa oyo asalaki, bakangamaki na makambo oyo Filipo azalaki koloba.
+044	ACT	008	007	Pamba te milimo ya mbindo ezalaki kobima kati na bato mingi na koganga makasi, mpe bato mingi oyo bakufa makolo mpe oyo batambolaka tengu-tengu babikaki.
+044	ACT	008	008	Boye, bato ya engumba yango batondisamaki na esengo makasi.
+044	ACT	008	009	Nzokande, wuta kala, kati na engumba yango, ezalaki na moto moko oyo kombo na ye ezalaki « Simona. » Azalaki kosala misala ya maji. Azalaki kokamwisa bato ya Samari mpe komimona moto monene.
+044	ACT	008	010	Bato nyonso, kobanda na bana mike kino na mikolo, bayokaki ye na bokebi mpe balobaki: « Moto oyo, azali penza nguya ya Nzambe, nguya oyo babengaka: Nguya monene. »
+044	ACT	008	011	Bazalaki kolanda ye mpo ete, wuta kala, azalaki kokamwisa bango na misala na ye ya maji.
+044	ACT	008	012	Kasi tango bandimaki Sango Malamu oyo Filipo ateyaki na tina na Bokonzi ya Nzambe mpe na tina na Kombo na Yesu-Klisto, mibali mpe basi bazwaki libatisi.
+044	ACT	008	013	Simona mpe andimaki mpe azwaki libatisi; azalaki kolanda Filipo bisika nyonso oyo azalaki kokende, mpe azalaki kokamwa bilembo minene mpe bikamwa oyo ezalaki kosalema na miso na ye.
+044	ACT	008	014	Tango bantoma, kati na Yelusalemi, bayokaki ete bato ya Samari bayambi Liloba na Nzambe, batindelaki bango Petelo mpe Yoane.
+044	ACT	008	015	Tango bakomaki kuna, basambelaki mpo na bandimi ya sika mpo ete bazwa Molimo Mosantu,
+044	ACT	008	016	pamba te Molimo Mosantu akitelaki nanu ata moto moko te kati na bango; bazwaki kaka libatisi na Kombo ya Nkolo Yesu.
+044	ACT	008	017	Bongo, Petelo mpe Yoane batielaki bango maboko, mpe bazwaki Molimo Mosantu.
+044	ACT	008	018	Tango Simona amonaki ete bato oyo bandimaki bazwaki Molimo Mosantu, wana bantoma batielaki bango maboko, apesaki Petelo mpe Yoane mbongo;
+044	ACT	008	019	mpe alobaki: — Bopesa ngai mpe nguya oyo, mpo ete moto nyonso oyo nakotiela maboko akoka kozwa Molimo Mosantu.
+044	ACT	008	020	Kasi Petelo azongiselaki ye: — Mpo ete okanisi ete okoki kosomba likabo ya Nzambe na nzela ya mbongo, tika ete yo mpe mbongo na yo bokufa!
+044	ACT	008	021	Solo, ozali na libula te to na makoki te kati na lotomo oyo, pamba te motema na yo ezali sembo te liboso ya Nzambe.
+044	ACT	008	022	Boye, bongwana na mabe na yo mpe bondela Nkolo ete alimbisa yo, soki ekoki kosalema, mpo na makanisi oyo ozalaki na yango kati na motema na yo.
+044	ACT	008	023	Pamba te namoni ete motema na yo etondi na zuwa mpe ozali mowumbu ya masumu.
+044	ACT	008	024	Simona azongisaki: — Bobondela Nkolo mpo na ngai mpo ete, kati na oyo bowuti koloba, eloko moko te ekomela ngai.
+044	ACT	008	025	Sima na bango kotatola mpe kosakola Liloba na Nkolo, Petelo mpe Yoane bazongaki na Yelusalemi; na nzela, bazalaki koteya Sango Malamu kati na bamboka ebele ya Samari.
+044	ACT	008	026	Anjelu ya Nkolo alobaki na Filipo: — Telema, kende na sude, na nzela ya esobe, nzela oyo ewuta na Yelusalemi mpe ekenda kino na Gaza.
+044	ACT	008	027	Boye, Filipo atelemaki mpe akendeki; na nzela, akutanaki na soda moko oyo baboma mokongo, moto ya mboka Etiopi; azalaki kalaka moko ya lokumu mpe azalaki na mokumba ya kobatela bomengo nyonso ya Kandase, mwasi mokonzi ya Etiopi. Moto yango ayaki na Yelusalemi mpo na kogumbamela;
+044	ACT	008	028	bongo wana azalaki kozonga na mboka na ye, azalaki ya kovanda kati na shar na ye mpe azalaki kotanga mokanda ya mosakoli Ezayi.
+044	ACT	008	029	Molimo alobaki na Filipo: — Kende mpe pusana pene ya shar wana.
+044	ACT	008	030	Filipo akendeki mbangu pene ya shar yango mpe ayokaki ye kotanga mokanda ya mosakoli Ezayi. Filipo atunaki ye: — Boni, ozali kososola makambo oyo ozali kotanga?
+044	ACT	008	031	Azongisaki: — Nakososola ndenge nini soki moto alimboleli ngai yango te? Boye abengaki Filipo ete amata na shar mpe avanda pembeni na ye.
+044	ACT	008	032	Tala eteni ya Makomi oyo azalaki kotanga: « Lokola mpate oyo bazali komema na esika oyo babomelaka banyama, lokola meme liboso ya moto oyo azali kolongola yango bapwale, afungolaki monoko na ye te.
+044	ACT	008	033	Basambwisaki ye mpe baboyaki kolongisa ye. Nani akoyebisa bakitani na ye? Pamba te balongoli bomoi na ye na mokili. »
+044	ACT	008	034	Bongo, soda oyo baboma nzoto ya mibali atunaki Filipo: — Nabondeli yo, yebisa ngai: mosakoli azali koloba makambo oyo na tina na nani? Azali koloba yango na tina na ye moko to na tina na moto mosusu?
+044	ACT	008	035	Filipo azwaki maloba mpe, na nzela ya eteni yango ya Makomi, ateyaki ye Sango Malamu ya Yesu.
+044	ACT	008	036	Wana bazalaki kokoba mobembo na bango, bakomaki na esika moko oyo ezalaki na mayi, mpe soda oyo baboma mokongo alobaki: — Tala mayi, yango oyo. Eloko nini ekoki kopekisa ngai kozwa libatisi? [
+044	ACT	008	037	Filipo alobaki: — Soki kaka ondimi wuta na motema na yo mobimba, okoki na yo kozwa libatisi. Moto yango azongisaki: — Nandimi ete Yesu-Klisto azali Mwana na Nzambe!]
+044	ACT	008	038	Mbala moko, apesaki mitindo ete batelemisa shar. Bongo bango mibale, Filipo mpe soda oyo baboma mokongo, bakitaki na mayi, mpe Filipo abatisaki ye.
+044	ACT	008	039	Tango babimaki na mayi, Molimo ya Nkolo alongolaki Filipo, mpe soda oyo baboma mokongo amonaki ye lisusu te, kasi akobaki mobembo na ye na esengo.
+044	ACT	008	040	Nzokande, Filipo amonanaki na Azoti; mpe longwa kuna, akendeki na Sezarea, wana azalaki koteya Sango Malamu kati na bamboka nyonso epai wapi azalaki kolekela.
+044	ACT	009	001	Nzokande, Saulo azalaki kaka kokanela mpe koluka koboma bayekoli ya Nkolo. Akendeki epai ya mokonzi ya Banganga-Nzambe,
+044	ACT	009	002	mpe asengaki ye mikanda ya mosala mpo na bandako ya mayangani ya Damasi, mpo ete, soki akuti kuna bato oyo bazali kolanda nzela ya Nkolo, akanga bango mpe amema bango na Yelusalemi, ezala basi to mibali.
+044	ACT	009	003	Wana azalaki kokende na Damasi mpe akomaki pene ya engumba yango, amonaki mbala moko pole moko kowuta na likolo mpe kongengela ye.
+044	ACT	009	004	Akweyaki na mabele mpe ayokaki mongongo moko koloba na ye: — Saulo, Saulo, mpo na nini ozali konyokola Ngai?
+044	ACT	009	005	Saulo atunaki: — Nkolo, yo nani? Mongongo ezongisaki: — Ngai, nazali Yesu oyo yo ozali konyokola.
+044	ACT	009	006	Kasi sik’oyo, telema, kota kati na engumba, mpe, kuna, bakoyebisa yo makambo oyo osengeli kosala.
+044	ACT	009	007	Bato oyo bazalaki kokende mobembo elongo na Saulo batelemaki mpe bazangaki maloba ya koloba; bayokaki mongongo yango, kasi bamonaki moto moko te.
+044	ACT	009	008	Saulo atelemaki wuta na mabele; kasi tango afungolaki miso, amonaki lisusu te. Boye, basimbaki ye na loboko mpe bamemaki ye na Damasi.
+044	ACT	009	009	Mikolo misato, akokaki komona te, aliaki eloko te mpe amelaki eloko te.
+044	ACT	009	010	Kati na Damasi, ezalaki na moyekoli moko oyo kombo na ye ezalaki « Ananiasi. » Nkolo abengaki ye kati na emoniseli: — Ananiasi! Azongisaki: — Nkolo, ngai oyo!
+044	ACT	009	011	Nkolo alobaki na ye: — Telema, kende na ndako ya Yuda, oyo ezali na balabala oyo babengaka « Alima » mpe tuna moto moko ya mboka Tarse, kombo na ye « Saulo. » Azali kosambela
+044	ACT	009	012	mpe, kati na emoniseli, awuti komona moto moko kokota mpe kotia ye maboko mpo ete amona lisusu; kombo na ye « Ananiasi. »
+044	ACT	009	013	Ananiasi azongisaki: — Nkolo, bato ebele bayebisi ngai makambo na tina na moto yango mpe mabe nyonso oyo asali babulami na Yo, na Yelusalemi.
+044	ACT	009	014	Mpe ayei awa, na Damasi, mpo ete bakonzi ya Banganga-Nzambe bapesi ye bokonzi ya kokanga bato nyonso oyo babelelaka Kombo na Yo.
+044	ACT	009	015	Kasi Nkolo alobaki na Ananiasi: — Kende, pamba te nasila kopona moto wana lokola esalelo na Ngai mpo na kosakola Kombo na Ngai epai ya bikolo ya bapaya, epai ya bakonzi na bango mpe epai ya bana ya Isalaele.
+044	ACT	009	016	Nakolakisa ye ndenge nini asengeli konyokwama mpo na Kombo na Ngai.
+044	ACT	009	017	Boye, Ananiasi akendeki mpe akotaki kati na ndako; atielaki Saulo maboko na koloba: — Ndeko na ngai, Saulo; Nkolo Yesu oyo abimelaki yo na nzela, wana ozalaki koya awa, atindi ngai mpo ete omona lisusu mpe otonda na Molimo Mosantu.
+044	ACT	009	018	Kaka na tango yango, biloko moko lokola biteku ekweyaki wuta na miso ya Saulo, mpe akomaki lisusu komona. Atelemaki mpe azwaki libatisi;
+044	ACT	009	019	mpe, sima na ye kolia, nzoto na ye ezongaki lisusu makasi. Saulo avandaki mwa mikolo elongo na bayekoli oyo bazalaki kati na Damasi.
+044	ACT	009	020	Kaka na tango yango, abandaki koteya na bandako ya mayangani ete Yesu azali Mwana na Nzambe.
+044	ACT	009	021	Bato nyonso oyo bayokaki ye bakamwaki mingi mpe batunaki: — Boni, ezali ye te moto oyo azalaki konyokola makasi, kati na Yelusalemi, bato oyo babelelaka Kombo ya Yesu? Boni, ayei awa te mpo na kokanga mpe komema bango epai ya bakonzi ya Banganga-Nzambe?
+044	ACT	009	022	Nzokande, kondima ya Saulo ezalaki se kokoba kolendisama mpe azalaki kondimisa Bayuda oyo bavandaka na Damasi ete Yesu azali Klisto.
+044	ACT	009	023	Sima na mikolo ebele, Bayuda bayokanaki koboma Saulo;
+044	ACT	009	024	kasi Saulo ayokaki sango na tina na mabongisi na bango. Butu mpe moyi, bazalaki kokengela bikuke ya engumba mpo na koluka koboma ye.
+044	ACT	009	025	Kasi bayekoli ya Saulo bamemaki ye na butu mpe babimisaki ye libanda ya mir, na kokitisa ye kati na kitunga.
+044	ACT	009	026	Tango Saulo akomaki na Yelusalemi, amekaki kosangana na bayekoli, kasi bango nyonso bazalaki kobanga ye, pamba te bazalaki penza kondima te ete akomi penza moyekoli.
+044	ACT	009	027	Barnabasi azwaki ye mpe amemaki ye epai ya bantoma; ayebisaki bango ndenge nini Saulo, na mobembo na ye, amonaki Nkolo, mpe ete Nkolo alobaki na ye. Ayebisaki bango lisusu ndenge nini, kati na Damasi, ateyaki na mpiko na Kombo na Yesu.
+044	ACT	009	028	Boye, wuta na tango wana, Saulo avandaki elongo na bango, azalaki kokende mpe kozonga na bonsomi kati na Yelusalemi, wana azalaki koteya na mpiko, na Kombo ya Nkolo.
+044	ACT	009	029	Saulo azalaki kosolola mpe kotia tembe na Bayuda oyo balobaka lokota ya Greki; nzokande, bango, bazalaki koluka nzela ya koboma ye.
+044	ACT	009	030	Tango bandimi bayokaki likambo yango, bamemaki Saulo na Sezarea, mpe, longwa kuna, batindaki ye na Tarse.
+044	ACT	009	031	Kati na Yuda mobimba, Galile mpe Samari, Lingomba ezalaki na kimia, ezalaki kolenda mpe kotosa Nkolo, mpe motango ya bandimi na yango ezalaki kobakisama na lisungi ya Molimo Mosantu.
+044	ACT	009	032	Lokola Petelo azalaki kosala mibembo kati na mboka mobimba, akendeki mpe kotala basantu oyo bazalaki kovanda kati na Lidi.
+044	ACT	009	033	Kuna, amonaki moto moko alala na etoko wuta mibu mwambe mpo ete azalaki kobela bokono ya bukabuka; kombo na ye « Ene. »
+044	ACT	009	034	Petelo alobaki na ye: — Ene, Yesu-Klisto abikisi yo; telema mpe kanga etoko na yo. Mbala moko, Ene atelemaki.
+044	ACT	009	035	Tango bavandi nyonso ya Lidi mpe ya esobe ya Saroni bamonaki ye, bandimelaki Nkolo.
+044	ACT	009	036	Kati na Jafa, ezalaki na mwasi moyekoli moko, kombo na ye ezalaki « Tabita. » Na lokota ya Greki, kombo na ye ezalaki Dorkasi (oyo elingi koloba: Mboloko). Azalaki tango nyonso kosala bolamu mpe kosunga babola.
+044	ACT	009	037	Na mikolo wana, akomaki kobela mpe akufaki. Sima na kosukola nzoto na ye, batiaki yango kati na shambre ya likolo.
+044	ACT	009	038	Tango bayekoli bayokaki sango ete Petelo azali kati na Lidi oyo ezali penza pene ya Jafa, batindelaki ye mibali mibale mpo na kosenga na ye: « Tobondeli yo, yaka noki! »
+044	ACT	009	039	Mbala moko, Petelo akendeki elongo na bango; mpe tango akomaki, bamemaki ye na shambre ya likolo. Basi nyonso oyo bakufisa mibali bayaki kozingela ye, bazalaki kolela mpe kolakisa ye banzambala mpe bilamba mosusu oyo Dorkasi asalaki, wana azalaki nanu elongo na bango.
+044	ACT	009	040	Petelo abimisaki bato nyonso; bongo afukamaki mpe asambelaki. Wana azalaki kotala epai ebembe ya mama Dorkasi ezalaki, alobaki: — Tabita, telema! Tabita afungolaki miso; mpe wana amonaki Petelo, avandaki.
+044	ACT	009	041	Petelo asimbaki ye na loboko na ye mpe atelemisaki ye. Bongo abengaki bandimi, mingi-mingi basi oyo bakufisa mibali, mpe alakisaki bango Dorkasi ya bomoi.
+044	ACT	009	042	Sango yango epanzanaki kati na engumba mobimba ya Jafa, mpe bato mingi bandimelaki Nkolo.
+044	ACT	009	043	Petelo avandaki tango molayi kati na Jafa, epai ya moto moko oyo kombo na ye ezalaki « Simona; » azalaki mobongisi baposo ya banyama.
+044	ACT	010	001	Na Sezarea, ezalaki na moto moko oyo kombo na ye ezalaki « Kornei; » azalaki mokonzi ya basoda oyo babengamaka « mampinga ya Itali. »
+044	ACT	010	002	Kornei elongo na bato nyonso ya libota na ye bazalaki komipesa na makambo ya Nzambe mpe kotosa Nzambe; azalaki kosunga bato oyo bazalaki kati na bosenga ya ndenge na ndenge mpe kosambela Nzambe tango nyonso.
+044	ACT	010	003	Mokolo moko, na ngonga pene ya misato sima na midi, azwaki emoniseli; amonaki na polele anjelu moko ya Nzambe koya epai na ye mpe koloba na ye: — Kornei!
+044	ACT	010	004	Kornei atalaki ye na somo mpe atunaki: — Nkolo, likambo nini? Anjelu azongisaki: — Mabondeli na yo mpe masungi oyo opesaka epai ya babola emati liboso ya Nzambe, mpe akanisi yango.
+044	ACT	010	005	Sik’oyo, tinda bato, na Jafa, mpo bakende kobenga Simona oyo kombo na ye mosusu ezali « Petelo; »
+044	ACT	010	006	azali kovanda lokola mopaya kati na ndako ya Simona, mobongisi baposo ya banyama, oyo ndako na ye ezali pene ya ebale monene.
+044	ACT	010	007	Tango kaka anjelu oyo asololaki na ye akendeki, Kornei abengaki basali mibale kati na basali na ye, mpe soda moko oyo azalaki komipesa na makambo ya Nzambe, kati na basoda oyo bazalaki kosalela ye.
+044	ACT	010	008	Ayebisaki bango makambo nyonso oyo ekomelaki ye mpe atindaki bango na Jafa.
+044	ACT	010	009	Mokolo oyo elandaki, na ngonga pene ya midi, wana bato oyo Kornei atindaki bazalaki nanu na nzela mpe bakomaki pene ya Jafa, Petelo amataki na veranda oyo ezalaki na likolo ya ndako mpo na kosambela.
+044	ACT	010	010	Ayokaki nzala mpe azalaki na posa ya kolia, mpe wana bazalaki nanu kobongisela ye bilei, akweyaki na Molimo.
+044	ACT	010	011	Amonaki Likolo efungwami, mpe eloko moko lokola elamba monene basimba na basonge na yango minei ezali kokita na mabele.
+044	ACT	010	012	Kati na yango, ezalaki na lolenge nyonso ya banyama ya mabele, oyo ezali na makolo minei; ya banyama oyo etambolaka na libumu mpe ya bandeke ya likolo.
+044	ACT	010	013	Bongo mongongo moko elobaki na ye: — Petelo, telema. Boma mpe lia.
+044	ACT	010	014	Petelo azongisaki: — Te, Nkolo! Natikala nanu kolia te eloko ya mbindo to ya bosoto.
+044	ACT	010	015	Mongongo yango elobaki na ye, mpo na mbala ya mibale: — Eloko nyonso oyo Nzambe akomisi peto, yo, komona yango mbindo te!
+044	ACT	010	016	Esalemaki bongo mbala misato, mpe eloko yango elimwaki kati na Likolo.
+044	ACT	010	017	Petelo akamwaki mingi mpe akomaki komituna ndimbola ya emoniseli oyo awuti kozwa. Kaka na tango yango, batindami ya Kornei bamonaki ndako ya Simona, oyo bazalaki koluka, mpe batelemaki na ekuke.
+044	ACT	010	018	Babelelaki mpe batunaki soki ezali kuna nde Simona avandaka, Simona oyo kombo na ye mosusu ezali « Petelo. »
+044	ACT	010	019	Wana Petelo azalaki kaka komitungisa mpo na emoniseli oyo awuti kozwa, Molimo alobaki na ye: — Simona, bato misato bazali koluka yo.
+044	ACT	010	020	Telema mpe kita. Kende elongo na bango, kotia tembe te, pamba te ngai nde natindi bango.
+044	ACT	010	021	Petelo akitaki mpe alobaki na bato yango: — Ngai oyo! Ezali ngai nde bozali koluka. Boyei mpo na nini?
+044	ACT	010	022	Bato yango bazongisaki: — Towuti epai ya Kornei, mokonzi ya basoda; azali moto ya sembo mpe atosaka Nzambe, mpe Bayuda nyonso bazali kotatola bolamu na tina na ye. Anjelu ya bule ayebisaki ye ete abengisa yo kati na ndako na ye mpo ete ayoka makambo oyo ozali na yango ya koloba na ye.
+044	ACT	010	023	Petelo akotisaki bango na ndako mpe apesaki bango esika ya kolala. Mokolo oyo elandaki, Petelo akendeki elongo na bango, mpe ndambo ya bandimi balandaki ye wuta na Jafa.
+044	ACT	010	024	Sima na mokolo moko, bakomaki na Sezarea. Kornei azalaki kozela bango, mpe abengisaki bato ya libota na ye mpe balingami na ye mpo ete bazala lisanga.
+044	ACT	010	025	Tango Petelo alingaki kokota na ndako, Kornei apusanaki pene na ye, amibwakaki na makolo na ye mpo na kogumbamela ye.
+044	ACT	010	026	Kasi Petelo atelemisaki ye; alobaki: — Telema! Ngai mpe nazali kaka moto.
+044	ACT	010	027	Wana bazalaki kosolola, Petelo akotaki na ndako mpe akutaki bato ebele basangani.
+044	ACT	010	028	Alobaki na bango: — Boyebi malamu ete mibeko na biso epekisa Moyuda kosangana na Mopagano to kokende kotala Mopagano; kasi Nzambe alakisi ngai ete nasengeli te komona moto moko mbindo to bosoto.
+044	ACT	010	029	Yango wana, tango botindaki bato kobenga ngai, natunaki ata motuna moko te mpo na koya. Sik’oyo, nakoki koyeba tina nini bobengeli ngai?
+044	ACT	010	030	Kornei azongisaki: — Eleki mikolo misato, na ngonga lokola oyo, ngonga ya misato sima na midi, nazalaki kosambela kati na ndako na ngai. Mbala moko, moto moko alata bilamba ya kongenga makasi atelemaki liboso na ngai
+044	ACT	010	031	mpe alobaki: « Kornei, Nzambe ayoki mabondeli na yo mpe akanisi masungi oyo opesaka epai ya babola.
+044	ACT	010	032	Tinda bato, na Jafa, mpo bakende kobenga Simona oyo kombo na ye mosusu ezali Petelo; azali kovanda lokola mopaya kati na ndako ya Simona, mobongisi baposo ya banyama, oyo ndako na ye ezali pene ya ebale monene. »
+044	ACT	010	033	Yango wana, natindaki bato noki-noki epai na yo, mpe osali malamu ndenge oyei. Sik’oyo, biso nyonso tozali awa liboso ya Nzambe mpo na koyoka nyonso oyo Nkolo atindi yo koyebisa biso.
+044	ACT	010	034	Petelo azwaki maloba mpe alobaki: — Sik’oyo, nasosoli solo ete Nzambe atalaka bilongi te,
+044	ACT	010	035	kasi andimaka bato ya bikolo nyonso, oyo batosaka Ye mpe basalaka makambo ya sembo.
+044	ACT	010	036	Atindaki Liloba na Ye epai ya bana ya Isalaele mpo na kosakola Sango Malamu ya kimia, na nzela ya Yesu-Klisto oyo azali Nkolo ya bato nyonso.
+044	ACT	010	037	Boyebi makambo oyo esalemaki na Yuda mobimba, kobanda na Galile, sima na libatisi oyo Yoane ateyaki:
+044	ACT	010	038	ndenge nini Nzambe atondisaki Yesu ya Nazareti na Molimo Mosantu mpe na nguya, mpe ndenge nini atambolaki bipai na bipai mpo na kosala bolamu mpe kobikisa bato nyonso oyo bazalaki na se ya nguya ya Satana, pamba te Nzambe azalaki elongo na Ye.
+044	ACT	010	039	Biso, tozali batatoli ya makambo nyonso oyo Yesu asalaki kati na mokili ya Bayuda mpe kati na Yelusalemi. Babomaki Ye mpe babakaki Ye na ekulusu,
+044	ACT	010	040	kasi Nzambe asekwisaki Ye kati na bakufi, na mokolo ya misato, mpe asalaki ete amonana lisusu.
+044	ACT	010	041	Amonanaki na bato nyonso te, kasi na batatoli oyo Nzambe apona wuta kala, na biso oyo toliaki mpe tomelaki elongo na Ye, sima na Ye kosekwa kati na bakufi.
+044	ACT	010	042	Apesaki biso mitindo ya koteya bato mpe kotatola ete Ye nde Nzambe apona lokola Mosambisi ya bato ya bomoi mpe bakufi.
+044	ACT	010	043	Basakoli nyonso batatolaki na tina na Ye ete moto nyonso oyo akondimela Ye akozwa bolimbisi ya masumu na nzela ya Kombo na Ye.
+044	ACT	010	044	Wana Petelo azalaki nanu koloba, Molimo Mosantu akitelaki bato nyonso oyo bazalaki koyoka Liloba.
+044	ACT	010	045	Bandimi oyo bazalaki bakatama ngenga, oyo bayaki elongo na Petelo wuta na Jafa, bakamwaki mingi komona ete Nzambe asopi likabo ya Molimo Mosantu epai ya bato ya bikolo ya bapaya.
+044	ACT	010	046	Pamba te bayokaki bango koloba na nkota mosusu mpe kokumisa Nzambe. Bongo Petelo alobaki:
+044	ACT	010	047	— Solo, moto moko te akoki koboya ete bazwa libatisi ya mayi. Bazwi Molimo Mosantu ndenge kaka biso tozwaki.
+044	ACT	010	048	Boye, Petelo apesaki mitindo ete babatisa bango na Kombo na Yesu-Klisto. Bongo, basengaki na Petelo ete avanda elongo na bango mpo na mwa mikolo.
+044	ACT	011	001	Bantoma mpe bandimi oyo bazalaki kati na Yuda bayokaki sango ete bato ya bikolo ya bapaya mpe bandimaki Liloba na Nzambe.
+044	ACT	011	002	Boye, tango Petelo azongaki na Yelusalemi, Bayuda oyo bandimelaki Yesu bapamelaki ye
+044	ACT	011	003	mpe balobaki: — Okotaki na ndako ya bato ya bikolo ya bapaya mpe oliaki elongo na bango!
+044	ACT	011	004	Petelo ayebisaki bango makambo nyonso, ndenge esalemaki; alobaki na bango:
+044	ACT	011	005	— Wana nazalaki kati na engumba Jafa mpe nazalaki kosambela, nakweyaki na Molimo mpe nazwaki emoniseli. Namonaki eloko moko lokola elamba monene basimba na basonge na yango minei kokita wuta na Likolo, mpe ekomaki kino na esika oyo nazalaki.
+044	ACT	011	006	Tango natalaki yango malamu, namonaki kati na yango banyama ya mabele, oyo ezali na makolo minei; banyama ya zamba, banyama oyo etambolaka na libumu mpe bandeke ya likolo.
+044	ACT	011	007	Nayokaki mpe mongongo moko koloba na ngai: « Petelo, telema! Boma mpe lia. »
+044	ACT	011	008	Kasi nazongisaki: « Te, Nkolo! Natikala nanu kolia te eloko ya mbindo to ya bosoto. »
+044	ACT	011	009	Mongongo yango elobaki lisusu, wuta na likolo, mpo na mbala ya mibale: « Eloko nyonso oyo Nzambe akomisi peto, yo, komona yango mbindo te! »
+044	ACT	011	010	Esalemaki bongo mbala misato. Bongo babendaki nyonso kati na Likolo.
+044	ACT	011	011	Kaka na tango yango, bato misato bakomaki na ndako epai wapi nazalaki kovanda; batindaki bango epai na ngai longwa na Sezarea.
+044	ACT	011	012	Molimo alobaki na ngai ete natia tembe te mpo na kokende elongo na bango. Bandeko motoba bakendeki elongo na ngai kino na Sezarea, mpe tokotaki na ndako ya moto yango.
+044	ACT	011	013	Moto yango ayebisaki biso ndenge nini amonaki anjelu kobimela ye kati na ndako na ye mpe koloba na ye: « Tinda bato, na Jafa, mpo bakende kobenga Simona oyo kombo na ye mosusu ezali Petelo.
+044	ACT	011	014	Akoyebisa yo maloba oyo, na nzela na yango, okozwa lobiko, yo mpe libota na yo mobimba! »
+044	ACT	011	015	Wana nazalaki nanu koloba, Molimo Mosantu akitelaki bango ndenge kaka akitelaki biso na ebandeli.
+044	ACT	011	016	Mbala moko, nakanisaki lisusu maloba oyo Nkolo alobaki: « Yoane abatisaki na mayi; kasi bino, bokobatisama kati na Molimo Mosantu. »
+044	ACT	011	017	Soki Nzambe apesaki bango likabo ya ndenge moko na biso oyo tondimelaki Nkolo Yesu-Klisto, bongo ngai nde nani mpo ete nakoka koboya makambo oyo Nzambe alingi?
+044	ACT	011	018	Tango bayokaki bongo, bazangaki maloba ya kobakisa, mpe bakomaki kokumisa Nzambe na maloba oyo: « Nzambe asali ete ata bato ya bikolo ya bapaya babongola mitema mpo bazwa bomoi. »
+044	ACT	011	019	Nzokande, bandimi oyo bapalanganaki mpo na kokima minyoko oyo eyaki tango babomaki Etieni, bakimaki kino na Fenisi, na Shipre mpe na Antioshe. Mpe kuna, bazalaki kosakola Sango Malamu epai ya moto mosusu te, kaka epai ya Bayuda.
+044	ACT	011	020	Kasi bamosusu kati na bango, bato ya Shipre mpe ya Sirene, bakendeki na Antioshe mpe bakomaki koteya Sango Malamu ya Nkolo Yesu epai ya bato oyo balobaka lokota ya Greki.
+044	ACT	011	021	Nguya ya Nkolo ezalaki elongo na bango, mpe bato ebele penza bandimaki mpe bamipesaki na Nkolo.
+044	ACT	011	022	Sango yango ekomaki kino na Lingomba ya Yelusalemi, mpe batindaki Barnabasi, na Antioshe.
+044	ACT	011	023	Tango akomaki kuna mpe amonaki ndenge nini Nzambe apambolaki bango, asepelaki makasi mpe alendisaki bango nyonso ete bakangama makasi na Nkolo, na mitema na bango mobimba.
+044	ACT	011	024	Solo, Barnabasi azalaki moto malamu, azalaki atondisama na Molimo Mosantu mpe na kondima. Bato ebele bakangamaki na Nkolo.
+044	ACT	011	025	Bongo, Barnabasi akendeki na Tarse mpo na koluka Saulo;
+044	ACT	011	026	mpe tango amonaki ye, amemaki ye na Antioshe. Mobu mobimba, Barnabasi mpe Saulo basalaki elongo kati na Lingomba, mpe bateyaki bato ebele. Ezalaki na Antioshe nde bayekoli babengamaki, mpo na mbala ya liboso, Baklisto.
+044	ACT	011	027	Na mikolo wana, ndambo ya basakoli bakendeki na Antioshe longwa na Yelusalemi.
+044	ACT	011	028	Moko kati na bango, kombo na ye ezalaki « Agabisi; » atelemaki mpe asakolaki na nguya ya Molimo ete nzala makasi ekoya na bamboka nyonso oyo bato ya Rome bazali kokonza. Nzala yango ekotaki na tango ya mokonzi Klode.
+044	ACT	011	029	Bayekoli oyo bazalaki kati na Antioshe bazwaki mokano ya kotinda masungi, moko na moko kolanda bozwi na ye, epai ya bandeko oyo bazalaki kovanda na Yuda.
+044	ACT	011	030	Basalaki bongo: batindaki masungi na bango epai ya bakambi ya Lingomba, na nzela ya Barnabasi mpe Saulo.
+044	ACT	012	001	Na tango yango, mokonzi Erode akangaki ndambo ya bandimi ya Lingomba mpo na konyokola bango.
+044	ACT	012	002	Abomaki kutu Jake, ndeko mobali ya Yoane, na mopanga.
+044	ACT	012	003	Tango amonaki ete likambo yango ezalaki kosepelisa Bayuda, akangaki mpe Petelo na tango ya feti ya mapa ezanga levire.
+044	ACT	012	004	Sima na ye kokanga Petelo, atiaki ye kati na boloko mpe aponaki masanga minei ya basoda mpo ete bakengela ye; lisanga moko na moko ezalaki na basoda minei. Erode azalaki na makanisi ya kosambisa ye na miso ya bato sima na feti ya Pasika.
+044	ACT	012	005	Petelo azalaki kati na boloko, kasi Lingomba ezalaki kobondela Nzambe na molende mpo na ye.
+044	ACT	012	006	Na butu ya mokolo oyo Erode alingaki kosambisa ye, Petelo alalaki pongi na kati-kati ya basoda mibale, akangama na minyololo mibale, mpe bakengeli bazalaki kobatela ekuke ya boloko.
+044	ACT	012	007	Mbala moko, anjelu ya Nkolo abimaki na pwasa, mpe pole engengaki kati na boloko. Anjelu aningisaki Petelo na mopanzi mpo na kolamusa ye; alobaki na ye: — Telema noki! Mpe minyololo ekweyaki longwa na maboko ya Petelo.
+044	ACT	012	008	Anjelu alobaki na ye: — Lata elamba na yo, mokaba na yo mpe basandale na yo! Petelo asalaki bongo. Anjelu alobaki na ye lisusu: — Lata nzambala na yo mpe landa ngai.
+044	ACT	012	009	Petelo alandaki anjelu kino na libanda ya boloko, kasi ayebaki te ete makambo oyo anjelu azali kosala ezali penza ya solo: akanisaki ete azwi emoniseli.
+044	ACT	012	010	Balekaki bakengeli ya liboso mpe ya mibale, mpe bakomaki na ekuke ya bibende oyo epesaka nzela ya kokota na engumba. Ekuke efungwamaki yango moko liboso na bango; bongo babimaki mpe batambolaki na balabala moko. Mpe mbala moko, anjelu atikaki Petelo.
+044	ACT	012	011	Tango mayele na ye ya bomoto ezongaki, Petelo amilobelaki: — Ah, nasosoli sik’oyo, ezali penza ya solo! Nkolo atindaki anjelu na Ye mpe akangoli ngai na maboko ya Erode mpe na makambo nyonso oyo Bayuda balingaki kosala ngai.
+044	ACT	012	012	Tango amonaki bongo, akendeki na ndako ya Mari, mama ya Yoane oyo kombo na ye mosusu ezali « Malako. » Bandimi ebele basanganaki kuna mpe bazalaki kosambela.
+044	ACT	012	013	Petelo abetaki ekuke; mpe mwasi mosali moko, kombo na ye « Rode, » apusanaki na ekuke mpo na koyanola.
+044	ACT	012	014	Tango asosolaki ete ezali mongongo ya Petelo, atondaki na esengo; na esika ya kofungola ekuke, azongaki mbangu mpe agangaki: — Eh, ezali Petelo! Azali wana, na libanda, liboso ya ekuke!
+044	ACT	012	015	Balobaki na ye: — Okomi penza na liboma! Kasi Rode azalaki kaka koloba: — Ya solo penza! Petelo azali na libanda. Bongo balobaki: — Ekoki kozala anjelu na ye!
+044	ACT	012	016	Nzokande, Petelo azalaki kokoba kobeta ekuke. Boye, tango bafungolaki ekuke mpe bamonaki ye, bakamwaki makasi.
+044	ACT	012	017	Petelo apepelaki bango loboko mpo ete bavanda kimia, mpe ayebisaki bango ndenge nini Nkolo abimisaki ye na boloko. Alobaki lisusu: — Boyebisa makambo oyo epai ya Jake mpe bandeko mosusu. Sima na yango, abimaki mpe akendeki na esika mosusu.
+044	ACT	012	018	Na tongo, mobulu monene ebimaki kati na basoda, pamba te bazalaki kotunana: — Likambo nini ekomelaki Petelo?
+044	ACT	012	019	Erode atindaki bato koluka Petelo, kasi bamonaki ye te. Bongo, sima na ye kosambisa bakengeli, apesaki mitindo ete baboma bango. Sima na yango, Erode atikaki Yuda mpe akendeki kovanda mwa mikolo na Sezarea.
+044	ACT	012	020	Nzokande, Erode asilikelaki makasi bato ya Tiri mpe ya Sidoni. Bongo, bato ya Tiri mpe ya Sidoni bayokanaki mpe basengaki kokutana na Erode. Sima na bango kozwa lisungi ya Blasitisi, motambolisi misala ya shambre ya mokonzi, basengaki kimia kati na Erode mpe bango, pamba te bilei na bango ezalaki kowuta na mokili ya mokonzi Erode.
+044	ACT	012	021	Tango mokolo oyo akataki ekokaki, Erode alataki bilamba na ye ya bokonzi, avandaki na kiti na ye ya bokonzi mpe alobaki na bato.
+044	ACT	012	022	Bato bagangaki: — Tala yango oyo, mongongo ya nzambe; ezali mongongo ya moto te!
+044	ACT	012	023	Mbala moko, anjelu ya Nkolo abetaki Erode mpo ete apesaki Nzambe lokumu te; boye bankusu eliaki ye, mpe akufaki.
+044	ACT	012	024	Kasi Liloba na Nzambe ekobaki kopanzana mpe kobota mbuma.
+044	ACT	012	025	Sima na Barnabasi mpe Saulo kokokisa mosala na bango mpo na bolamu ya bandimi ya Yelusalemi, batikaki Yelusalemi mpe bamemaki, elongo na bango, Yoane oyo kombo na ye mosusu ezali « Malako. »
+044	ACT	013	001	Kati na Lingomba oyo ezalaki na Antioshe, ezalaki na basakoli mpe balakisi: Barnabasi, Simeoni oyo bazalaki kobenga « Moto mwindo, » Lusiusi ya Sirene, Manaeni oyo akolaki esika moko na moyangeli Erode, mpe Saulo.
+044	ACT	013	002	Ezalaki mokolo moko, wana bazalaki kogumbamela Nkolo mpe kokila bilei, Molimo Mosantu alobaki: — Botiela ngai pembeni Barnabasi mpe Saulo mpo na mosala oyo nabengeli bango.
+044	ACT	013	003	Boye, sima na bango kokila bilei mpe kosambela, batielaki bango maboko mpe batikaki bango kokende.
+044	ACT	013	004	Na etinda ya Molimo Mosantu, Barnabasi mpe Saulo bakendeki na Selesi; mpe longwa kuna, bazwaki masuwa mpo na kokende na esanga ya Shipre.
+044	ACT	013	005	Tango bakomaki na Salamine, bateyaki Liloba na Nzambe kati na bandako ya mayangani ya Bayuda. Yoane Malako azalaki elongo na bango lokola mosungi.
+044	ACT	013	006	Bakatisaki esanga mobimba kino bakomaki na Pafosi epai wapi bamonaki Moyuda moko, kombo na ye « Bari-Yesu. » Azalaki moto ya maji mpe mosakoli ya lokuta.
+044	ACT	013	007	Azalaki mpe moninga ya moyangeli Sergiusi Paulusi oyo azalaki moto ya mayele. Boye, Sergiusi Paulusi abengisaki Barnabasi mpe Saulo, pamba te azalaki na posa ya koyoka Liloba na Nzambe.
+044	ACT	013	008	Kasi Elimasi, moto ya maji (pamba te yango nde ezali ndimbola ya kombo na ye), atelemelaki bango mpe azalaki kosala nyonso mpo na kopengwisa kondima ya moyangeli.
+044	ACT	013	009	Bongo lokola Saulo, oyo bazalaki mpe kobenga « Polo, » azalaki atondisama na Molimo Mosantu, atalaki Elimasi na miso mpe alobaki na ye:
+044	ACT	013	010	— Mwana ya Satana mpe monguna ya makambo nyonso ya sembo! Otondi na lolenge nyonso ya lokuta mpe ya mayele mabe! Kino tango nini okotika kobebisa mabongisi ya Nkolo, oyo ezali sembo?
+044	ACT	013	011	Tala, loboko ya Nkolo etelemeli yo sik’oyo. Ozali kokoma mokufi miso mpo na mwa tango moke, okomona lisusu te pole ya moyi. Kaka na tango yango, lipata mpe molili ezipaki miso ya Elimasi; azalaki lisusu komona te mpe akomaki kobaluka-baluka bipai nyonso na koluka moto mpo ete asimba ye na loboko mpe alakisa ye nzela.
+044	ACT	013	012	Tango moyangeli amonaki makambo oyo esalemaki, andimaki, pamba te mateya na tina na Nkolo ekamwisaki ye makasi.
+044	ACT	013	013	Wuta na Pafosi, Polo elongo na baninga na ye bazwaki masuwa mpe bakendeki na Perje, kati na mokili ya Pafili, epai wapi Yoane Malako atikaki bango mpo na kozonga na Yelusalemi.
+044	ACT	013	014	Mpe longwa na Perje, bakobaki mobembo na bango kino na Antioshe, kati na mokili ya Pisidi. Na mokolo ya Saba, bakotaki na ndako ya mayangani mpe bavandaki.
+044	ACT	013	015	Sima na kotanga Mobeko mpe Basakoli, bakambi ya ndako ya mayangani batindelaki bango maloba: — Bandeko, soki bozali na maloba mpo na kolendisa bato, bokoki na bino koloba.
+044	ACT	013	016	Polo atelemaki, atombolaki loboko mpe alobaki: — Bato ya Isalaele mpe bino oyo bozali Bayuda te kasi botosaka Nzambe, boyoka ngai!
+044	ACT	013	017	Nzambe ya bato ya Isalaele aponaki bakoko na biso, akomisaki bango ekolo monene na tango oyo bavandaki kati na mokili ya Ejipito lokola bapaya, mpe abimisaki bango na mokili yango na nguya monene.
+044	ACT	013	018	Mibu tuku minei mobimba, ayikelaki bango mpiko kati na esobe;
+044	ACT	013	019	abebisaki bikolo sambo kati na mokili ya Kanana mpe apesaki mabele na bango lokola libula epai ya bato na Ye.
+044	ACT	013	020	Makambo wana nyonso ewumelaki mibu pene nkama minei na tuku mitano. Sima na yango, Nzambe apesaki bango bilombe kino na tango ya mosakoli Samuele.
+044	ACT	013	021	Bongo, basengaki mokonzi, mpe Nzambe apesaki bango Saulo, mwana mobali ya Kisi, moto ya libota ya Benjame, oyo asalaki mibu tuku minei na bokonzi.
+044	ACT	013	022	Sima na Ye kolongola Saulo, akomisaki Davidi mokonzi na bango. Tala maloba oyo Nzambe atatolaki na tina na ye: « Namoni Davidi, mwana mobali ya Yese, moto oyo asepelisaka motema na ngai; akokokisa solo mokano na ngai nyonso. »
+044	ACT	013	023	Ezali wuta na libota ya Davidi nde Nzambe abimisaki, mpo na bana ya Isalaele, Mobikisi Yesu, ndenge alakaki.
+044	ACT	013	024	Liboso ete Yesu aya, Yoane ateyaki bato nyonso ya Isalaele ete babongola mitema mpe bazwa libatisi.
+044	ACT	013	025	Wana Yoane akomaki pene ya kosilisa mosala na ye, alobaki: « Bokanisi ete ngai nazali nani? Nazali te Moto oyo bozali kozela. Kasi azali koya sima na ngai, Ye oyo nabongi kutu te mpo na kofungola ata basinga ya basandale na Ye! »
+044	ACT	013	026	Bandeko na ngai, bino oyo bozali bana ya Abrayami, mpe bino oyo bozali Bayuda te kasi botosaka Nzambe, ezali epai na biso nde Nzambe atindaki maloba oyo ya lobiko.
+044	ACT	013	027	Bato ya Yelusalemi mpe bakambi na bango basosolaki te soki Yesu azali nani; basosolaki mpe te maloba ya basakoli oyo etangamaka mikolo nyonso ya Saba. Nzokande, tango bakatelaki Ye etumbu, bakokisaki nde masakoli yango.
+044	ACT	013	028	Atako bamonaki mabe moko te kati na Ye, mabe oyo ekokaki komemela Ye etumbu ya kufa, kasi basengaki kaka ete Pilato aboma Ye.
+044	ACT	013	029	Tango mpe bakokisaki makambo nyonso oyo ekomama na tina na Ye, bakitisaki Ye longwa na ekulusu mpe batiaki Ye kati na kunda.
+044	ACT	013	030	Kasi Nzambe asekwisaki Ye kati na bakufi,
+044	ACT	013	031	mpe bato oyo basalaki mibembo elongo na Ye, longwa na Galile kino na Yelusalemi, bamonaki Ye mikolo ebele. Bazali sik’oyo batatoli na Ye epai ya bato na biso.
+044	ACT	013	032	Tozali koyebisa bino sango malamu oyo: elaka oyo Nzambe apesaki na bakoko na biso,
+044	ACT	013	033	Nzambe akokisi yango mpo na biso, bana na bango, na kosekwisa Yesu kati na bakufi, kolanda ndenge ekomama kati na Nzembo ya mibale: « Ozali Mwana na Ngai; na mokolo ya lelo, nakomi Tata na Yo. »
+044	ACT	013	034	Nzambe asekwisaki Ye kati na bakufi mpo ete apola ata mokolo moko te. Kolanda ndenge Nzambe alobaki: « Nakopesa bino mapamboli ya bule mpe ya solo, oyo nalakaki Davidi. »
+044	ACT	013	035	Yango wana, na eteni mosusu, elobamaki lisusu: « Okotika te Mosantu na Yo kopola. »
+044	ACT	013	036	Nzokande, Davidi, sima na ye kokokisa mabongisi ya Nzambe na tango na ye, akufaki mpe akundamaki pembeni ya bakoko na ye; boye nzoto na ye epolaki.
+044	ACT	013	037	Kasi Ye oyo Nzambe asekwisaki apolaki te.
+044	ACT	013	038	Yango wana, bandeko na ngai, nalingi boyeba ete ezali na nzela ya Yesu nde bolimbisi ya masumu esakolami epai na bino mpe bozwi bolimbisi ya masumu nyonso oyo Mobeko ya Moyize ekokaki te kokangola bino.
+044	ACT	013	039	Ezali mpe na nzela ya Yesu nde moto nyonso oyo andimi akomi sembo.
+044	ACT	013	040	Yango wana, bosala keba ete makambo oyo basakoli baloba ekomela bino te:
+044	ACT	013	041	« Bino batioli, botala, bokamwa mpe bolimwa, pamba te nakosala likambo moko na tango na bino, likambo oyo bokokaki kondima te soki bayebisaki bino yango. »
+044	ACT	013	042	Tango Polo mpe Barnabasi babimaki na ndako ya mayangani, bato basengaki bango kolobela lisusu makambo wana na mokolo ya Saba oyo elandaki.
+044	ACT	013	043	Tango mayangani esilaki, Bayuda mingi elongo na bato ya bikolo mosusu, oyo bakotaki na lingomba ya Bayuda mpe bazalaki kogumbamela Nzambe, balandaki Polo mpe Barnabasi oyo bazalaki kosolola na bango mpe kondimisa bango ete batikala ya kokangama makasi na ngolu ya Nzambe.
+044	ACT	013	044	Na mokolo ya Saba oyo elandaki, bato ebele penza ya engumba bayaki kosangana mpo na koyoka Liloba na Nkolo.
+044	ACT	013	045	Kasi tango Bayuda bamonaki ebele ya bato, batondaki na zuwa; bakomaki koloba mabe na tina na makambo oyo Polo azalaki koloba, mpe bakomaki kofinga ye.
+044	ACT	013	046	Bongo, Polo mpe Barnabasi balobaki na bango na mpiko: — Tosengeli liboso koteya bino Liloba na Nzambe. Kasi lokola boboyi yango mpe bozali bino moko komimona ete bokoki te mpo na kozwa bomoi ya seko, tokeyi na biso sik’oyo epai ya bato oyo bazali Bayuda te. (aiōnios g166)
+044	ACT	013	047	Pamba te, tala makambo oyo Nkolo atindaki biso: « Nakomisi yo pole mpo na bikolo mosusu, mpo ete omema lobiko kino na suka ya mokili. »
+044	ACT	013	048	Tango bato ya bikolo ya bapaya bayokaki bongo, basepelaki mpe bakomaki kokumisa Liloba na Nkolo; mpe bato nyonso oyo Nzambe abongisa mpo na kozwa bomoi ya seko bakomaki bandimi. (aiōnios g166)
+044	ACT	013	049	Liloba na Nkolo epanzanaki na etuka wana mobimba.
+044	ACT	013	050	Kasi Bayuda batiaki songisongi epai ya basi ya lokumu oyo bazalaki kogumbamela Nzambe, mpe epai ya bato minene ya engumba wana; bapelisaki moto mpo ete Polo mpe Barnabasi banyokolama, mpe babenganaki bango wuta na mokili na bango.
+044	ACT	013	051	Na bongo, Polo mpe Barnabasi bapupolaki putulu ya makolo na bango mpo na bato wana, mpe bakendeki na Ikoniomi.
+044	ACT	013	052	Nzokande, bayekoli batondaki na esengo mpe na Molimo Mosantu.
+044	ACT	014	001	Na engumba Ikoniomi, Polo mpe Barnabasi bakendeki, lokola momesano, na ndako ya mayangani ya Bayuda; bateyaki kuna, mpe bato ebele, Bayuda mpe bato ya bikolo ya bapaya, bakomaki bandimi.
+044	ACT	014	002	Kasi Bayuda oyo baboyaki kondimela batiaki songisongi epai ya bato ya bikolo ya bapaya mpo ete batombokela bandeko.
+044	ACT	014	003	Polo mpe Barnabasi bawumelaki kuna mikolo ebele, bazalaki koteya na mpiko, pamba te bazalaki na elikya kati na Nkolo; mpe Nkolo azalaki kokokisa bosolo ya mateya ya ngolu na Ye na kopesaka bango nguya ya kosala bilembo ya kokamwa mpe misala minene.
+044	ACT	014	004	Bato ya engumba yango bakabwanaki: ndambo bazalaki sima na Bayuda, mpe ndambo mosusu, sima na bantoma.
+044	ACT	014	005	Bato ya bikolo ya bapaya mpe Bayuda, elongo na bakambi na bango, bazwaki mokano ya konyokola bantoma mpe koboma bango na mabanga;
+044	ACT	014	006	kasi tango bantoma basosolaki yango, bakimaki na bingumba ya Likawoni: Listre, Derbe mpe bazingazinga na yango.
+044	ACT	014	007	Kuna mpe lisusu, bakobaki kaka koteya Sango Malamu.
+044	ACT	014	008	Kati na engumba Listre, ezalaki na moto moko akufa makolo. Wuta mbotama na ye, atikala kotambola te.
+044	ACT	014	009	Azalaki koyoka ndenge Polo azalaki koteya. Polo atalaki ye malamu, amonaki ete azali na kondima mpo na kobikisama
+044	ACT	014	010	mpe alobaki na ye na mongongo makasi: — Telema ngwi na makolo na yo! Mbala moko, moto yango apumbwaki mpe akomaki kotambola.
+044	ACT	014	011	Tango ebele ya bato bamonaki makambo oyo Polo asalaki, bagangaki na lokota ya bato ya Likawoni: — Banzambe bazwi banzoto ya bato mpe bakiteli biso!
+044	ACT	014	012	Kombo oyo babengaki na yango Barnabasi ezali « Zewusi, » mpe kombo oyo babengaki na yango Polo ezali « Erimesi, » pamba te Polo nde azalaki koloba.
+044	ACT	014	013	Nganga-nzambe ya nzambe Zewusi, oyo ndako ya nzambe na ye ezalaki na libanda ya ekuke ya engumba, amemaki na bikuke ya engumba bangombe ya mibali elata bafololo mpe bililingi elingama-lingama lokola basheni, pamba te ye mpe bato nyonso oyo bazalaki elongo na ye balingaki kotumbela bango mbeka.
+044	ACT	014	014	Kasi tango bantoma, Barnabasi mpe Polo, bayokaki sango ya likambo yango, bapasolaki bilamba na bango, bakendeki mbangu epai ebele ya bato bazalaki na koganga:
+044	ACT	014	015	— Oh baninga, mpo na nini bozali kosala boye? Biso mpe tozali kaka bato lokola bino. Soki tozali koteya bino Sango Malamu, ezali mpo ete botika banzambe ya bikeko oyo ezanga tina mpe bomipesa na Nzambe na bomoi oyo asala Likolo, mabele, ebale monene mpe nyonso oyo ezali kati na yango.
+044	ACT	014	016	Na tango ya kala, Nzambe atikaki ete bato ya bikolo nyonso balanda nzela oyo bango moko balingi.
+044	ACT	014	017	Nzokande, atikalaki kolemba te kotalisa bolamu na Ye, na nzela ya konokisela bango mvula kowuta na likolo, kopesa bango bambuma ebele na tango na yango, mpe kopesa bango bilei ebele mpe kotondisa mitema na bango na esengo.
+044	ACT	014	018	Atako balobaki bongo, balongaki na pasi kopekisa ebele ya bato wana kobonzela bango mbeka.
+044	ACT	014	019	Bongo, Bayuda oyo bawutaki na Antioshe mpe na Ikoniomi batiaki songisongi kati na bato mpo ete batombokela bango. Babambaki Polo mabanga, mpe babendaki ye kino na libanda ya engumba, pamba te bakanisaki ete akufi.
+044	ACT	014	020	Kasi tango bayekoli bazingelaki Polo, atelemaki mpe azongaki kati na engumba. Bongo mokolo oyo elandaki, akendeki na Derbe elongo na Barnabasi.
+044	ACT	014	021	Sima na Polo mpe Barnabasi koteya Sango Malamu kati na engumba wana mpe kokomisa bato ebele bayekoli, bazongaki lisusu na Listre, na Ikoniomi mpe na Antioshe;
+044	ACT	014	022	bazalaki kolendisa bayekoli ete bayika mpiko kati na kondima. Bazalaki koloba: — Tosengeli komona pasi mingi mpo na kokota na Bokonzi ya Nzambe.
+044	ACT	014	023	Polo mpe Barnabasi baponaki bakambi mpo na Lingomba moko na moko mpe, sima na bango kosambela mpe kokila bilei, bakabaki bango na maboko ya Nkolo oyo bandimelaki.
+044	ACT	014	024	Sima na bango koleka etuka ya Pisidi, bakomaki na Pafili.
+044	ACT	014	025	Bateyaki Liloba kati na Perje mpe, sima na yango, bakendeki na libongo ya Atalia.
+044	ACT	014	026	Wuta na Atalia, bakotaki na masuwa mpe bazongaki na Antioshe epai wapi batikaki bango na se ya ngolu ya Nzambe, mpo na mosala oyo bawutaki kokokisa.
+044	ACT	014	027	Tango bakomaki kuna, basangisaki bato ya Lingomba, bapesaki bango sango ya makambo nyonso oyo Nzambe asalaki na nzela na bango mpe ndenge nini afungolelaki bato ya bikolo ya bapaya nzela ya kondima.
+044	ACT	014	028	Mpe bawumelaki wana tango molayi elongo na bayekoli.
+044	ACT	015	001	Ndambo ya bato bawutaki na Yuda mpe bakomaki na Antioshe, mpe bakomaki koteya bandeko: — Soki bokatisi ngenga te kolanda Mobeko ya Moyize, bokoki te kozwa lobiko.
+044	ACT	015	002	Polo mpe Barnabasi batelemelaki bato wana; bongo kobendana makasi ekotaki kati na bango na tina na likambo yango. Boye, bazwaki mokano ete Polo, Barnabasi mpe ndambo ya bandimi mosusu bakende na Yelusalemi elongo na bantoma mpe bakambi ya Lingomba mpo na kolobela likambo yango.
+044	ACT	015	003	Lingomba esungaki bango mpo na mobembo. Wana bakatisaki Fenisi mpe Samari, bazalaki koloba ndenge nini bato ya bikolo ya bapaya bazalaki kobongola mitema. Sango oyo ezalaki kopesa bandeko nyonso esengo.
+044	ACT	015	004	Tango bakomaki na Yelusalemi, Lingomba, bantoma mpe bakambi bayambaki bango; mpe Polo elongo na Barnabasi bapesaki bango sango ya makambo nyonso oyo Nzambe asalaki na nzela na bango.
+044	ACT	015	005	Ndambo ya bandimi oyo bazalaki kala Bafarizeo batelemaki mpo na koloba: — Bato ya bikolo ya bapaya basengeli kokatama ngenga, mpe esengeli kotinda bango kotosa Mobeko ya Moyize.
+044	ACT	015	006	Bantoma mpe bakambi basanganaki mpo na koyekola malamu likambo yango.
+044	ACT	015	007	Lokola tembe elekaki makasi, Petelo atelemaki mpe alobaki: — Bandeko na ngai, boyebi malamu ete Nzambe apona ngai wuta kala kati na bino mpo ete nakoka koteya Sango Malamu epai ya bato ya bikolo ya bapaya, mpo ete bango mpe bakoka koyoka yango mpe bakoma bandimi.
+044	ACT	015	008	Bongo, Nzambe oyo ayebi mitema ya bato alakisaki ete andimaki bango na nzela ya kopesa bango Molimo Mosantu, ndenge kaka apesaki biso.
+044	ACT	015	009	Asalaki bokeseni te kati na biso mpe bango, pamba te akomisaki mitema na bango peto na nzela ya kondima.
+044	ACT	015	010	Bongo mpo na nini bolingi sik’oyo komeka Nzambe, na nzela ya koluka komemisa bayekoli oyo, mokumba oyo tolongaki te komema, ezala biso to batata na biso?
+044	ACT	015	011	Te! Biso tondimaka ete tobiki na ngolu ya Nkolo Yesu, ndenge moko kaka na bango.
+044	ACT	015	012	Lisanga mobimba evandaki kimia wana bazalaki koyoka Barnabasi mpe Polo koyebisa bango bikamwa mpe bilembo oyo Nzambe asalaki na nzela na bango, kati na bato ya bikolo ya bapaya.
+044	ACT	015	013	Tango basilisaki koloba, Jake azwaki maloba mpe alobaki: — Bandeko, boyoka ngai!
+044	ACT	015	014	Simona awuti koyebisa biso ndenge nini, wuta na ebandeli, Nzambe aponaki bato kati na bikolo ya bapaya ete bazala bato na Ye.
+044	ACT	015	015	Makambo oyo ekokani na maloba ya basakoli, kolanda ndenge ekomama:
+044	ACT	015	016	« Sima na yango, nakozonga, nakotonga lisusu ndako ya kapo ya Davidi, oyo esila kokweya; nakotonga yango lisusu mpe nakotelemisa yango,
+044	ACT	015	017	mpo ete bato oyo bakotikala baluka Nkolo, ezala bato nyonso ya bikolo ya bapaya oyo babengamaka na Kombo na Ngai, elobi Nkolo oyo asalaka makambo oyo,
+044	ACT	015	018	makambo oyo eyebana wuta kala. » (aiōn g165)
+044	ACT	015	019	Yango wana, tala likanisi na ngai: Tosengeli te kotungisa bato ya bikolo ya bapaya oyo bandimeli Nzambe.
+044	ACT	015	020	Na esika ya kotungisa bango, tosengeli kaka kokomela bango ete balia te misuni ya banyama oyo ebonzami lokola mbeka epai ya banzambe mosusu, basala kindumba te, balia te nyama oyo babomi na kozanga kobimisa makila, mpe bamela makila te.
+044	ACT	015	021	Pamba te wuta kala, kati na bingumba nyonso, ezali na bato oyo bateyaka Mobeko ya Moyize, mpe batangaka yango kati na bandako ya mayangani, mikolo nyonso ya Saba.
+044	ACT	015	022	Bantoma, bakambi elongo na Lingomba mobimba bazwaki mokano ya kopona ndambo ya bato kati na bango mpe ya kotinda bango na Antioshe elongo na Polo mpe Barnabasi. Baponaki Yuda oyo babengaka Barsabasi, mpe Silasi; bango mibale bazalaki bakambi kati na bandeko.
+044	ACT	015	023	Bapesaki bango mokanda oyo ekomamaki boye: Biso bantoma mpe bakambi, bandeko na bino: Epai ya bato ya bikolo ya bapaya oyo bavandaka kati na Antioshe, na Siri mpe na Silisi; Mbote na bino.
+044	ACT	015	024	Toyokaki ete bandeko mosusu bawutaki epai na biso, ba-oyo topesaki ata nzela te, bayaki kotia mobulu kati na bino, batiaki penza mobulu kati na bino mpe batungisaki mitema na bino na nzela ya maloba na bango. Nzokande, totindaki bango te.
+044	ACT	015	025	Boye, biso nyonso toyokanaki mpo na kopona bato mpe kotindela bino bango, elongo na bandeko balingami na biso, Barnabasi mpe Polo,
+044	ACT	015	026	ba-oyo bakaba bomoi na bango mpo na Kombo na Yesu-Klisto, Nkolo na biso.
+044	ACT	015	027	Yango wana, totindeli bino Yuda mpe Silasi mpo ete bakoka koyebisa bino makambo oyo tokomi kati na mokanda oyo.
+044	ACT	015	028	Molimo Mosantu mpe biso tomoni malamu ete tomemisa bino mikumba mosusu te, longola kaka bikateli oyo:
+044	ACT	015	029	Bolia te misuni ya banyama oyo ebonzami lokola mbeka epai ya banzambe mosusu, bomela makila te, bolia te nyama oyo babomi na kozanga kobimisa makila, mpe bosala kindumba te. Ekozala malamu soki bokimi makambo yango. Botikala malamu!
+044	ACT	015	030	Boye, batikaki bango kokende na Antioshe epai wapi basangisaki Lingomba mobimba mpe bapesaki mokanda yango.
+044	ACT	015	031	Bato batangaki mokanda yango mpe basepelaki mingi na malendisi oyo ezalaki kati na yango.
+044	ACT	015	032	Lokola Yuda mpe Silasi bazalaki basakoli, bazwaki penza tango molayi mpo na koloba na bandeko mpe kolendisa bango ete bayika mpiko kati na kondima.
+044	ACT	015	033	Bawumelaki wana mwa tango, mpe bandeko batombelaki bango kimia mpo na bozongi epai ya bato oyo batindaki bango. [
+044	ACT	015	034	Kasi Silasi asepelaki kotikala wana.]
+044	ACT	015	035	Polo mpe Barnabasi batikalaki na Antioshe epai wapi, elongo na bato mosusu ebele, bazalaki koteya mpe kosakola Liloba na Nkolo.
+044	ACT	015	036	Sima na mwa mikolo, Polo alobaki na Barnabasi: — Tozonga na bingumba nyonso epai wapi toteyaki Liloba na Nkolo, mpo ete totala bandeko mpo na koyeba soki bazali ndenge nini.
+044	ACT	015	037	Barnabasi azalaki na posa ya komema, elongo na bango, Yoane oyo babengaka mpe Malako;
+044	ACT	015	038	kasi Polo asepelaki te ete bamema ye elongo na bango, pamba te akabwanaki na bango na Pafili mpe akobaki lisusu te elongo na bango kati na mosala.
+044	ACT	015	039	Boye, babendanaki makasi penza mpe basukaki na kokabwana. Barnabasi azwaki Malako mpe akotaki elongo na ye kati na masuwa mpo na kokende na Shipre.
+044	ACT	015	040	Kasi Polo azwaki Silasi mpe akendeki elongo na ye, sima na bandeko kotika bango na se ya ngolu ya Nkolo.
+044	ACT	015	041	Atambolaki kati na Siri mpe na Silisi mpo na kolendisa Mangomba.
+044	ACT	016	001	Polo akomaki na Derbe mpe na Listre, epai wapi akutanaki na moyekoli moko, kombo na ye ezali « Timote. » Mama na ye azalaki Moyuda, kasi akomaki kondima Klisto; mpe tata na ye azalaki moto ya Grese.
+044	ACT	016	002	Litatoli na ye ezalaki malamu kati na bandeko ya Listre mpe ya Ikoniomi.
+044	ACT	016	003	Polo azalaki na posa ya kosala mobembo elongo na ye, boye akatisaki ye ngenga; pamba te Bayuda oyo bazalaki kovanda kuna bayebaki ete tata na ye azalaki moto ya Grese.
+044	ACT	016	004	Kati na bingumba nyonso oyo bazalaki koleka, bazalaki koyebisa bandimi mikano oyo bantoma mpe bakambi ya Lingomba bazwaki na Yelusalemi, mpe bazalaki kosenga na bango ete batosa yango.
+044	ACT	016	005	Boye, Mangomba ezalaki kolendisama kati na kondima, mpe bato bazalaki kobakisama mokolo na mokolo.
+044	ACT	016	006	Lokola Molimo Mosantu apesaki bango nzela te ya koteya Liloba kati na etuka ya Azia, Polo elongo na baninga na ye bakendeki na etuka ya Friji mpe ya Galatia.
+044	ACT	016	007	Tango bakomaki na mondelo ya Mizi, bazwaki likanisi ya kokende na Bitini, kasi Molimo ya Yesu apesaki bango nzela te.
+044	ACT	016	008	Boye bakatisaki etuka ya Mizi mpe bakendeki kino na libongo ya Troasi.
+044	ACT	016	009	Na butu, Polo azwaki emoniseli moko: « Moto moko ya Masedwane atelemaki liboso na ye mpe azalaki kobondela ye: ‹ Nabondeli yo, yaka kosunga biso kati na Masedwane! › »
+044	ACT	016	010	Sima na Polo kozwa emoniseli, tolukaki mbala moko kokende na Masedwane, pamba te tososolaki ete ezali Nzambe nde abengi biso mpo ete tokende koteya kuna Sango Malamu.
+044	ACT	016	011	Longwa na Troasi, tozwaki masuwa mpe tokendeki mbala moko kino na esanga ya Samotrase; bongo mokolo oyo elandaki, tokomaki na Neyapolisi.
+044	ACT	016	012	Kolongwa wana, tokendeki na Filipi, mboka mokonzi ya etuka ya Masedwane oyo ezalaki na se ya bokonzi ya bato ya Rome. Tovandaki kuna mwa mikolo.
+044	ACT	016	013	Na mokolo ya Saba, tobimaki na libanda ya ekuke ya engumba mpo na kokende pembeni ya ebale epai wapi tokanisaki ete tokomona esika ya losambo. Wana tovandaki, tokomaki koteya basi oyo basanganaki kuna.
+044	ACT	016	014	Kati na basi yango, ezalaki na mwasi moko, kombo na ye « Lidi. » Azalaki moteki ya bilamba ya motane, moto ya Tiyatire mpe mogumbameli ya Nzambe. Azalaki koyoka, mpe Nkolo afungolaki motema na ye mpo ete akangama na makambo oyo Polo azalaki koloba.
+044	ACT	016	015	Tango ye elongo na bato ya libota na ye bazwaki libatisi, abengisaki biso na ndako na ye; alobaki: — Soki bomoni ete ngai nakomi penza mondimi ya Nkolo, boya kovanda na ndako na ngai. Boye, asalaki nyonso mpo ete tondima kokende na ndako na ye.
+044	ACT	016	016	Mokolo moko, wana tozalaki kokende na esika ya losambo, tokutanaki na mwasi mowumbu moko oyo azalaki na molimo mabe oyo ezalaki kosunga ye mpo na kosakola makambo oyo ekoya, mpe azalaki kozwela bankolo na ye mbongo ebele na nzela ya masakoli na ye.
+044	ACT	016	017	Mwasi yango azalaki kolanda biso, Polo mpe biso, na koganga: — Bato oyo bazali basali ya Nzambe-Oyo-Aleki-Likolo, bazali koteya bino nzela ya lobiko.
+044	ACT	016	018	Lokola azalaki kosala bongo wuta mikolo ebele, suka na suka, Polo atombokaki, abalukaki mpe alobaki na molimo mabe yango: — Na Kombo na Yesu-Klisto, napesi yo mitindo: bima kati na mwasi oyo! Kaka na tango yango, molimo yango ebimaki kati na ye.
+044	ACT	016	019	Tango bankolo ya mowumbu yango bamonaki ete elikya na bango ya kozwa mbongo ekeyi na mopepe, bakangaki Polo mpe Silasi, mpe bamemaki bango liboso ya bakonzi, na esika ya bato ebele.
+044	ACT	016	020	Bamemaki bango liboso ya basambisi mpe balobaki: — Bato oyo bazali Bayuda; bazali kotia mobulu kati na engumba na biso.
+044	ACT	016	021	Bazali koluka kokotisa awa bizaleli oyo mibeko epekisi biso, bato ya Rome, kondima mpe kosalela.
+044	ACT	016	022	Bato oyo batondaki wana batombokelaki Polo mpe Silasi, bongo basambisi bapesaki mitindo ete balongola bango bilamba mpe babeta bango fimbu.
+044	ACT	016	023	Sima na kobetisa bango fimbu makasi, babwakaki bango kati na boloko; bapesaki mitindo na mokengeli boloko ete akengela bango malamu.
+044	ACT	016	024	Tango kaka mokengeli azwaki mitindo oyo, abwakaki bango kati na boloko ya kati mpe akangisaki makolo na bango na mabaya.
+044	ACT	016	025	Pene na midi ya butu, Polo mpe Silasi bazalaki kosambela mpe kokumisa Nzambe na banzembo; bakangami mosusu bazalaki koyoka bango.
+044	ACT	016	026	Mbala moko, mabele eninganaki makasi, mpe miboko ya boloko eninganaki. Kaka na tango yango, miboko ya boloko ebukanaki, bikuke nyonso ya boloko efungwamaki, mpe minyololo ya bakangami nyonso ekatanaki.
+044	ACT	016	027	Mokengeli boloko alamukaki; mpe tango amonaki ete bikuke ya boloko ezali ya kofungwama, abendaki mopanga na ye mpo ete amiboma, pamba te akanisaki ete bakangami bakimi.
+044	ACT	016	028	Kasi Polo agangaki na mongongo makasi: — Komisala mabe te! Biso nyonso tozali awa!
+044	ACT	016	029	Mokengeli boloko asengaki mwinda, akotaki mbangu kati na boloko, mpe amibwakaki liboso ya Polo mpe Silasi na kolenga makasi.
+044	ACT	016	030	Bongo abimisaki bango libanda mpe atunaki bango: — Batata, nasala nini mpo ete nabika?
+044	ACT	016	031	Bazongisaki: — Ndima Nkolo Yesu, mpe okobika, yo mpe libota na yo.
+044	ACT	016	032	Bongo bateyaki ye mpe libota na ye Liloba na Nkolo.
+044	ACT	016	033	Kaka na ngonga wana ya butu, mokengeli boloko azwaki bango elongo na ye mpe asukolaki bango bapota; bongo, mbala moko, ye mpe libota na ye bazwaki libatisi.
+044	ACT	016	034	Sima, mokengeli boloko amemaki Polo mpe Silasi na ndako na ye, mpe apesaki bango bilei; mpe atondisamaki na esengo makasi, pamba te ye mpe bato nyonso ya libota na ye bandimelaki Nzambe.
+044	ACT	016	035	Tango tongo etanaki, basambisi batindaki basali na bango epai ya mokengeli boloko mpo na koyebisa ye: — Bimisa bato wana na boloko!
+044	ACT	016	036	Mokengeli boloko alobaki na Polo: — Basambisi bapesi ngai mitindo ete nabimisa bino na boloko. Boye sik’oyo, bobima mpe bokende na kimia.
+044	ACT	016	037	Kasi Polo azongisaki: — Nini! Basambisi biso te, kasi babetisi biso fimbu na miso ya bato mpe babwaki biso na boloko, nzokande biso tozali bato ya Rome. Balingi sik’oyo kobimisa biso na nkuku? Te, ekosalema bongo te! Tika ete bango moko baya kobimisa biso!
+044	ACT	016	038	Basali bakendeki koyebisa makambo yango epai ya basambisi. Tango kaka basambisi bayokaki ete Polo mpe Silasi bazali bato ya Rome, babangaki makasi.
+044	ACT	016	039	Bayaki kosenga bango bolimbisi, mpe babimisaki bango na boloko. Basengaki na bango ete balongwa na engumba wana.
+044	ACT	016	040	Sima na Polo mpe Silasi kobima na boloko, bakendeki na ndako ya Lidi, epai wapi bakutanaki na bandeko mpe balendisaki bango. Bongo, bazongelaki mobembo na bango.
+044	ACT	017	001	Sima na Polo mpe Silasi kolekela na Afipolisi mpe na Apolonia, bakendeki na Tesalonika epai wapi ndako ya mayangani ya Bayuda ezalaki.
+044	ACT	017	002	Ndenge momesano na ye ezalaki, Polo akotaki na ndako ya mayangani. Basaba misato, asololaki na bato oyo bazalaki kuna na tina na Makomi.
+044	ACT	017	003	Azalaki kotalisa mpe kolakisa bango polele ete Klisto asengelaki komona pasi mpe kosekwa kati na bakufi. Azalaki koloba na bango: — Yesu oyo nazali koteya bino, Ye nde azali Klisto.
+044	ACT	017	004	Ndambo ya Bayuda bandimisamaki mpe basanganaki na Polo mpe Silasi; ndenge moko mpe na bato mingi ya Grese, oyo bazalaki kogumbamela Nzambe, mpe basi ebele ya lokumu.
+044	ACT	017	005	Kasi Bayuda mosusu basalaki zuwa; bakendeki kozwa bato ya mobulu oyo batambolaka pamba-pamba na balabala, basangisaki bango mpe babimisaki mobulu kati na engumba. Bakendeki mbangu na ndako ya Jazoni mpo na koluka Polo mpe Silasi mpo ete bamema bango liboso ya ebele ya bato.
+044	ACT	017	006	Kasi lokola bamonaki bango te, bamemaki Jazoni mpe bandeko mosusu liboso ya bakambi ya engumba na koganga: — Bato oyo bazali koningisa mokili mobimba bakomi sik’oyo awa,
+044	ACT	017	007	mpe Jazoni ayambi bango lokola babengami kati na ndako na ye. Bango nyonso bazali kobuka mibeko ya Sezare, pamba te bazali koloba: « Mokonzi mosusu azali, Kombo na Ye: Yesu! »
+044	ACT	017	008	Tango ebele ya bato mpe bakambi ya engumba bayokaki bongo, batombokaki makasi.
+044	ACT	017	009	Boye, bafutisaki Jazoni mpe bandeko mosusu lomande mpe, na sima, batikaki bango.
+044	ACT	017	010	Wana butu ekomaki, bandeko bakimisaki Polo mpe Silasi noki-noki na Bere. Tango bakomaki kuna, bakotaki na ndako ya mayangani ya Bayuda.
+044	ACT	017	011	Nzokande, Bayuda ya Bere bazalaki bato ya boboto koleka bato ya Tesalonika, pamba te bayambaki Liloba na motema mobimba mpe, mokolo na mokolo, bazalaki koyekola na mozindo Makomi mpo na kotala soki makambo oyo Polo azali koteya bango ezali ya solo.
+044	ACT	017	012	Bayuda ebele kati na bango bandimaki; ndenge moko mpe, kati na bato ya Grese, basi mingi ya lokumu mpe mibali ebele bandimaki.
+044	ACT	017	013	Kasi tango Bayuda ya Tesalonika bayokaki ete Polo azali koteya Liloba na Nzambe na Bere, mingi kati na bango bayaki mpe kuna mpo na kotia songisongi kati na bato mpo ete batomboka.
+044	ACT	017	014	Bongo, kaka na tango yango, bandeko basalaki ete Polo akende na ebale mpo na kozwa masuwa, wana Silasi mpe Timote batikalaki na Bere.
+044	ACT	017	015	Bato oyo bakendeki kotika Polo bamemaki ye kino na Ateni; mpe na mitindo ya Polo, bazongaki na Bere koyebisa Silasi mpe Timote ete balanda ye noki na Ateni.
+044	ACT	017	016	Wana Polo azali kozela bango kati na Ateni, motema na ye etungisamaki mingi na komona ete engumba yango etonda na banzambe ya bikeko.
+044	ACT	017	017	Boye, azalaki kosolola na Bayuda mpe Bagreki oyo bazalaki kogumbamela Nzambe kati na ndako ya mayangani, mpe na bato oyo azalaki kokuta, mokolo na mokolo, na bisika oyo bato ebele bakutanaka.
+044	ACT	017	018	Ndambo ya bato ya mayele oyo balandaka malakisi ya Epikire mpe ya Zenon bakomaki kotiana tembe na ye. Bamoko batunaki: — Moto oyo ya makelele alingi koloba nini? Bamosusu balobaki: — Tomoni lokola nde azali kolobela banzambe ya bapaya! Balobaki bongo mpo ete Polo azalaki koteya Sango Malamu na tina na Yesu mpe lisekwa kati na bakufi.
+044	ACT	017	019	Boye bakamataki ye, bamemaki ye na Areopaje mpe balobaki na ye: — Boni, tokoki koyeba soki mateya ya sika oyo ozali koteya elingi koloba nini?
+044	ACT	017	020	Pamba te ozali koloba na biso makambo ya sika. Yango wana, tolingi koyeba soki makambo yango elakisi penza nini.
+044	ACT	017	021	(Bato nyonso ya Ateni mpe bapaya oyo bazalaki kovanda kuna bazalaki kolekisa tango mingi mpo na koloba mpe koyoka basango ya sika).
+044	ACT	017	022	Polo atelemaki liboso ya bato oyo basanganaki na Areopaje mpe alobaki: — Bato ya Ateni! Nasosoli ete, na makambo nyonso, bolingaka mingi makambo ya bonzambe.
+044	ACT	017	023	Pamba te tango nazalaki kotambola kati na engumba na bino mpe kotala bikeko oyo bosambelaka, namonaki kutu etumbelo moko bakoma na likolo na yango: Mpo na Nzambe oyo ayebani te. Nzokande, ngai nayei koteya bino Nzambe oyo bosambelaka ata boyebi Ye te.
+044	ACT	017	024	Nzambe oyo asala mokili mpe biloko nyonso oyo ezali kati na yango azali Nkolo ya Likolo mpe ya mokili, avandaka te kati na batempelo oyo maboko ya bato etonga.
+044	ACT	017	025	Mpe azalaka na posa te ya masungi ya bato, pamba te akoka na nyonso. Nzokande, Ye nde apesaka bato nyonso bomoi, pema mpe biloko nyonso.
+044	ACT	017	026	Wuta na moto moko, asalaki mabota nyonso ya bato, mpo ete bakoka kovanda na mokili mobimba; mpe akataki tango mpo na moto na moto mpe atiaki bandelo mpo na bisika na bango ya kovanda.
+044	ACT	017	027	Nzambe asalaki bongo mpo ete bato bakoka koluka Ye, tango mosusu bakolonga komona Ye na kolukaluka lokola mokufi miso. Nzokande, na bosolo, azali mosika te ya moko na moko kati na biso.
+044	ACT	017	028	Pamba te, ezali na nzela na Ye nde tozalaka na bomoi, toninganaka mpe tozalaka oyo tozali, ndenge bakomi na bino mosusu baloba: « Tozali bana na ye! »
+044	ACT	017	029	Yango wana, lokola tozali bana na Nzambe, tosengeli te kokanisa ete bonzambe ekokani na elilingi ya wolo, ya palata to ya libanga, lokola nzambe ya ekeko oyo esalemi na maboko mpe mayele ya moto.
+044	ACT	017	030	Nzokande, lokola Nzambe atalaka te tango ya kozanga boyebi, kasi azali sik’oyo kosenga ete bato nyonso, na bisika nyonso oyo bazali, babongola mitema.
+044	ACT	017	031	Pamba te akata mokolo oyo akosambisa mokili mobimba na bosembo nyonso, na nzela ya moto oyo Ye asila kopona. Atalisaki bosolo na yango epai ya bato nyonso, na nzela ya kosekwisa moto yango kati na bakufi.
+044	ACT	017	032	Tango bayokaki Polo koloba na tina na lisekwa ya bakufi, bamoko basekaki ye, mpe bamosusu balobaki: — Tokoyoka yo mokolo mosusu na tina na likambo oyo.
+044	ACT	017	033	Na bongo, Polo atikaki bango.
+044	ACT	017	034	Nzokande, bato mosusu balandaki Polo mpe bakomaki bandimi. Kati na bango, ezalaki: Denisi, moto ya Areopaje; mwasi moko oyo kombo na ye ezali Damarisi, mpe bato mosusu.
+044	ACT	018	001	Sima na yango, Polo atikaki Ateni mpe akendeki na Kolinto.
+044	ACT	018	002	Kuna, akutanaki na Moyuda moko, kombo na ye ezalaki « Akilasi. » Azalaki moto ya mboka Ponti. Akilasi awutaki koya kala te longwa na Itali, elongo na mwasi na ye, Prisile, pamba te mokonzi Klode apesaki mitindo ete Bayuda nyonso balongwa na Rome. Boye, Polo akendeki kotala bango;
+044	ACT	018	003	mpe lokola Polo azalaki kosala mosala moko na bango, mosala ya kosala bandako ya kapo, avandaki epai na bango mpe akomaki kosala elongo na bango.
+044	ACT	018	004	Mikolo nyonso ya Saba, Polo azalaki koteya kati na ndako ya mayangani mpe azalaki koluka kondimisa Bayuda mpe bato ya Grese.
+044	ACT	018	005	Tango Silasi mpe Timote bayaki wana wuta na Masedwane, Polo akomaki kolekisa tango na ye nyonso kaka na koteya Liloba mpe kotalisa solo epai ya Bayuda ete Yesu azali Klisto.
+044	ACT	018	006	Kasi tango Bayuda bakomaki kotelemela Polo mpe kofinga ye, apupolaki bilamba na ye mpe alobaki: — Tika ete makila na bino etangama likolo ya mito na bino moko! Ngai nazali lisusu na ngambo te. Kobanda lelo, nakokende na ngai epai ya bato ya bikolo ya bapaya.
+044	ACT	018	007	Boye, Polo atikaki bango mpe akendeki na ndako ya Titisi Yusitusi, mogumbameli ya Nzambe, oyo ndako na ye ezalaki pembeni ya ndako ya mayangani.
+044	ACT	018	008	Krispisi, mokambi ya ndako ya mayangani, elongo na libota na ye mobimba bazalaki na kondima epai ya Nkolo; mpe bato mingi ya Kolinto oyo bazalaki koyoka Polo bakomaki bandimi ya Nkolo mpe bazwaki libatisi.
+044	ACT	018	009	Mokolo moko, na butu, Nkolo alobaki na Polo kati na emoniseli: Kobanga te, koba kaka koloba, kokanga monoko te.
+044	ACT	018	010	Nazali na yo elongo, mpe moto moko te akolonga kobundisa yo mpe kosala yo mabe, pamba te nazali na bato mingi kati na engumba oyo.
+044	ACT	018	011	Boye, Polo avandaki na Kolinto, mobu moko na ndambo, mpe azalaki koteya bango Liloba na Nzambe.
+044	ACT	018	012	Wana Galioni azalaki moyangeli ya Akayi, Bayuda bayokanaki mpo na kokanga Polo, mpe bamemaki ye na esambiselo
+044	ACT	018	013	mpe bafundaki ye boye: — Moto oyo azali koluka kondimisa bato ete bagumbamela Nzambe na lolenge oyo mibeko epekisa.
+044	ACT	018	014	Tango kaka Polo alingaki koloba, Galioni alobaki na Bayuda: — Bino Bayuda, soki moto oyo asalaki mabe to likambo moko ya sembo te, nalingaki solo koyokela bino.
+044	ACT	018	015	Kasi lokola ezali kaka likambo ya tembe na tina na makambo oyo etali maloba, bakombo mpe mibeko na bino, wana etali kaka bino moko; ngai naboyi kozala mosambisi ya makambo ya boye.
+044	ACT	018	016	Boye, abenganaki bango na esambiselo.
+044	ACT	018	017	Mpe bango nyonso bakangaki Sositeni, mokambi ya ndako ya mayangani, mpe babetaki ye liboso ya esambiselo. Kasi Galioni atalaki yango se pamba.
+044	ACT	018	018	Polo avandaki lisusu mwa mikolo na Kolinto. Bongo, atikaki bandeko, akotaki na masuwa mpe akendeki na Siri elongo na Prisile mpe Akilasi. Liboso na Polo kolongwa na libongo ya Sankresi, akokolisaki suki ya moto na ye, pamba te alapaki ndayi.
+044	ACT	018	019	Tango bakomaki na Efeso, Polo atikaki Akila mpe Prisile. Akendeki ye moko na ndako ya mayangani mpo na kosolola na Bayuda.
+044	ACT	018	020	Basengaki ete awumela mwa mikolo elongo na bango, kasi Polo aboyaki.
+044	ACT	018	021	Atikaki bango na koloba: — Nakozongela bino lisusu, soki Nzambe alingi. Wuta na Efeso, azwaki masuwa mpe akendeki.
+044	ACT	018	022	Tango akomaki na Sezarea, amataki na Yelusalemi mpo na kopesa Lingomba mbote; sima, akendeki na Antioshe.
+044	ACT	018	023	Sima na Polo kovanda mwa mikolo na Antioshe, alongwaki kuna mpe alekaki na etuka ya Galatia mpe ya Friji, na kolendisa bayekoli nyonso.
+044	ACT	018	024	Moyuda moko ayaki na Efeso, kombo na ye ezalaki « Apolosi. » Abotamaki na Alekizandri, ayebaki koloba malamu mpe ayebaki bozindo ya Makomi.
+044	ACT	018	025	Bateyaki ye nzela ya Nkolo; mpe, lokola azalaki molende, azalaki koloba mpe kolakisa na bosolo makambo oyo etali Yesu atako ayebaki kaka libatisi ya Yoane.
+044	ACT	018	026	Abandaki koloba na molende nyonso kati na ndako ya mayangani. Kasi tango Prisile mpe Akilasi bayokaki ye, babengisaki ye na ndako na bango mpe balimbolelaki ye malamu penza nzela ya Nzambe.
+044	ACT	018	027	Lokola Apolosi azalaki na likanisi ya kokende na Akayi, bandeko balendisaki ye mpe bakomelaki bayekoli ya Kolinto ete bayamba ye malamu. Tango akomaki kuna, na ngolu na Nzambe, azalaki lisungi monene mpo na bato oyo bakomaki bandimi,
+044	ACT	018	028	pamba te maloba na ye ezalaki kosukisa tembe ya Bayuda na miso ya bato nyonso, mpe azalaki kotalisa na polele, na nzela ya Makomi, ete Yesu azali Klisto.
+044	ACT	019	001	Wana Apolosi azalaki na Kolinto, Polo alekelaki na mokili ya bangomba ya Azia, mpe akomaki na Efeso. Kuna, akutaki mwa ndambo ya bayekoli
+044	ACT	019	002	mpe atunaki bango: — Boni, bozwaki Molimo Mosantu tango bokomaki bandimi? Bazongisaki: — Te! Totikala nanu koyoka te ete Molimo Mosantu azalaka.
+044	ACT	019	003	Polo atunaki bango lisusu: — Bongo libatisi ya ndenge nini penza bozwaki? Bazongisaki: — Tozwaki libatisi ya Yoane.
+044	ACT	019	004	Polo alobaki na bango: — Libatisi oyo Yoane azalaki kopesa ezalaki libatisi ya kobongola motema; azalaki koloba na bato ete bandimela moto oyo akoya sima na ye, elingi koloba ete bandimela Yesu.
+044	ACT	019	005	Boye, bayokelaki ye mpe bazwaki libatisi na Kombo ya Nkolo Yesu.
+044	ACT	019	006	Tango Polo atielaki bango maboko, Molimo Mosantu akitelaki bango, mpe bakomaki koloba na nkota ya sika mpe kosakola.
+044	ACT	019	007	Bango nyonso bazalaki bato pene zomi na mibale.
+044	ACT	019	008	Bongo, Polo akendeki na ndako ya mayangani epai wapi, na basanza misato, azalaki koloba na molende epai na bato; azalaki koteya bango makambo oyo etali Bokonzi ya Nzambe mpe kondimisa bango yango.
+044	ACT	019	009	Kasi bato mosusu kati na bango bazalaki mitema mabanga; baboyaki kondima mpe batiolaki nzela ya Nkolo na miso ya bato ebele. Bongo Polo akabwanaki na bango. Amemaki bayekoli mpe, mokolo na mokolo, azalaki koteya bango na eteyelo ya Tiranisi.
+044	ACT	019	010	Esalaki bongo mibu mibale; boye Bayuda nyonso mpe bato nyonso ya Grese, oyo bazalaki kovanda na mokili ya Azia bayokaki Liloba na Nkolo.
+044	ACT	019	011	Nzambe azalaki kosala bikamwa ya somo na nzela ya Polo.
+044	ACT	019	012	Boye bato bakomaki kokamata miswale mpe bilamba oyo etuti nzoto ya Polo, mpo na kotia yango na banzoto ya babeli, bongo bokono ya bato yango ezalaki kosila, mpe milimo mabe ezalaki kobima kati na bango.
+044	ACT	019	013	Ndambo ya Bayuda oyo bazalaki kotambola-tambola mpo na kobengana milimo mabe bamekaki kobelela Kombo ya Nkolo Yesu mpo na koluka kokangola bato oyo bazalaki na se ya bokonzi ya milimo mabe; bazalaki koloba: — Na Kombo ya Yesu oyo Polo ateyaka, napesi bino mitindo ya kobima.
+044	ACT	019	014	Bana mibali sambo ya Moyuda Seva, moko kati na bakonzi ya Banganga-Nzambe, bazalaki kosala bongo.
+044	ACT	019	015	Mokolo moko, molimo mabe ezongiselaki bango: — Nayebi Yesu, nayebi mpe soki Polo azali nani; kasi bino, bozali banani?
+044	ACT	019	016	Mpe moto oyo azalaki na molimo mabe apumbwelaki bango, akangaki bango mpe abetaki bango nyonso makasi penza kino babimaki na ndako bolumbu mpe batonda na bapota.
+044	ACT	019	017	Tango likambo yango eyebanaki na Bayuda mpe na bato ya Grese oyo bavandaka na Efeso, somo ekangaki bango nyonso, mpe Kombo ya Nkolo Yesu ezwaki lokumu mingi.
+044	ACT	019	018	Mingi kati na bato oyo bakomaki bandimi bazalaki koya kondima mpe kotubela polele misala na bango ya mabe.
+044	ACT	019	019	Mpe bato mingi ya maji bamemaki babuku na bango mpe batumbaki yango na miso ya bato nyonso. Tango balukaki koyeba motuya ya babuku yango, emonanaki ete ezalaki na motuya ya mbongo ya bibende nkoto tuku mitano.
+044	ACT	019	020	Ezali ndenge wana nde Liloba na Nkolo ezalaki kokoba kopanzana mpe komonana ete etonda na nguya ya Nzambe.
+044	ACT	019	021	Sima na makambo oyo nyonso, Polo, na bokambami ya Molimo, azwaki mokano ya kolekela na Masedwane mpe na Akayi mpo na kokende na Yelusalemi. Alobaki: — Soki nalongwe kuna, nakokende lisusu na Rome.
+044	ACT	019	022	Atindaki na Masedwane, mibale kati na basungi na ye ya mosala, Timote mpe Erasite, wana ye moko atikalaki mwa mikolo na Azia.
+044	ACT	019	023	Ezalaki na tango wana nde mobulu makasi esalemaki na Efeso na tina na Nzela ya Nkolo.
+044	ACT	019	024	Demetriusi, mosali ya babiju, azalaki kosala na palata bililingi ya batempelo ya nzambe Artemisi. Na mosala yango, azalaki kofuta basali na ye mbongo mingi.
+044	ACT	019	025	Asangisaki bango elongo na bato ya misala ya maboko, oyo basalaka mosala moko na ye, mpe alobaki na bango: — Baninga na ngai, boyebi malamu ete mosala oyo efutaka biso malamu.
+044	ACT	019	026	Nzokande, bino moko bozali komona mpe koyoka ndenge nini Polo wana azali kosala nyonso mpo na kondimisa bato mpe kobenda sima na ye bato ebele awa kaka na Efeso te, kasi mpe na etuka mobimba ya Azia; azali koloba ete banzambe oyo esalemi na maboko ya bato ezali banzambe te.
+044	ACT	019	027	Makambo oyo Polo azali kosala ezali koluka kaka te kobebisa lokumu ya mosala na biso, kasi ezali mpe kosilisa lokumu ya tempelo ya Artemisi, nzambe monene ya mwasi; ezali lisusu kosilisa nkembo ya Artemisi oyo Azia mobimba mpe mokili mobimba ezali kogumbamela.
+044	ACT	019	028	Tango kaka bayokaki bongo, basilikaki makasi mpe bakomaki koganga: — Artemisi ya Efeso azali monene!
+044	ACT	019	029	Mbala moko, mobulu ekotaki kati na engumba mobimba. Bakangaki Gayusi mpe Arisitarke, bato mibale ya Masedwane, oyo bazalaki kotambola elongo na Polo; mpe bato nyonso bakendeki na lombangu na ndako ya masano.
+044	ACT	019	030	Polo azalaki na posa ya kobima na miso ya bato, kasi bayekoli bapekisaki ye.
+044	ACT	019	031	Ezala mpe baninga na ye, oyo bazalaki bakambi ya etuka, batindelaki ye maloba mpo na kosenga na ye ete ameka te kosala liseki ya kokende na ndako ya masano.
+044	ACT	019	032	Mobulu makasi ekotaki kati na ebele ya bato: bamoko bazalaki koganga mpo na likambo moko, mpe bamosusu, mpo na likambo mosusu. Mingi kati na bango bazalaki koyeba te tina nini basangani wana.
+044	ACT	019	033	Bayuda kati na ebele ya bato batindikaki Alekizandre na liboso, mpe batalisaki ye likambo yango ndenge ezali. Bongo Alekizandre atombolaki loboko mpo na kolakisa ete alingi kozwa maloba mpo na kotalisa na bato.
+044	ACT	019	034	Kasi tango basosolaki ete azali Moyuda, bango nyonso basalaki pene bangonga mibale ya koganga lokola moto moko: — Artemisi ya Efeso azali monene!
+044	ACT	019	035	Suka na suka, mokomi mikanda ya engumba alongaki kopekisa makelele ya bato; alobaki: — Bato ya Efeso! Nani kati na mokili oyo ayebi te ete engumba ya Efeso ezali engumba mosantu ya Artemisi, nzambe mwasi monene, mpe ya ekeko na ye oyo ekita wuta na likolo?
+044	ACT	019	036	Yango wana, lokola moko te akoki kotia tembe na likambo oyo, bovanda kimia mpe bosala makambo ya bozoba te.
+044	ACT	019	037	Bato oyo bomemi awa babebisi ndako ya nzambe na biso te mpe bafingi ye te.
+044	ACT	019	038	Soki Demetriusi mpe basali na ye bazwi moto likambo, esambiselo ezali, basambisi mpe bazali. Ebongi malamu ete bakende kofunda.
+044	ACT	019	039	Mpe soki bozali na likambo mosusu ya koloba, tokoyekola yango malamu kati na mayangani oyo mibeko epesa ndingisa.
+044	ACT	019	040	Soki tokebi te, bakoki kofunda biso ete botombokisi bato, mpo na makambo oyo esalemi lelo. Na bongo, tokolonga te kolimbola tina oyo bato basangani awa.
+044	ACT	019	041	Tango kaka asilisaki koloba, apesaki mitindo ete bato bapanzana.
+044	ACT	020	001	Tango mobulu esilaki, Polo abengisaki bayekoli mpe alendisaki bango. Sima na yango, apesaki bango mbote ya suka mpe akendeki na Masedwane.
+044	ACT	020	002	Wana azalaki kotambola kati na etuka yango, azalaki kolendisa bandimi na mateya ya ndenge na ndenge kino akomaki na Grese
+044	ACT	020	003	epai wapi awumelaki basanza misato. Kaka na tango Polo alingaki kozwa masuwa mpo na kokende na Siri, Bayuda basalelaki ye likita. Boye, azwaki mokano ya kozongela na nzela ya Masedwane.
+044	ACT	020	004	Tala bato oyo bakendeki na ye elongo: Sopatere, mwana ya Pirisi, moto ya Bere; Arisitarke mpe Sekundusi, bato ya Tesalonika; Gayusi, moto ya Derbe; Timote, Tishike mpe Trofime, bato ya etuka ya Azia.
+044	ACT	020	005	Bango nde bakendeki liboso mpo na kozela biso na Troasi.
+044	ACT	020	006	Kasi biso tozwaki masuwa kati na engumba Filipi, sima na feti ya Mapa ezanga levire. Sima na biso kotambola mikolo mitano na mayi, tokutaki bango na Troasi epai wapi tosalaki mikolo sambo.
+044	ACT	020	007	Na mokolo ya liboso ya poso, wana tosanganaki mpo na kolia elambo, Polo, oyo asengelaki kokende na mobembo, mokolo oyo elandaki, asololaki na bandimi mpe abendaki masolo molayi penza kino na ngonga ya midi ya butu.
+044	ACT	020	008	Tosanganaki kati na shambre ya likolo, oyo ezalaki na minda ebele.
+044	ACT	020	009	Nzokande, elenge mobali moko avandaki na lininisa; kombo na ye ezalaki Etikisi. Lokola Polo azalaki kaka kokoba koloba, pongi makasi ekangaki Etikisi, mpe, mbala moko, akweyaki na mabele wuta na etaje ya misato. Tango batombolaki ye, bamonaki ete asili kokufa.
+044	ACT	020	010	Polo akitaki, atiaki litoyi na ye na tolo ya Etikisi, akamataki Etikisi na maboko na ye mpe alobaki: — Bobanga te, azali na bomoi.
+044	ACT	020	011	Amataki lisusu na etaje, abukaki lipa, aliaki yango mpe akobaki koloba kino na tongo, sima nde akendeki.
+044	ACT	020	012	Bongo, bazongisaki ya bomoi, elenge mobali epai na bango, mpe bango nyonso balendisamaki makasi.
+044	ACT	020	013	Tokendeki liboso, mpe tozwaki masuwa oyo ememaki biso na Asosi epai wapi Polo asengelaki komatela na masuwa. Azwaki mokano wana, pamba te alingaki kokende kuna na makolo.
+044	ACT	020	014	Tango akutanaki na biso na mboka Asosi, amataki na masuwa elongo na biso, mpe tokendeki na Mitilena.
+044	ACT	020	015	Longwa wana, tozwaki masuwa mpo na kokende, mpe tokomaki liboso ya Shio, mokolo oyo elandaki. Sima na mokolo moko, tokomaki na Samosi, mpe, mokolo oyo elandaki, tokomaki na Mile.
+044	ACT	020	016	Polo azwaki mokano ya kotelema te na Efeso mpe ya kolekisa tango te na mokili ya Azia, pamba te azalaki na posa, soki akolonga, ya kokoma noki na Yelusalemi mpo ete azala na mokolo ya Pantekoti.
+044	ACT	020	017	Wuta na Mile, Polo abengisaki bakambi ya Lingomba ya Efeso.
+044	ACT	020	018	Tango bakutanaki na ye, alobaki na bango: — Boyebi malamu ezaleli nini nazalaki na yango tango nyonso liboso na bino, wuta mokolo ya liboso oyo nakomaki na mokili ya Azia.
+044	ACT	020	019	Nasalelaki Nkolo lokola mowumbu, na komikitisa nyonso mpe na mpinzoli, kati na komekama makasi mpo ete Bayuda bazalaki kosalela ngai makita.
+044	ACT	020	020	Nzokande, boyebi malamu ete nazalaki na somo te ya koteya makambo nyonso oyo ekokaki kosunga bino. Nateyaki bino, ezala na esika ya bato ebele to na ndako ya moko na moko.
+044	ACT	020	021	Nazalaki tango nyonso kosenga, ezala na Bayuda to na bato ya Grese, ete bazongela Nzambe na nzela ya kobongola mitema, mpe batia kondima na bango kati na Yesu, Nkolo na biso.
+044	ACT	020	022	Boye sik’oyo, na etinda ya Molimo, nakeyi na Yelusalemi, kasi nayebi te likambo nini ekokomela ngai kuna.
+044	ACT	020	023	Eloko moko kaka nayebi: Molimo Mosantu azali kokebisa ngai ete boloko mpe minyoko ya ndenge na ndenge ezali kozela ngai na bingumba nyonso oyo nakokota.
+044	ACT	020	024	Nzokande, nazali komona bomoi na ngai lokola eloko pamba; eloko oyo eleki motuya mpo na ngai ezali: kosukisa malamu momekano na ngai ya kopota mbangu mpe kokokisa lotomo oyo Nkolo Yesu apesaki ngai: kosakola Sango Malamu ya ngolu ya Nzambe.
+044	ACT	020	025	Mpe sik’oyo, nayebi ete bokomona elongi ngai lisusu te, bino nyonso oyo nalekaki kati na bino mpo na koteya sango ya Bokonzi ya Nzambe.
+044	ACT	020	026	Yango wana, nalobi na bino yango lelo ete nazali na ngambo ya makila ya moto moko te kati na bato nyonso,
+044	ACT	020	027	pamba te nayebisaki bino mabongisi nyonso ya Nzambe mpe nabombelaki bino ata eloko moko te.
+044	ACT	020	028	Bomibatela malamu mpe bobatela etonga nyonso oyo kati na yango Molimo Mosantu atiaki bino lokola bakengeli; bobatela Lingomba ya Nzambe, pamba te asombaki yango na makila na Ye moko.
+044	ACT	020	029	Nayebi malamu ete, sima na ngai kokende, bambwa ya zamba ekokota kati na bino mpe ekoyokela etonga mawa te.
+044	ACT	020	030	Ezala kati na bino, bato mosusu bakobima, bakoteya mateya ya lokuta mpo na kopengwisa bayekoli ete bazala na ngambo na bango.
+044	ACT	020	031	Yango wana, bosenzela! Bokanisa malamu ete mibu misato mobimba, butu mpe moyi, natikaki te kokebisa moko na moko na bino, mpe tango mosusu elongo na mpinzoli.
+044	ACT	020	032	Sik’oyo, nazali kokaba bino na maboko ya Nzambe mpe na Liloba na Ye ya ngolu. Nzambe azali na makoki ya kolendisa bino mpe ya kopesa bino libula kati na bato nyonso oyo babulisama.
+044	ACT	020	033	Nalulaki te palata to wolo to elamba ya moto moko.
+044	ACT	020	034	Bino moko boyebi malamu ete ezali maboko na ngai oyo, nde epesaki ngai biloko oyo nazalaki na bosenga na yango mpo na ngai moko, mpe oyo baninga na ngai bazalaki na bosenga na yango.
+044	ACT	020	035	Kati na nyonso, natalisaki bino ete tosengeli kosala misala makasi ya lolenge oyo mpe kosunga bato bakelela, na kokanisa Maloba oyo Ye moko Nkolo Yesu aloba: « Esengo ya kokaba eleki esengo ya kozwa. »
+044	ACT	020	036	Sima na Polo koloba bongo, afukamaki mpe asambelaki elongo na bango.
+044	ACT	020	037	Bango nyonso bakomaki kolela, bayambaki Polo mpe bapesaki ye beze;
+044	ACT	020	038	bayokaki mawa mingi koleka mpo alobaki na bango ete bakomona elongi na ye lisusu te. Bongo bakendeki kotika ye kino na masuwa.
+044	ACT	021	001	Sima na biso kokabwana na bango, tokotaki na masuwa mpe tokendeki kino na esanga ya Kosi; bongo mokolo oyo elandaki, tokendeki na Roda mpe, longwa wana, tokomaki na Patara.
+044	ACT	021	002	Kuna, tomonaki masuwa moko oyo ezalaki kokende na Fenisi; tomataki kati na yango mpe tokendeki.
+044	ACT	021	003	Tango tomonaki esanga ya Shipre, totikaki yango na ngambo ya loboko ya mwasi mpe tokobaki mobembo na biso na mopanzi ya Siri. Totelemaki na Tiri epai wapi masuwa esengelaki kokitisa biloko oyo ememaki.
+044	ACT	021	004	Lokola tokutaki bayekoli kuna, tovandaki elongo na bango mikolo sambo. Nzokande Molimo asololaki na Bayekoli, mpe balobaki na Polo ete akende na Yelusalemi te.
+044	ACT	021	005	Atako bongo, tango mikolo na biso ekokaki, tolongwaki wana mpe tokobaki mobembo na biso. Bayekoli nyonso elongo na basi na bango mpe bana na bango bakendeki kotika biso kino na libanda ya engumba. Tango tokomaki na libongo, tofukamaki mpo na kosambela.
+044	ACT	021	006	Sima na kopesana mbote ya suka, tomataki na masuwa, mpe bango bazongaki na bandako na bango.
+044	ACT	021	007	Tosukisaki mobembo na biso ya mayi, kolongwa na Tiri kino na Pitolemayisi epai wapi topesaki bandeko mbote mpe tovandaki elongo na bango mokolo moko.
+044	ACT	021	008	Mokolo oyo elandaki, tokendeki na Sezarea mpe tovandaki na ndako ya Filipo, mopanzi Sango Malamu. Azalaki moko kati na bato sambo oyo Lingomba eponaki.
+044	ACT	021	009	Azalaki na bana basi minei oyo bayebaki nanu nzoto ya mibali te, mpe bazalaki na likabo ya kosakola.
+044	ACT	021	010	Lokola tovandaki wana mikolo ebele, mosakoli moko, kombo na ye ezalaki Agabisi, awutaki na Yuda
+044	ACT	021	011	mpe ayaki kokutana na biso; azwaki mokaba ya Polo mpe amikangaki na yango makolo mpe maboko. Alobaki: — Tala makambo oyo Molimo Mosantu alobi: « Ezali na lolenge oyo nde Bayuda ya Yelusalemi bakokanga nkolo mokaba oyo, mpe bakokaba ye na maboko ya bato ya bikolo ya bapaya. »
+044	ACT	021	012	Tango toyokaki maloba wana, biso mpe bandimi ya Sezarea tobondelaki Polo ete akende na Yelusalemi te.
+044	ACT	021	013	Kasi Polo azongiselaki biso: — Mpo na nini bozali kolela mpe kolembisa ngai? Nasili komibongisa kaka te mpo na kokangama, kasi mpe mpo na kokufa kati na Yelusalemi mpo na Kombo ya Nkolo Yesu.
+044	ACT	021	014	Lokola tolongaki te kobongola makanisi na ye, totikaki kobondela ye mpe tolobaki: — Tika ete mokano ya Nkolo esalema!
+044	ACT	021	015	Sima na biso kolekisa mikolo wana na Sezarea, tobongisaki biloko na biso mpe tokendeki na Yelusalemi.
+044	ACT	021	016	Bayekoli mosusu ya Sezarea bakendeki kotika biso; bamemaki biso na ndako ya Minaso, epai wapi tovandaki. Azalaki moto ya Shipre, mpe akomaki moyekoli wuta kala.
+044	ACT	021	017	Tango tokomaki na Yelusalemi, bandeko bayambaki biso na esengo.
+044	ACT	021	018	Mokolo oyo elandaki, Polo amemaki biso epai ya Jake, mpe bakambi nyonso ya Lingomba bayaki kuna.
+044	ACT	021	019	Sima na ye kopesa bango mbote, Polo akomaki koyebisa bango likambo moko na moko, oyo Nzambe asalaki kati na bato ya bikolo ya bapaya, na nzela ya lotomo na ye.
+044	ACT	021	020	Sima na bango koyoka ye, bakumisaki Nzambe. Bongo balobaki na Polo: — Ndeko, ozali komona motango ya bankoto ya Bayuda oyo bakomi bandimi, mpe bango nyonso bazali na bolingo makasi mpo na Mobeko ya Moyize.
+044	ACT	021	021	Nzokande, bayokaki sango ete oteyaka na Bayuda nyonso oyo bavandaka kati na bato ya bikolo ya bapaya ete batosa te Mobeko ya Moyize, mpe ete olobaka na bango ete bakata lisusu te ngenga ya bana na bango mpe batika kosalela bokoko ya Bayuda.
+044	ACT	021	022	Boye tosala nini? Pamba te bakoyoka kaka ete okomi awa.
+044	ACT	021	023	Sala makambo oyo tokoyebisa yo: Tozali awa na mibali minei oyo balapa ndayi.
+044	ACT	021	024	Zwa bango, mipetola elongo na bango mpe futela bango mbongo mpo ete bakatisa suki. Na bongo, bato nyonso bakoyeba ete sango oyo bazali koyoka na tina na yo ezali ya lokuta, mpe bakososola ete yo moko mpe otosaka Mobeko.
+044	ACT	021	025	Mpo na bato ya bikolo ya bapaya oyo bakomi bandimi, tokomeli bango mikano na biso ete basengeli te kolia misuni ya banyama oyo ebonzami lokola mbeka epai ya banzambe mosusu, basengeli te komela makila, basengeli te kolia nyama oyo babomi na kozanga kobimisa makila, basengeli te kosala kindumba ya lolenge nyonso.
+044	ACT	021	026	Mokolo oyo elandaki, Polo amemaki bato yango mpe amipetolaki elongo na bango. Bongo akotaki na Tempelo mpo na koyebisa mokolo oyo tango ya komipetola ekosila, mokolo oyo bakobonza mbeka mpo na moko na moko kati na bango.
+044	ACT	021	027	Tango mikolo sambo ekomaki pene ya kokoka, Bayuda ya mokili ya Azia bamonaki Polo kati na lopango ya Tempelo. Batombokisaki ebele nyonso ya bato mpe bakangaki ye
+044	ACT	021	028	na koganga: — Bato ya Isalaele, bosunga biso! Botala moto oyo azali koteya bato nyonso mpe na bisika nyonso, ete batelemela bato na biso, Mobeko na biso mpe Tempelo oyo. Lisusu, akotisi bato ya Grese kati na Tempelo mpe akomisi esika oyo ya bule mbindo.
+044	ACT	021	029	Balobaki bongo mpo ete, liboso, bamonaki Polo elongo na Trofime, moto ya Efeso, kati na engumba mpe bakanisaki ete Polo akotisaki ye kati na Tempelo.
+044	ACT	021	030	Mobulu makasi ekotaki kati na engumba mobimba, mpe ebele ya bato oyo bawutaki bipai na bipai bayaki na lombangu. Bakangaki Polo, babimisaki ye libanda ya Tempelo mpe, mbala moko, bakangaki bikuke na yango.
+044	ACT	021	031	Wana bazalaki koluka koboma Polo, sango ekomaki kino na matoyi ya mokonzi ya basoda ya Rome ete mobulu ekoti kati na Yelusalemi mobimba.
+044	ACT	021	032	Mbala moko, azwaki basoda elongo na bakonzi na bango, mpe bakendeki na lombangu epai ebele ya bato bazalaki. Tango kaka bamonaki mokonzi ya basoda elongo na basoda na ye, batikaki kobeta Polo.
+044	ACT	021	033	Mokonzi ya basoda apusanaki, akangaki Polo mpe apesaki mitindo ete bakanga ye minyololo mibale. Bongo atunaki soki Polo azali nani mpe asali nini.
+044	ACT	021	034	Kati na ebele ya bato oyo batondaki wana, bamoko bazalaki koganga mpo na likambo moko, mpe bamosusu, mpo na likambo mosusu. Lokola mokonzi ya basoda azalaki kososola te bosolo ya likambo, mpo na mobulu oyo ebimaki, apesaki mitindo ete bamema Polo kati na lopango ya basoda.
+044	ACT	021	035	Tango Polo atiaki matambe na ye na binyatelo ya ematelo, basoda bakumbaki ye, mpo ete bato bazalaki kotia mobulu makasi.
+044	ACT	021	036	Bato nyonso bazalaki kolanda ye na koganga: — Akufa!
+044	ACT	021	037	Wana balingaki kokotisa ye kati na lopango ya basoda, Polo atunaki mokonzi ya basoda: — Nakoki koyebisa yo likambo moko? Mokonzi ya basoda atunaki Polo: — Oyebi koloba lokota ya Greki?
+044	ACT	021	038	Boni, ezali yo te moto ya Ejipito oyo akotisaki mobulu na mikolo oyo eleki mpe amemaki batomboki nkoto minei kati na esobe?
+044	ACT	021	039	Polo azongisaki: — Te, ezali ngai te! Ngai nazali Moyuda ya Tarse, kati na mokili ya Silisi, mpe moto ya engumba moko ya tina mingi. Nabondeli yo, pesa ngai nzela ya koloba na bato.
+044	ACT	021	040	Sima na mokonzi ya basoda kopesa ye nzela, Polo atelemaki na binyatelo mpe atombolaki loboko. Bato batikaki makelele, mpe Polo akomaki koloba na bango na lokota ya Arami:
+044	ACT	022	001	— Bandeko mpe batata, boyoka sik’oyo ndenge nini nalingi komilongisa.
+044	ACT	022	002	Tango bayokaki Polo koloba na lokota ya Arami, bavandaki lisusu kimia koleka. Bongo, Polo alobaki:
+044	ACT	022	003	— Nazali Moyuda, nabotama na Tarse kati na Silisi, kasi nakoli kaka awa, na engumba oyo ya Yelusalemi. Gamalieli nde azalaki molakisi na ngai; ye nde ateyaki ngai na bosolo nyonso Mobeko ya bakoko na biso. Nazalaki na bolingo makasi mpo na Nzambe, ndenge bino nyonso bozali na yango lelo.
+044	ACT	022	004	Nanyokolaki bato oyo bazalaki kolanda Nzela oyo kino koboma bango, nazalaki kokanga mibali mpe basi, mpe kobwaka bango na boloko.
+044	ACT	022	005	Mokonzi ya Banganga-Nzambe mpe lisanga mobimba ya bakambi bakoki kotatola bosolo ya makambo oyo nazali koloba. Bango nde kutu bapesaki ngai mikanda mpo ete nakende kopesa na bandeko na bango ya Damasi. Boye, nakendeki kuna mpo na kokanga bato mpe komema bango na Yelusalemi, mpo ete bapesa bango etumbu.
+044	ACT	022	006	Wana nazalaki na nzela mpe nakomaki pene ya Damasi, na ngonga pene ya midi, namonaki mbala moko pole makasi kowuta na Likolo mpe kongengela ngai.
+044	ACT	022	007	Nakweyaki na mabele mpe nayokaki mongongo moko koloba na ngai: « Saulo, Saulo, mpo na nini ozali konyokola Ngai? »
+044	ACT	022	008	Natunaki: « Nkolo, yo nani? » Alobaki na ngai: « Nazali Yesu ya Nazareti, oyo yo ozali konyokola. »
+044	ACT	022	009	Bato oyo bazalaki na ngai elongo bamonaki pole yango, kasi bayokaki te mongongo ya moto oyo azalaki koloba na ngai.
+044	ACT	022	010	Natunaki: « Nkolo, nasala nini? » Nkolo alobaki na ngai: « Telema, kende na Damasi; kuna, bakoyebisa yo makambo nyonso oyo osengeli kosala. »
+044	ACT	022	011	Baninga na ngai basimbaki ngai na loboko mpe bamemaki ngai kino na Damasi, pamba te kongenga ya pole wana ebomaki ngai miso.
+044	ACT	022	012	Ezalaki na moto moko kuna, kombo na ye ezalaki « Ananiasi. » Azalaki kotosa makambo ya Nzambe ndenge Mobeko ezalaki kotinda, mpe azalaki na lokumu mingi na miso ya Bayuda nyonso ya engumba wana.
+044	ACT	022	013	Ayaki kokutana na ngai mpe alobaki: « Ndeko na ngai, Saulo, mona lisusu. » Mpe kaka na tango yango, nazwaki lisusu makoki ya komona mpe namonaki ye.
+044	ACT	022	014	Bongo alobaki na ngai: « Nzambe ya bakoko na biso apona yo wuta kala mpo ete oyeba mokano na Ye, omona Moto na sembo mpe oyoka mongongo na Ye.
+044	ACT	022	015	Okozala motatoli na Ye liboso ya bato nyonso, mpo na koyebisa bango makambo nyonso oyo osili komona mpe koyoka.
+044	ACT	022	016	Mpo na nini ozali kolekisa tango? Telema, zwa libatisi mpe belela Kombo ya Nkolo mpo ete opetolama na masumu na yo. »
+044	ACT	022	017	Sima na ngai kozonga na Yelusalemi, wana nazalaki kosambela na Tempelo, nakweyaki na Molimo
+044	ACT	022	018	mpe nayokaki Nkolo koloba na ngai: « Sala noki, bima na Yelusalemi, pamba te bato na yango bakondima te litatoli oyo okoloba na tina na Ngai. »
+044	ACT	022	019	Nazongisaki: « Nkolo, bato wana bayebi malamu ete nazalaki kotambola na bandako ya mayangani mpo na kobwaka na boloko mpe kobetisa fimbu, bato oyo bazalaki kondimela Yo.
+044	ACT	022	020	Tango basopaki makila ya Etieni, motatoli na Yo, ngai mpe nazalaki wana, nandimaki makambo oyo esalemaki mpe nazalaki kokengela bilamba ya bato oyo babomaki ye. »
+044	ACT	022	021	Kasi Nkolo azongiselaki ngai: « Kende, nakotinda yo mosika, epai ya bato ya bikolo ya bapaya. »
+044	ACT	022	022	Bato bayokaki Polo kino tango alobaki maloba wana. Boye, batombolaki mingongo na bango mpe bagangaki: — Bolongola ye na mokili! Asengeli te kozala na bomoi!
+044	ACT	022	023	Lokola bazalaki koganga makasi mpe kobwaka bilamba na bango mpe putulu na likolo,
+044	ACT	022	024	mokonzi ya basoda apesaki mitindo ete bakotisa Polo kati na lopango ya basoda mpe babeta ye fimbu, mpo ete aloba polele tina nini Bayuda bazali koganga bongo mpo na ye.
+044	ACT	022	025	Wana bazalaki kokanga Polo basinga, Polo atunaki mokonzi oyo azalaki wana: — Boni, mibeko epesi penza ndingisa ya kobeta moto ya Rome fimbu, wana bosambisi ye nanu te?
+044	ACT	022	026	Tango mokonzi ayokaki bongo, akendeki koyebisa mokonzi ya basoda: — Okosala nini? Tata oyo azali moto ya Rome.
+044	ACT	022	027	Mbala moko, mokonzi ya basoda akendeki epai ya Polo mpe atunaki ye: — Yebisa ngai solo, ozali penza moto ya Rome? Azongisaki: — Iyo, ezali bongo!
+044	ACT	022	028	Mokonzi ya basoda alobaki: — Nafutaki mbongo mingi mpo na kozwa makoki ya kokoma moto ya Rome. Polo azongisaki: — Kasi ngai, nazali moto ya Rome ya kobotama.
+044	ACT	022	029	Mbala moko, bato oyo balingaki kobeta ye fimbu batikaki ye. Mokonzi ya basoda akomaki kobanga tango asosolaki ete tata oyo ye akangaki minyololo azali penza moto ya Rome.
+044	ACT	022	030	Mokolo oyo elandaki, lokola mokonzi ya basoda azalaki na posa ya koyeba malamu tina oyo Bayuda bafundelaki Polo, apesaki mitindo ete bafungola Polo minyololo; mpe abengisaki bakonzi ya Banganga-Nzambe mpe bato ya Likita-Monene mpo ete basala mayangani. Bongo amemaki Polo mpe atiaki ye liboso na bango.
+044	ACT	023	001	Polo atalaki bato nyonso ya Likita-Monene mpe alobaki: — Bandeko na ngai, kino na moyi ya lelo, nazali kotambola na motema ya peto liboso ya Nzambe.
+044	ACT	023	002	Kasi Ananiasi, mokonzi ya Banganga-Nzambe, apesaki bato oyo bazalaki pene ya Polo mitindo ete babeta ye na monoko.
+044	ACT	023	003	Bongo Polo alobaki na ye: — Nzambe akobeta yo, yo mir oyo bapakola langi ya pembe! Ovandi wana mpo na kosambisa ngai ndenge Mobeko ezali kosenga, nzokande yo nde moto obuki Mobeko mpo ete opesi mitindo ete babeta ngai!
+044	ACT	023	004	Bato oyo batelemaki pene ya Polo balobaki: — Ebandi ndenge nini ofinga mbala moko mokonzi ya Banganga-Nzambe, ya Nzambe!
+044	ACT	023	005	Polo azongisaki: — Bandeko, nayebaki te ete azali mokonzi ya Banganga-Nzambe, pamba te nayebi malamu ete ekomama: « Okolobaka mabe te na tina na mokambi ya bato na yo. »
+044	ACT	023	006	Lokola Polo ayebaki ete, kati na bato ya Likita-Monene, bamoko bazalaki Basaduseo, mpe bamosusu, Bafarizeo, agangaki kati na Likita-Monene: — Bandeko na ngai, nazali Mofarizeo, mwana ya Bafarizeo; nazali kosamba mpo na elikya na biso ya lisekwa ya bakufi.
+044	ACT	023	007	Tango kaka alobaki bongo, koswana makasi ekotaki kati na Bafarizeo mpe Basaduseo, mpe mayangani ekabwanaki;
+044	ACT	023	008	pamba te Basaduseo balobaka ete lisekwa ezalaka te, ba-anjelu bazalaka te, milimo mpe ezalaka te; nzokande, Bafarizeo bandimaka makambo wana nyonso.
+044	ACT	023	009	Makelele emataki makasi penza. Boye ndambo ya balakisi ya Mobeko oyo bazalaki Bafarizeo batelemaki mpe batombolaki mingongo na mpiko nyonso: — Solo, tomoni ata mabe moko te ya kopamela moto oyo. Nani ayebi? Tango mosusu molimo to anjelu nde alobaki na ye.
+044	ACT	023	010	Lokola tembe ekomaki makasi koleka, mokonzi ya basoda abangaki ete bakata Polo biteni-biteni; apesaki mitindo na basoda ete bakita, balongola ye kati na bango mpe bamema ye kati na lopango ya basoda.
+044	ACT	023	011	Na butu oyo elandaki, Nkolo abimelaki Polo kati na emoniseli mpe alobaki na ye: — Yika mpiko! Ndenge kaka otatolaki na tina na Ngai kati na Yelusalemi, ndenge mpe osengeli kotatola kati na Rome.
+044	ACT	023	012	Na tongo ya mokolo oyo elandaki, Bayuda basalelaki Polo likita; balapaki ndayi ete bakolia te mpe bakomela ata eloko moko te kino bakoboma Polo.
+044	ACT	023	013	Motango ya bato oyo basalelaki Polo likita yango ezalaki bato koleka tuku minei.
+044	ACT	023	014	Bakendeki epai ya bakonzi ya Banganga-Nzambe mpe bakambi ya bato mpo na koloba na bango: — Tolapi ndayi ete tokolia eloko moko te kino tokoboma Polo.
+044	ACT	023	015	Bino mpe bato ya Likita-Monene, bokende sik’oyo epai ya mokonzi ya basoda mpe bosenga ete bamema Polo liboso na bino, lokola nde bolingi koyekola malamu likambo na ye. Bongo na ngambo na biso, tosili komibongisa mpo na koboma ye liboso ete akoma awa.
+044	ACT	023	016	Kasi tango mwana mobali ya ndeko mwasi ya Polo ayokaki motambo yango, akendeki na lopango ya basoda, akotaki mpe akebisaki Polo.
+044	ACT	023	017	Bongo Polo abengaki mokonzi moko ya basoda nkama moko mpe alobaki na ye: — Mema elenge mobali oyo epai ya mokonzi, pamba te azali na likambo ya koyebisa ye.
+044	ACT	023	018	Boye, mokonzi yango amemaki ye epai ya mokonzi ya basoda mpe alobaki: — Mokangami Polo abengaki ngai mpe asengaki na ngai ete namemela yo elenge mobali oyo, pamba te azali na likambo ya koyebisa yo.
+044	ACT	023	019	Mokonzi ya basoda akamataki elenge mobali na loboko, amemaki ye na pembeni mpe atunaki ye: — Likambo nini olingi koyebisa ngai?
+044	ACT	023	020	Elenge mobali azongisaki: — Bayuda bayokani kosenga na yo ete, lobi, omemela bango Polo liboso ya Likita-Monene, lokola nde balingi koyekola lisusu likambo na ye.
+044	ACT	023	021	Kasi kondima bosenga na bango te, pamba te bato koleka tuku minei kati na bango bazali kobongisa motambo mpo na kokanga ye; balapaki ndayi ete bakolia te mpe bakomela ata eloko moko te kino bakoboma Polo. Makambo nyonso esili kobongisama mpe bazali kozela kaka ndingisa na yo.
+044	ACT	023	022	Mokonzi ya basoda atikaki elenge mobali yango ete azonga; kasi liboso ete akende, akebisaki ye: — Koloba na moto moko te likambo oyo oyebisi ngai.
+044	ACT	023	023	Sima na mwa tango moke, mokonzi ya basoda abengisaki bakonzi mibale ya basoda nkama moko mpe alobaki na bango: — Bobongisa basoda nkama mibale, basoda tuku sambo oyo batambolaka na bampunda mpe basoda mosusu nkama mibale, mpo ete bakende na Sezarea, na ngonga ya libwa ya butu.
+044	ACT	023	024	Bobongisa bampunda mpo na komema Polo mpo ete akoma malamu epai ya moyangeli Felikisi.
+044	ACT	023	025	Boye, akomelaki moyangeli mokanda oyo:
+044	ACT	023	026	Tata moyangeli Felikisi, yamba mbote ewuti epai na ngai Klodiusi Lisiasi.
+044	ACT	023	027	Bayuda bakangaki moto oyo natindeli yo. Tango balingaki koboma ye, nayaki elongo na basoda mpe nakangolaki ye, pamba te nayokaki sango ete azali moto ya Rome.
+044	ACT	023	028	Lokola nalingaki koyeba malamu tina oyo bafundelaki ye, namemaki ye liboso ya Likita-Monene na bango.
+044	ACT	023	029	Namonaki ete bafundaki ye kaka mpo na makambo oyo etali mobeko na bango, kasi balongaki te kofunda ye mpo na mabe moko oyo ekoki kopesa ye etumbu ya kufa to ya boloko.
+044	ACT	023	030	Tango bayebisaki ngai ete Bayuda basaleli ye likita mpo na koboma ye, nazwaki mokano ya kotinda ye epai na yo noki penza; mpe napesaki lisusu mitindo na bato oyo bafundaki ye ete baya kofunda ye epai na yo.
+044	ACT	023	031	Kolanda mitindo oyo basoda bazwaki, bakamataki Polo mpe bamemaki ye butu-butu kino na Antipatrisi.
+044	ACT	023	032	Mokolo oyo elandaki, basoda oyo batambolaka na makolo bazongaki na lopango ya basoda mpe batikaki basoda oyo batambolaka likolo ya bampunda kokende elongo na ye.
+044	ACT	023	033	Tango bakomaki na Sezarea, basoda oyo batambolaka likolo ya bampunda bapesaki mokanda yango epai ya moyangeli mpe balakisaki ye Polo.
+044	ACT	023	034	Moyangeli atangaki mokanda yango mpe atunaki soki Polo azali moto ya mboka nini. Wana ayokaki ete azali moto ya Silisi,
+044	ACT	023	035	alobaki na ye: — Nakoyoka yo tango bato oyo bafundaki yo bakokoma. Bongo apesaki mitindo ete bakengela Polo kati na ndako ya mokonzi Erode.
+044	ACT	024	001	Sima na mikolo mitano, Ananiasi, mokonzi ya Banganga-Nzambe, ayaki na Sezarea, elongo na ndambo ya bakambi mpe molobeli Tertile, mpo na kofunda Polo epai ya moyangeli.
+044	ACT	024	002	Tango babengisaki Polo, Tertile akomaki kofunda ye liboso ya Felikisi na maloba oyo: — Tata moyangeli Felikisi, ezali mpo na yo nde tozali na kimia ya solo, mpe mpo na bwanya na yo nde mbongwana ya solo ekota kati na ekolo oyo.
+044	ACT	024	003	Tata moyangeli Felikisi, na bisika nyonso mpe na tango nyonso, tondimaka yango mpe totondaka yo mingi penza.
+044	ACT	024	004	Kasi, tolingi te kozwa yo tango molayi. Nabondeli yo: salela biso ngolu ya koyoka biso na mwa tango moke.
+044	ACT	024	005	Biso, tomoni ete mosala ya moto oyo ezali: kotia mobulu; azali kobimisa mobulu kati na Bayuda nyonso ya mokili mobimba. Azali mokambi ya lingomba moko ya bato ya Nazareti,
+044	ACT	024	006	mpe amekaki kutu kobebisa bosantu ya Tempelo, yango wana tokangaki ye. [Tozalaki na posa ya kosambisa ye kolanda Mobeko na biso,
+044	ACT	024	007	kasi Lisiasi, mokonzi ya basoda, ayaki mpe abotolaki ye na maboko na biso na makasi.
+044	ACT	024	008	Apesaki bato oyo bafundaki ye mitindo ete baya epai na yo.] Soki yo moko otuni ye mituna, okososola ete makambo oyo tofundeli ye ezali ya solo.
+044	ACT	024	009	Bayuda babetaki sete na makambo oyo bafundelaki ye.
+044	ACT	024	010	Tango moyangeli apesaki Polo nzela ya koloba, Polo azongisaki: — Nayebi solo ete ozali mosambisi ya ekolo oyo wuta mibu ebele. Boye, nazali na esengo ya kosamba liboso na yo.
+044	ACT	024	011	Yo moko okoki koluka koyeba malamu ete eleki nanu mikolo zomi na mibale te wuta nakendeki na Yelusalemi mpo na kosambela Nzambe.
+044	ACT	024	012	Mpe bato oyo bafundi ngai batikala nanu kokuta ngai te nazali kotia tembe na moto to nazali kotindika bato ete batomboka, ezala kati na Tempelo to kati na bandako ya mayangani to mpe kati na engumba.
+044	ACT	024	013	Bakolonga mpe te kotalisa bosolo ya makambo oyo bafundeli ngai sik’oyo.
+044	ACT	024	014	Nzokande, nandimi ete nasalelaka Nzambe ya bakoko na biso, wana nazali kolanda Nzela oyo bango bazali kobenga « binzambe-nzambe. » Nandimaka nyonso oyo ekomama kati na Mobeko mpe kati na mikanda ya basakoli.
+044	ACT	024	015	Boye ngai, ndenge moko na bango, nazalaka na elikya na Nzambe ete bato nyonso bakosekwa, ezala bato ya sembo to bato mabe.
+044	ACT	024	016	Yango wana, ngai mpe nasalaka tango nyonso makasi mpo na kobatela motema na ngai peto, liboso ya Nzambe mpe liboso ya bato.
+044	ACT	024	017	Sima na ngai kosala mibu ebele na libanda ya Yelusalemi, nazongaki na mboka na ngai mpo na komemela bato bakelela ya ekolo na ngai lisungi, mpe mpo na kobonzela Nzambe makabo.
+044	ACT	024	018	Bakutaki ngai nasilisi komipetola kati na Tempelo; ezalaki na ebele ya bato te elongo na ngai, mobulu mpe te.
+044	ACT	024	019	Kasi ezali ndambo ya Bayuda ya Azia, oyo bazalaki wana, nde basengelaki kotelema liboso na yo mpo na kofunda ngai, soki solo bazwaki ngai na likambo.
+044	ACT	024	020	To mpe lisusu, tika ete bato oyo bazali awa baloba bango moko mabe oyo bazwaki ngai tango nasambaki liboso ya Likita-Monene,
+044	ACT	024	021	longola kaka liloba oyo nabimisaki, wana natelemaki liboso na bango: « Bozali kosambisa ngai lelo mpo ete nandimaka ete bakufi bakosekwa! »
+044	ACT	024	022	Felikisi, oyo ayebaki malamu makambo oyo etali Nzela, azongisaki bango mpe alobaki: — Nakoyekola malamu likambo na bino tango mokonzi ya basoda, Lisiasi, akoya.
+044	ACT	024	023	Boye, apesaki mitindo epai ya mokonzi ya basoda nkama moko ete abatela Polo lokola mokangami kati na boloko, kasi atikela ye mwa bonsomi mpe apesa bandeko na ye nzela mpo ete basunga ye.
+044	ACT	024	024	Sima na mwa mikolo, Felikisi ayaki elongo na mwasi na ye, Drusiye, oyo azalaki Moyuda; abengisaki Polo mpe akomaki koyoka ye na tina na makambo oyo etali kondima kati na Yesu-Klisto.
+044	ACT	024	025	Kasi, wana Polo akomaki koloba na tina na bosembo, komikanga mpe kosambisama oyo ezali koya, Felikisi ayokaki somo mpe alobaki na ye: — Ekoki mpo na sik’oyo! Okoki kolongwa. Soki nazwi lisusu tango, nakobengisa yo.
+044	ACT	024	026	Felikisi azalaki kobengisa ye mbala na mbala mpo na kosolola na ye, na elikya ete Polo akopesa ye kanyaka.
+044	ACT	024	027	Sima na mibu mibale, Porsiusi Festisi akomaki moyangeli na esika ya Felikisi oyo, mpo na kosepelisa Bayuda, atikaki Polo kati na boloko.
+044	ACT	025	001	Mikolo misato sima na ye koya kati na etuka, Festisi alongwaki na Sezarea mpo na kokende na Yelusalemi
+044	ACT	025	002	epai wapi bakonzi ya Banganga-Nzambe mpe bakambi ya Bayuda bakendeki kokutana na ye mpo na kofunda Polo. Babondelaki mingi Festisi
+044	ACT	025	003	mpo ete asalela bango ngolu ya kotinda Polo na Yelusalemi, pamba te basalaki mabongisi ya kotiela ye motambo na nzela mpo na koboma ye.
+044	ACT	025	004	Kasi Festisi azongiselaki bango: — Polo azali nanu kati na boloko, na Sezarea; mpe kala mingi te, nakozonga kuna.
+044	ACT	025	005	Tika ete tokende nzela moko na ndambo ya bakambi na bino, mpo ete, soki moto yango asalaki mabe, bafundela ye kuna.
+044	ACT	025	006	Festisi asalaki mikolo pene mwambe to zomi elongo na bango, mpe azongaki na Sezarea. Mokolo oyo elandaki bozongi na ye, avandaki na esambiselo mpe apesaki mitindo ete bamemela ye Polo.
+044	ACT	025	007	Tango kaka Polo akomaki wana, Bayuda oyo bawutaki na Yelusalemi bazingelaki ye mpe bakomaki kofunda ye na tina na makambo mingi ya mabe makasi, oyo bango moko bazangaki kutu makoki mpo na kotalisa bosolo na yango.
+044	ACT	025	008	Polo asambaki boye: — Nasalaki mabe moko te, nabukaki ata mobeko moko te ya Bayuda to ya Tempelo to mpe ya Sezare.
+044	ACT	025	009	Kasi lokola Festisi alingaki kosepelisa Bayuda, atunaki Polo: — Boni, olingi kozonga na Yelusalemi mpe kosamba kuna liboso na ngai mpo na makambo oyo?
+044	ACT	025	010	Polo azongisaki: — Te, natelemi liboso ya esambiselo ya Sezare; ezali awa nde nasengeli kosamba. Yo moko oyebi malamu ete nasali Bayuda ata likambo moko te ya mabe.
+044	ACT	025	011	Soki nasali mabe to nasali likambo oyo ekoki komemela ngai etumbu ya kufa, nandimi kokufa. Kasi soki makambo oyo Bayuda bafundeli ngai ezali ya lokuta, moto moko te azali na makoki ya kokaba ngai na maboko na bango. Tika ete Sezare akata likambo na ngai!
+044	ACT	025	012	Sima na Festisi kokabola makanisi elongo na bapesi toli na ye, alobaki na Polo: — Lokola osengi kokende kosamba liboso ya Sezare, okokende solo kosamba liboso na ye.
+044	ACT	025	013	Sima na mwa mikolo, mokonzi Agripa elongo na Berenise bayaki na Sezarea mpo na kopesa Festisi mbote.
+044	ACT	025	014	Lokola balekisaki kuna mikolo mingi, Festisi ayebisaki mokonzi likambo ya Polo; alobaki: — Ezali awa na moto moko oyo Felikisi atikaki kati na boloko.
+044	ACT	025	015	Tango nakendeki na Yelusalemi, bakonzi ya Banganga-Nzambe mpe bakambi ya Bayuda bayaki kofunda ye epai na ngai, mpe basengaki ete nakatela ye etumbu.
+044	ACT	025	016	Kasi nayebisaki bango ete bato ya Rome bazalaka na ezaleli te ya kokatela moto etumbu soki asambi nanu te na bato oyo bafundi ye, mpe soki azwi nanu nzela te ya kozongisa biyano na makambo oyo bafundeli ye.
+044	ACT	025	017	Tango bayaki awa, nalekisaki tango te; kasi mokolo oyo elandaki, navandaki na esambiselo mpe napesaki mitindo ete bamemela ngai moto yango.
+044	ACT	025	018	Tango bato oyo bafundaki ye batelemaki mpo na koloba, balongaki te kotalisa bosolo ya makambo mabe oyo bafundelaki ye, ndenge ngai nazalaki kokanisela.
+044	ACT	025	019	Batianaki tembe na tina na lolenge na bango ya kosambela, mpe na tina na moto moko oyo asila kokufa, moto oyo Polo azalaki koloba na tina na ye ete azali na bomoi; kombo ya moto yango ezalaki « Yesu. »
+044	ACT	025	020	Lokola nayebaki te ndenge nini nakoki kokata likambo ya lolenge oyo, natunaki ye soki alingi kokende na Yelusalemi mpo ete bakata likambo na ye kuna.
+044	ACT	025	021	Kasi Polo asengaki ete akende kosamba liboso ya mokonzi monene. Boye, napesaki mitindo ete babatela ye kati na boloko kino tango nakotinda ye epai ya Sezare.
+044	ACT	025	022	Agripa alobaki na Festisi: — Nazali na posa ya koyoka moto wana, ngai moko. Festisi azongisaki: — Okoyoka ye lobi.
+044	ACT	025	023	Mokolo oyo elandaki, Agripa mpe Berenise bayaki na lokumu nyonso, mpe bakotaki na ndako oyo basambiselaka bato, elongo na bakonzi ya basoda mpe bakambi ya engumba. Na mitindo ya Festisi, bayaki na Polo.
+044	ACT	025	024	Festisi alobaki: — Mokonzi Agripa mpe bino nyonso oyo bozali elongo na biso awa, bozali komona moto oyo! Lisanga mobimba ya Bayuda bayaki kokutana na ngai na tina na ye, na Yelusalemi mpe awa kati na Sezarea, bazalaki koganga ete asengeli kokufa.
+044	ACT	025	025	Nzokande, mpo na ngai, namonaki likambo moko te oyo ekokaki komemela ye etumbu ya kufa. Kasi lokola ye moko asengi ete akende kosamba liboso ya mokonzi monene, ngai mpe nazwi mokano ya kotinda ye na Rome.
+044	ACT	025	026	Lokola nazali na likambo moko te ya malonga ya kokomela mokonzi monene na tina na ye, nayei na ye mpo ete asamba liboso na bino nyonso, mpe mingi-mingi liboso na yo, mokonzi Agripa, mpo ete nakoka kozwa likambo ya kokomela mokonzi monene, sima na biso kotuna ye mituna.
+044	ACT	025	027	Pamba te namoni ete tina ezali te ya kotinda moto ya boloko na Rome, soki nalongi te kolimbola malamu likambo oyo bafundeli ye.
+044	ACT	026	001	Agripa alobaki na Polo: — Napesi yo nzela ya koloba. Boye, Polo atombolaki loboko mpe abandaki kosamba:
+044	ACT	026	002	— Mokonzi Agripa, nazali na esengo mingi ya kosamba lelo liboso na yo, na tina na makambo nyonso oyo Bayuda bafundeli ngai,
+044	ACT	026	003	pamba te oyebi malamu bizaleli mpe tembe ya Bayuda. Boye nasengi na yo ete ozala na motema monene mpo na koyoka ngai.
+044	ACT	026	004	Bayuda nyonso bayebi evandeli na ngai, wuta na bomwana na ngai, kobanda na ebandeli ya bomoi na ngai, kati na ekolo na ngai, mpe ezala kati na Yelusalemi.
+044	ACT	026	005	Bayebi ngai wuta kala mpe bakoki kotatola, soki balingi, ete natambolisaki bomoi na ngai lokola Mofarizeo, na botosi makasi ya mibeko, ndenge lingomba na biso esengaka.
+044	ACT	026	006	Mpe nazali kosamba lelo mpo na elikya na ngai kati na elaka oyo Nzambe apesaki na bakoko na biso.
+044	ACT	026	007	Bato ya mabota na biso zomi na mibale basalelaki Nzambe, butu mpe moyi, na kolemba te, mpo ete bazalaki na elikya ete bakomona kokokisama ya elaka yango. Mokonzi Agripa, ezali kaka mpo na elikya yango nde Bayuda bafundi ngai.
+044	ACT	026	008	Mpo na nini, kati na bino, bozali kondima te ete Nzambe akoki kosekwisa bakufi?
+044	ACT	026	009	Ngai moko mpe nazalaki liboso kokanisa ete esengeli na ngai kosala nyonso oyo ekoki kosalema, mpo na kotelemela Kombo ya Yesu ya Nazareti.
+044	ACT	026	010	Ezali mosala yango nde nasalaki kati na Yelusalemi: natiaki basantu ebele na boloko, na ndingisa ya bakonzi ya Banganga-Nzambe; boye, tango bazalaki koboma bango, ngai mpe nazalaki kondima.
+044	ACT	026	011	Kati na bandako nyonso ya mayangani, nazalaki mbala mingi kotambola mpo na kopesa bango bitumbu mpe kotinda bango na makasi ete bafinga Yesu-Klisto. Na zuwa na ngai oyo eleka ndelo, nazalaki kolanda bango kino na bingumba ya bapaya mpo na konyokola bango.
+044	ACT	026	012	Ezali mpo na yango nde nakendeki na Damasi, na bokonzi mpe na etinda ya bakonzi ya Banganga-Nzambe.
+044	ACT	026	013	Mokonzi, na ngonga ya midi, wana nazalaki kokende, namonaki pole moko kowuta na likolo, elekaki kutu ata kongenga ya moyi; pole yango ezipaki ngai mpe bato oyo bazalaki kotambola elongo na ngai.
+044	ACT	026	014	Tokweyaki biso nyonso na mabele, mpe nayokaki mongongo moko koloba na ngai na lokota ya Arami: « Saulo, Saulo, mpo na nini ozali konyokola Ngai? Ezali pasi mpo na yo komibamba na basende. »
+044	ACT	026	015	Bongo natunaki: « Nkolo, yo nani? » Nkolo azongisaki: « Ngai, nazali Yesu oyo yo ozali konyokola.
+044	ACT	026	016	Kasi lamuka mpe telema! Pamba te namimonisi epai na yo mpo na kokomisa yo mosali na Ngai mpe motatoli ya makambo oyo osili komona, mpe ya makambo oyo nakolakisa yo na sima.
+044	ACT	026	017	Nakokangola yo wuta na maboko ya bato ya ekolo na yo mpe na maboko ya bato ya bikolo ya bapaya. Nakotinda yo epai na bango
+044	ACT	026	018	mpo ete ofungola bango miso, olongola bango na molili mpe omema bango na pole; mpo ete olongola bango na se ya bokonzi ya Satana mpe omema bango epai ya Nzambe, na tina ete bazwa bolimbisi ya masumu mpe libula kati na bato oyo babulisama na nzela ya kondima kati na Ngai. »
+044	ACT	026	019	Boye, mokonzi Agripa, wuta tango wana, nandimaki kotosa emoniseli oyo ewutaki na Likolo.
+044	ACT	026	020	Nateyaki liboso bavandi ya Damasi; sima, nateyaki bavandi ya Yelusalemi, ya Yuda mobimba mpe ya bikolo ya bapaya: nateyaki bango ete basengeli kobongola mitema, kozonga epai ya Nzambe mpe, na nzela ya misala na bango, kolakisa penza ete babongoli mitema.
+044	ACT	026	021	Ezali kaka mpo na tina oyo nde Bayuda bakangaki ngai kati na Tempelo mpe balukaki koboma ngai.
+044	ACT	026	022	Kasi kino lelo, Nzambe azali kobatela ngai; yango wana natelemi awa mpo na kotatola liboso ya bato pamba mpe bato minene. Nazali koteya makambo mosusu te, bobele makambo oyo basakoli mpe Moyize baloba ete ekokokisama solo:
+044	ACT	026	023	Klisto akomona pasi mpe akozala moto ya liboso ya kosekwa kati na bakufi mpo na kosakola pole ya lobiko epai ya Bayuda mpe epai ya bato ya bikolo ya bapaya.
+044	ACT	026	024	Wana Polo azalaki nanu koloba, Festisi akataki ye maloba mpe agangelaki ye: — Ozali na liboma, Polo! Boyebi oyo otondi na yango ekomisi yo liboma!
+044	ACT	026	025	Polo azongisaki: — Tata mokonzi Festisi, nazali na liboma te. Makambo oyo nazali koloba ezali ya solo mpe ezali penza na nzela.
+044	ACT	026	026	Mokonzi Agripa kutu ayebi makambo oyo malamu; yango wana nazali koloba na molende nyonso liboso na ye. Nandimisami ete abungi ata likambo moko te kati na makambo yango, pamba te esalemaki na nkuku te.
+044	ACT	026	027	Mokonzi Agripa, boni, ondimaka basakoli? Nayebi malamu ete ondimaka bango.
+044	ACT	026	028	Agripa alobaki na Polo: — Okanisi ete okoki kondimisa ngai kokoma Moklisto kaka na mwa tango moke?
+044	ACT	026	029	Polo azongisaki: — Ezala na tango molayi to na tango moke, nazali kosambela Nzambe ete, yo moko kaka te, kasi elongo na bato nyonso oyo bazali koyoka ngai lelo, bokoma lokola ngai, longola kaka minyololo oyo!
+044	ACT	026	030	Wana azalaki koloba bongo, mokonzi, moyangeli, Berenise mpe bato nyonso oyo bazalaki elongo na bango batelemaki.
+044	ACT	026	031	Wana bazalaki kobima, balobanaki bango na bango: — Moto oyo asali mabe ata moko te oyo ekoki komemela ye etumbu ya kufa to ya boloko.
+044	ACT	026	032	Agripa alobaki na Festisi: — Soki moto oyo asengaki te kosamba liboso ya Sezare, esengelaki kotika ye.
+044	ACT	027	001	Tango bazwaki mokano ya kozwa masuwa mpo na kokende na Itali, bapesaki Polo elongo na ndambo ya bakangami na maboko ya Juliusi oyo azalaki mokonzi ya basoda nkama moko ya Rome, kati na mampinga ya mokonzi monene.
+044	ACT	027	002	Tomataki na masuwa oyo ewutaki na engumba Adramite mpo na kokende na mabongo ya pembeni-pembeni ya mokili ya Azia, mpe tokendeki; Arisitarke, moto ya Masedwane ya Tesalonika, azalaki na biso elongo.
+044	ACT	027	003	Mokolo oyo elandaki, tosemaki na engumba Sidoni. Lokola Juliusi atalisaki bolingo monene epai ya Polo, apesaki ye nzela ya kokende kotala balingami na ye mpo ete akoka kozwa masungi epai na bango.
+044	ACT	027	004	Sima na biso kolongwa wana, tozongelaki mobembo na biso mpe tozalaki konana pembeni-pembeni ya esanga ya Shipre, mpo na kokima mipepe oyo ezalaki kobeta biso makasi mpe kopekisa biso kokende liboso.
+044	ACT	027	005	Sima na biso kokatisa ebale monene oyo eleka pembeni-pembeni ya Silisi mpe ya Pafili, tosemaki na Mira, kati na mokili ya Lisi.
+044	ACT	027	006	Kuna, mokonzi ya basoda nkama moko amonaki masuwa moko ya engumba Alekizandri, oyo ezalaki kokende na Itali, mpe akotisaki biso kati na yango.
+044	ACT	027	007	Masuwa yango ezalaki kotambola malembe penza; boye tosalaki mikolo mwa mingi ya mobembo, mpe tokomaki na Sinide na pasi penza. Lokola mpe mopepe ezalaki kopekisa biso kokende liboso, tolekaki Salimoni mpe tokendeki na ngambo ya sude ya esanga ya Kreti.
+044	ACT	027	008	Tozalaki konana pembeni-pembeni ya esanga yango na pasi penza kino tokomaki na esika oyo babengaka « Mabongo kitoko, » pene ya engumba Laseya.
+044	ACT	027	009	Lokola tolekisaki bongo tango mingi mpe masuwa ekomaki kotambola na matata, pamba te ezalaki sima na eleko ya kokila bilei, Polo akebisaki bango:
+044	ACT	027	010	— Baninga, nazali komona lokola likama moko ya monene kosalema na mobembo na biso, mpe ekobebisa makasi masuwa elongo na biloko, kasi biso mpe tokoki kokufa.
+044	ACT	027	011	Kasi mokonzi ya basoda nkama moko alandaki toli ya kapitene ya masuwa mpe ya nkolo masuwa, na esika ete ayoka maloba ya Polo.
+044	ACT	027	012	Lokola mpe libongo ezalaki esika ya malamu te mpo na kolekisa tango ya malili makasi, mingi kati na bato bazwaki mokano ete tolongwa wana mpe toluka kokoma na Fenikisi oyo ezali libongo ya Kreti, oyo etala na ngambo ya sude-weste mpe ya nor-weste, mpo na kolekisa kuna tango yango ya malili makasi.
+044	ACT	027	013	Wana mwa mopepe moko ya sude ekomaki kopepa, bakanisaki ete posa na bango ezali kokokisama; boye batombolaki longo, mpe masuwa ekomaki kotambola pembeni-pembeni ya esanga ya Kreti.
+044	ACT	027	014	Kasi sima na mwa tango, mopepe moko ya makasi penza, mopepe oyo babengaka « erakiloni, » ekomaki kopepa wuta na esanga;
+044	ACT	027	015	ememaki masuwa, mpe masuwa elongaki te nguya ya mopepe. Boye tomitikaki bongo na mopepe, mpe ememaki biso.
+044	ACT	027	016	Lokola tolekaki na lombangu, na pembeni-pembeni ya esanga moke oyo babengaka Koda, tolongaki na pasi kokanga mwa bwato oyo ebikisaka bato na tango ya likama.
+044	ACT	027	017	Sima na komatisa yango na masuwa, bazwaki basinga mpe bakangisaki yango. Lokola bazalaki kobanga kotutana na zelo ya ngambo ya Silite, babwakaki longo ya libaya likolo ya mayi, mpe mopepe ekobaki komema masuwa.
+044	ACT	027	018	Mokolo oyo elandaki, lokola mopepe ezalaki kaka koningisa masuwa makasi, babwakaki na ebale, biloko oyo ezalaki kati na masuwa.
+044	ACT	027	019	Na mokolo ya misato, na maboko na bango moko, babwakaki na ebale, biloko oyo etambolisaka masuwa.
+044	ACT	027	020	Lokola tosalaki mikolo ebele na kozanga komona lisusu moyi mpe minzoto te, mpe mopepe ezalaki kaka kobeta makasi, tobungisaki elikya ya kobika.
+044	ACT	027	021	Sima na bato kosala mikolo ebele oyo baliaki lisusu te, Polo atelemaki liboso na bango mpe alobaki: — Baninga na ngai, bosengelaki koyoka toli na ngai ete tolongwa na Kreti te. Soki boyokelaki ngai, likama oyo elingaki kokomela bino te mpe bolingaki te kobungisa biloko na bino.
+044	ACT	027	022	Kasi sik’oyo, nazali kolendisa bino ete boyika mpiko, pamba te moko te kati na bino akokufa, kaka masuwa nde ekobeba.
+044	ACT	027	023	Na butu ya lelo, Anjelu na Nzambe na ngai, oyo nasalelaka, ayaki epai na ngai
+044	ACT	027	024	mpe alobaki: « Polo, kobanga te. Osengeli kosamba liboso ya Sezare. Mpo na yo, Nzambe abateli na bomoi bato nyonso oyo ozali kosala elongo na bango mobembo kati na masuwa. »
+044	ACT	027	025	Baninga na ngai, boyika mpiko, pamba te nazali na kondima kati na Nzambe ete akosala ndenge kaka ayebisaki ngai.
+044	ACT	027	026	Kasi atako bongo, tosengeli kokangama kaka na esanga moko.
+044	ACT	027	027	Na butu ya zomi na minei, masuwa ezalaki kaka komemama epai na epai kati na ebale monene Adriatiki. Na kati-kati ya butu, basali ya masuwa bakanisaki ete tokomi pene ya mokili;
+044	ACT	027	028	babwakaki singa mpo na komeka mozindo ya mayi mpe bamonaki ete mozindo ya mayi ezali na bametele pene tuku misato na sambo. Wana bapusanaki mwa liboso, bamekaki lisusu mpe bamonaki ete mozindo ya mayi ezali na bametele pene tuku mibale na mwambe.
+044	ACT	027	029	Lokola bazalaki kobanga ete masuwa etutana na mabanga, babwakaki balongo minei na mayi wuta na sima ya masuwa, na posa makasi ya komona tongo kotana.
+044	ACT	027	030	Kasi, lokola basali ya masuwa balingaki kokima, babandaki kokitisa kati na ebale monene mwa bwato oyo ebikisaka bato na tango ya likama, mpe basalaki lokola nde balingi kokende kokangisa balongo na liboso ya masuwa.
+044	ACT	027	031	Polo alobaki na mokonzi ya basoda nkama moko mpe na basoda: — Tala, soki bato oyo batikali te kati na masuwa, bino mpe bokobika te.
+044	ACT	027	032	Boye, basoda bakataki basinga oyo esimbaki mwa bwato yango mpe batikaki yango kokweya na mayi.
+044	ACT	027	033	Wana bazalaki kozela tongo kotana, Polo alendisaki bato nyonso ete balia; alobaki: — Ekokisi lelo mikolo zomi na minei wuta bozali kozela, mpe bolie ata eloko moko te.
+044	ACT	027	034	Nasengi na bino ete bolia sik’oyo. Bosengeli na yango mpo ete bozala na bomoi. Moko te kati na bino akobungisa ata suki moko ya moto na ye.
+044	ACT	027	035	Sima na ye koloba bongo, akamataki lipa mpe azongisaki matondi epai na Nzambe liboso na bango nyonso; bongo akataki yango mpe abandaki kolia.
+044	ACT	027	036	Bango nyonso balendisamaki mpe bakomaki kolia.
+044	ACT	027	037	Kati na masuwa, tozalaki bato nkama mibale na tuku sambo na motoba.
+044	ACT	027	038	Sima na bango kolia mpe kotonda mingi, babwakaki ble na ebale mpo na kokitisa kilo ya masuwa.
+044	ACT	027	039	Tango tongo etanaki, bamonaki mokili te, kasi bamonaki kaka libongo moko ya zelo na suka, epai ebale ekota. Boye bazwaki mokano, soki bakolonga, ya kosemisa masuwa kuna.
+044	ACT	027	040	Babwakaki balongo na ebale; mpe kaka na tango yango, bafungolaki basinga ya yenda, batombolaki bakapo mpo ete mopepe emema masuwa na ngambo ya libongo ya zelo.
+044	ACT	027	041	Kasi masuwa ekendeki kotutana na zelo ya ebale mpe ekangamaki. Wana eteni ya liboso ya masuwa ekangamaki na zelo mpe ezalaki lisusu koningana te, eteni ya sima ya masuwa epanzanaki na nguya ya bambonge.
+044	ACT	027	042	Basoda bazwaki likanisi ya koboma bakangami mpo bazalaki kobanga ete bakatisa mayi mpe bakima.
+044	ACT	027	043	Kasi lokola mokonzi ya basoda nkama moko azalaki na posa ya kobikisa Polo, apekisaki bango kokokisa likanisi na bango. Boye, atindaki bato oyo bayebaki kokata mayi ete bazala bato ya liboso ya kokweya na mayi mpe bakende na mokili.
+044	ACT	027	044	Bamosusu basengeli kolanda bango na kodiembela na mabaya to na biteni ya masuwa. Ezali ndenge wana nde bato nyonso bakomaki malamu na mokili.
+044	ACT	028	001	Wana tososolaki ete tosili kobika na likama, toyokaki ete babengaka esanga yango Malite.
+044	ACT	028	002	Bavandi ya esanga yango batalisaki biso bolingo monene mpe basungaki biso mingi. Lokola mvula ezalaki konoka mpe malili ezalaki makasi, bapelisaki moto mpe babengaki biso nyonso ete tokende koyetola.
+044	ACT	028	003	Polo alokotaki liboke ya bakoni; mpe tango abwakaki yango na moto, molunge ya moto ebimisaki etupa mpe ekangamaki na loboko na ye.
+044	ACT	028	004	Tango bavandi ya esanga bamonaki nyoka ezali kodiembela na loboko ya Polo, balobanaki bango na bango: — Solo, moto oyo azali penza mobomi! Awuti kobika na likama ya ebale, kasi bosembo ya Nzambe elandi ye kaka mpo na koboma ye!
+044	ACT	028	005	Kasi Polo aningisaki loboko, mpe nyoka yango ekweyaki na moto, mpe ayokaki ata pasi te.
+044	ACT	028	006	Bato nyonso bazalaki kozela ete nzoto na ye evimba to akufa mbala moko; kasi wana bazelaki tango molayi mpe bamonaki ata likambo moko te ya mabe kokomela ye, babongolaki makanisi mpe balobaki: — Moto oyo azali nzambe.
+044	ACT	028	007	Zingazinga ya esika oyo tozalaki, ezalaki na mabele ya Pibiliusi, kalaka mokonzi ya esanga. Ayambaki biso malamu epai na ye, mpe tolekisaki kuna mikolo misato.
+044	ACT	028	008	Nzokande, tata ya Pibiliusi azalaki ya kolala na mbeto mpo ete azalaki kobela fievele mpe pulupulu ya makila. Polo akendeki kotala ye, akotaki na ndako na ye, asambelaki, atielaki ye maboko mpe abikisaki ye.
+044	ACT	028	009	Sima na yango, babeli mosusu ya esanga bayaki epai na ye mpe babikisamaki.
+044	ACT	028	010	Boye, bapesaki biso lokumu ya ndenge na ndenge; mpe tango tokomaki pene ya kozongela mobembo na biso, bapesaki biso biloko nyonso oyo tozalaki na yango posa mpo na mobembo.
+044	ACT	028	011	Sima na basanza misato, tozwaki masuwa oyo elekisaki tango na yango ya malili makasi kati na esanga. Ezalaki masuwa ya engumba Alekizandri, oyo batia bilembo ya Kasitori mpe Polikisi.
+044	ACT	028	012	Tosemaki na engumba Sirakize, mpe tolekisaki kuna mikolo misato.
+044	ACT	028	013	Kolongwa wana, tonanaki pembeni-pembeni ya mokili mpe tokomaki na engumba Regio. Mokolo oyo elandaki, mopepe ya sude ekomaki kopepa mpe, sima na mikolo mibale, tokomaki na Puzoli.
+044	ACT	028	014	Kati na engumba yango, tokutaki bandeko oyo basengaki biso ete tovanda elongo na bango poso mobimba. Ezali ndenge wana nde tokendeki na Rome.
+044	ACT	028	015	Tango bandeko ya Rome bayokaki ete tokomi, bayaki kino na zando ya Apiusi mpe na esika oyo babengaka « Bandako misato, » mpo na kokutana na biso. Tango Polo amonaki bango, azongisaki matondi epai ya Nzambe mpe azwaki lisusu molende.
+044	ACT	028	016	Tango tokomaki na Rome, bapesaki Polo nzela ya kovanda ye moko na ndako; batielaki ye soda moko mpo na kokengela ye.
+044	ACT	028	017	Sima na mikolo misato, Polo abengisaki bakambi ya Bayuda mpo ete bakutana na ye. Tango basanganaki, alobaki na bango: — Bandeko na ngai, ata nasalaki bato ya ekolo na biso ata mabe moko te, mpe nabukaki ata mobeko moko te ya bakoko na biso, bakangaki ngai na Yelusalemi mpe bakabaki ngai na maboko ya bato ya Rome.
+044	ACT	028	018	Sima na bato ya Rome koyekola na mozindo likambo na ngai, bazwaki mokano ya kotika ngai, pamba te bamonaki likambo moko te ya mabe oyo ekokaki kosala ete nazwa etumbu ya kufa.
+044	ACT	028	019	Kasi Bayuda basepelaki te na mokano yango; boye nasengaki ete nakende kosamba liboso ya Sezare; elingi koloba te ete nazalaki na likanisi ya kofunda bato ya ekolo na ngai.
+044	ACT	028	020	Yango wana nasengaki komona bino mpe kosolola na bino, pamba te ezali mpo na elikya ya Isalaele nde nakangami na minyololo oyo.
+044	ACT	028	021	Bayuda bazongiselaki ye: — Biso awa, tozwaki ata mokanda moko te kowuta na Yuda na tina na yo; mpe kati na bandeko oyo bayaki awa, moto ata moko te apesaki biso sango to ayebisaki biso likambo ya mabe na tina na yo.
+044	ACT	028	022	Kasi tozali na posa ete yo moko oyebisa biso makanisi na yo, pamba te toyebi malamu ete lingomba na yo ezali kobundisama bisika nyonso.
+044	ACT	028	023	Bayokanaki kokutana na Polo mokolo mosusu. Bongo tango mokolo yango ekokaki, bayaki ebele na esika oyo Polo azalaki kovanda. Wuta na tongo kino na pokwa, Polo azalaki kolimbolela bango mpe koteya bango makambo oyo etali Bokonzi ya Nzambe, mpe azalaki kosala nyonso mpo ete bandima makambo oyo azalaki koloba na tina na Yesu, na nzela ya Mobeko ya Moyize mpe makomi ya basakoli.
+044	ACT	028	024	Bamoko bandimisamaki na nzela ya makambo oyo azalaki koloba, kasi bamosusu baboyaki kondima.
+044	ACT	028	025	Tango bakomaki pene ya kozonga, bango na bango batikalaki kaka koyokana te; bongo Polo abakisaki liloba oyo: — Molimo Mosantu alobaki na bakoko na bino makambo ya solo tango alobaki na nzela ya mosakoli Ezayi:
+044	ACT	028	026	« Kende koloba na bato oyo: Matoyi na bino ekoyoka na pamba, bokososola te; miso na bino ekotala na pamba, bokomona te.
+044	ACT	028	027	Pamba te mitema ya bato oyo ekomi mabanga; bakangi penza matoyi mpe miso na bango, noki te miso na bango emona, matoyi na bango eyoka, mitema na bango esosola, babongola mitema, mpe nabikisa bango. »
+044	ACT	028	028	Yango wana, nalingi boyeba ete Nzambe atindi lobiko na Ye epai ya bato ya bikolo ya bapaya, mpe bakoyoka. [
+044	ACT	028	029	Tango Polo asilisaki koloba, Bayuda bakendeki, mpe bazalaki kotiana tembe makasi kati na bango.]
+044	ACT	028	030	Polo awumelaki mibu mibale mobimba kati na ndako ya kofutela. Azalaki koyamba bato nyonso oyo bazalaki koya kotala ye;
+044	ACT	028	031	azalaki kosakola sango ya Bokonzi ya Nzambe mpe koteya na tina na Nkolo Yesu-Klisto, na molende nyonso mpe na kozanga bipekiseli.
+#

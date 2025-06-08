@@ -1,0 +1,109 @@
+059	JAM	001	001	Ngai Jake, mosali na Nzambe mpe na Nkolo Yesu-Klisto; Epai ya mabota zomi na mibale oyo epalangana kati na biloko: Napesi bino mbote.
+059	JAM	001	002	Bandeko na ngai, bomona lokola likambo ya esengo, lolenge nyonso ya komekama oyo bozali kokutana na yango.
+059	JAM	001	003	Pamba te boyebi malamu ete komekama ya kondima na bino ebotaka kokanga motema.
+059	JAM	001	004	Nzokande kokanga motema na bino esengeli te kosuka na nzela mpo ete bokoma bato bakemba mpe bakoka kati na kondima, bato oyo bazangi pamela.
+059	JAM	001	005	Soki moko kati na bino azangi bwanya, tika ete asenga yango epai ya Nzambe oyo akopesa ye yango; pamba te Nzambe apesaka moto nyonso na motema malamu mpe na kopamela te.
+059	JAM	001	006	Kasi asengeli kosenga na kondima, na kotia tembe te; pamba te moto oyo atiaka tembe azali lokola mbonge ya ebale oyo mopepe ezali koningisa mpe kobwaka epai na epai.
+059	JAM	001	007	Moto ya ndenge wana atia motema te ete akoki kozwa eloko kowuta na Nkolo:
+059	JAM	001	008	azali moto ya mitema mibale, moto oyo akangamaka na likanisi moko te na nyonso oyo asalaka.
+059	JAM	001	009	Tika ete ndeko oyo akelela asepela mpo ete Nzambe akotombola ye,
+059	JAM	001	010	mpe oyo azali mozwi asepela mpo ete Nzambe akokitisa ye; pamba te mozwi akoleka lokola fololo ya elanga.
+059	JAM	001	011	Ndenge fololo ekawukaka, ekweyaka mpe ebungisaka kitoko na yango na tango ya moyi makasi, ndenge wana mpe mozwi akolimwa kati na misala na ye nyonso.
+059	JAM	001	012	Esengo na moto oyo akangaka motema na tango ya komekama! Pamba te sima na ye kolonga komekama, akozwa motole ya bomoi, oyo Nzambe alakaki na bato oyo balingaka Ye.
+059	JAM	001	013	Tika ete moto moko te, liboso ya komekama, aloba: « Nzambe nde azali kotindika ngai na kosala mabe. » Pamba te mabe ekoki te kotindika Nzambe na mabe, mpe Nzambe atindikaka moto moko te na kosala mabe.
+059	JAM	001	014	Kasi moto nyonso atindikamaka na mabe soki abendami mpe akangami na motambo ya baposa mabe ya nzoto na ye moko.
+059	JAM	001	015	Bongo soki baposa mabe yango ekoli kati na moto, ebotaka lisumu; mpe lisumu ememaka na kufa.
+059	JAM	001	016	Bandeko balingami, bomikosa te:
+059	JAM	001	017	bolamu nyonso mpe likabo nyonso ya kitoko ewutaka kaka na Likolo, epai ya Tata ya pole, oyo, kati na Ye, molili ezalaka te, mpe abongwanaka te.
+059	JAM	001	018	Akomisaki biso bana na Ye na nzela ya Liloba ya bosolo, na mokano na Ye moko, mpo ete tozwa esika ya liboso kati na bikelamu na Ye nyonso.
+059	JAM	001	019	Bandeko balingami, bosimba likambo oyo: tika ete moto nyonso awelelaka koyoka, kasi awelelaka te koloba mpe kosilika;
+059	JAM	001	020	pamba te kanda ya moto ekokisaka te makambo ya sembo na miso ya Nzambe.
+059	JAM	001	021	Yango wana, bobwaka makambo nyonso ya bosoto mpe misala nyonso ya mabe, bondima na komikitisa Liloba oyo elonamaki kati na mitema na bino, pamba te ezali na nguya ya kobikisa bino.
+059	JAM	001	022	Botiaka na misala Liloba na Nzambe; kasi bosukaka kaka te na koyoka yango, soki te bokomikosa bino moko na pamba.
+059	JAM	001	023	Moto oyo ayokaka Liloba kasi atiaka yango te na misala, akokani na moto oyo amitali na talatala
+059	JAM	001	024	mpe, sima na ye komitala, akei mpe, kaka na tango yango, abosani ndenge azali.
+059	JAM	001	025	Nzokande moto oyo amipesaka na koyekola mobeko oyo ekoka na nyonso mpe epesaka bonsomi, bongo atosaka yango tango nyonso, asukaka kaka na koyoka te, kasi atiaka na misala: moto yango akozala moto ya esengo na nyonso oyo akosala.
+059	JAM	001	026	Moto oyo akanisaka ete asambelaka Nzambe, kasi ayebaka te kobatela lolemo na ye, azali komikosa ye moko, mpe kosambela na ye ezali na tina te.
+059	JAM	001	027	Kosambela ya solo mpe ya peto na miso ya Nzambe, Tata na biso, ezali: kosunga bana bitike mpe basi bakufisa mibali, kati na bapasi na bango, mpe komibatela peto liboso ya makambo ya mokili.
+059	JAM	002	001	Bandeko na ngai, bosangisaka te kopona bilongi mpe kondimela Yesu-Klisto, Nkolo na biso, oyo atonda na nkembo.
+059	JAM	002	002	Ndakisa: soki moto moko akoti kati na ndako na bino ya mayangani, alata penza bilamba ya talo mpe lopete ya wolo; bongo mobola mpe akoti, alata bilamba na ye ya bobola.
+059	JAM	002	003	Soki boweleli koyamba moto oyo alati bilamba ya talo mpe bolobi na ye: « Tala esika ya kitoko oyo ebongisami mpo na yo, » kasi bolobi na mobola: « Yo, kende kotelema kuna » to « vanda awa na mabele, na se ya enyatelo makolo na ngai; »
+059	JAM	002	004	boni, wana boponi bilongi te kati na bino, mpe bokomi te koyekola bato na nzela ya makanisi mabe?
+059	JAM	002	005	Bandeko na ngai ya bolingo, boyoka: Nzambe apona te bato oyo mokili ezali kobenga babola mpo ete bazala bato ya bomengo kati na kondima mpe bazwa Bokonzi oyo alaka epai ya bato oyo balingaka Ye?
+059	JAM	002	006	Nzokande bino, bomonaka babola bato pamba. Boni, bato oyo banyokolaka bino mpe bafundaka bino na bisambiselo, ezali bazwi te?
+059	JAM	002	007	Ezali bango te bato babebisaka lokumu ya kombo kitoko oyo Nzambe apesa bino?
+059	JAM	002	008	Soki bozali kokokisa Mobeko ya Bokonzi ya Nzambe, oyo ezali kati na Makomi: « Linga moninga na yo ndenge yo moko omilingaka, » wana bozali kosala malamu.
+059	JAM	002	009	Kasi soki bozali kopona-pona bilongi, bozali kosala masumu, mpe Mobeko ezali kokweyisa bino mpo ete bozali kotosa yango te.
+059	JAM	002	010	Moto oyo akweyi ata na mobeko moko kaka, atako atosaka mibeko nyonso, abuki nde mibeko nyonso.
+059	JAM	002	011	Solo, Ye oyo alobaki: « Okosalaka ekobo te, » alobaki lisusu: « Okobomaka te. » Nzokande soki osali ekobo te, kasi obomi moto, yeba ete obuki mibeko nyonso.
+059	JAM	002	012	Boye, tika ete bolobaka mpe bosalaka makambo lokola bato oyo bayebi malamu ete bakosambisama kolanda mibeko oyo ememaka bato na bonsomi.
+059	JAM	002	013	Nzambe akosambisa na mawa te moto oyo ayokelaka bato mosusu mawa te. Mawa elongaka kosambisama.
+059	JAM	002	014	Bandeko na ngai, tina nini ezali na moto ya koloba ete azali na kondima, soki azali kolakisa yango te na misala? Kondima ya boye ekoki solo kobikisa ye?
+059	JAM	002	015	Ndakisa: soki ndeko mobali moko to ndeko mwasi moko azangi bilamba ya kolata mpe bilei ya mokolo na mokolo,
+059	JAM	002	016	bongo moko kati na bino alobi na ye: « Kende na kimia, yetola moto mpe lia, » kasi apesi ye te eloko oyo azali na yango posa mpo na nzoto na ye, maloba wana ezali na tina nini?
+059	JAM	002	017	Ezali mpe bongo mpo na kondima: soki kondima ezangi misala, ezali ya kokufa.
+059	JAM	002	018	Nzokande moto mosusu akoki koloba: « Yo ozali na kondima; kasi ngai, nazali na misala. » Lakisa ngai kondima na yo, oyo ezangi misala; mpe ngai nakolakisa yo kondima na ngai na nzela ya misala na ngai.
+059	JAM	002	019	Ondimaka ete Nzambe azali kaka moko? Osalaka malamu! Kasi milimo mabe mpe endimaka ete Nzambe azali kaka moko, mpe elengaka.
+059	JAM	002	020	Oh zoba ya moto! Boni, olingi nalakisa yo ete kondima oyo ezangi misala ezali pamba?
+059	JAM	002	021	Tala, Abrayami, tata na biso, atangamaki lokola moto ya sembo mpo na misala, pamba te abonzaki Izaki, mwana na ye ya mobali, na likolo ya etumbelo.
+059	JAM	002	022	Tala ndenge kondima mpe misala na ye ezalaki kosala elongo; mpe na nzela ya misala yango, kondima na ye ekomaki ya kokoka.
+059	JAM	002	023	Ezalaki ndenge wana nde ekokisamaki, liloba oyo ya Makomi: « Abrayami azalaki na kondima epai ya Nzambe; » mpe mpo na kondima na ye, Nzambe atangaki ye lokola moto ya sembo, mpe akomaki kobenga ye « moninga na ngai. »
+059	JAM	002	024	Bomoni malamu sik’oyo ete Nzambe akomisaka moto sembo kolanda misala ya moto, kasi mpo na kondima kaka te.
+059	JAM	002	025	Ezalaki mpe ndenge moko mpo na Raabi, mwasi ya ndumba: Nzambe akomisaki ye moto ya sembo mpo ete ayambaki, abombaki mpe akimisaki na nzela mosusu banongi ya Isalaele.
+059	JAM	002	026	Ndenge nzoto oyo ezangi pema ezali ya kokufa, ndenge wana mpe kondima oyo ezangi misala ezali ya kokufa.
+059	JAM	003	001	Bandeko na ngai, bozala ebele te ya koluka kozala balakisi, pamba te boyebi malamu ete, biso balakisi, tokosambisama makasi.
+059	JAM	003	002	Biso nyonso tobetaka mabaku na lolenge ebele. Moto oyo abetaka libaku te na maloba oyo ebimaka na monoko na ye azali moto ya kokoka mpe azali na makoki ya kobatela bomoto na ye nyonso.
+059	JAM	003	003	Soki totiaka ebende na monoko ya mpunda, ezali mpo ete etosa biso; mpe na nzela wana, tokambaka nzoto na yango nyonso.
+059	JAM	003	004	Tala masuwa: atako ezali monene mpe mopepe makasi etindikaka yango, kasi mwa yenda moke nde ekambaka yango mpo ete elanda nzela oyo kapitene ya masuwa alingi komema yango.
+059	JAM	003	005	Ezali mpe ndenge moko mpo na lolemo: ezali eteni moko ya moke kati na nzoto ya moto, kasi ekoki komikumisa na makambo minene penza. Tala, mwa moto moke ezikisaka zamba monene!
+059	JAM	003	006	Lolemo mpe ezali moto; kati na biteni ya nzoto na biso, lolemo ezali mokili ya makambo mabe, ebebisaka nzoto mobimba. Soki ezwi moto ya lifelo, ezikisaka bomoi na biso mobimba. (Geenna g1067)
+059	JAM	003	007	Moto azali na makoki ya kokonza lolenge nyonso ya banyama, bandeke, banyama oyo etambolaka na libumu mpe bambisi, mpe akonza yango penza.
+059	JAM	003	008	Kasi mpo na lolemo, moko te akoki kokonza yango: ezali penza mabe, elembaka te mpe etonda na ngenge oyo ebomaka.
+059	JAM	003	009	Kaka na lolemo yango, topambolaka Nkolo, Tata na biso, mpe tolakelaka mabe bato oyo Nzambe akela na elilingi na Ye.
+059	JAM	003	010	Ezala lipamboli to elakeli mabe, nyonso ebimaka kaka na monoko moko. Bandeko na ngai, esengelaki te kozala bongo.
+059	JAM	003	011	Boni, etima moko ekoki kobimisa mayi ya peto mpe mayi ya mbindo?
+059	JAM	003	012	Bandeko na ngai, nzete ya figi ekoki solo kobota bambuma ya olive? Nzete ya vino ekoki solo kobota bambuma ya figi? Boni, ekoki kosalema ete etima ya mayi ya mungwa ebimisa mayi ya malamu?
+059	JAM	003	013	Nani kati na bino azali moto ya bwanya mpe ya mayele? Tika ete ezaleli malamu na ye emonisa misala na yango kati na komikitisa mpe na bwanya.
+059	JAM	003	014	Kasi soki mitema na bino etondi na zuwa ya bololo mpe na molimo ya koswana, wana botika komikumisa ete bozali bato ya bwanya; pamba te yango ezali solo te, ezali lokuta.
+059	JAM	003	015	Bwanya ya ndenge wana ewutaka na Likolo te, kasi ezali ya mokili, ya bomoto, ya Satana.
+059	JAM	003	016	Pamba te esika oyo zuwa mpe koswana ezali, esika wana mpe mobulu ya lolenge nyonso mpe misala mabe ezalaka.
+059	JAM	003	017	Kasi bwanya oyo ewutaka epai ya Nzambe ezalaka nanu ya peto; bongo, ememaka kimia, boboto, boyokani, koyokela bato mawa; ebotaka bambuma ya malamu, eponaka bilongi te mpe ezalaka na lokuta te.
+059	JAM	003	018	Bato oyo bayeisaka kimia balonaka kati kimia mpe babukaka mbuma ya bosembo.
+059	JAM	004	001	Koswana mpe bitumba kati na bino ewutaka wapi? Boni, ewutaka te na baposa mabe na bino, oyo ebundaka kati na banzoto na bino?
+059	JAM	004	002	Bozali kolula biloko, kasi bozali kozwa yango te; bokomi kino koboma bato. Botondi na zuwa, kasi bozali kolonga te kozwa oyo bozali koluka; bokomi koswana mpe kobunda bitumba. Bozwaka te biloko oyo bozalaka na yango posa, pamba te bosengaka yango epai ya Nzambe te.
+059	JAM	004	003	Kasi soki bosengaka epai ya Nzambe mpe bozwaka te, ezali mpo ete bosengaka na makanisi mabe, na makanisi ya kosepelisa kaka baposa na bino moko.
+059	JAM	004	004	Bato na ekobo! Boyebi te ete kolinga mokili ezali koyina Nzambe? Moto oyo alingi kozala moninga ya mokili amikomisi monguna ya Nzambe.
+059	JAM	004	005	Mpe lisusu, bokanisi ete ezali na pamba nde Makomi elobi: « Nzambe azalaka na zuwa makasi mpo na Molimo oyo atia kati na biso? »
+059	JAM	004	006	Nzokande, Nzambe atalisaka biso ngolu oyo eleki, pamba te Makomi eloba: « Nzambe atelemelaka bato ya lolendo, kasi atalisaka ngolu na Ye epai ya bato oyo bamikitisaka. »
+059	JAM	004	007	Bomikitisa liboso ya Nzambe. Botelemela Satana, mpe akokima mosika na bino.
+059	JAM	004	008	Bopusana pene ya Nzambe, mpe Ye akoya pene na bino. Bino bato ya masumu, bosukola maboko na bino; bino bato ya mitema mibale, bopetola mitema na bino!
+059	JAM	004	009	Botala pasi na bino, bosala matanga mpe bolela. Tika ete koseka na bino ebongwana kolela, mpe esengo na bino ekoma mawa!
+059	JAM	004	010	Bomikitisa liboso ya Nkolo, mpe Nkolo akotombola bino.
+059	JAM	004	011	Bandeko na ngai, botonganaka te bino na bino. Moto oyo atongaka mpe asambisaka ndeko na ye asambwisaka mibeko mpe abukaka yango. Nzokande, soki ozali kosambwisa mibeko, elakisi ete ozali kotosa yango te, kasi ozali nde mosambisi na yango.
+059	JAM	004	012	Pamba te Ye oyo apesa mibeko azali kaka Ye moko Mosambisi, Ye nde azali na makoki ya kobikisa mpe ya kobebisa. Bongo yo, ozali nani mpo ete osambisa moninga na yo?
+059	JAM	004	013	Boyoka sik’oyo, bino bato oyo bolobaka: « Lelo to lobi, tokokende na engumba songolo, tokovanda kuna mobu mobimba mpe tokosala mombongo oyo ekobotela biso mbongo ebele. »
+059	JAM	004	014	Boni, boyebi makambo oyo ekoya lobi? Bomoi na bino nde nini? Ezali kaka te lokola londende oyo emonanaka mpo na mwa tango moke mpe, na sima, elimwe?
+059	JAM	004	015	Tala ndenge bosengeli koloba: « Soki Nkolo alingi, tokozala na bomoi mpe tokosala likambo songolo to pakala. »
+059	JAM	004	016	Kasi bino, bozali nde komikumisa na monene ya mabongisi na bino! Boyeba malamu ete lolendo ya ndenge wana ezali mabe.
+059	JAM	004	017	Moto oyo ayebi kosala bolamu, kasi asali yango te, asali masumu.
+059	JAM	005	001	Boyoka sik’oyo, bino bazwi: Boyoka mawa mpe bolela mpo na pasi oyo ekokweyela bino.
+059	JAM	005	002	Bomengo na bino esili kopola, mpe mpese esili kolia bilamba na bino;
+059	JAM	005	003	wolo mpe palata na bino esili kobeba; mpe libebi na yango ekotatola mabe na bino mpe ekolia banzoto na bino lokola moto. Bozali kobakisa se kobakisa bomengo! Boyebi te ete tokomi na mikolo ya suka?
+059	JAM	005	004	Bozali ata koboya kofuta basali bilanga na bino. Yoka ndenge bazali kolela! Mpe kolela na bango ekomi kino na matoyi ya Nkolo, Mokonzi ya mampinga.
+059	JAM	005	005	Awa na mokili, bozali kobika bomoi ya bisengo mpe ya bofuluki, bozali komikomisa nzoto mafuta lokola banyama oyo babongisi mpo na koboma.
+059	JAM	005	006	Bozali kokatela bato ya sembo etumbu mpe koboma bango, nzokande batelemeli bino te.
+059	JAM	005	007	Bandeko, boyika mpiko kino na mokolo oyo Nkolo akoya. Botala ndenge mosali bilanga azelaka bambuma kitoko ya mabele: akangaka motema wuta tango oyo aloni elanga na ye kino na eleko ya kobuka bambuma.
+059	JAM	005	008	Bino mpe, bokangaka mitema mpe boyikaka mpiko, pamba te koya ya Nkolo ekomi pene.
+059	JAM	005	009	Bandeko na ngai, botika kofundana bino na bino, noki te Nzambe akosambisa bino. Botala, Mosambisi azali ya kotelema liboso ya ekuke.
+059	JAM	005	010	Bandeko, mpo na oyo etali kokanga motema kati na pasi, bozwa ndakisa ya basakoli oyo basakolaki na Kombo ya Nkolo.
+059	JAM	005	011	Ndenge boyebi, tobengaka bato oyo bayikaka mpiko bato ya esengo. Boyokaki sango ya lolenge oyo Yobo akangaki motema kati na pasi, mpe boyebi malamu makambo oyo Nkolo asalaki, na suka, mpo na bolamu na ye; pamba te Nkolo atonda na boboto mpe na mawa.
+059	JAM	005	012	Liboso na nyonso, bandeko na ngai, bolapaka ndayi te, ezala na kombo ya Likolo, ya mokili to mpe ya eloko nini. Tika ete « iyo » na bino etikala « iyo, » mpe « te » na bino etikala « te, » mpo ete bakatela bino etumbu te.
+059	JAM	005	013	Soki moko kati na bino azali na pasi, tika ete abondela; soki moko azali na esengo, tika ete ayemba banzembo mpo na kokumisa Nzambe;
+059	JAM	005	014	soki mpe mosusu kati na bino azali kobela, tika ete abenga bakambi ya Lingomba mpo ete babondela mpo na ye mpe bapakola ye mafuta na Kombo ya Nkolo,
+059	JAM	005	015	pamba te libondeli oyo esalemi na kondima ekobikisa mobeli, mpe Nkolo akotelemisa ye. Soki asalaki masumu, Nzambe akolimbisa ye.
+059	JAM	005	016	Yango wana, tika ete moko na moko ayambola masumu na ye epai ya moninga na ye, mpe tika ete moko na moko abondela mpo na moninga na ye, mpo ete bobikisama na bokono. Libondeli ya moto ya sembo ezali na nguya makasi mpe esalaka makambo ya kokamwa.
+059	JAM	005	017	Eliya azalaki moto lokola biso, abondelaki na molende nyonso mpo ete mvula enoka te, mpe mvula enokaki te na mabele mibu misato na basanza motoba;
+059	JAM	005	018	abondelaki lisusu, mpe Likolo epesaki lisusu mvula, mpe mabele ebotaki bambuma.
+059	JAM	005	019	Bandeko na ngai, soki moko kati na bino apengwi mosika ya bosolo mpe moto mosusu azongisi ye kati na yango,
+059	JAM	005	020	boyeba ete moto oyo azongisi mopengwi longwa na libunga abikisi ye na kufa mpe asali ete masumu ebele elimbisama.
+#

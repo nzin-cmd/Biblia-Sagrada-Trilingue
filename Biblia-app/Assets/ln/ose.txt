@@ -1,0 +1,198 @@
+028	HOS	001	001	Tala liloba oyo Yawe alobaki na nzela ya Oze, mwana mobali ya Beri, tango Oziasi, Yotami, Akazi mpe Ezekiasi bazalaki bakonzi ya Yuda, mpe tango Jeroboami, mwana mobali ya Joasi, azalaki mokonzi ya Isalaele:
+028	HOS	001	002	Tango Yawe abandaki koloba na nzela ya mosakoli Oze, Yawe ayebisaki ye: — Kende, linga mwasi oyo asalaka kindumba mpe bota na ye bana makangu, pamba te mokili emikotisi na kindumba mpe epesi Yawe mokongo.
+028	HOS	001	003	Boye, Oze akendeki kolinga Gomeri, mwana mwasi ya Dibilayimi. Gomeri akomaki na zemi mpe abotelaki ye mwana mobali.
+028	HOS	001	004	Yawe alobaki na ye: — Pesa ye kombo Jizireyeli, pamba te etikali moke napesa libota ya Jewu etumbu mpo na makila ya bato oyo asopaki na Jizireyeli, mpe nakosukisa bokonzi, na libota ya Isalaele.
+028	HOS	001	005	Na mokolo wana, nakobuka tolotolo ya Isalaele kati na lubwaku ya Jizireyeli.
+028	HOS	001	006	Gomeri akomaki lisusu na zemi mpe abotaki mwana mwasi. Yawe alobaki na Oze: — Pesa ye kombo Lo-Rukama, pamba te nakotalisa lisusu bolingo na Ngai te epai ya libota ya Isalaele mpe nakolimbisa bango te.
+028	HOS	001	007	Kasi nakotalisa bolamu na Ngai epai ya libota ya Yuda mpe nakobikisa bango. Ngai moko Yawe, Nzambe na bango, nde nakosala bongo; ekozala na nguya ya tolotolo te, ya mopanga te, ya bitumba te, ya bampunda te to mpe ya bashar te.
+028	HOS	001	008	Tango Gomeri alongolaki Lo-Rukama na mabele, Gomeri akomaki lisusu na zemi mpe abotaki mwana mobali.
+028	HOS	001	009	Yawe alobaki: — Pesa ye kombo Lo-Ami, pamba te bozali bato na Ngai te, mpe Ngai nazali Nzambe na bino te.
+028	HOS	001	010	Nzokande, bana ya Isalaele bakozala ebele lokola zelo ya ebale monene, oyo bakoki komeka to kotanga te; kaka na esika oyo balobaki na bango: « Bozali bato na ngai te, » bakokoma kobenga bango « bana na Nzambe na bomoi. »
+028	HOS	001	011	Bongo, bato ya Yuda mpe ya Isalaele bakozonga lisusu kozala ekolo moko, bakopona mokonzi moko kaka mpe bakobima na mokili ya bowumbu, pamba te mokolo ya Jizireyeli ekozala mokolo monene.
+028	HOS	002	001	— Loba na bandeko na yo ya mibali: « Bozali bato na ngai, » mpe na bandeko na yo ya basi: « Bozali balingami na ngai. »
+028	HOS	002	002	Bopamela mama na bino, bopamela ye; pamba te azali lisusu mwasi na ngai te, mpe ngai nazali lisusu mobali na ye te. Tika ete alongola bilembo ya kindumba na elongi na ye mpe bilembo ya ekobo na mabele na ye.
+028	HOS	002	003	Soki te, nakolongola ye bilamba mpe nakotika ye bolumbu ndenge babotela ye, nakokomisa ye lokola esobe, lokola mokili oyo ekawuka; mpe akokufa na posa ya mayi.
+028	HOS	002	004	Nakolinga bana na ye te, pamba te bazali bana oyo babotami na nzela ya kindumba.
+028	HOS	002	005	Mama na bango atambolaki na kindumba, mpe ye oyo abotaki bango azali mwasi ya lokumu te. Alobaki: « Nakolanda bamakangu na ngai, oyo bapesaka ngai bilei mpe mayi, bilamba ya lino mpe bilamba basala na bapwale ya meme, mafuta mpe masanga. »
+028	HOS	002	006	Yango wana, nakokangela ye nzela na banzube, nakotongela ye mir mpo ete akoka lisusu komona nzela te.
+028	HOS	002	007	Akolanda bamakangu na ye, kasi akozwa bango te; akoluka bango, kasi akomona bango te. Bongo akoloba: « Tika nazongela mobali na ngai ya liboso; pamba te elongo na mobali ya liboso, nazalaki na esengo koleka sik’oyo! »
+028	HOS	002	008	Asosolaki te ete ngai nde nazalaki kopesa ye ble, vino ya sika mpe mafuta; ete ngai nde nasopelaki ye palata mpe wolo oyo basaleli bikeko ya Bala.
+028	HOS	002	009	Yango wana, nakobotola ble na ngai na tango ya kobuka, vino na ngai ya sika na tango ya kokamola yango; nakobotola bilamba na ngai oyo basala na bapwale ya meme, mpe bilamba na ngai ya lino oyo azalaki kozipa na yango bolumbu na ye.
+028	HOS	002	010	Boye, nakosambwisa ye na miso ya bamakangu na ye, mpe moto moko te akobikisa ye na maboko na ngai.
+028	HOS	002	011	Nakosukisa bisengo na ye nyonso: bafeti na ye ya mobu na mobu mpe ya ebandeli ya sanza, mikolo na ye ya Saba mpe bafeti nyonso oyo ekatama.
+028	HOS	002	012	Nakobebisa bilanga na ye ya vino mpe banzete na ye ya figi oyo azalaki koloba na tina na yango: « Ezali bakado oyo bamakangu na ngai bapesaki ngai; » nakokomisa yango matiti ya zamba, mpe banyama ya zamba ekolia yango.
+028	HOS	002	013	Nakopesa ye etumbu mpo na mikolo nyonso oyo atumbelaki nzambe ya Bala malasi ya ansa. Azalaki kolata babiju mpe mayaka ya talo mpo na kokende epai ya bamakangu na ye; kasi ngai, abosanaki Ngai, elobi Yawe.
+028	HOS	002	014	Yango wana, nakobuka ye motema, nakomema ye na esobe; mpe kuna, nakoloba na motema na ye maloba na bolingo.
+028	HOS	002	015	Kuna nde nakozongisela ye bilanga na ye ya vino mpe nakokomisa Lubwaku ya Akori ekuke ya elikya. Kuna, akoyanola na esengo lokola na tango ya bolenge na ye, lokola na mokolo oyo abimaki na Ejipito.
+028	HOS	002	016	Na mokolo wana, elobi Yawe, okobenga ngai: « Mobali na ngai ya libala; » okobenga ngai lisusu te: « Nkolo na ngai. »
+028	HOS	002	017	Nakolongola na bibebu na ye bakombo ya banzambe ya Bala; bakobelela lisusu bakombo na yango te.
+028	HOS	002	018	Na mokolo wana, nakosala boyokani mpo na bango elongo na banyama ya zamba, bandeke ya likolo, mpe bikelamu oyo etambolaka na libumu. Nakobuka tolotolo mpe mopanga, mpe nakosilisa bitumba: nyonso wana ekosila na mokili mpo ete bato nyonso bavanda na kimia.
+028	HOS	002	019	Nakolinga yo lokola mwasi na ngai mpo na libela, nakolinga yo lokola mwasi na ngai na solo mpe na bosembo, na bolingo mpe na esengo.
+028	HOS	002	020	Nakolinga yo lokola mwasi na ngai na solo; mpe na bongo, okoyeba Yawe malamu.
+028	HOS	002	021	Na mokolo wana, nakoyanola, elobi Yawe, nakoyanola Lola, mpe Lola ekoyanola mabele.
+028	HOS	002	022	Mabele ekoyanola ble, vino ya sika mpe mafuta. Bongo, yango nyonso ekoyanola Jizireyeli.
+028	HOS	002	023	Nakolona ye mpo na Ngai moko kati na mokili mpo ete azala lokola nzete ya elanga na Ngai; nakotalisa bolingo na Ngai epai na ye oyo nazalaki kobenga Lo-Rukama. Nakoloba na bato oyo nazalaki kobenga Lo-Ami: « Bozali bato na Ngai, » mpe bango bakoloba: « Ozali Nzambe na biso. »
+028	HOS	003	001	Yawe alobaki na ngai: — Kende, linga mwasi mosusu oyo azali mwasi ya mobali mosusu to mpe azali mwasi ya ekobo. Linga ye ndenge Yawe alingaka bana ya Isalaele, ata soki basambelaka banzambe mosusu mpe baliaka bagato basala na bambuma ya vino ebulisama!
+028	HOS	003	002	Boye, nasombaki ye na motuya ya mbongo ya bibende ya palata, zomi na mitano, mpe na motuya ya bakilo ya orje, nkama minei na tuku mitano.
+028	HOS	003	003	Bongo nalobaki na ye: — Wumela na ngai tango molayi; okosala kindumba te mpe okomipesa na mobali mosusu te, ngai mpe nakosala kaka bongo epai na yo.
+028	HOS	003	004	Solo, bana ya Isalaele bakowumela tango molayi bazanga mokonzi, bazanga mokambi, bazanga mbeka, bazanga libanga ya ekaniseli, bazanga efode mpe bazanga banzambe ya bikeko.
+028	HOS	003	005	Sima na yango, bana ya Isalaele bakozongela mpe bakoluka Yawe, Nzambe na bango, mpe Davidi, mokonzi na bango; bakobelema epai na Yawe, na kolenga nyonso, mpo na kozwa mapamboli na Ye, na mikolo oyo ekolanda.
+028	HOS	004	001	Bana ya Isalaele, boyoka Liloba na Yawe! Pamba te Yawe azali kosamba na bino, bavandi ya mokili, mpo ete bosolo, bolingo mpe boyebi ya Nzambe ezali lisusu te kati na mokili;
+028	HOS	004	002	etikali kaka kolakelana mabe, lokuta, makambo ya somo, moyibi, kindumba, mobulu mpe kobomana se kobomana.
+028	HOS	004	003	Mpo na yango, mokili ekokoma na mawa, bavandi na yango nyonso bakolemba nzoto, nyama ya zamba, ndeke ya likolo mpe mbisi ya ebale monene ekokufa.
+028	HOS	004	004	Kasi tika ete moto moko te amilongisa to apamela moninga na ye, pamba te bato na yo bazali lokola bato oyo batiaka tembe na Banganga-Nzambe!
+028	HOS	004	005	Bokobeta mabaku, na moyi makasi; basakoli mpe bakobeta mabaku elongo na bino, na butu, mpe nakobebisa mama na bino.
+028	HOS	004	006	Bato na Ngai bakobebisama mpo ete bazangi boyebi. Lokola bobwaki boyebi, Ngai mpe nakobwaka bino mpe nakolongola bino na bonganga-Nzambe na Ngai. Lokola bobosani Mobeko ya Nzambe na bino, Ngai mpe nakobosana bana na bino.
+028	HOS	004	007	Ndenge Banganga-Nzambe bakomaki ebele, ndenge wana mpe basalaki masumu na miso na Ngai. Nakobongola nkembo na bango soni.
+028	HOS	004	008	Banganga-Nzambe baliaka na sima ya masumu ya bato na Ngai mpe basepelaka ete bato basala kaka mabe.
+028	HOS	004	009	Makambo oyo ekokomela bato yango ekokomela mpe Banganga-Nzambe: nakopesa bango nyonso etumbu nzela moko mpo na etamboli na bango mpe nakofuta bango kolanda misala na bango.
+028	HOS	004	010	Bakolia, kasi bakotonda te; bakosala kindumba, kasi bakobotana te; pamba te basundolaki Yawe
+028	HOS	004	011	mpo na komipesa na kindumba, na masanga ya vino ya kala mpe ya sika oyo elongolaka bato bososoli.
+028	HOS	004	012	Bato na Ngai bakomi kotuna toli epai ya nzambe ya ekeko oyo basala na nzete, mpe eteni ya nzete ezali koyanola bango. Molimo moko ya kindumba ezali kopengwisa bango, bakomi kosala kindumba mosika na Nzambe na bango,
+028	HOS	004	013	kobonza bambeka na likolo ya bangomba milayi, kotumba ansa lokola mbeka ya malasi na likolo ya bangomba mikuse, na se ya banzete minene oyo epesaka pio ya kitoko lokola sheni, pepiliye mpe terebente! Mpo na yango, bana na bino ya basi bakosala kindumba, mpe basi ya bana na bino bakosala ekobo.
+028	HOS	004	014	Nakopesa etumbu te: ezala na bana na bino ya basi mpo na kindumba na bango to na basi ya bana na bino mpo na ekobo na bango; pamba te bango moko mibali babimaka na basi ya ndumba mpe babonzaka mbeka elongo na bandumba ya tempelo. Bato bazangi bososoli basukaka se na libebi!
+028	HOS	004	015	Ata soki yo, Isalaele, osali ekobo, tika ete Yuda amikweyisa te! Kokende na Giligali te, komata na Beti-Aveni te mpe kolapa ndayi te na koloba: « Na Kombo na Yawe! »
+028	HOS	004	016	Mpo ete bato ya Isalaele bazali mito makasi lokola ngombe ya mwasi oyo etomboki, ndenge nini Yawe akoka koleisa bango lokola bana meme kati na bilanga minene?
+028	HOS	004	017	Efrayimi asangani na banzambe ya bikeko: tika ye akoba bongo!
+028	HOS	004	018	Soki kaka asilisaka komela vino, amipesaka na kindumba; bakambi na yango balingaka makambo oyo eyokisaka bango soni.
+028	HOS	004	019	Mopepe moko ya makasi ekomema bango, mpe bakoyoka soni mpo na bambeka na bango.
+028	HOS	005	001	Bino Banganga-Nzambe, boyoka! Bino bana ya Isalaele, bofungola matoyi! Bino mpe bato oyo bosalaka na ndako ya mokonzi, boyoka! Ezali bino nde bosengelaki kosambisa, kasi bozalaki lokola motambo, na Mitsipa, mpe lokola monyama batanda, na Tabori.
+028	HOS	005	002	Batomboki batimolaki libulu ya mozindo; mpe Ngai nakopesa bango nyonso etumbu.
+028	HOS	005	003	Nayebi Efrayimi malamu penza; mpe Isalaele azali ya kobombama te na miso na Ngai. Efrayimi, awa omipesaki na kindumba, Isalaele mobimba akomi mbindo mpo na yango.
+028	HOS	005	004	Misala na bango ezali kopekisa bango kozonga epai ya Nzambe na bango, mpo ete molimo ya kindumba evandi kati na mitema na bango, bazali koyeba Yawe te.
+028	HOS	005	005	Lolendo ya Isalaele ezali kofunda bango; ezala bato ya Efrayimi to ya Isalaele bakokweya mpo na masumu na bango; bato ya Yuda mpe bakokweya elongo na bango.
+028	HOS	005	006	Tango bakokende koluka Yawe, elongo na bangombe mpe bameme na bango, bakomona Ye te, pamba te akabwanaki na bango.
+028	HOS	005	007	Bazali sembo te liboso ya Yawe, baboti bana makangu; sik’oyo, bafeti na bango ya ebandeli ya sanza ekoboma bango nzela moko na bomengo na bango.
+028	HOS	005	008	Bobeta kelelo, na Gibea, mpe liseke, kuna na Rama! Bobeta lolaka ya bitumba na Beti-Aveni! Oh Benjame, keba!
+028	HOS	005	009	Efrayimi akobebisama na mokolo ya etumbu na ye. Nazali koloba makambo ya solo kati na bikolo ya Isalaele.
+028	HOS	005	010	Bakambi ya Yuda bazali lokola bato oyo bapusaka bandelo. Nakopelisela bango kanda na Ngai lokola mpela.
+028	HOS	005	011	Efrayimi azali konyokwama, anyatami na etumbu, pamba te akangamaki na kolanda kaka banzambe ya bikeko.
+028	HOS	005	012	Mpe Ngai, nakomi lokola nseka na miso ya Efrayimi, lokola eloko ya kopola na miso ya bato ya Yuda.
+028	HOS	005	013	Tango Efrayimi amonaki bokono na ye, mpe Yuda amonaki bapota na ye, Efrayimi abalukaki na ngambo ya Asiri mpe atindaki sango epai ya mokonzi monene mpo na kozwa lisungi, kasi ye akokoka kobikisa mpe kosilisa bapota na yo te.
+028	HOS	005	014	Pamba te nakozala lokola nkosi liboso ya Efrayimi, mpe lokola mwana nkosi liboso ya Yuda. Nakokata-kata bango na biteni mpe nakokende, nakomema bango, mpe moto akobikisa bango akozala te.
+028	HOS	005	015	Nakozonga epai na Ngai kino tango bakososola mabe na bango mpe bakoluka elongi na Ngai; kati na pasi, bakoluka Ngai makasi.
+028	HOS	006	001	Boya, tozonga epai na Yawe! Akati-kati biso solo na biteni, kasi akobikisa biso; azokisaki biso, kasi akotia kisi na bapota na biso.
+028	HOS	006	002	Sima na mikolo mibale, akopesa biso lisusu bomoi; na mokolo ya misato, akotelemisa biso lisusu mpo ete tozala na bomoi liboso na Ye.
+028	HOS	006	003	Toyeba Yawe, toluka penza koyeba Ye; ndenge tongo etanaka solo, ndenge wana mpe akomonana: akoya epai na biso lokola mvula, lokola mvula oyo enokaka na pwasa mpe epolisaka mabele.
+028	HOS	006	004	Efrayimi, nasala yo lisusu nini? Yuda, nasala yo lisusu nini? Bolingo na bino mpo na Ngai ezali lokola londende ya tongo, lokola mamwe oyo elimwaka noki.
+028	HOS	006	005	Yango wana, na maloba ya basakoli na Ngai, nazali kokata-kata bino na biteni; na maloba ya monoko na Ngai, nazali koboma bino, mpe bitumbu ezali kokweyela bino lokola mokalikali.
+028	HOS	006	006	Pamba te nasepelaka na boboto koleka mbeka, mpe na boyebi ya Nzambe koleka mbeka ya kotumba.
+028	HOS	006	007	Ndenge kaka Adamu asalaki, bango mpe babukaki boyokani na Ngai; kuna, bazalaki sembo te liboso na Ngai.
+028	HOS	006	008	Galadi ezali engumba ya bato mabe, etonda na bilembo ya makila.
+028	HOS	006	009	Ndenge babomi babombamaka mpo na koluka kosala bato mabe, ndenge wana mpe Banganga-Nzambe basalaka: babomaka bato na nzela ya Sishemi; ezali likambo ya somo penza!
+028	HOS	006	010	Kati na libota ya Isalaele, namonaki makambo ya somo makasi: Efrayimi amipesaki na kindumba, mpe Isalaele akomaki mbindo.
+028	HOS	006	011	Yo mpe lisusu, Yuda, tango ya kobuka mbuma ebongisami mpo na yo, sima na Ngai kozongisa bomengo ya bato na Ngai.
+028	HOS	007	001	Tango kaka nalingaki kobikisa Isalaele, masumu ya Efrayimi mpe mabe ya Samari ebimaki na pwasa, mpo ete batambolaki na lokuta; miyibi babukaki bandako mpe bato mabe babotolaki bato biloko kati na babalabala.
+028	HOS	007	002	Bamilobelaka te, kati na mitema na bango, ete Ngai nabosanaka te mabe nyonso oyo basalaka; sik’oyo, misala na bango ya mabe ezingeli bango, ezali tango nyonso liboso na Ngai.
+028	HOS	007	003	Basepelisaka mokonzi na nzela ya misala na bango ya mabe; basepelisaka mpe bakambi na nzela ya lokuta na bango.
+028	HOS	007	004	Bango nyonso bazali bandumba, bapelaka na posa lokola moto ya fulu ya mapa, oyo molambi mapa akobaka te kobakisa koni, wuta na tango asangisaki farine kino mapa evimba.
+028	HOS	007	005	Na mokolo ya feti ya mokonzi na biso, bakambi balangwaka masanga mpe mokonzi asanganaka na batioli.
+028	HOS	007	006	Wana mitema na bango epelaka lokola moto ya fulu, bapusanaka pene na ye na mayele mabe. Butu mobimba, balalaka na kanda; mpe na tongo, kanda yango ekomaka kopela lokola moto.
+028	HOS	007	007	Bango nyonso bapelaka lokola moto ya fulu, batumbaka bakambi na bango; mpe bakonzi na bango nyonso bakweyaka, moko te kati na bango abelelaka Ngai.
+028	HOS	007	008	Efrayimi asangani na bikolo mosusu, akomi lokola galeti oyo ebela malamu te.
+028	HOS	007	009	Bapaya bazali kosilisa ye makasi, kasi ye azali kososola yango te. Azali kokoma mobange, kasi azali kososola yango te.
+028	HOS	007	010	Lolendo ya Isalaele ezali kofunda ye, kasi azali komona nyonso wana pamba: azongeli te Yawe, Nzambe na ye; mpe atako bongo, azali kaka koluka Ye te!
+028	HOS	007	011	Efrayimi akomi lokola ebenga oyo ekosamaka na bopete mpe ezangi mayele: azali kosenga lisungi epai ya Ejipito, kasi azali mpe kokende na Asiri.
+028	HOS	007	012	Tango akendaka, nabwakelaka ye monyama mpe nakangaka ye ndenge bakangaka ndeke na likolo. Nakopesa ye etumbu oyo ekoki kolanda ndenge nakebisaki ye na tina na yango kati na lisanga.
+028	HOS	007	013	Mawa na bango mpo ete bakimi mosika na Ngai! Tika ete babebisama mpo ete batombokeli Ngai! Wana nazalaki na Ngai kokangola bango, kasi bango, basepelaki kokosela Ngai makambo!
+028	HOS	007	014	Babelelaka Ngai te wuta na mozindo ya mitema na bango, kasi balelaka na bambeto na bango. Tango bamikataka banzoloko mpo na kozwa ble mpe vino ya sika, bakomaka nde mosika na Ngai.
+028	HOS	007	015	Ezali Ngai nde nateyaki mpe nakomisaki bango makasi, kasi bango bazalaka kaka na mabongisi ya kosala Ngai mabe.
+028	HOS	007	016	Bazongelaka te Ye-Oyo-Aleki-Likolo, bazali lokola tolotolo ebeba; bakambi na bango bakokufa na mopanga likolo ya maloba na bango ezanga limemia. Mpo na yango, bakosambwa kati na Ejipito.
+028	HOS	008	001	Tia kelelo na monoko na yo! Lokola mpongo, pasi ekokitela Ndako ya Yawe, mpo ete babebisi boyokani na Ngai mpe batombokeli Mobeko na Ngai.
+028	HOS	008	002	Isalaele azali kobelela Ngai: « Oh Nzambe na biso, toyebi Yo! »
+028	HOS	008	003	Kasi Isalaele abwaki makambo malamu; yango wana, monguna akolanda ye.
+028	HOS	008	004	Batunaki Ngai te tango batiaki bakonzi mpe baponaki bakambi. Bamisalelaki banzambe ya bikeko na palata mpe na wolo na bango mpo na libebi na bango moko.
+028	HOS	008	005	Oh Samari, nzambe na yo ya ekeko ya mwana ngombe ya mobali ezali nkele! Kanda na Ngai epeli mpo na kobebisa bango. Kino tango nini bakokoka te kotambola na bopeto?
+028	HOS	008	006	Ewuti na Isalaele! Ekeko wana ya mwana ngombe ya mobali, ezali monyangwisi bibende na moto nde asala yango; ezali Nzambe te. Bakobuka yango biteni-biteni, mwana ngombe wana ya Samari.
+028	HOS	008	007	« Lokola baloni mopepe, bakobuka mopepe ya makasi. Nzete ya ble oyo ezanga moto ebimisaka farine te. Ezala soki ebimisi mito, ezali bapaya nde bakolia yango.
+028	HOS	008	008	Isalaele abebisami; tala bango wana kati na bikolo, bazali komonana lokola biloko pamba!
+028	HOS	008	009	Pamba te bakendeki na Asiri lokola ane ya zamba oyo ezali kotelengana yango moko. Efrayimi apesaki bakado epai ya bamakangu na ye.
+028	HOS	008	010	Ata apesaki bakado kati na bikolo, sik’oyo Ngai nakosangisa bango esika moko mpe bakobanda kosila kokufa na se ya minyoko ya mokonzi moko ya nguya.
+028	HOS	008	011	Ata Efrayimi atongi bitumbelo ebele mpo na kolongola masumu na ye, kasi bitumbelo yango ekomemisa ye kaka masumu.
+028	HOS	008	012	Nakomelaki bango makambo ebele ya Mobeko na Ngai, kasi bamonaki yango lokola eloko moko ya mopaya.
+028	HOS	008	013	Bazali kobonza bambeka lokola likabo mpo na Ngai, mpe bazali kolia misuni; kasi Yawe azali kosepela na bango te. Sik’oyo, akokanisa mabe na bango mpe akopesa bango etumbu mpo na masumu na bango: bakozonga na Ejipito.
+028	HOS	008	014	Isalaele abosani Mokeli na ye mpe atongi bandako ya kitoko; Yuda atongi bingumba ebele batonga makasi; kasi Ngai nakotinda moto kati na bingumba na bango, mpe ekotumba bandako na bango ya kitoko. »
+028	HOS	009	001	Isalaele, kosepela te; kozala na esengo te lokola bikolo mosusu; pamba te otikaki Nzambe na yo mpe okendeki kosala kindumba; osepelaki na lifuti ya kindumba na bitando nyonso oyo batutelaka ble.
+028	HOS	009	002	Etando oyo batutelaka ble mpe ekamolelo masanga ya vino ekopesa bango bilei te, mpe bakozanga vino ya sika.
+028	HOS	009	003	Bakovanda lisusu te na mboka na Yawe; Efrayimi akozonga na Ejipito, mpe bakolia bilei ya mbindo kati na Asiri.
+028	HOS	009	004	Bakobonzela lisusu Yawe makabo ya masanga ya vino te, mpe bambeka na bango ekosepelisa lisusu Yawe te. Ekozala mpo na bango lokola bilei ya matanga: bato nyonso oyo bakolia yango bakokoma mbindo; pamba te bilei na bango ekozala kaka mpo na mabumu na bango, kasi ekokota te na Tempelo ya Yawe.
+028	HOS	009	005	Boye, bokosala nini na mikolo ya bafeti oyo ekatama, na mikolo ya bafeti ya Yawe?
+028	HOS	009	006	Ata soki bakimi, bakobebisama; Ejipito ekoyamba bango, Mefisi ekozala kunda na bango; matiti mabe ekotonda na bibombelo palata na bango, banzube ekotonda kati na bandako na bango.
+028	HOS	009	007	Mikolo ya etumbu ezali koya, mikolo ya kofuta masumu esili koya. Isalaele, yeba yango! Mosakoli akomi zoba, moto ya Molimo abeli liboma! Pamba te masumu na yo ekomi ebele penza, mpe mabe na yo ekomi mingi liboso na ngai.
+028	HOS	009	008	Mokengeli ya Efrayimi azali elongo na Nzambe na ngai, azali mosakoli; Nzokande bazali kotiela ye mitambo na banzela na ye nyonso mpe bazali kotelemela ye kino na Ndako ya Nzambe na ye.
+028	HOS	009	009	Bamikotisi penza kati na mabe ndenge basalaki na mikolo ya Gibea. Nzambe akobosana mabe na bango te mpe akopesa bango etumbu mpo na masumu na bango.
+028	HOS	009	010	Tango namonaki Isalaele, azalaki lokola bambuma ya vino kati na esobe. Tango namonaki bakoko na bino, bazalaki lokola bambuma ya liboso ya nzete ya figi. Kasi tango bakomaki na Bala Peori, bamipesaki na nzambe oyo ya ekeko ya soni mpe bakomaki nkele lokola eloko oyo bango balingaki.
+028	HOS	009	011	Nkembo ya Efrayimi ekokima lokola ndeke, wuta na mbotama, wuta na zemi, wuta na ebandeli ya zemi.
+028	HOS	009	012	Ezala soki babokoli bana, nakobotola bango liboso ete bakola. Solo, mawa na bango tango nakopesa bango mokongo!
+028	HOS	009	013	Nazali komona Efrayimi lokola engumba Tiri oyo etongama na likolo ya mabele ya kitoko; nzokande, Efrayimi akokaba bana na ye na mobomi.
+028	HOS	009	014	Oh Yawe, pesa bango… Okopesa bango nini? Pesa bango mabumu oyo esopaka bazemi, mpe mabele oyo ekawuka.
+028	HOS	009	015	Nayinaki bango mpo na mabe na bango nyonso oyo basalaki na Giligali; Nakobengana bango na Ndako na Ngai mpo na misala na bango ya mabe. Nakolinga bango lisusu te, pamba te bakonzi na bango nyonso bazali batomboki.
+028	HOS	009	016	Efrayimi alembi, misisa na ye ekawuki; akobota lisusu bambuma te; ata soki baboti bana, nakoboma bana na bango oyo balingaka mingi.
+028	HOS	009	017	Nzambe na ngai akobwaka bango, pamba te batosaki Ye te, mpe bakokoma koyengayenga kati na bikolo.
+028	HOS	010	001	Isalaele azalaki lokola nzete ya vino ya bitape ebele, azalaki kobota mbuma mpo na ye moko. Ndenge azalaki kobota mbuma ebele, ndenge wana mpe atongaki bitumbelo ebele; ndenge mabele na ye ekomaki kitoko, ndenge wana mpe abongisaki mabanga na ye ya bule.
+028	HOS	010	002	Mitema na bango etondi na mabe mpe basengeli sik’oyo kofuta masumu na bango. Ye moko Yawe akokaba bitumbelo na bango mpe akopanza mabanga na bango ya bule.
+028	HOS	010	003	Boye bakoloba: « Tozali na mokonzi te, pamba te totosaki Yawe te. Ata tozalaki na mokonzi, akokaki kosala nini mpo na biso? »
+028	HOS	010	004	Bapesaka bilaka ebele, balapaka ndayi ya lokuta mpe basalaka boyokani. Boye, bosembo ekomi lokola matiti ya ngenge oyo ekolaka na bisika oyo bakataka bilanga.
+028	HOS	010	005	Bavandi ya Samari bazali kolenga mpo na mwana ngombe ya mwasi ya Beti-Aveni; bato na yango mpe Banganga-Nzambe oyo bagumbamelaka ekeko ya mwana ngombe bakosala matanga na tina na yango. Tika ete basepela lelo mpo ete nkembo ya mwana ngombe elongwe kati na bango.
+028	HOS	010	006	Bakomema ekeko ya mwana ngombe yango na Asiri lokola likabo mpo na mokonzi monene. Efrayimi akoyoka soni, mpe Isalaele akosambwa mpo na mabongisi oyo basalaki.
+028	HOS	010	007	Mokili ya Samari mpe mokonzi na yango bakotiola likolo ya mayi lokola mwa eteni ya nzete ya kokawuka.
+028	HOS	010	008	Bisambelo ya likolo ya bangomba ya Beti-Aveni epai wapi Isalaele azalaki kosala masumu ekobebisama. Banzube mpe basende ekobota na bitumbelo na bango mpe ekozipa yango. Bongo bakoloba na bangomba milayi: « Bozipa biso! » Mpe bakoloba na bangomba mikuse: « Bokweyela biso! »
+028	HOS	010	009	Isalaele, osalaki masumu wuta na mokolo ya Gibea mpe obongwani te. Boni, bitumba ekomeli bato mabe ya Gibea te?
+028	HOS	010	010	Nakopesa bango etumbu ndenge nalingi; bato ya bikolo ya bapaya bakosalela bango likita mpe bakokanga bango minyololo likolo ya masumu mibale oyo basalaki.
+028	HOS	010	011	Efrayimi azali lokola mwana ngombe ya mwasi oyo babokola malamu, alingaka kobeta ble; kasi nakotia ekangiseli na kingo na ye ya kitoko. Nakotambolisa Efrayimi lokola mpunda, Yuda akobalola mabele, Jakobi akopanza-panza yango.
+028	HOS	010	012	Bolona bosembo mpo na bino moko mpe bokobuka mbuma ya bolingo ya solo. Bomikatela bilanga ya sika, pamba te tango ya koluka Yawe ekoki kino tango akoya kosopela bino bosembo.
+028	HOS	010	013	Bolonaki makambo mabe, bobukaki mpe makambo mabe mpe boliaki mbuma ya lokuta, pamba te botiaki elikya na makasi mpe na ebele ya basoda na bino.
+028	HOS	010	014	Yango wana, lokito ya bitumba ekoyokana kati na yo, bandako na yo nyonso oyo batonga makasi ekobebisama; ndenge Salimani abebisaki Beti-Aribeli na mokolo ya bitumba, tango bamama mpe bana na bango bakweyaki na mabele.
+028	HOS	010	015	Beteli, makambo oyo ekokomela yo mpo ete mabe na yo eleki ndelo. Tango mokolo yango ekokoka, mokonzi ya Isalaele akozala lisusu te.
+028	HOS	011	001	Tango Isalaele azalaki nanu elenge, nalingaki ye, mpe nabengaki mwana na ngai libanda ya Ejipito.
+028	HOS	011	002	Kasi tango nyonso bazalaki kobenga ye, tango nyonso mpe azalaki kokima mosika na Ngai. Bazalaki kobonzela banzambe ya Bala mbeka mpe kotumbela bikeko malasi ya ansa.
+028	HOS	011	003	Ezalaki Ngai nde nalakisaki Efrayimi ndenge ya kotambola; namemaki bango na maboko na Ngai, kasi basosolaki te ete Ngai nde nazalaki kobatela bango.
+028	HOS	011	004	Natambolisaki bango na motema ya esengo mpe ya bolingo; nalongolaki bango ekangiseli na bakingo mpe namikitisaki mpo na koleisa bango.
+028	HOS	011	005	Lokola baboyi kozonga epai na Ngai, bakozonga mpe na mokili ya Ejipito te, kasi mokili ya Asiri nde ekozala mokonzi na bango.
+028	HOS	011	006	Mopanga ekokota na bingumba na bango, ekobuka bikangelo ya bikuke na bango mpe ekosukisa mabongisi na bango.
+028	HOS	011	007	Bato na Ngai batingami kaka kopesa Ngai mokongo. Ata babengi bango ete bakende epai na Ye-Oyo-Aleki-Likolo, moko te kati na bango azali kopesa Ye lokumu.
+028	HOS	011	008	Efrayimi, ekobanda ndenge nini nasundola yo? Isalaele, ndenge nini natika yo okende kaka boye? Mpo na nini nasala yo makambo oyo nasalaka engumba ya Adima? Okanisi ete Ngai nakoki penza kokomisa yo lokola engumba ya Tseboyimi? Motema na Ngai ebaluki kati na Ngai mpe natondi na mawa makasi.
+028	HOS	011	009	Nakosala te kolanda kanda na Ngai ya makasi, nakobebisa lisusu Efrayimi te. Pamba te Ngai, nazali Nzambe, nazali moto te! Nazali Mosantu, Ngai oyo nazali kati na bino; nakoya lisusu na kanda te.
+028	HOS	011	010	Bakolanda Yawe! Yawe akoganga lokola nkosi. Tango akoganga, bana na Ye bakoya na kolenga wuta na weste.
+028	HOS	011	011	Bakoya na kolenga lokola bandeke wuta na Ejipito, lokola bibenga wuta na Asiri. Nakovandisa bango na bandako na bango, elobi Yawe.
+028	HOS	011	012	Efrayimi azingeli Ngai na lokuta, mpe libota ya Isalaele, na kokosa; kasi Yuda azali nanu kotambola elongo na Nzambe, elongo na Mosantu ya solo.
+028	HOS	012	001	Efrayimi aliaka mopepe; mikolo nyonso, alandaka mopepe ya este; mosala na ye kokosa mpe kosala bato mabe. Asalaka boyokani elongo na Asiri mpe atindaka mafuta ya olive na Ejipito.
+028	HOS	012	002	Yawe alingi kosamba na Yuda; akopesa Jakobi etumbu kolanda etamboli na ye mpe akofuta ye kolanda misala na ye.
+028	HOS	012	003	Na libumu ya mama na bango, akangaki ndeko na ye ya mobali na litambe; tango akomaki mokolo, abundaki na Nzambe.
+028	HOS	012	004	Abundaki na anjelu mpe alongaki, alelaki mpe asengaki ngolu na ye. Jakobi akutanaki na ye na Beteli, mpe ezali kuna nde asololaki na ye.
+028	HOS	012	005	Yawe Nzambe, Mokonzi ya mampinga, Kombo na Ye ya lokumu ezali Yawe.
+028	HOS	012	006	Kasi yo, osengeli kozonga epai ya Nzambe na yo; batela bolingo mpe bosembo mpe tia tango nyonso elikya na Nzambe na yo.
+028	HOS	012	007	Bato ya Kanana basalelaka emekelo kilo ya lokuta, balingaka kaka kokosa.
+028	HOS	012	008	Efrayimi alobaka na lolendo nyonso: « Ngai nazali mozwi, nakomi na bozwi mingi. Na mosala na Ngai nyonso, bakotikala komona Ngai na mbeba ata moko te oyo bakoki kobenga lisumu. »
+028	HOS	012	009	Nazali Yawe, Nzambe na yo, oyo abimisaki yo wuta na Ejipito; nakosala ete ovanda lisusu na se ya bandako ya kapo lokola na mikolo ya bafeti na yo, oyo ekatama.
+028	HOS	012	010	Nalobaki na nzela ya basakoli, napesaki bango bimoniseli ebele mpe nalobaki na masese na nzela na bango.
+028	HOS	012	011	Lokola Galadi etondi na mabe, ekokoma eloko pamba mpo ete bato na yango babonzaki bangombe ya mibali na Giligali; mpe bitumbelo na bango ekobukama mpe ekokoma mipiku ya mabanga kati na banzela ya mikala ya bilanga.
+028	HOS	012	012	Jakobi akimaki na mokili ya Siri; Isalaele asalaki mosala mpo na kozwa mwasi; mpe mpo na kobala mwasi yango, andimaki kokoma mobateli bibwele.
+028	HOS	012	013	Yawe asalelaki mosakoli mpo na kobimisa Isalaele wuta na Ejipito, abatelaki ye na nzela ya mosakoli.
+028	HOS	012	014	Kasi Efrayimi atumbolaki kanda na Ye makasi, yango wana, Nkolo na ye akotangela ye ngambo ya makila oyo asopaki mpe akofuta ye kolanda mabe na ye.
+028	HOS	013	001	Tango Efrayimi azalaki koloba, bato bazalaki kolenga; azalaki kokonza kati na Isalaele, kasi asalaki mabe na kosambela nzambe Bala; yango wana akufaki.
+028	HOS	013	002	Sik’oyo, bazali kokoba kosala masumu; na mayele na bango, bazali komisalela banzambe ya bikeko na nzela ya palata na bango balekisa na moto, bililingi oyo babongisa malamu: nyonso wana ezali mosala ya bato ya misala ya maboko. Balobaka na tina na bango: « Babonzaka bato lokola bambeka mpe bapesaka beze na bana ngombe ya mibali. »
+028	HOS	013	003	Mpo na yango, bakozala lokola lipata ya tongo, lokola londende ya tongo oyo elimwaka, lokola lititi oyo mopepe ememaka mosika na esika oyo batutelaka ble, mpe lokola molinga oyo ebimaka na lidusu.
+028	HOS	013	004	« Nzokande Ngai Yawe, nazali Nzambe na yo, oyo abimisaki yo wuta na Ejipito. Oyebi Nzambe mosusu te libanda na Ngai, ozali na mobikisi mosusu te.
+028	HOS	013	005	Ngai, nayebaki yo kati na esobe, kati na mabele oyo ekawuka.
+028	HOS	013	006	Kasi sik’oyo, lokola bolie mpe botondi, bokomi lofundu mpe bobosani Ngai.
+028	HOS	013	007	Boye, nakokweyela bino lokola nkosi mpe nakozela bino na nzela lokola nkoyi.
+028	HOS	013	008	Nakolanda bino lokola ngombolo oyo ebungisi bana na yango mpe nakopasola misuni ya mitema na bino. Nakolia bino wana, lokola nkosi ya mwasi, bongo banyama ya zamba ekoya kopanza bino biteni-biteni.
+028	HOS	013	009	Isalaele, obebisami; pamba te Ngai kaka nde Mosungi na yo!
+028	HOS	013	010	Wapi mokonzi na yo mpo ete abikisa yo? Wapi bakambi na yo kati na bingumba na bino nyonso oyo, na tina na bango, bozalaki koloba: ‹ Bopesa biso mokonzi mpe moyangeli? ›
+028	HOS	013	011	Boye, na kanda na Ngai, napesaki bino mokonzi, mpe na kotomboka na Ngai, nakolongola ye.
+028	HOS	013	012	Mabe ya Efrayimi ebombami, mpe masumu na ye ekomami penza.
+028	HOS	013	013	Pasi ekomeli ye lokola mwasi oyo azali na pasi ya kobota; kasi mpo ete azali lokola mwana azanga mayele, soki tango ya kobotama ekoki, abimaka na libumu ya mama na ye te.
+028	HOS	013	014	Nakokangola bango na bokonzi ya mboka ya bakufi, nakosikola bango na kufa. Oh kufa, wapi nguya na yo? Oh mboka ya bakufi, wapi nguya na yo ya kobebisa? Nakoyokela bango mawa te! (Sheol h7585)
+028	HOS	013	015	Ata Efrayimi azali kofuluka kati na bandeko na ye ya mibali, mopepe ya este ekoya, mopepe ya Yawe ekoya wuta na esobe: ekokawusa etima ya Efrayimi, ekokawusa liziba na ye. Monguna akobotola ye biloko nyonso ya talo wuta na ebombelo na yango. »
+028	HOS	013	016	Bato ya Samari basengeli kozwa etumbu mpo na mabe na bango, pamba te batombokeli Nzambe na bango. Bato bakokufa na mopanga; bakonyata-nyata babebe na bango, bakopasola mabumu ya basi na bango ya zemi.
+028	HOS	014	001	Isalaele, zongela Yawe, Nzambe na yo, pamba te ezali masumu na yo nde ekweyisaki yo.
+028	HOS	014	002	Bobongisa maloba na bino mpe bozonga epai na Yawe; boloba na Ye: « Limbisa mabe na biso nyonso, yamba biso na mawa na Yo mpo ete tobonzela yo maloba ya bibebu na biso, na esika ya bangombe.
+028	HOS	014	003	Asiri akokoka kobikisa biso te; tokomata na mpunda ya bitumba te mpe tokoloba lisusu te na misala ya maboko na biso: ‹ Bozali banzambe na biso, › pamba te ezali Yo, Yawe, nde oyokelaka mwana etike mawa. »
+028	HOS	014	004	Nakobikisa bango na mabe na bango mpe nakolinga bango na motema moko, pamba te kanda na Ngai elongwe kati na bango.
+028	HOS	014	005	Nakozala lokola londende mpo na Isalaele; akobimisa fololo lokola lisi, akopika misisa lokola nzete ya sedele ya Libani.
+028	HOS	014	006	Bitape na ye ekokende mosika, akozala na lokumu lokola nzete ya olive, mpe malasi na ye ekozala lokola malasi ya nzete ya sedele ya Libani.
+028	HOS	014	007	Bato bakozongela kovanda na se ya elilingi na ye, bakokola malamu lokola ble, bakobimisa fololo lokola elanga ya vino kitoko ya Libani.
+028	HOS	014	008	Efrayimi akoloba: « Banzambe ya bikeko ezali lisusu na tina nini epai na Ngai? » Ngai nakoyanola ye mpe nakosunga ye. Nazali lokola nzete ya sipele ya mobesu, Ngai nde nasalaka ete obota mbuma.
+028	HOS	014	009	Nani azali na bwanya mpo na kososola makambo oyo? Nani azali na mayele mingi mpo na koyeba yango? Pamba te banzela ya Yawe ezalaka alima: bato ya sembo bakolanda yango, kasi batomboki bakobeta mabaku na nzela yango.
+#

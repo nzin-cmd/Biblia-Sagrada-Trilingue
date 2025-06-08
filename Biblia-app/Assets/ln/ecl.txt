@@ -1,0 +1,223 @@
+021	ECC	001	001	Maloba ya Moteyi, mwana mobali ya Davidi, mokonzi na Yelusalemi.
+021	ECC	001	002	Pamba na pamba, elobi Moteyi; pamba na pamba, nyonso ezali kaka pamba.
+021	ECC	001	003	Moto azwaka litomba nini penza na misala nyonso oyo amonelaka pasi na se ya moyi?
+021	ECC	001	004	Eleko moko eleki, mpe eleko mosusu eyei, kasi mabele etikalaka kaka seko na seko.
+021	ECC	001	005	Moyi ebimaka mpe elalaka, bongo ezongaka na lombangu na esika oyo ebimelaka.
+021	ECC	001	006	Mopepe ekeyi na ngambo ya sude, ebaluki na ngambo ya nor, ebaluki-baluki mpe ekeyi lisusu, ezongelaka kaka banzela wana.
+021	ECC	001	007	Mayi nyonso ekendaka na ebale monene, kasi ebale monene etondaka te; mpe mayi yango ezongaka lisusu epai ewutaka.
+021	ECC	001	008	Makambo nyonso elembisaka, moto oyo akoki kobeta na yango tembe azali te; nzokande, miso etondaka te na kotala, mpe matoyi etondaka te na koyoka.
+021	ECC	001	009	Oyo ezalaki ekozala lisusu, oyo esalemaki ekosalema lisusu: likambo ya sika ezalaka te na se ya moyi.
+021	ECC	001	010	Boni, ezali penza na likambo moko oyo moto akoki koloba na tina yango: « Tala, oyo penza ezali likambo ya sika? » Te, esila komizalela kala, kala penza liboso ya eleko na biso.
+021	ECC	001	011	Ndenge bato bayebaka lisusu bato ya kala te, ndenge wana mpe bato oyo bakoya sima bakotikala koyeba bango te na bato oyo bakolanda.
+021	ECC	001	012	Ngai, Moteyi, nazalaki mokonzi ya Isalaele, na Yelusalemi.
+021	ECC	001	013	Namipesaki mpo na koyekola mpe kososola na nzela ya bwanya, makambo nyonso oyo esalemaka na se ya moyi. Nzokande, ezali na yango kaka mosala ya mpunda oyo Nzambe apesa na bana ya bato mpo ete bamonela yango pasi!
+021	ECC	001	014	Namona misala nyonso oyo esalemaka na se ya moyi; nyonso wana ezali kaka pamba, ezali lokola moto azali kolanda mopepe.
+021	ECC	001	015	Bakoki te kosembola eloko oyo etengama, bakoki mpe te kotanga eloko oyo ezali te.
+021	ECC	001	016	Namilobelaki: « Tala, nakolisi mpe nabakisi bwanya mingi koleka moto nyonso oyo azalaki liboso na ngai, na Yelusalemi. » Motema na ngai etondaki penza na bwanya mpe na boyebi ebele.
+021	ECC	001	017	Namipesaki makasi mpo na koyekola bwanya mpe, lisusu, makambo ya bozoba mpe ya liboma; kasi nasosolaki ete yango mpe ezali kaka lokola moto azali kolanda mopepe.
+021	ECC	001	018	Pamba te kozala na bwanya mingi ememelaka moto pasi, mpe kozala na mayele mingi etungisaka motema.
+021	ECC	002	001	Namilobelaki: « Yaka sik’oyo; nakomekisa yo bilengi mpo ete ozala moto ya esengo! » Nzokande, yango mpe ezalaki kaka pamba.
+021	ECC	002	002	Na tina na koseka, nalobaki: « Ezali na yango kaka bozoba! » Bongo na tina na elengi, nalobaki: « Esalaka nini? »
+021	ECC	002	003	Wana motema na ngai ezalaki nanu kokamba ngai na bwanya, nazwaki mokano ya komipesa na masanga ya vino mpe na makambo ya bozoba. Nazalaki nde na posa ya kososola bolamu nini moto akoki kozwa na kosala bongo na se ya moyi, na mwa mikolo ya bomoi na ye.
+021	ECC	002	004	Nazwaki mokano ya kosalisa misala minene: namitongelaki bandako minene mpe namilonelaki bilanga ya vino mpo na bomoi na ngai;
+021	ECC	002	005	nasalaki bilanga mpe nabongisaki bisika mpo na kolona banzete ya ndenge na ndenge, oyo ebotaka bambuma;
+021	ECC	002	006	natimolaki mpo na ngai moko, mabulu minene ya mayi mpo na kosopela banzete ya mike mayi.
+021	ECC	002	007	Nasombaki bawumbu ya mibali mpe ya basi; kobakisa na motango ya bawumbu mosusu oyo babotamaki kati na ndako na ngai. Nazalaki mpe na bangombe, bantaba mpe bameme ebele koleka bakonzi nyonso oyo bazalaki na Yelusalemi liboso na ngai.
+021	ECC	002	008	Nakongolaki mpo na ngai moko palata mpe wolo oyo ewutaki na bomengo ya bakonzi mpe ya bituka; nazwaki mpo na ngai bayembi ya basi mpe ya mibali, mpe oyo esepelisaka makasi mibali: mwasi mpe basi ebele ya kitoko.
+021	ECC	002	009	Nakomaki moto monene koleka bakonzi nyonso oyo bazalaki na Yelusalemi liboso na ngai; kasi atako bongo, bwanya ezalaki kaka kotambolisa ngai.
+021	ECC	002	010	Napimelaki miso na ngai eloko moko te oyo elulaki, napimelaki motema na ngai esengo moko te. Motema na ngai esepelaki na misala na ngai nyonso, mpe yango ezalaki lifuti ya mosala na ngai nyonso.
+021	ECC	002	011	Boye, tango natali misala nyonso oyo maboko na ngai esalaki mpe pasi nyonso oyo namonaki mpo na kokokisa yango, namoni ete nyonso wana ezalaki kaka pamba, ezali lokola moto azali kolanda mopepe, ezali na yango na litomba moko te na se ya moyi.
+021	ECC	002	012	Bongo, nabalolaki makanisi na ngai mpo na koyekola bwanya, bozoba mpe bolema. Eloko nini mokitani ya mokonzi akoki kosala, oyo eleki oyo esila kosalema?
+021	ECC	002	013	Namonaki ete bwanya ezali malamu koleka bozoba, ndenge pole ezali malamu koleka molili.
+021	ECC	002	014	Moto ya bwanya ayebi epai azali kokende, kasi zoba atambolaka na molili; kasi nasosoli likambo moko: suka na bango mibale ekozala kaka ndenge moko.
+021	ECC	002	015	Namilobelaki: « Suka ya zoba ekozala ndenge moko kaka na suka na ngai; sik’oyo, litomba nini ezali na moto ya kozala na bwanya mingi? » Namilobelaki: « Oyo mpe ezali kaka pamba. »
+021	ECC	002	016	Pamba te ezala moto ya bwanya to zoba, bakotikala kokanisa bango tango molayi te; mpe na mikolo ekoya, bato bakobosana bango mibale. Moto ya bwanya mpe akokufa lokola moto ya zoba.
+021	ECC	002	017	Boye, nayinaki bomoi, pamba te misala oyo esalemaka na se ya moyi ezali mabe mpo na ngai. Nyonso wana ezali pamba, ezali lokola moto azali kolanda mopepe.
+021	ECC	002	018	Nayinaki biloko nyonso oyo namonelaki pasi na se ya moyi, pamba te nakotika yango epai ya moto oyo akoya sima na ngai.
+021	ECC	002	019	Bongo, nani ayebi soki moto yango akozala moto ya bwanya to zoba? Nzokande, ye nde akozala na bokonzi na likolo ya misala nyonso oyo nabimiselaki motoki mpe mayele na ngai na se ya tango. Yango mpe ezali kaka pamba.
+021	ECC	002	020	Bongo, motema na ngai ekomaki kobungisa elikya likolo ya misala makasi oyo nazalaki kosala na se ya moyi.
+021	ECC	002	021	Pamba te moto akoki kosala mosala na ye na bwanya, na boyebi mpe na ndenge esengeli penza; kasi akotika nyonso oyo azali na yango epai ya moto oyo amonelaki yango pasi te; yango mpe ezali pamba mpe mabe makasi.
+021	ECC	002	022	Litomba nini moto akoki kozwa na misala nyonso oyo asali mpe amonelaka pasi na se ya moyi?
+021	ECC	002	023	Mikolo nyonso ya mosala na ye ezali kaka pasi mpe komitungisa; ezala na butu, makanisi na ye ezalaka na kimia te; oyo mpe ezali kaka pamba.
+021	ECC	002	024	Eloko eleki malamu mpo na moto ezali kaka kolia, komela mpe kosepela na mosala na ye. Namoni ete oyo mpe ewuti na loboko na Nzambe;
+021	ECC	002	025	pamba te soki Nzambe azalaki te, nani akoki kolia mpe kosepela?
+021	ECC	002	026	Nzambe apesaka bwanya, mayele mpe esengo na moto oyo asepelisaka Ye; kasi apesaka mosala ya kosangisa mpe ya konduka bomengo epai ya moto oyo asalaka masumu mpo ete atika yango na maboko ya moto oyo asepelisaka Nzambe. Wana mpe ezali pamba, ezali lokola moto azali kolanda mopepe.
+021	ECC	003	001	Likambo nyonso ezalaka na tango na yango, mpe mosala nyonso ezalaka na ngonga na yango, na se ya moyi.
+021	ECC	003	002	Ezali na tango ya kobotama mpe tango ya kokufa, tango ya kolona mpe tango ya kopikola oyo elonami;
+021	ECC	003	003	tango ya koboma mpe tango ya kobikisa, tango ya kobuka mpe tango ya kotonga;
+021	ECC	003	004	tango ya kolela mpe tango ya koseka, tango ya kosala matanga mpe tango ya kobina;
+021	ECC	003	005	tango ya kopanza mabanga mpe tango ya kosangisa yango, tango ya kopesa beze mpe tango ya kotika kopesa beze;
+021	ECC	003	006	tango ya koluka mpe tango ya kobungisa, tango ya kobomba mpe tango ya kobwaka;
+021	ECC	003	007	tango ya kopasola mpe tango ya kobamba, tango ya kokanga monoko mpe tango ya koloba;
+021	ECC	003	008	tango ya kolinga mpe tango ya koyina, tango ya bitumba mpe tango ya kimia.
+021	ECC	003	009	Litomba nini mosali azwaka na mosala oyo amonelaka pasi?
+021	ECC	003	010	Natalaki mokumba oyo Nzambe amemisaki bato.
+021	ECC	003	011	Nzambe asalaka eloko na eloko malamu na tango na yango; atiaka lisusu, kati na mitema ya bato, posa ya koyeba mabombami na Ye. Nzokande, bato bakokaka te kososola mosala ya Nzambe, kobanda na ebandeli kino na suka.
+021	ECC	003	012	Nayebi ete ezali na eloko moko oyo eleki malamu mpo na bato: ezali kaka kosepela mpe kozala malamu tango bazali na bomoi.
+021	ECC	003	013	Yango wana, tika ete moto na moto alia, amela mpe amona bolamu kati na mosala na ye nyonso, pamba te ezali likabo ya Nzambe.
+021	ECC	003	014	Nayebi ete makambo nyonso oyo Nzambe asalaka ewumelaka seko; boye ezali ata na eloko moko te ya kobakisa na likolo na yango to ya kolongola kati na yango. Nzambe asalaka yango bongo mpo ete bakumisa Ye.
+021	ECC	003	015	Makambo oyo ezali lelo esila kozala na kala, mpe makambo oyo ekoya ezala wuta kala; Nzambe nde azongisaka makambo oyo esila koleka na tango ya kala.
+021	ECC	003	016	Namonaki lisusu likambo moko na se ya moyi: ezala na esika oyo basambisaka bato, mabe ezali kaka; ezala na esika ya bosembo, mabe ezangaka te.
+021	ECC	003	017	Namilobelaki kati na ngai: « Nzambe akosambisa, ezala bato ya sembo to bato mabe, pamba te ezali na tango mpo na likambo moko na moko, mpe ezali na tango mpo na kosambisa likambo moko na moko. »
+021	ECC	003	018	Namilobelaki lisusu: « Nzambe amekaka bato mpo ete bakoka komimona bango moko ete bazali lokola banyama.
+021	ECC	003	019	Suka ya moto ezali lokola suka ya nyama: bango mibale basukaka kaka ndenge moko; ndenge moko akufaka, mosusu mpe akufaka kaka bongo. Bango nyonso bazali kaka na pema moko: moto aleki nyama na eloko te. Nyonso wana ezali kaka pamba.
+021	ECC	003	020	Nyonso ekendaka kaka esika moko; nyonso ewutaki na putulu, mpe nyonso ekozonga kaka na putulu.
+021	ECC	003	021	Nani ayebi soki molimo ya moto emataka na likolo, mpe soki molimo ya nyama ekitaka na se ya mabele? »
+021	ECC	003	022	Boye, nasosolaki ete ezali na eloko moko te oyo eleki malamu mpo na moto, soki kaka te kosepela mpe komona bolamu na mosala na ye, pamba te yango nde ezali litomba na ye. Nani akoki kosunga ye mpo ete amona makambo oyo ekoya sima na ye?
+021	ECC	004	001	Natalaki lisusu mpe namonaki minyoko nyonso oyo ezali na se ya moyi: Namonaki mpinzoli ya banyokolami, mpe moto akobondisa bango azalaki te; nguya ezalaki na ngambo ya banyokoli, mpe moto akobondisa bango azalaki te.
+021	ECC	004	002	Yango wana, namonaki ete bato oyo basila kokufa kala bazali na bango kutu malamu koleka bato oyo bazali nanu na bomoi.
+021	ECC	004	003	Mpe moto oyo atikala nanu kozala te azali malamu koleka bango mibale, pamba te atikala nanu komona te misala mabe oyo esalemaka na se ya moyi.
+021	ECC	004	004	Namoni ete pasi nyonso oyo bato bamonaka na mosala mpe lokumu oyo bazwaka na misala na bango, ewutaka kaka na bilulela ya moto liboso ya moninga na ye. Wana mpe ezali pamba, ezali lokola moto azali kolanda mopepe.
+021	ECC	004	005	Moto oyo azangi mayele akangaka maboko na ye mpe amibebisaka ye moko.
+021	ECC	004	006	Loboko moko oyo etondi na kimia ezali malamu koleka maboko mibale oyo etondi na misala makasi mpe na kolanda mopepe.
+021	ECC	004	007	Namonaki lisusu likambo mosusu ya pamba na se ya moyi:
+021	ECC	004	008	Ezalaki na moto moko oyo azalaki kaka ye moko, azalaki ata na mwana to ndeko te; azalaki kopema te na mosala na ye ya makasi, kasi bomengo na ye etikalaki te kotondisa miso na ye. Mpe atikalaki komituna te: « Nani oyo ngai nazali komonela pasi boye? Mpe mpo na nini nazali komipimela bomengo? » Wana mpe lisusu ezali pamba: ezali mosala ya mpunda!
+021	ECC	004	009	Bato mibale bazali malamu koleka moto moko, pamba te bakozwa lifuti ya malonga na mosala na bango.
+021	ECC	004	010	Soki moko akweyi, moninga na ye akoki kosunga ye; kasi mawa na moto oyo akweyi mpe azangi moto oyo akosunga ye!
+021	ECC	004	011	Mpe lisusu, soki bato mibale balali esika moko, bayokaka moto; kasi moto oyo azali ye moko, ndenge nini akoki koyoka moto?
+021	ECC	004	012	Soki moto azali ye moko, monguna akoki kolonga ye; kasi soki bato bazali mibale, bakoki kotelemela monguna. Kamba ya basinga misato ekatanaka noki te.
+021	ECC	004	013	Elenge mobola ya mayele azali malamu koleka mokonzi ya mobange oyo azangi mayele mpe ayokaka toli te;
+021	ECC	004	014	ezala soki elenge mobali yango abotama mobola kati na mokili na ye to awuti kobima na boloko mpo na kokoma mokonzi.
+021	ECC	004	015	Namonaki bato nyonso ya bomoi, oyo bazali kotambola na se ya moyi kolanda elenge mobali lokola mokitani ya mokonzi.
+021	ECC	004	016	Ata soki bato oyo bazalaki kosepela na ye bazalaki ebele koleka, kasi bato oyo bakoya sima bakoki koboya ye. Yango mpe ezali pamba, ezali lokola moto azali kolanda mopepe.
+021	ECC	005	001	Batela makolo na yo tango ozali kokende na Ndako ya Nzambe; eleki malamu kokende kuna mpo na koyoka, kasi mpo na kobonza mbeka ya bazoba te, pamba te bayebaka te ete basalaka mabe.
+021	ECC	005	002	Kowelela te kofungola monoko na yo, mpe tika ete motema na yo ewelela te kobimisa liloba liboso ya Nzambe! Pamba te Nzambe azali na likolo, mpe yo ozali na mabele. Boye, tika ete maloba na yo ezalaka mingi te!
+021	ECC	005	003	Ndenge ndoto eyaka soki moto azali na misala mingi, ndenge wana mpe maloba ebele ebimisaka bozoba.
+021	ECC	005	004	Soki olapi ndayi liboso ya Nzambe, kowumela te mpo na kokokisa yango; pamba te Nzambe asepelaka na bazoba te; kokisa ndayi na yo.
+021	ECC	005	005	Eleki malamu ete olapa na yo kutu ndayi te na esika ya kolapa ndayi mpe ozanga kokokisa yango.
+021	ECC	005	006	Kotika te ete monoko na yo ememisa yo masumu, mpe kokende koloba te liboso ya basali ya Nzambe: « Ndayi na ngai ezalaki libunga. » Mpo na nini Nzambe atomboka mpo na maloba na yo mpe abebisa misala ya maboko na yo?
+021	ECC	005	007	Ndoto ebele mpe maloba ebele ezali kaka pamba; yango wana tosa nde Nzambe.
+021	ECC	005	008	Soki omoni ete bazali konyokola mobola kati na mokili, bongo boyengebene mpe bosembo etiolami, kokamwa likambo yango te; pamba te mokambi moko azali na se ya mokambi mosusu; mpe na likolo na bango mibale, ezali na bakonzi mosusu oyo baleki na bokonzi.
+021	ECC	005	009	Biloko oyo mabele ebotaka ezali mpo na bolamu ya bato nyonso; ezala mokonzi, abikaka mpe na mbuma ya bilanga.
+021	ECC	005	010	Moto oyo alingaka mbongo atondaka yango te, mpe moto oyo alingaka bomengo, bozwi na ye etondisaka ye te. Wana mpe ezali kaka pamba.
+021	ECC	005	011	Ndenge bozwi ya moto ekomaka ebele, ndenge wana mpe bato oyo baliaka yango bakomaka ebele; bongo litomba nini nkolo na yango akozwa, soki kaka te komona yango na miso?
+021	ECC	005	012	Pongi ya mosali ezalaka ya kimia, ata soki alie moke to mingi; kasi bomengo ya mozwi ezangisaka ye pongi.
+021	ECC	005	013	Namoni mabe moko na se ya moyi, epesaka penza mawa: moto abombi bomengo na ye, kasi ememeli ye pasi;
+021	ECC	005	014	likambo moko ya mabe ya mbalakata ebebisi bomengo yango, mpe mwana na ye azangi libula ya kokitana na yango.
+021	ECC	005	015	Ndenge abotamaki bolumbu wuta na libumu ya mama na ye, ndenge mpe akozanga bolumbu, akomema ata mbuma moko te ya mosala na ye.
+021	ECC	005	016	Oyo mpe ezali lisusu pasi oyo epesaka mawa: ndenge moto ayaki, ndenge mpe akozonga. Bongo litomba na ye ezali nini? Asali kaka mpo na mopepe?
+021	ECC	005	017	Alekisi mikolo nyonso ya bomoi na ye kati na molili, na pasi, na komitungisa mpe na kanda.
+021	ECC	005	018	Mpo na yango, tala likambo oyo ngai namoni ete ezali malamu: ebongi na moto kolia, komela mpe kosepela na mbuma ya mosala na ye na se ya moyi, na mikolo ya bomoi oyo Nzambe apesi ye, pamba te yango nde libula na ye.
+021	ECC	005	019	Kutu, epai na moto nyonso oyo Nzambe apesi bomengo mpe biloko ebele, bongo apesi ye lisusu makoki ya kosalela yango, ya kozwa libula na ye mpe ya kosepela na mbuma ya mosala na ye, wana ezali penza likabo ya Nzambe!
+021	ECC	005	020	Nzokande, wana Nzambe akotondisa motema na ye na esengo, moto yango akosala keba te na motango ya mikolo ya bomoi na ye.
+021	ECC	006	001	Namoni mabe mosusu na se ya moyi, mpe ezali kilo makasi mpo na bato:
+021	ECC	006	002	ezali na bato oyo bazwi kowuta na Nzambe bozwi, biloko ebele mpe lokumu mpo ete bazanga eloko moko te oyo mitema na bango ekoki kozala na yango posa; kasi Ye moko Nzambe apimeli bango makoki ya kosepela na yango, pamba te moto mosusu nde azali kosepela na yango. Wana mpe ezali pamba, mpe ezali mabe oyo epesaka penza mawa.
+021	ECC	006	003	Soki moto aboti bana nkama moko mpe azwi ngolu ya kowumela mibu ebele na bomoi; bongo, atako awumeli mibu ebele na bomoi, asepeli te na bozwi na ye mpe azangi ata kunda, nalobi solo ete mwana oyo abotami ya kokufa azali malamu koleka ye;
+021	ECC	006	004	pamba te, mwana oyo abotami ya kokufa, abotami pamba, azongi kati na molili, mpe bakokanisa ye lisusu te;
+021	ECC	006	005	atako amoni moyi te to atikali koyeba ata eloko moko te, azali na kimia koleka mozwi.
+021	ECC	006	006	Ata awumeli na bomoi mibu nkoto moko mbala mibale, akotikala komona esengo te. Boni, bato nyonso bakendaka kaka esika moko te?
+021	ECC	006	007	Pasi nyonso oyo moto amonaka ezali mpo ete akokisa baposa na ye, nzokande baposa yango esilaka kaka te.
+021	ECC	006	008	Moto ya bwanya aleki moto oyo azangi mayele na nini? Litomba nini mobola azali na yango ata ayebi kotambola liboso ya bato mosusu?
+021	ECC	006	009	Biloko oyo moto azali komona na miso ezali malamu koleka biloko oyo azali na yango na makanisi: yango mpe ezali pamba, ezali lokola moto azali kolanda mopepe.
+021	ECC	006	010	Ekelamu nyonso oyo ezali esila koyebana na kombo na yango, mpe eyebani malamu soki moto azali nani: akoki te kotelemela oyo aleki ye na makasi.
+021	ECC	006	011	Soki maloba eleki mingi, makambo ya pamba-pamba eyaka mpe ebele; bongo litomba na yango ezali penza nini?
+021	ECC	006	012	Pamba te, nani ayebi likambo oyo ezali malamu mpo na bomoi ya moto, na mikolo na ye nyonso ya bomoi ya pamba oyo azali kolekisa lokola elili? Nani akoki koyebisa ye makambo oyo ekoya sima na ye, na se ya moyi?
+021	ECC	007	001	Kokende sango ya malamu eleki malasi ya solo kitoko na motuya, mpe mokolo ya kufa eleki mokolo ya mbotama na malamu.
+021	ECC	007	002	Kokende na ndako ya matanga ezali malamu koleka kokende na ndako oyo ezali na feti, pamba te kufa ezali suka ya moto nyonso; yango wana, bato nyonso oyo bazali na bomoi basengeli kokanisaka na tina na yango.
+021	ECC	007	003	Mawa eleki koseka na malamu, pamba te elongi ya mawa eyeisaka motema esengo.
+021	ECC	007	004	Motema ya moto ya bwanya ezalaka kati na ndako ya matanga, kasi motema ya zoba ezalaka kati na ndako ya bisengo.
+021	ECC	007	005	Koyoka pamela ya moto ya bwanya ezali malamu koleka koyoka banzembo ya zoba.
+021	ECC	007	006	Koseka ya bazoba ezalaka lokola makelele ya basende oyo ezali kozika na se ya nzungu; wana mpe ezali pamba.
+021	ECC	007	007	Minyoko ekomisaka moto ya bwanya zoba, mpe bakado epengwisaka motema.
+021	ECC	007	008	Suka ya likambo ezali malamu koleka ebandeli ya likambo; kokanga motema ezali malamu koleka lolendo.
+021	ECC	007	009	Kotombokaka noki te, pamba te kanda evandaka kati na bazoba.
+021	ECC	007	010	Kolobaka te: « Mpo na nini mikolo eleki ezali malamu koleka mikolo ya lelo? » Pamba te bwanya etindaka te bato kotuna mituna ya boye.
+021	ECC	007	011	Bwanya ezali lokola libula, ezalaka malamu mpe epesaka litomba na bato oyo bamonaka moyi.
+021	ECC	007	012	Bwanya ezali lokola nguba, ndenge mpe mosolo ezalaka nguba; kasi litomba ya boyebi ezali ete ebatelaka bomoi ya bato oyo bazali na yango.
+021	ECC	007	013	Tala malamu misala ya Nzambe: Nani akoki kosembola eloko oyo Ye asili kogumba?
+021	ECC	007	014	Na mokolo ya malamu, sepela; na mokolo ya mabe, kanisa; pamba te Nzambe nde asala nyonso mibale mpo ete moto ayeba te makambo oyo ekoya sima na ye.
+021	ECC	007	015	Na mikolo ya pamba ya bomoi na ngai, namonaki makambo oyo nyonso: Moto ya sembo akufi mpo na bosembo na ye, mpe moto mabe awumeli na bomoi mpo na mabe na ye.
+021	ECC	007	016	Kolekisa ndelo te ya kozala moto ya sembo to ya kozala moto ya bwanya; mpo na nini komibebisa?
+021	ECC	007	017	Kolekisa ndelo te ya kozala moto mabe to ya kozala zoba; mpo na nini kokufa liboso ete mikolo ya bomoi na yo ekoka?
+021	ECC	007	018	Ezali malamu kokangama na toli ya liboso mpe kosimba toli ya mibale, pamba te moto oyo atosaka Nzambe akosalela toli nyonso mibale.
+021	ECC	007	019	Bwanya ekomisaka moto oyo azali na yango makasi koleka bakambi zomi kati na engumba.
+021	ECC	007	020	Kati na mokili, ezali na moto moko te ya sembo oyo asalaka kaka malamu, bongo azanga kosala masumu.
+021	ECC	007	021	Kotiaka matoyi na bilobaloba ya bato te, noki te okoyoka mosali na yo kotiola yo;
+021	ECC	007	022	pamba te, oyebi malamu, kati na motema na yo, ete yo mpe otiolaka bato mosusu mbala mingi.
+021	ECC	007	023	Namekaki kososola makambo wana nyonso na nzela ya bwanya, namilobelaki: « Nakosala nyonso mpo ete nakoma moto ya bwanya, » kasi bwanya ezalaki kaka mosika na ngai.
+021	ECC	007	024	Nyonso oyo ezalisami ezali mosika, mozindo mpe mozindo makasi; nani akoki komona yango?
+021	ECC	007	025	Boye, na motema na ngai mobimba, namipesaki mpo na kososola, koyeba, koluka bwanya mpe boyebi; mpe mpo na kososola bozoba ya mabe elongo na liboma ya bozoba.
+021	ECC	007	026	Namoni likambo oyo: mwasi oyo motema na ye ezali lokola motambo to monyama, oyo maboko na ye ezali lokola minyololo, azali mabe koleka kufa; mobali oyo asepelisaka Nzambe akotikala kokangama te na motambo na ye, kaka mobali oyo asalaka masumu nde akokangama na motambo na ye.
+021	ECC	007	027	Mosakoli alobi: « Tala makambo oyo nasosoli sima na koyekola mwasi moko na moko mpo na kozwa mayele:
+021	ECC	007	028	Nazali koluka, kasi nanu namoni te. Namoni mobali moko ya sembo kati na mibali nkoto moko, kasi namoni ata mwasi moko te ya sembo kati na basi nyonso!
+021	ECC	007	029	Tala makambo oyo nasosoli: Nzambe asala bato mpo ete bazala malamu, kasi bato bamilukelaka mindondo bango moko. »
+021	ECC	008	001	Nani azali lokola moto ya bwanya? Nani ayebi kolimbola makambo? Bwanya engengisaka elongi ya moto, mpe efungolaka elongi oyo ekangama.
+021	ECC	008	002	Nalobi: Tosaka mitindo ya mokonzi, pamba te olapaki ndayi liboso ya Nzambe.
+021	ECC	008	003	Kolongwaka na lombangu te liboso ya mokonzi mpe kobundelaka likambo ya mabe te, pamba te mokonzi asalaka kaka makambo oyo esepelisaka ye.
+021	ECC	008	004	Lokola liloba ya mokonzi ezalaka na bokonzi, nani akoki koloba na ye: « Ozali kosala nini? »
+021	ECC	008	005	Moto nyonso oyo atosaka mibeko na ye akokweyela pasi te, mpe motema ya moto ya bwanya eyebaka tango ya malamu mpe lolenge ya malamu ya kosalela.
+021	ECC	008	006	Pamba te, ezali na tango ya malamu mpe na lolenge ya malamu ya kosalela na likambo nyonso. Atako bongo, pasi ekweyelaka kaka moto.
+021	ECC	008	007	Lokola moto moko te ayebi makambo oyo ekoya sima, nani akoki koyebisa moninga ndenge ekoyela ye?
+021	ECC	008	008	Ndenge moto moko te azali na bokonzi likolo ya pema ya bomoi na ye mpo ete akanga yango, ndenge mpe moto moko te azali na bokonzi likolo ya mokolo na ye ya kufa. Ndenge moto moko te apemaka na tango ya bitumba, ndenge mpe misala mabe ebikisaka te bato oyo basalaka yango.
+021	ECC	008	009	Namonaki makambo nyonso wana, tango natiaki mayele na ngai mpo na koluka koyeba makambo nyonso oyo esalemaka na se ya moyi. Ezali na tango oyo moto amatelaka bato mosusu mpo na konyokola bango.
+021	ECC	008	010	Mpe lisusu, namonaki ete bazali kokunda bato mabe; bongo bato oyo bazalaki kokende mpe kozonga na Esika ya bule bazalaki kokumisa bato mabe wana kati na engumba mpo na makambo oyo bazalaki kosala. Wana mpe ezali kaka pamba.
+021	ECC	008	011	Soki etumbu epesami noki te mpo na mabe oyo esalemi, mitema ya bato etondaka na makanisi ya kosala mabe.
+021	ECC	008	012	Atako moto oyo asalaka masumu asali mabe mbala nkama moko mpe awumeli tango molayi na bomoi, nayebi solo ete bato oyo batosaka Nzambe bakozala bato ya esengo; pamba te bazali na botosi liboso na Ye.
+021	ECC	008	013	Nzokande, lokola bato mabe batosaka Nzambe te, makambo na bango mpe ekotambola malamu te, mpe mikolo ya bomoi na bango ekowumela te lokola elili.
+021	ECC	008	014	Ezali lisusu na eloko moko ya pamba oyo elekaka na mokili: bato ya sembo bazwaka lifuti oyo ebongi na bato mabe, mpe bato mabe bazwaka lifuti oyo ebongi na bato ya sembo. Nazali koloba solo ete wana mpe ezali kaka pamba.
+021	ECC	008	015	Bongo, nakumisaki esengo, pamba te ezali na eloko moko te na se ya moyi oyo eleki malamu mpo na moto, soki kaka te kolia, komela mpe kosepela. Boye esengo esengeli kobila ye kati na mosala na ye mikolo nyonso ya bomoi oyo Nzambe apesa ye na se ya moyi.
+021	ECC	008	016	Tango natiaki mayele na ngai mpo na koluka koyeba bwanya mpe kososola mosala ya moto kati na mokili, —ata soki miso na ye ezwaka pongi te, ezala na moyi to na butu—
+021	ECC	008	017	namonaki nyonso oyo Nzambe asala. Moto moko te akoki kososola makambo oyo elekaka na se ya moyi. Soki asali makasi mpo na koyeba, akotikala te kososola tina na yango; mpe ata soki moto ya bwanya abeti tolo ete ayebi, akotikala kaka kososola yango te.
+021	ECC	009	001	Boye, nakanisaki mingi na makambo oyo nyonso mpe namonaki ete, ezala moto ya sembo, moto ya bwanya elongo na makambo nyonso oyo basalaka, bazali na maboko ya Nzambe; kasi moko te ayebaka soki bolingo to koyina ezelaka ye.
+021	ECC	009	002	Bato nyonso basukaka kaka ndenge moko: ezala moto ya sembo to moto mabe, ezala moto malamu to moto oyo asalaka masumu, ezala moto ya peto to moto ya mbindo, ezala moto oyo abonzaka mbeka to moto oyo abonzaka mbeka te. Ndenge ezalaka mpo na moto ya motema malamu ndenge mpe ezalaka mpo na moto ya masumu; ndenge ezalaka mpo na moto oyo alapaka ndayi ndenge mpe ezalaka mpo na moto oyo abangaka kolapa ndayi.
+021	ECC	009	003	Tala likambo oyo ezali mabe kati na makambo nyonso oyo esalemaka na se ya moyi: bato nyonso basukaka kaka ndenge moko; lisusu, mitema ya bato etonda na mabe, mpe bozoba ezalaka kati na mitema na bango wana bazali nanu na bomoi; mpe, sima na yango, bakokufa kaka.
+021	ECC	009	004	Moto nyonso oyo azali kati na bato ya bomoi azalaka na elikya; mbwa ya bomoi ezali malamu koleka nkosi oyo ekufa.
+021	ECC	009	005	Pamba te bato ya bomoi bayebaka ete bakokufa; kasi bato oyo bakufa bayebaka lisusu eloko moko te, bazalaka lisusu te na litomba ya kozwa, mpo ete babosana bango.
+021	ECC	009	006	Bolingo na bango, koyina na bango mpe baposa na bango esila kolimwa; bakozwa lisusu litomba ata moko te kati na makambo nyonso oyo esalemaka na se ya moyi.
+021	ECC	009	007	Kende, lia bilei na yo na esengo mpe mela masanga na yo ya vino na motema ya esengo; pamba te Nzambe asili kondima misala na yo.
+021	ECC	009	008	Tika ete bilamba na yo ezala tango nyonso peto, mpe nzoto na yo elumba tango nyonso solo ya malasi.
+021	ECC	009	009	Sepela na bomoi na yo elongo na mwasi na yo, oyo olingaka na mikolo nyonso ya bomoi ya pamba oyo Nzambe apesi yo na se ya moyi; solo, na mikolo na yo nyonso ya pamba, pamba te yango nde ezali mbano ya bomoi na yo mpo na misala nyonso oyo omonelaka pasi na se ya moyi.
+021	ECC	009	010	Mosala nyonso oyo loboko na yo ekokoka kosala, sala yango na makasi na yo nyonso; pamba te kati na mboka ya bakufi epai wapi okokende, ezala mosala, mabongisi, boyebi to bwanya ezalaka kuna te. (Sheol h7585)
+021	ECC	009	011	Namonaki lisusu likambo moko na se ya moyi: mimekano ezalaka kaka te mpo na moto oyo aleki mbangu, bitumba ezalaka kaka te mpo na bato ya makasi, bilei ezalaka kaka te mpo na bato ya bwanya, bomengo ezalaka kaka te mpo na bato oyo baleki na mayele, mpe bolamu ezalaka kaka te mpo na bato ya bososoli; pamba te pasi mpe bisengo ekomelaka mpe bango nyonso.
+021	ECC	009	012	Moto moko te ayebi tango nini ngonga na ye ekokoka: ndenge mbisi ekangamaka na monyama to ndenge banyama ekangamaka na motambo, ndenge wana mpe bato bakangamaka na mitambo ya pasi oyo ekweyelaka bango na mbalakata.
+021	ECC	009	013	Namonaki lisusu na se ya moyi, ndakisa moko ya bwanya oyo ezalaki na tina mingi mpo na ngai:
+021	ECC	009	014	ezalaki na engumba moko ya moke oyo ezalaki mpe na bato moke; bongo mokonzi moko ya nguya ayaki kobundisa yango, azingelaki yango mpe atongaki milako mpo na kokonza engumba yango.
+021	ECC	009	015	Nzokande, kati na engumba yango, ezalaki na mobola moko oyo azalaki moto ya bwanya; abikisaki yango na bwanya na ye, kasi moto moko te akanisaki mobola yango.
+021	ECC	009	016	Boye namilobelaki: « Bwanya ezali malamu koleka makasi ya nzoto. » Kasi bwanya ya mobola etiolamaka, mpe bayokaka maloba na ye te.
+021	ECC	009	017	Bayokaka maloba ya kimia ya moto ya bwanya koleka makelele ya mokonzi ya bazoba.
+021	ECC	009	018	Bwanya ezali malamu koleka bibundeli ya basoda, kasi mbeba moko ekoki koboma bolamu na yango nyonso.
+021	ECC	010	001	Ndenge nzinzi ekufa ekomisaka malasi solo mabe, ndenge wana mpe mwa bozoba ebebisaka bwanya mpe lokumu.
+021	ECC	010	002	Motema ya moto ya bwanya ekendaka na nzela ya malamu, kasi motema ya zoba ekendaka na nzela ya mabe.
+021	ECC	010	003	Ata tango zoba atambolaka na nzela, bozangi mayele na ye etalisaka na bato mosusu ete azali zoba.
+021	ECC	010	004	Soki mokonzi atombokeli yo, kolongwa na esika na yo ya mosala te; pamba te motema ya kokita epekisaka bambeba minene.
+021	ECC	010	005	Namonaki mabe moko na se ya moyi, lokola libunga epai ya bakonzi:
+021	ECC	010	006	bazoba batombolami na bisika ya lokumu makasi, kasi bazwi batikali na bisika ya se.
+021	ECC	010	007	Namonaki bawumbu kotambola likolo ya bampunda, mpe bakonzi kotambola na makolo lokola bawumbu.
+021	ECC	010	008	Moto oyo atimoli libulu akoki kokweya kati na yango; mpe moto oyo abuki mir ya lopango, nyoka ekoki koswa ye.
+021	ECC	010	009	Moto oyo abukaka mabanga akoki kozoka na yango, oyo apasolaka mabaya akoki mpe kozwa likama.
+021	ECC	010	010	Soki epasola esili minu mpe bapelisi yango te, moto oyo akosalela yango akobimisa makasi mingi; kasi bwanya epesaka elonga.
+021	ECC	010	011	Soki nyoka eswi moto liboso ete asakanisa yango, litomba ezali lisusu te epai ya moto oyo asakanisaka banyoka.
+021	ECC	010	012	Maloba ya moto ya bwanya epesaka esengo, kasi maloba ya zoba elukelaka ye makambo.
+021	ECC	010	013	Abandaka na maloba ya bozoba mpe asukisaka na maloba ya mabe.
+021	ECC	010	014	Zoba alobaka mingi. Moto moko te ayebi makambo oyo ekoya; nani akoki koyebisa ye makambo oyo ekosalema sima na ye?
+021	ECC	010	015	Mosala ya zoba elembisaka ye, ayebi ata kutu te nzela oyo ememaka na engumba.
+021	ECC	010	016	Mawa na mokili oyo mokonzi na yango azali mwana moke, mpe oyo bakambi na yango balangwaka masanga na tongo-tongo!
+021	ECC	010	017	Esengo na mokili oyo mokonzi na yango abotama na libota ya bato minene, mpe oyo bakambi na yango baliaka na tango oyo esengeli mpo na kozwa makasi, kasi mpo na kolangwa masanga te.
+021	ECC	010	018	Soki moto azali goyigoyi, likolo ya ndako na ye ekobukana; soki maboko na ye elemba, ndako na ye ekotanga mayi.
+021	ECC	010	019	Basalaka feti mpo na kosepela, mpe masanga ya vino epesaka esengo na motema, mpe mbongo epesaka biyano na makambo nyonso.
+021	ECC	010	020	Kolakela mokonzi mabe te, ezala kati na motema na yo; kolakela mozwi mabe te, ezala na mbeto na yo ya kolala, pamba te ndeke ya likolo ekoki komema maloba na yo mpe kopanza sango ya maloba na yo.
+021	ECC	011	001	Bwaka lipa na yo na likolo ya mayi, pamba te sima na mikolo ebele, okomona yango lisusu.
+021	ECC	011	002	Kaba biloko na yo na bato sambo to mwambe, pamba te oyebi te pasi nini ekoki koya na mokili.
+021	ECC	011	003	Soki mapata etondi na mayi, ebetisaka mvula na mokili. Nzete etikalaka kaka na esika oyo ekweyi, ezala na ngambo ya sude to na ngambo ya nor.
+021	ECC	011	004	Moto oyo atalaka mopepe akolona nkona te, moto oyo atalaka mapata akobuka bambuma te.
+021	ECC	011	005	Ndenge oyebi te nzela ya mopepe to ndenge nini moto asalemaka kati na libumu ya mama na ye, ndenge wana mpe okokoka te kososola misala ya Nzambe oyo azali Mokeli ya nyonso.
+021	ECC	011	006	Na tongo, lona milona na yo, mpe na pokwa, kopemisa maboko na yo te, pamba te oyebi te milona nini ekobima, ya tongo to ya pokwa to mpe nyonso mibale ekobima malamu.
+021	ECC	011	007	Pole ezali malamu, mpe miso esepelaka komona moyi.
+021	ECC	011	008	Yango wana, soki moto asali mibu ebele na bomoi, tika ye asepela na mibu yango nyonso; kasi tika ete abosana te ete mibu ya pasi ekozala ebele, mpe ete makambo nyonso oyo ekoya sima ezali pamba.
+021	ECC	011	009	Elenge, sepela na bolenge na yo, mpe tika ete motema na yo esepela na mikolo ya bolenge na yo! Landa nzela ya motema na yo mpe nyonso oyo esepelisaka miso na yo; kasi yeba ete, mpo na makambo wana nyonso, Nzambe akosambisa yo.
+021	ECC	011	010	Yango wana, longola mawa na motema na yo, longola pasi na nzoto na yo; pamba te bolenge mpe bomwana ezali pamba.
+021	ECC	012	001	Kanisa Mokeli na yo, na mikolo nyonso ya bolenge na yo, liboso ete mikolo ya pasi ekomela yo, mpe mibu epusana, mibu oyo okoloba na tina na yango: « Nazali kosepela na ngai na yango te; »
+021	ECC	012	002	liboso ete moyi mpe pole, sanza mpe minzoto, ekoma molili, mpe mapata ezonga sima na mvula;
+021	ECC	012	003	tango bakengeli ya ndako bakolenga, mpe bato ya makasi bakofukama; tango basi oyo banikaka ble bakotika konika yango mpo ete bazali lisusu mingi te, mpe bato oyo batalaka na maninisa bakobungisa kitoko na bango;
+021	ECC	012	004	tango bikangelo ya ekuke ekokangama na balabala, mpe makelele ya basi oyo banikaka ble ekosila; tango bato balamukaka na banzembo ya bandeke mpe bayembi ya basi batikaka koyemba;
+021	ECC	012	005	tango bato bakomaka kobanga komata likolo, mpe bakomaka kobanga makama na nzela; tango nzete ya pome ebimisaka mbuma, tango mabanki ekomaka kilo, mpe baposa ekokisamaka lisusu te; pamba te moto akendaka na ndako ya libela, mpe basi oyo balelaka na bibembe basanganaka na balabala.
+021	ECC	012	006	Solo, kanisa Mokeli na yo liboso ete singa ya palata ekatana, kopo ya wolo efinana, eloko ya mayi ebukana na libulu ya mayi, mpe mashini oyo babendelaka mayi na libulu ebukana;
+021	ECC	012	007	liboso ete putulu ezonga na mabele epai wapi ewutaki, mpe pema ezonga epai ya Nzambe oyo apesaki yango.
+021	ECC	012	008	Pamba na pamba, elobi mosakoli, makambo nyonso ezali kaka pamba.
+021	ECC	012	009	Mosakoli azalaki kaka moto ya bwanya te, kasi azalaki mpe koyekolisa bato boyebi; akanisaki mingi, alukaki mingi mpe atiaki na molongo masese ebele penza.
+021	ECC	012	010	Mosakoli asalaki makasi mpo na koluka koyeba maloba ya elengi mpe kokoma na bosembo makambo ya solo.
+021	ECC	012	011	Maloba ya bato ya bwanya ezali lokola banzube, mpe buku ya masese na bango ezali lokola basete oyo ekotaka makasi na libaya. Masese yango nyonso ewuti epai ya Mobateli mpate moko.
+021	ECC	012	012	Mwana na ngai, keba ete obakisa eloko moko te na likolo na yango. Suka ezali te mpo na kokoma mikanda ebele, mpe koyekola mingi elembisaka nzoto.
+021	ECC	012	013	Yoka suka ya mateya nyonso: Tosa Nzambe mpe batela mibeko na Ye, pamba te yango nde eleki na tina mpo na moto.
+021	ECC	012	014	Pamba te, Nzambe akomema misala nyonso na kosambisama, ezala oyo ebombama, ya malamu to ya mabe.
+#

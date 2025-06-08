@@ -1,0 +1,26 @@
+057	PHM	001	001	Ngai Polo, mokangami na boloko mpo na Yesu-Klisto, mpe Timote, ndeko na biso; Epai ya Filemo, molingami na biso mpe moninga ya mosala;
+057	PHM	001	002	epai ya Apia, ndeko na biso ya mwasi; epai ya Arshipe, moninga na biso ya etumba; mpe epai ya Lingomba oyo esanganaka na ndako ya Filemo:
+057	PHM	001	003	Tika ete ngolu mpe kimia epesamela bino kowuta na Nzambe, Tata na biso, mpe na Nkolo Yesu-Klisto!
+057	PHM	001	004	Tango nyonso nasambelaka, natangaka kombo na yo mpe nazongisaka matondi epai ya Nzambe na ngai,
+057	PHM	001	005	pamba te nazali koyoka sango ya bolingo na yo mpo na basantu nyonso, mpe ya kondima na yo kati na Nkolo Yesu.
+057	PHM	001	006	Nabondelaka ete kondima oyo ezali kosangisa biso emonisama na misala, mpo ete ososola malamu bolamu nyonso oyo tozali na yango kati na Klisto.
+057	PHM	001	007	Ndeko na ngai, bolingo na yo mpo na basantu ezali penza kopesa ngai esengo mingi mpe kolendisa ngai, pamba te okitisaki bango mitema.
+057	PHM	001	008	Yango wana, atako, kati na Klisto, nazali na makoki ya kotinda yo kosala likambo songolo to pakala,
+057	PHM	001	009	kasi nasepeli kosenga na yo na kombo ya bolingo, ngai Polo, mobange mpe sik’oyo mokangami na boloko mpo na Yesu-Klisto;
+057	PHM	001	010	nasepeli kosenga na yo na tina na Onezime oyo azali mwana na ngai kati na Klisto, pamba te nakomaki tata na ye ya molimo awa, kati na boloko.
+057	PHM	001	011	Na kala, azalaki na tina ata moko te na miso na yo, kasi sik’oyo akomi na tina mingi na miso na yo mpe na miso na ngai.
+057	PHM	001	012	Nazali kozongisa ye epai na yo, pamba te azali penza motema na ngai.
+057	PHM	001	013	Nalingaki ete atikala elongo na ngai awa, na boloko epai wapi nazali mpo na Sango Malamu, mpo ete asalisa ngai na esika na yo.
+057	PHM	001	014	Nzokande nakokaki te kosala yango, pamba te nazwaki ndingisa na yo te, mpo ete bolamu oyo okosala ezala oyo ewuti na motema na yo moko, kasi na kotindika te.
+057	PHM	001	015	Tango mosusu, mwa tango moke oyo bozalaki ya kokabwana na Onezime ezalaki mpo ete ozwa ye mpo na libela, (aiōnios g166)
+057	PHM	001	016	lokola mowumbu lisusu te kasi koleka kutu ata mowumbu, lokola ndeko ya bolingo. Azali na litomba mingi mpo na ngai, kasi azali mpe na litomba mingi lisusu koleka mpo na yo, lokola moto mpe lokola ndeko kati na Nkolo.
+057	PHM	001	017	Soki ya solo ozwaka ngai lokola ndeko na yo kati na kondima, yamba ye lokola nde oyambi ngai.
+057	PHM	001	018	Soki asalaki yo mabe to mpe azali na niongo na yo, tanga yango na moto na ngai.
+057	PHM	001	019	Ezali loboko na ngai moko Polo nde ezali kokoma makambo oyo: ngai moko nakofuta yo niongo yango. Nazali mpe na posa te ya kokanisela yo ete yo mpe ozali na niongo na ngai: niongo yango ezali nde bomoi na yo.
+057	PHM	001	020	Ndeko na ngai, mpo na bolingo ya Nkolo, salela ngai bolamu wana; kitisa ngai motema lokola ndeko na yo kati na Klisto.
+057	PHM	001	021	Nakomeli yo na elikya ete okosala makambo oyo nasengi yo, mpe nayebi ete okosala kutu koleka.
+057	PHM	001	022	Nasengi na yo lisusu ete obongisela ngai esika ya kolala, pamba te nazali na elikya ete Nzambe akozongisa ngai epai na bino lokola eyano na mabondeli na bino.
+057	PHM	001	023	Epafrasi, moninga na ngai ya boloko kati na Yesu-Klisto, atindeli yo mbote.
+057	PHM	001	024	Ndenge moko mpe Malako, Arisitarke, Demasi mpe Luka, baninga na ngai ya mosala, bango mpe batindeli yo mbote.
+057	PHM	001	025	Tika ete ngolu ya Yesu-Klisto, Nkolo na biso, ezala elongo na molimo na yo!
+#

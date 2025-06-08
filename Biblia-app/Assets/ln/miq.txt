@@ -1,0 +1,106 @@
+033	MIC	001	001	Yawe alobaki na Mishe, moto ya mboka Moresheti, na tango Yotami, Akazi mpe Ezekiasi bazalaki, moko sima na mosusu, bakonzi ya Yuda: ezalaki emoniseli oyo Mishe azwaki na tina na Samari mpe Yelusalemi.
+033	MIC	001	002	Bino nyonso, bikolo, boyoka! Mabele elongo na nyonso oyo ezali kati na yo, botia matoyi mpe boyoka! Nkolo Yawe azwi bino na likambo; Yawe akosambisa bino wuta na Ndako na Ye ya bule!
+033	MIC	001	003	Tala, Yawe azali koya wuta na Ndako na Ye, azali kokita, azali kotambola na likolo ya bangomba ya mabele.
+033	MIC	001	004	Na se ya matambe na Ye, bangomba ezali kopasuka, mabwaku ezali kopanzana ndenge mafuta eyandukaka na moto, ndenge mayi ya mvula etiolaka na lombangu na mipanzi ya bangomba.
+033	MIC	001	005	Mpo na nini nyonso wana? Ezali mpo na mabe ya Jakobi, mpo na masumu ya libota ya Isalaele. Nani atindikaki Jakobi na kosala mabe? Boni, ezali Samari te? Nani asalaki ete bisambelo ya likolo ya bangomba ezala kati na Yuda? Boni, ezali Yelusalemi te?
+033	MIC	001	006	« Nakokomisa Samari mopiku ya mabanga; bakokoma kosala bilanga ya vino kuna. Nakobwaka mabanga na yango na lubwaku, nakosala ete miboko na yango etikala polele.
+033	MIC	001	007	Banzambe na bango nyonso ya bikeko ekopanzana, makabo nyonso ya mbindo oyo bapesaka epai ya banzambe na bango ya bikeko ekobwakama na moto. Nakobebisa banzambe nyonso ya bikeko ya Samari mpo ete esalemaki na lifuti ya mbindo ya ekobo ya bule, mpe mpo ete basalela yango lisusu te lokola lifuti ya ekobo mosusu ya bule. »
+033	MIC	001	008	Yango wana, nakolela mpe nakosala matanga, nakotambola makolo ngulu mpe bolumbu, nakoganga lokola mbwa ya zamba mpe nakolela lokola maligbanga.
+033	MIC	001	009	Pamba te bokono ya Samari esilaka te; pota na yango ezwi mpe mokili ya Yuda, ezali kopusana kino na ekuke ya bato na ngai, kino kutu na yango moko Yelusalemi.
+033	MIC	001	010	Boloba yango te kati na engumba Gati, bolela te! Bato ya Beti-Leafra, bomipakola putulu!
+033	MIC	001	011	Bato ya engumba Shafiri, botambola bolumbu mpe boyoka soni! Bato ya mboka Tsanani bakobima lisusu na engumba na bango te, bato ya Beti-Atseli bazali na matanga; boye balongoli lisungi na bango epai na yo.
+033	MIC	001	012	Bato ya etuka ya Meroti bazali kolenga na somo mpo na bolamu na bango, pamba te Yawe atindi pasi ya makasi kino na ekuke ya Yelusalemi.
+033	MIC	001	013	Bino bavandi ya engumba Lakishi, bokangisa bampunda mpe bashar na bino! Bino nde bomemisaki Siona, mboka kitoko, masumu; pamba te bamonaki masumu ya Isalaele kati na bino!
+033	MIC	001	014	Yango wana, bokopesa na Moresheti mokanda oyo elakisi ete bokabwani na ye na libala. Engumba Akizibi ezali kokosa bakonzi ya Isalaele.
+033	MIC	001	015	Bino bavandi ya Maresha, nakotindela bino monguna moko mpo ete aya kobundisa bino; lokumu ya Isalaele ekokima na engumba Adulami.
+033	MIC	001	016	Bomikokola suki na mito mpo na bana na bino ya mibali oyo bolingaka, ndenge esalemaka na matanga. Bomikokola suki na mito mpe botikala mabandi lokola mpongo, pamba te bakomema bango na bowumbu mosika na bino.
+033	MIC	002	001	Mawa na bato oyo babongisaka kosala mabe, oyo bakanisaka kosala bato mabe na bambeto na bango! Bakokisaka yango na tongo, pamba te bazali na makoki ya kosala yango.
+033	MIC	002	002	Soki baluli bilanga ya moto, bazwaka yango na makasi; soki baluli ndako ya moto, babotolaka yango; bakangaka mokolo ndako mpe biloko na ye ya ndako mpe babotolaka moto libula na ye.
+033	MIC	002	003	Mpo na yango, Yawe alobi: « Nazali kobongisa mabe mpo na ekolo ya lolenge oyo: ekozala pasi moko oyo bakokoka komibikisa na yango te. Bakokoka lisusu kotambola na lolendo te, pamba te ekozala tango ya pasi makasi.
+033	MIC	002	004	Na mokolo wana, bakosambwisa bino; mpo na kotiola bino, bakobanda koyembela bino banzembo oyo: ‹ Tobebisami penza mobimba! Libula ya bato na ngai ekabwani! Abotoli yango na maboko na ngai mpe akabi bilanga na biso epai ya banguna na biso. › »
+033	MIC	002	005	Yango wana, moko te kati na bino akotikala na lisanga ya Yawe mpo na kokabola mabele na zeke.
+033	MIC	002	006	Basakoli na bango bazalaki koloba: « Kosakola te, kosakola makambo ya boye te! Pasi ekokomela biso te. »
+033	MIC	002	007	Oh libota ya Jakobi, makambo ya boye esengeli solo kolobama? « Boni, Molimo na Yawe atomboki mpo ete asala makambo ya boye? Maloba na Ye ezali ya boboto te mpo na moto oyo atambolaka alima? »
+033	MIC	002	008	Na mikolo eleki, bozalaki komona bato na ngai lokola banguna. Bolongolaki bato oyo bazalaki koleka na kimia bilamba ya talo na mawa te, lokola bato oyo bawuti bitumba;
+033	MIC	002	009	bobenganaki basi ya bato na ngai longwa na bandako na bango ya kitoko, bolongolaki mpo na libela mapamboli na ngai kati na bana na bango.
+033	MIC	002	010	Botelema mpe bokende! Awa ezali esika na bino ya kopema te, pamba te ezali mbindo, ebebisami makasi penza, mpe elikya ya kobonga ezali lisusu te.
+033	MIC	002	011	Soki mokosi moko to moto moko ya lokuta ayei koloba: « Nakosakola mpo na yo; » bongo moto yango azali na se ya milangwa ya vino to ya masanga mosusu ya makasi, moto ya boye asengeli kaka kozala mosakoli ya bato ya lolenge na ye.
+033	MIC	002	012	Oh bakitani ya Jakobi, nakosangisa bino nyonso, nakosangisa batikali nyonso ya Isalaele. Nakosangisa bango lokola bameme kati na lopango, lokola bibwele kati na etando na yango ya kolia matiti. Makelele oyo ekoyokana kuna ekozala makelele ya bato ebele.
+033	MIC	002	013	Moto oyo apasolaka nzela akotambola liboso na bango. Bakolekela na nzela oyo bapasoli, bakolekela na nzela ya ekuke mpe bakobimela na nzela yango. Mokonzi na bango akotambola liboso na bango, Yawe akozala liboso na bango.
+033	MIC	003	001	Boye, nalobaki: « Boyoka, bino bakambi ya libota ya Jakobi, bino batambolisi ya libota ya Isalaele! Ezali bino te bato bosengeli koyeba malamu mibeko?
+033	MIC	003	002	Nzokande, ezali bino bato bozali koboya bolamu mpe bozali kolinga mabe. Bozali kolongola poso ya nzoto ya bato ya libota na ngai, bozali kolongola misuni na bango mpe kobuka mikuwa na bango.
+033	MIC	003	003	Bozali kodunda misuni ya bato ya libota na ngai, bozali kolongola bango poso ya nzoto mpe kobuka mikuwa na bango. Bozali kokata bango mike-mike lokola misuni oyo bakalingaka to oyo batokisaka na nzungu. »
+033	MIC	003	004	Yango wana, tango bakobelela Yawe, akoyanola bango te. Na tango wana, akobombela bango elongi na Ye likolo ya mabe na bango nyonso oyo basalaki.
+033	MIC	003	005	Tala liloba oyo Yawe alobi mpo na kotelemela basakoli ya lokuta oyo babungisaka bato na ngai nzela: « Soki bapesi bango eloko ya kolia, basakolaka kimia; soki bapesi bango te eloko ya kolia, basakolaka bitumba.
+033	MIC	003	006	Na butu, bokozwa lisusu bimoniseli te. Soki bapesi bango te eloko ya kolia, molili ekozingela bino mpe bokokoka lisusu kosakola te! Moyi ekobimela lisusu basakoli yango te, mpe mokolo ekokoma molili mpo na bango.
+033	MIC	003	007	Bamoni makambo bakotonda na soni, mpe bato oyo balobaka makambo oyo ekoya bakosambwa. Bango nyonso bakobomba bilongi na bango, pamba te Nzambe akoyanola bango te. »
+033	MIC	003	008	Kasi ngai, na nzela ya Molimo na Yawe, natondisami na nguya, na bosembo mpe na mpiko mpo na kobimisa polele mabe ya Jakobi mpe lisumu ya Isalaele.
+033	MIC	003	009	Boyoka maloba oyo, bakambi ya Jakobi mpe batambolisi ya Isalaele, bino oyo bolingaka makambo ya sembo te mpe bobongolaka makambo ya alima,
+033	MIC	003	010	bino oyo botongaka Siona na kosopa makila, mpe Yelusalemi na kosalaka makambo mabe.
+033	MIC	003	011	Bakambi na yango basengaka kanyaka liboso ya kokata makambo, Banganga-Nzambe na yango basengaka misolo liboso ya koteya, mpe basakoli na yango basengaka mbongo liboso ya kosakola. Nzokande, babombamaka na sima ya Kombo ya Yawe tango balobaka: « Boni, Yawe azali kati na biso te? Pasi ekoki kokomela biso te! »
+033	MIC	003	012	Yango wana, likolo na bino, bakobalola Siona ndenge babalolaka mabele ya bilanga. Yelusalemi ekokoma liboke ya mabanga, mpe ngomba epai wapi batongaki Tempelo ekokoma ngomba moke oyo ezipami na matiti.
+033	MIC	004	001	Na mikolo oyo ekoya, ngomba ya Tempelo ya Yawe ekolendisama ngwi na songe ya bangomba, ekoleka bangomba mikuse nyonso na molayi, mpe bikolo ekokende kotondana kuna.
+033	MIC	004	002	Bato ya bikolo ebele bakokende kuna mpe bakoloba: « Boya, tomata na ngomba ya Yawe, na Tempelo ya Nzambe ya Jakobi! Akoteya biso banzela na Ye mpo ete tolanda banzela mike na Ye. » Pamba te Mobeko ekowuta na Siona, mpe Liloba na Yawe ekowuta na Yelusalemi.
+033	MIC	004	003	Akozala Mosambisi kati na bikolo ebele, akokata makambo ya kowelana kati na mabota ya nguya, ezala oyo ezalaka mosika. Bakotumba mipanga na bango na moto mpo na kosala bakongo, mpe makonga na bango mpo na kosala bambeli. Ekolo moko te ekotombola lisusu mopanga mpo na kobundisa ekolo mosusu, bato bakoyekola lisusu te kobunda bitumba.
+033	MIC	004	004	Moto nyonso akovanda na kimia kati na bilanga na ye ya vino mpe na se ya nzete na ye ya figi. Moto moko te akobangisa ye, pamba te Yawe, Mokonzi ya mampinga, nde alobi.
+033	MIC	004	005	Ekolo na ekolo ekotambola na kombo ya nzambe na yango, kasi biso tokotambola na Kombo na Yawe oyo azali Nzambe na biso, mpo na libela.
+033	MIC	004	006	« Na mokolo yango, » elobi Yawe, « Nakosangisa libota na Ngai, oyo ezali kotambola tengu-tengu; nakoyamba oyo ezalaki na bowumbu, mosika na Ngai, mpe oyo natiaki pasi likolo na yango.
+033	MIC	004	007	Nakosala ete libota oyo ezali kotambola tengu-tengu ekoma batikali, mpe oyo bazalaki na bowumbu mosika na Ngai, libota ya nguya. Yawe akozala Mokonzi na bango, na ngomba Siona, kobanda na mokolo yango kino libela na libela.
+033	MIC	004	008	Mpo na yo, ndako molayi ya bakengeli bibwele, ngomba ya Siona, mboka kitoko, bakozongisela yo bokonzi na yo ya kala, bakozongisa bokonzi ya Yelusalemi, mboka kitoko. »
+033	MIC	004	009	Sik’oyo, mpo na nini ozali koganga? Boni, ozali lisusu na mokonzi te? Boni, mopesi toli na yo asili kokufa mpo ete pasi ekanga yo lokola mwasi oyo azali na pasi ya kobota?
+033	MIC	004	010	Oh Siona, mboka kitoko, lela lokola mwasi oyo azali na pasi ya kobota! Pamba te sik’oyo, okobima na engumba mpe okovanda kati na zamba, okokende kino na Babiloni; mpe kuna, Yawe akokangola yo na maboko ya monguna na yo.
+033	MIC	004	011	Kasi sik’oyo, bikolo ebele esangani mpo na kotelemela yo; bazali koloba: « Tika ete bosantu ya Siona esambwa mpe miso esepela komona kobebisama na yango! »
+033	MIC	004	012	Kasi bayebi makanisi na Yawe te mpe bazali kososola mabongisi na Ye te, Ye oyo asangisaki bango lokola maboke ya matiti ya ble na etando oyo batutelaka yango.
+033	MIC	004	013	Oh Siona, mboka kitoko, telema mpe tuta ble, pamba te nakopesa yo maseke ya bibende mpe basapato ya bronze, bongo okobuka bikolo ebele mike-mike mpe okopesa bomengo na bango, oyo bazwaki na nzela ya mabe, lokola likabo epai na Yawe, mpe bozwi na bango epai na Mokonzi ya mokili mobimba.
+033	MIC	005	001	Oh engumba oyo elinga bitumba, sangisa basoda na yo, pamba te bazingeli biso! Bakobeta mokambi ya Isalaele fimbu na matama.
+033	MIC	005	002	Bongo yo, Beteleemi Efrata, atako ozali moke kati na bingumba ya Yuda, ye oyo akokonza Isalaele akowuta kati na yo. Ebandeli na Ye ezala wuta kala penza, wuta na ebandeli ya tango.
+033	MIC	005	003	Yango wana, Yawe akosundola Isalaele kino tango mwasi oyo azali na pasi ya kobota akobota, mpe ndambo ya bandeko na ye, oyo bakotikala bakozonga epai ya bandeko na bango, bana ya Isalaele.
+033	MIC	005	004	Akotelema mpe akobatela bibwele na ye na nguya na Yawe, na lokumu ya Kombo ya Nzambe na ye; mpe bakovanda na kimia, pamba te sango ya lokumu ya kombo na ye ekopanzana mokili mobimba.
+033	MIC	005	005	Boye, akozala kimia na bango! Tango mampinga ya Asiri bakokota na makasi kati na mokili na biso mpe na bandako na biso, oyo batonga makasi, tokotindela bango babateli sambo ya bibwele mpe bakambi mwambe ya bato mpo na kobundisa bango.
+033	MIC	005	006	Bakokamba mokili ya Asiri mpe ya Nimirodi na mopanga. Boye, akokangola biso na bokonzi ya mampinga ya Asiri tango bakokota na makasi na mabele na biso mpe na bandelo na yango.
+033	MIC	005	007	Batikali ya Jakobi bakozala, kati na bikolo ebele lokola mamwe oyo ewuti epai na Yawe, mpe na likolo ya matiti lokola londende oyo ekweyaka na makasi ya moto te to mpe etalelaka moto te.
+033	MIC	005	008	Batikali ya Jakobi bakozala kati na mabota, na kati-kati ya bikolo ebele, lokola nkosi kati na banyama ya zamba, lokola mwana nkosi kati na etonga ya bameme: tango elekaka kati na etonga ya bameme, ekangaka mpe epasolaka yango, mpe moto oyo akoki kokangola yango azalaka te.
+033	MIC	005	009	Tika ete loboko na yo elonga banguna na yo, mpe bayini na yo nyonso babebisama nye!
+033	MIC	005	010	« Na mokolo wana, » elobi Yawe, « nakobebisa bashar mpe bampunda ya mokili na yo,
+033	MIC	005	011	nakobebisa bingumba ya mokili na yo mpe nakokweyisa bandako na yo, oyo batonga makasi;
+033	MIC	005	012	nakobebisa misala na yo nyonso ya kindoki, mpe okotikala lisusu na bato ya soloka te;
+033	MIC	005	013	nakobebisa banzambe ya bikeko oyo ezali kati na yo, mpe okofukamela lisusu te bikeko oyo maboko na yo esilaki kosala;
+033	MIC	005	014	nakobebisa makonzi ya bule ya nzambe Ashera oyo ezali kati na yo mpe nakobebisa bingumba na yo.
+033	MIC	005	015	Na kanda na Ngai ya makasi, nakozongisa mabe na mabe na bikolo oyo etosaki Ngai te. »
+033	MIC	006	001	Boyoka makambo oyo Yawe alobi: « Telema mpe samba likambo na yo liboso ya bangomba, mpe tika ete bangomba mikuse eyoka makambo oyo ozali koloba!
+033	MIC	006	002	Bino bangomba mpe bino miboko oyo eninganaka te, boyoka likambo oyo Yawe afundeli bato na Ye, pamba te azwi bango na likambo mpe alingi kosamba na Isalaele.
+033	MIC	006	003	Bino bato na Ngai, nasali bino penza nini? Boyanola Ngai nanu, nalembisi bino na likambo nini?
+033	MIC	006	004	Ezali te mpo ete nabimisaki bino na Ejipito to mpo ete nakangolaki bino na ndako ya bowumbu? Boni, ezali te mpo ete natindelaki bino Moyize, Aron mpe Miriami mpo ete bakamba bino?
+033	MIC	006	005	Bato na Ngai, bokanisa nanu makambo oyo Balaki, mokonzi ya Moabi, akanaki kosala bino, mpe makambo oyo Balami, mwana mobali ya Beori, azongiselaki ye. Bokanisa nanu nzela oyo botambolaki longwa na Sitimi kino na Giligali mpo ete bokoka kondima ata misala ya bosembo ya Yawe. »
+033	MIC	006	006	Eloko nini penza tokoki komema epai na Yawe mpo na kofukama liboso ya Nzambe-Oyo-Aleki-Likolo? Boni, tomema bambeka ya kotumba to bana ngombe ya mibali ya mobu moko?
+033	MIC	006	007	Yawe akosepela solo soki tomemeli Ye minkoko ya bameme ya mibali to soki topesi Ye mafuta ebele lokola mayi ya ebale? Boni, topesa solo bana na biso ya liboso mpo ete tozwa bolimbisi masumu na biso? Boni, topesa bana na biso ya mibali oyo bawuti na mikongo na biso mpo ete akoka kolongola masumu na biso?
+033	MIC	006	008	Oh moto, bateyaki yo makambo oyo ezali malamu. Mpe tala makambo oyo Yawe azali kosenga epai na yo: Tambola na bosembo, linga boboto mpe tambola elongo na Nzambe na yo na komikitisa.
+033	MIC	006	009	Boyoka! Yawe azali kobelela na engumba! Kotosa Kombo na Ye, yango nde kozala na bwanya. Boyoka sango ya etumbu na bino na monoko na Ye oyo atindi yango!
+033	MIC	006	010	Oh libota ya mobulu, boni, nasepela penza komona bomengo na bino, oyo bosili kozwa na nzela ya mabe, Efa ekoka te oyo elakelama mabe?
+033	MIC	006	011	Boni, nazanga penza kopesa etumbu epai ya moto oyo asalelaka kilo ya lokuta, mpe oyo azali na libenga etonda na bimekelo kilo ya lokuta?
+033	MIC	006	012	Bazwi ya libota oyo batondi na kanza, bato ya libota oyo batondi na lokuta, mpe mosala ya bibebu na bango ezali kaka kokosa.
+033	MIC	006	013	Yango wana, Ngai nakobeta yo na nzela ya pasi mpe nakobebisa yo mpo na masumu na yo.
+033	MIC	006	014	Okolia, kasi okotonda te, pamba te nzala makasi ekokota na ndako na yo. Okosala ekonzo, kasi okobatela eloko moko te, pamba te nakokaba yango na mopanga.
+033	MIC	006	015	Okolona bilanga, kasi okobuka bambuma te; okokamola bambuma ya olive, kasi okomipakola mafuta na yango te; okokamola bambuma ya vino, kasi okomela masanga na yango te.
+033	MIC	006	016	Lokola obatelaki malako ya Omiri mpe osalaki misala nyonso ya mabe ya ndako ya Akabi, nakokaba yo mpo ete obebisama, nakokaba bato na yo mpo ete batiolama; bongo bokolata soni ya libota na Ngai.
+033	MIC	007	001	Tala, mawa na ngai! Nakomi lokola moto oyo azali koluka kobuka bambuma na eleko ya elanga, na tango oyo bazongelaka kobuka bambuma ya vino oyo etikalaka. Kasi ezali ata na liboke moko te ya bambuma ya vino ya kolia to mbuma ata moko te ya figi ya sika oyo nasepelaka kolia.
+033	MIC	007	002	Bayengebene batikali lisusu te na mokili, moto ya sembo azali lisusu te; bato nyonso bakomi kaka koluka nzela ya kosopa makila, mpe moto na moto azali kotiela ndeko na ye motambo.
+033	MIC	007	003	Maboko na bango eyebi penza kosala makambo mabe, bakambi mpe basambisi na bango bakomi koluka kanyaka; bongo bato ya makasi bazali kosala makambo nyonso oyo balingi, bayokanaka mpo na kosala bato mabe.
+033	MIC	007	004	Moto oyo aleki malamu kati na bango azali lokola nzube, moto oyo aleki sembo azali mabe koleka liboke ya basende. Mokolo oyo bakengeli na yo basakolaki ekokisami, mokolo oyo Yawe ayei kopesa yo etumbu. Sik’oyo, ekomi tango na bango ya koyoka soni.
+033	MIC	007	005	Botia motema te epai ya bazalani na bino, botia elikya te epai ya baninga na bino ya motema. Ezala liboso ya mwasi oyo alalaka na tolo na yo, keba na maloba oyo ezali kobima na monoko na yo.
+033	MIC	007	006	Pamba te mwana mobali azali koyokisa tata na ye soni, elenge mwasi azali kotelemela mama na ye, mwasi ya libala azali kotelemela mama-bokilo na ye; bongo monguna ya moto, ezali kaka moto ya libota na ye.
+033	MIC	007	007	Kasi mpo na ngai, nakotia elikya na ngai epai na Yawe, nakotalela Nzambe, Mobikisi na ngai; Nzambe na ngai akoyoka ngai.
+033	MIC	007	008	Oh banguna na ngai, boseka ngai te! Ata soki nakweyi, nakotelema kaka. Ata soki navandi kati na molili, Yawe azali pole na ngai.
+033	MIC	007	009	Lokola nasalaki masumu liboso ya Yawe, nakomema mokumba ya kanda na Ye kino tango akozwa likambo na ngai na maboko mpe akolongisa ngai. Akobimisa ngai na pole, mpe nakomona bosembo na Ye.
+033	MIC	007	010	Bongo monguna na ngai akomona yango mpe akoyoka soni makasi, ye oyo azalaki koloba na ngai: « Wapi Yawe, Nzambe na yo? » Miso na ngai ekomona ndenge akokweya mpe ndenge bakonyata ye lokola potopoto ya nzela.
+033	MIC	007	011	Mokolo ya kotonga lisusu bamir na yo ekoya; ezali mokolo wana nde bandelo ya mokili na yo ekopusama lisusu mosika.
+033	MIC	007	012	Na mokolo wana, bato ebele bakoya epai na yo longwa na mokili ya Asiri mpe na bingumba ya Ejipito, ata longwa na mokili ya Ejipito kino na ebale Efrate, longwa na ebale monene moko kino na mosusu, longwa na ngomba moko kino na mosusu.
+033	MIC	007	013	Mokili ekobebisama likolo ya bato wana, likolo ya bizaleli na bango ya mabe.
+033	MIC	007	014	Kamba bato na Yo na lingenda na Yo ndenge mobateli bibwele asalaka! Pamba te bazali bameme ya libula na Yo, oyo ezali lokola kotelengana yango moko kati na zamba, na etando moko ya kitoko. Tika ete elia na bilanga ya Bashani mpe ya Galadi ndenge ezalaki kolia na tango ya kala.
+033	MIC	007	015	Nakomonisa yo makambo ya kokamwa lokola na tango obimaki na Ejipito.
+033	MIC	007	016	Bato ya bikolo ya bapaya bakomona yango mpe bakoyoka soni; ata soki bazali na nguya ya ndenge nini, bakozanga maloba, mpe matoyi na bango ekokangama.
+033	MIC	007	017	Bakolia mabele lokola nyoka, mpe lokola banyama oyo etambolaka na libumu; bakobima na somo wuta na madusu epai wapi bazalaki kobombama, bakoya epai na Yawe, Nzambe na biso, na kolenga.
+033	MIC	007	018	Nzambe nini akokani na Yo, Yo oyo olimbisaka masumu ya bato mpe obosanaka mabe ya batikali kati na libula na Yo? Okangelaka bato kanda mpo na libela te, kasi osepelaka kotalisa bango ngolu.
+033	MIC	007	019	Solo, okoyokela biso lisusu mawa, matambe na Yo ekonyata masumu na biso, mpe okobwaka mabunga na biso nyonso kati na bozindo ya ebale monene.
+033	MIC	007	020	Okomonisa Jakobi bosembo na Yo, mpe Abrayami, bolamu na Yo, ndenge olapaki ndayi epai ya batata na biso na tango ya kala.
+#

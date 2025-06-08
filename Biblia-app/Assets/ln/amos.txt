@@ -1,0 +1,147 @@
+030	AMO	001	001	Maloba ya Amosi, moko kati na babateli bibwele ya mboka Tekoa. Azwaki emoniseli ya maloba oyo na tina na mokili ya Isalaele, mibu mibale liboso ete koningana ya mabele esalema, tango Oziasi azalaki mokonzi ya Yuda, mpe Jeroboami, mwana mobali ya Joasi, azalaki mokonzi ya Isalaele.
+030	AMO	001	002	Alobaki: Yawe azali koganga wuta na Siona, mpe azali koloba wuta na Yelusalemi, na mongongo makasi lokola kake. Matiti ya bitando epai wapi babateli bibwele baleisaka bibwele ekokawuka, mpe songe ya ngomba Karimeli ekokawuka.
+030	AMO	001	003	Tala liloba oyo Yawe alobi: « Likolo ya masumu misato to minei ya Damasi, nakozanga te kopesa bango etumbu, pamba te bakataki-kataki bato ya Galadi na nzela ya bibende oyo etimolaka mabele mpo na kosala bilanga.
+030	AMO	001	004	Nakotia moto na ndako ya mokonzi Azaeli, mpe moto yango ekozikisa bandako ya mokonzi Beni-Adadi, oyo batonga makasi.
+030	AMO	001	005	Nakobuka ekuke ya Damasi, nakobebisa mokonzi ya bavandi ya Lubwaku ya Beti-Aveni, mpe oyo azali kokonza na Beti-Edeni; mpe bato ya Siri bakokende na bowumbu na Kiri, » elobi Yawe.
+030	AMO	001	006	Tala liloba oyo Yawe alobi: « Likolo ya masumu misato to minei ya Gaza, nakozanga te kopesa bango etumbu, pamba te bamemaki bikolo ebele na bowumbu mpe batekaki bango na Edomi.
+030	AMO	001	007	Nakotia moto na bamir ya Gaza, mpe moto yango ekozikisa bandako na yango, oyo batonga makasi.
+030	AMO	001	008	Nakoboma mokonzi ya bavandi ya Asidodi mpe oyo azali kokonza na Ashikeloni. Nakobalukela engumba Ekroni kino tango moto ya suka kati na bato ya Filisitia akokufa, » elobi Nkolo Yawe.
+030	AMO	001	009	Tala liloba oyo Yawe alobi: « Likolo ya masumu misato to minei ya Tiri, nakozanga te kopesa bango etumbu, pamba te bakabaki bato ebele na bowumbu epai ya bato ya Edomi mpe batosaki te boyokani ya bondeko.
+030	AMO	001	010	Nakotia moto na bamir ya engumba Tiri, mpe moto yango ekozikisa bandako na yango, oyo batonga makasi. »
+030	AMO	001	011	Tala liloba oyo Yawe alobi: « Likolo ya masumu misato to minei ya Edomi, nakozanga te kopesa bango etumbu, pamba te balandaki bandeko na bango na mopanga, bayokelaki bango mawa te, kanda na bango ezalaki tango nyonso komata, mpe bayina bango wuta kala.
+030	AMO	001	012	Nakotia moto na engumba Temani, mpe moto yango ekozikisa bandako ya Botsira, oyo batonga makasi. »
+030	AMO	001	013	Tala liloba oyo Yawe alobi: « Likolo ya masumu misato to minei ya Amoni, nakozanga te kopesa bango etumbu, pamba te bapasolaki mabumu ya basi ya zemi ya Galadi mpo na koyeisa mokili na bango monene.
+030	AMO	001	014	Nakotia moto na bamir ya engumba ya Raba, mpe moto yango ekozikisa bandako na yango, oyo batonga makasi, kati na koganga na mokolo ya bitumba, kati na mopepe makasi na mokolo ya ekumbaki.
+030	AMO	001	015	Mokonzi na bango akokende na bowumbu, ye elongo na bakalaka na ye, » elobi Yawe.
+030	AMO	002	001	Tala liloba oyo Yawe alobi: « Likolo ya masumu misato to minei ya Moabi, nakozanga te kopesa bango etumbu, pamba te batumbaki mikuwa ya mokonzi ya Edomi mpe bakomisaki yango putulu.
+030	AMO	002	002	Nakotia moto kati na ekolo ya Moabi, mpe moto yango ekozikisa bandako ya engumba ya Kerioti, oyo batonga makasi. Moabi ekokufa kati na lokito ya makasi, na makelele ya bitumba mpe ya kelelo.
+030	AMO	002	003	Nakobebisa mokonzi na yango mpe nakoboma ye elongo na bakalaka na ye, » elobi Yawe.
+030	AMO	002	004	Tala liloba oyo Yawe alobi: « Likolo ya masumu misato to minei ya Yuda, nakozanga te kopesa bango etumbu, pamba te babwakaki Mobeko na Ngai, babatelaki te bikateli na Ngai mpe babungaki nzela mpo na kolanda banzambe ya lokuta oyo bakoko na bango balandaki na tango ya kala.
+030	AMO	002	005	Nakotia moto kati na ekolo ya Yuda, mpe moto yango ekozikisa bandako ya engumba Yelusalemi, oyo batonga makasi. »
+030	AMO	002	006	Tala liloba oyo Yawe alobi: « Likolo ya masumu misato to minei ya Isalaele, nakozanga te kopesa bango etumbu, pamba te batekaki bato ya sembo mpo na kozwa kaka palata, mpe bato bakelela mpo na kozwa kaka mapapa mibale.
+030	AMO	002	007	Bazali konyata mito ya babola ndenge banyataka putulu ya mabele, mpe bazali kokata na bosembo te makambo ya bato bakelela. Tata mpe mwana na ye ya mobali bazali kosangisa nzoto na mwasi moko ya makangu; mpe na bongo, bazali kotiola bosantu ya Kombo na Ngai.
+030	AMO	002	008	Pene ya bitumbelo, bazali kolalela bilamba oyo bazwi na ndanga; mpe kati na ndako ya nzambe na bango, bazali komela vino oyo epesami lokola lomande.
+030	AMO	002	009	Nzokande, Ngai, nabebisaki bato ya Amori liboso na bango, atako bazali milayi lokola banzete ya sedele mpe makasi lokola banzete ya sheni. Nabebisaki bambuma na yango na likolo, mpe misisa na yango na se.
+030	AMO	002	010	Nabimisaki bino na Ejipito mpe natambolisaki bino mibu tuku minei kati na esobe mpo na kopesa bino mokili ya bato ya Amori.
+030	AMO	002	011	Kati na bana na bino ya mibali, nabimisaki basakoli; mpe kati na bilenge mibali na bino, nabimisaki banaziri. Oh bana ya Isalaele, boni, ezali solo te? » elobi Yawe.
+030	AMO	002	012	« Kasi bino, bolangwisi banaziri masanga mpe bopekisi basakoli ete basakola lisusu te.
+030	AMO	002	013	Sik’oyo, nakonyata bino ndenge shar oyo etonda na maboke ya bambuma enyataka biloko.
+030	AMO	002	014	Moto oyo aleki na mbangu akobika te, moto oyo aleki makasi akokoka kobimisa makasi na ye te, mpe soda ya mpiko akokoka kobikisa bomoi na ye te.
+030	AMO	002	015	Mobeti tolotolo akolonga te, soda ya mpiko akokoka kokima te, mpe soda oyo atambolaka likolo ya mpunda akobikisa bomoi na ye te;
+030	AMO	002	016	ezala basoda oyo baleki makasi, bakokima bolumbu na mokolo wana, » elobi Yawe.
+030	AMO	003	001	Oh bana ya Isalaele, boyoka liloba oyo Yawe alobi na tina na bino, na tina na etuka nyonso oyo nabimisaki na Ejipito:
+030	AMO	003	002	« Bozali etuka moko kaka oyo Ngai napona kati na bituka nyonso ya mabele; yango wana nakopesa bino etumbu mpo na mabe nyonso oyo bosali.
+030	AMO	003	003	Boni, bato mibale bakoki solo kotambola nzela moko soki bayokani te?
+030	AMO	003	004	Nkosi ekoki solo koganga na zamba soki emoni te nyama ya kolia? Mwana nkosi ekoki penza konguluma na esika oyo evandaka soki ekangi nyama te?
+030	AMO	003	005	Ndeke ekoki solo kokangama na motambo oyo ezali na mabele soki ezangi eloko ya kolia? Motambo ekoki solo koningana soki ekangi eloko te?
+030	AMO	003	006	Boni, kelelo ya bitumba ekoki solo kobeta kati na engumba, bongo bato bazanga kobanga? Pasi ekoki solo koya na engumba soki Yawe atindi yango te?
+030	AMO	003	007	Solo, Nkolo Yawe asalaka eloko moko te soki alakisi mabongisi na Ye te epai ya basali na Ye, basakoli.
+030	AMO	003	008	Nkosi egangi; nani akobanga te? Nkolo Yawe alobi; nani akoki koboya kosakola?
+030	AMO	003	009	Bosakola makambo oyo kati na bandako ya Asidodi mpe ya Ejipito: ‹ Bosangana na likolo ya bangomba ya Samari mpe botala ndenge nini mobulu mpe minyoko ezali kosalema kati na yango!
+030	AMO	003	010	Bato na Ngai bayebi lisusu te kosala makambo na bosembo, › elobi Yawe, ‹ batondisi bandako na bango na bomengo ya bitumba mpe na biloko oyo babotoli na makasi. › »
+030	AMO	003	011	Mpo na yango, tala liloba oyo Nkolo Yawe alobi: « Monguna moko akozingela yo, akosukisa yo mpe akobotola na makasi biloko kati na bandako na yo, oyo batonga makasi. »
+030	AMO	003	012	Tala liloba oyo Yawe alobi: « Ndenge mobateli bibwele alongolaka na monoko ya nkosi makolo mibale to songe ya litoyi ya meme, ndenge wana nde bana ya Isalaele bakobikisama, ba-oyo bavandaka na Samari, na basonge mpe na basuka ya bambeto na bango. »
+030	AMO	003	013	« Boyoka makambo oyo mpe bokebisa ndako ya Jakobi, » elobi Yawe, Nzambe, Mokonzi ya mampinga.
+030	AMO	003	014	« Na mokolo oyo nakopesa Isalaele etumbu mpo na masumu na ye, nakobebisa bitumbelo ya Beteli, nakobuka maseke ya bitumbelo, mpe ekokweya na mabele.
+030	AMO	003	015	Nakokweyisa ndako ya tango ya malili makasi mpe ya tango ya molunge makasi; mpe bandako oyo batonga kitoko na pembe ya nzoko ekozala lisusu te, » elobi Yawe.
+030	AMO	004	001	Bino bangombe ya basi ya Bashani, boyoka maloba oyo; bozali lokola ngomba ya Samari, bino bato oyo bonyokolaka babola, bomonisaka bato bakelela pasi mpe bolobaka na mibali na bino: « Bomemela biso masanga mpo tomela. »
+030	AMO	004	002	Nkolo Yawe alapi ndayi mpo na bosantu na Ye: « Solo, na mikolo ekoya, bakomema bino mpe bana na bino na bandobo;
+030	AMO	004	003	bokobimela na madusu kati na mir, moko na moko na lidusu oyo ezali liboso na ye, mpe bakobengana bino kino na ngomba Erimoni, » elobi Yawe.
+030	AMO	004	004	« Bokende na Beteli mpe bosala masumu, bokende na Giligali mpe bosala lisusu masumu koleka. Bobonza bambeka na bino tongo nyonso, mpe eteni na bino ya zomi sima na mokolo ya misato.
+030	AMO	004	005	Botumba farine oyo batia levire lokola likabo ya kozongisa matondi, mpe bobeta tolo mpo na makabo na bino, oyo bokati kopesa wuta na mokano ya mitema na bino moko. Bino bana ya Isalaele, bolobela yango na mongongo makasi, pamba te bolingaka nde kosala bongo, elobi Nkolo Yawe.
+030	AMO	004	006	Nabomaki bino nzala kati na bingumba na bino nyonso, napimelaki bino bilei kati na bamboka na bino nyonso; kasi atako bongo, bozongelaki Ngai te, » elobi Yawe.
+030	AMO	004	007	« Napimelaki bino lisusu mvula, basanza misato mobimba liboso ete tango oyo babukaka bambuma ekoma. Natindaki mvula na engumba moko mpe nakangaki yango na engumba mosusu. Elanga moko enokelaki mvula, kasi mosusu ezangelaki yango mpe ekawukaki.
+030	AMO	004	008	Bato bazalaki kotambola-tambola longwa na engumba moko kino na engumba mosusu mpo na koluka mayi, kasi bazwaki mayi oyo ekokelaki baposa na bango te; atako bongo, bozongelaki Ngai te, » elobi Yawe.
+030	AMO	004	009	« Mbala mingi, nazalaki kobwakela bilanga na bino bokono, banzete na bino ya ble mpe ya vino ekomaki kokawuka; bongo mabanki ekomaki kolia banzete na bino ya figi mpe ya olive. Kasi atako bongo, bozongelaki Ngai te, » elobi Yawe.
+030	AMO	004	010	« Natindaki, kati na bino, bokono oyo ebomaka, ndenge nasalaki kati na Ejipito; nabomaki bilenge mibali na bino na mopanga mpe nasalaki ete babotola bampunda na bino; mpe natondisaki bazolo na bino na solo ya bibembe oyo ekufaki na molako na bino. Kasi atako bongo, bozongelaki Ngai te, » elobi Yawe.
+030	AMO	004	011	« Nabebisaki bino ndenge nabebisaki Sodome mpe Gomore; bozalaki lokola koni ya moto oyo babimisi na moto. Kasi atako bongo, bozongelaki Ngai te, » elobi Yawe.
+030	AMO	004	012	« Yango wana, Isalaele, tala makambo oyo nakosala yo! Mpe lokola nakosala yo bongo, Isalaele, mibongisa mpo na kokutana na Nzambe na yo. »
+030	AMO	004	013	Pamba te Ye oyo asalaki bangomba, oyo akelaki mipepe, oyo alakisaka makanisi na Ye epai na moto, oyo abongolaka pole molili, oyo atambolaka likolo ya bangomba ya mokili, Kombo na Ye ezali: Yawe, Nzambe Mokonzi ya mampinga.
+030	AMO	005	001	Oh libota ya Isalaele, boyoka maloba oyo, eleli oyo nazali koloba na tina na bino:
+030	AMO	005	002	« Isalaele, mboka kitoko, ekweyi na mabele, ezali kokoka kotelema lisusu te! Basundoli yango kaka bongo, mpe moto akotelemisa yango azali te. »
+030	AMO	005	003	Tala liloba oyo Nkolo Yawe alobi: « Engumba oyo ekotinda basoda nkoto moko mpo na kobundela Isalaele ekotikala kaka na basoda nkama moko, mpe oyo ekotinda basoda nkama moko ekotikala kaka na basoda zomi. »
+030	AMO	005	004	Tala liloba oyo Nkolo Yawe alobi na libota ya Isalaele: « Bozonga epai na Ngai mpe bokobika!
+030	AMO	005	005	Bokende koluka na Beteli te, bokende na Giligali te, bosala mobembo na Beri-Sheba te. Pamba te Giligali ekokende na bowumbu, mpe Beteli ekokoma eloko pamba. »
+030	AMO	005	006	Boluka Yawe mpe bokobika, soki te akokitela libota ya Jozefi lokola moto oyo ekozikisa yango, mpe moto moko te akozala na Beteli mpo na koboma yango.
+030	AMO	005	007	Bino bato oyo bobongolaka bosembo ngenge mpe bobwakaka bosolo na mabele,
+030	AMO	005	008	boluka Ye oyo akela lisanga ya minzoto, oyo abongolaka molili pole mpe akomisaka moyi butu, oyo abengaka mayi ya ebale monene mpe asopaka yango na etando ya mokili; Kombo na Ye ezali: Yawe.
+030	AMO	005	009	Akweyisaka bato ya makasi mpe abebisaka engumba ya makasi.
+030	AMO	005	010	Bino bato boyinaka moto oyo akataka makambo na bosembo mpe botiolaka moto oyo alobaka solo,
+030	AMO	005	011	lokola bozali konyokola babola mpe kobotola bambuma na bango ya ble, bokovanda te na bandako oyo botongaki na mabanga bakata, bokomela te masanga ya vino ya bilanga kitoko ya vino oyo bolonaki.
+030	AMO	005	012	Pamba te nayebi ndenge nini mabe na bino ezali ebele mpe ndenge nini masumu na bino ezali minene: bozali konyokola bato ya sembo mpe kozwa kanyaka, mpe lisusu bozali kokata makambo ya babola na bosembo te.
+030	AMO	005	013	Boye, moto ya mayele alobaka te na tango ya boye, pamba te mikolo ezali mabe.
+030	AMO	005	014	Bolukaka kosala bolamu, kasi mabe te, mpo ete bokoka kobika. Boye, Yawe Nzambe, Mokonzi ya mampinga, akozala elongo na bino, ndenge kaka bozali koloba yango.
+030	AMO	005	015	Boyinaka kosala mabe, kasi bolingaka nde kosala bolamu; bolukaka bosembo tango bozali kosambisa. Tango mosusu Yawe, Mokonzi ya mampinga, akoyokela ndambo ya bato oyo bamikomisaki mbindo te mawa kati na libota ya Jozefi.
+030	AMO	005	016	Yango wana, tala liloba oyo Nkolo, Yawe, Nzambe, Mokonzi ya mampinga, alobi: « Kolela ekozala na babalabala nyonso, mpe koganga ya somo ekozala na bisika nyonso oyo bato bakutanaka. Bakobengisa basali bilanga na matanga, mpe bato oyo balelaka bibembe mpo na kolela.
+030	AMO	005	017	Kolela ekozala na bilanga nyonso ya vino, pamba te nakoleka kati na bino, » elobi Yawe.
+030	AMO	005	018	Mawa na bino oyo bozali na posa ya mokolo ya Yawe! Bozali kozela nini na mokolo ya Yawe? Ekozala mokolo ya molili, kasi ya pole te.
+030	AMO	005	019	Ekozala lokola moto oyo azali kokima nkosi, bongo akutani na ngombolo; lokola moto oyo akoti na ndako na ye mpe atie loboko na ye na mir, bongo nyoka eswi ye.
+030	AMO	005	020	Boni, mokolo ya Yawe ekozala te mokolo ya molili? Boni, ekozala te mokolo oyo ezanga pole? Ekozala penza mokolo ya molili makasi, ata kongenga moke ekozala te.
+030	AMO	005	021	Nayini bafeti na bino ya bule, nazali kosepela na yango ata moke te; mayangani na bino ya bule ezali kolumba solo mabe liboso na Ngai.
+030	AMO	005	022	Ata soki bomemeli Ngai bambeka na bino ya kotumba to ya bambuma, nakondima yango te; ata soki bomemeli Ngai bambeka ya boyokani, oyo eleki mafuta, nakotala yango ata moke te.
+030	AMO	005	023	Bolongola makelele ya banzembo na bino liboso na Ngai! Nakoyoka mindule ya mandanda na bino te.
+030	AMO	005	024	Kasi tika ete makambo ekatama na bosolo ndenge ebale etiolaka, mpe bosembo etambola lokola ebale oyo ekawukaka te.
+030	AMO	005	025	Oh bato ya Isalaele, boni, bozalaki kobonzela Ngai mbeka mpe kopesa Ngai makabo na mibu tuku minei oyo bolekisaki na esobe?
+030	AMO	005	026	Nzokande, botombolaki ndako ya kapo ya Sikuti, mokonzi na bino, mpe evandelo ya Kevani, nzambe na bino ya ekeko, monzoto ya nzambe na bino oyo bomisalelaki.
+030	AMO	005	027	Yango wana nakotinda bino na bowumbu, mosika koleka Damasi, elobi Ye oyo Kombo na Ye ezali: Yawe, Nzambe Mokonzi ya mampinga.
+030	AMO	006	001	Mawa na bino oyo bomimonaka ete bokoka kati na Siona, mpe na bino oyo bokanisaka ete bozali na kimia na likolo ya ngomba Samari, bino bato ya lokumu ya ekolo oyo ekenda sango koleka bikolo mosusu epai wapi bana ya Isalaele bayaka!
+030	AMO	006	002	Bokende na Kaline mpo na kotala makambo oyo elekaki kuna! Bongo longwa kuna, bokende na Amati, engumba monene, mpe bokende lisusu na Gati kati na Filisitia! Boni, bingumba oyo eleki penza bingumba ya mikili ya bokonzi oyo na malamu? Mpe etando na yango eleki ya bino na monene?
+030	AMO	006	003	Bozali kozongisa mokolo ya pasi sima mpe komibendela bokonzi ya somo.
+030	AMO	006	004	Bozali kolala na bambeto oyo batia pembe ya nzoko, bozali komivandisa na bakiti ya divan ya kitoko, bozali kolia misuni ya bameme ya kitoko kati na bibwele mpe ya bana ngombe ya mibali ya mafuta kati na etonga.
+030	AMO	006	005	Bozali kobeta mandanda na bino lokola Davidi mpe kokotisa bibetelo mindule kati na banzembo na bino.
+030	AMO	006	006	Bozali komela bakopo etonda na masanga ya vino mpe bozali kopakola mafuta ya talo na banzoto na bino, kasi kobebisama ya ndako ya Jozefi ezali kosala bino pasi na mitema te.
+030	AMO	006	007	Yango wana bokozala bato ya liboso mpo na kokende na bowumbu, mpe bafeti ya bato oyo bamivandisaka na bakiti ya kitoko ekosila.
+030	AMO	006	008	Nkolo Yawe alapi ndayi na Kombo na Ye moko; Yawe, Nzambe, Mokonzi ya mampinga, alobi: « Nazali na somo ya lolendo ya Jakobi, nayini bandako na ye, oyo batonga makasi; nakokaba engumba elongo na biloko na yango nyonso. »
+030	AMO	006	009	Soki bato zomi batikali na bomoi kati na ndako moko, bango mpe bakokufa.
+030	AMO	006	010	Soki noko moko oyo asengeli kotumba bibembe ayei kobimisa yango na ndako mpe atuni na moto nyonso oyo abombami kuna: — Boni, ozali elongo na moto mosusu kuna? Akozongisa: — Te, moto mosusu azali te! Bongo akoloba lisusu: — Esili! Bakolobela lisusu Kombo ya Yawe te.
+030	AMO	006	011	Pamba te Yawe apesi mitindo, boye akobuka-buka na biteni ndako monene mpe akobuka-buka na biteni ya mike-mike ndako moke.
+030	AMO	006	012	Boni, bampunda ekimaka penza mbangu na nzela oyo etonda na mabanga? Ngombe ebalolaka penza mabele na bisika ya ndenge wana? Kasi bino bokomisi bosembo ngenge, mpe mbuma ya bosembo bololo.
+030	AMO	006	013	Bozali kosepela mpo ete bozwi Lo-Debari mpe bozali komikumisa na koloba: « Boni, tobotoli engumba Karinayimi na makasi na biso moko te? »
+030	AMO	006	014	Mpo na yango, Yawe, Nzambe, Mokonzi ya mampinga, alobi: « Oh libota ya Isalaele, nakobimisa ekolo moko oyo ekobundisa mpe ekonyokola yo tango nyonso wuta na Lebo-Amati kino na lubwaku ya Araba. »
+030	AMO	007	001	Tala makambo oyo Nkolo Yawe alakisaki ngai: Tango matiti ebandaki kobota, ebimisaki mabanki ebele. Esalemaki sima na kobuka milona ya mokonzi.
+030	AMO	007	002	Tango mabanki yango esilisaki kolia matiti nyonso ya mokili, nagangaki: — Oh Nkolo Yawe, limbisa bato na Yo! Ndenge nini Jakobi oyo azali penza moke akoki solo kobika?
+030	AMO	007	003	Boye, Yawe abongolaki makanisi na Ye mpe alobaki: — Makambo yango ekosalema te.
+030	AMO	007	004	Tala makambo oyo Nkolo Yawe alakisaki ngai. Nkolo Yawe asalelaki moto mpo na kopesa etumbu, bongo moto yango ekawusaki mayi minene mpe ezikisaki mokili.
+030	AMO	007	005	Boye, nagangaki: — Oh Nkolo Yawe, nabondeli Yo, kosala boye te! Ndenge nini Jakobi oyo azali penza moke akoki solo kobika?
+030	AMO	007	006	Boye Yawe abongolaki makanisi na Ye. Mpe Nkolo Yawe alobaki: — Makambo yango ekosalema lisusu te.
+030	AMO	007	007	Tala makambo oyo alakisaki ngai: Nkolo azalaki ya kotelema na likolo ya mir moko batonga na mbodi mpe, na loboko na Ye, asimbaki nivo oyo batongi ndako basalelaka.
+030	AMO	007	008	Yawe atunaki ngai: — Amosi, ozali komona nini? Nazongisaki: — Nazali komona nivo oyo batongi ndako basalelaka. Nkolo alobaki na ngai: — Tala, nakotia nivo oyo batongi ndako basalelaka na likolo ya Isalaele, bato na Ngai. Nakolimbisa bango lisusu te.
+030	AMO	007	009	Tango nakotelemela libota ya Jeroboami na nzela ya mopanga na Ngai, nakobebisa bisambelo ya likolo ya bangomba ya Izaki mpe bisika ya bule ya Isalaele.
+030	AMO	007	010	Amatsia, Nganga-Nzambe ya Beteli, atindelaki Jeroboami, mokonzi ya Isalaele, maloba oyo: « Amosi azali kosalela yo likita mpo na kosala yo mabe kati na mokili ya Isalaele. Mokili ekoki te kondima koyokaka tango nyonso maloba na ye.
+030	AMO	007	011	Pamba te, tala maloba oyo Amosi azali koloba: ‹ Jeroboami akokufa na mopanga, mpe Isalaele akokende na bowumbu, mosika ya mabele na ye. › »
+030	AMO	007	012	Amatsia alobaki na Amosi: — Yo, momoni makambo, bima na mokili na biso! Zonga na mokili ya Yuda. Kuna, okosala mbongo na masakoli na yo.
+030	AMO	007	013	Kosakola lisusu na Beteli te, pamba te Beteli ezali Esika ya bule ya mokonzi mpe tempelo ya bokonzi.
+030	AMO	007	014	Amosi azongiselaki Amatsia: — Nazalaki mosakoli te to mwana ya mosakoli te, kasi nazalaki nde mobateli bibwele mpe moloni ya basikomori.
+030	AMO	007	015	Kasi Yawe alongolaki ngai na mosala ya kobatela bibwele mpe alobaki na ngai: « Kende kosakola epai ya bato na Ngai, Isalaele. »
+030	AMO	007	016	Yoka sik’oyo Liloba na Yawe, yo oyo ozali koloba na ngai: « Tika kosakola mpo na kotelemela libota ya Isalaele mpe tika koloba mabe mpo na ndako ya Izaki! »
+030	AMO	007	017	Mpo na yango, tala liloba oyo Yawe alobi: « Mwasi na yo akosala kindumba kati na engumba, bana na yo ya mibali mpe ya basi bakokufa na mopanga, bakokabola mabele na yo na biteni. Yo moko, okokufa na mabele ya mbindo, mpe Isalaele akokende solo na bowumbu, mosika ya mokili na ye ya mbotama. »
+030	AMO	008	001	Tala makambo oyo Nkolo Yawe alakisaki ngai: kitunga etonda na bambuma etela.
+030	AMO	008	002	Atunaki ngai: — Amosi, ozali komona nini? Nazongisaki: — Nazali komona kitunga etonda na bambuma etela. Yawe alobaki na ngai: — Tango ekoki mpo na bato na Ngai, Isalaele; pamba te nakolimbisa bango lisusu te.
+030	AMO	008	003	Na mokolo wana, banzembo ya esengo kati na bandako ekobongwana bileli, elobi Nkolo Yawe. Bakobwaka bibembe ebele bipai na bipai mpe bakosalela bango matanga te.
+030	AMO	008	004	Boyoka makambo oyo, bino bato oyo bonyokolaka bato bakelela mpe bonyataka babola kati na mokili.
+030	AMO	008	005	Bozali koloba: « Feti ya ebandeli ya sanza ekoleka tango nini mpo ete toteka ble na biso? Tango nini mokolo ya Saba ekosila mpo ete tofungola bibombelo na biso ya ble? » Tokosalela bakopo ya mike mpo ete tomatisa talo, mpe tokosalela bimekelo ya lokuta.
+030	AMO	008	006	Tokosomba mobola na palata mpe moto akelela na motuya ya mapapa mibale, bongo tokoteka ata basalite ya ble.
+030	AMO	008	007	Mpo na lolendo ya Jakobi, Yawe alapi ndayi na maloba oyo: « Nakobosana misala na bango ata moko te.
+030	AMO	008	008	Mpo na yango, mokili ekolenga, mpe bato na yango nyonso bakozala na matanga. Mokili mobimba ekotomboka lokola ebale Nili oyo etondi na mayi; ekokoma koningana-ningana mpe ekokita lokola ebale ya Ejipito.
+030	AMO	008	009	Na mokolo wana, » elobi Nkolo Yawe, « nakosala ete moyi elala na midi, mpe nakoyeisa molili na mokili na moyi makasi.
+030	AMO	008	010	Nakokomisa mikolo ya bafeti na bino mikolo ya matanga, banzembo na bino ya esengo banzembo ya mawa. Nakosala ete bino nyonso bolata basaki, mpe bakokokola bino suki ya moto. Nakoyeisa matanga kati na mokili lokola matanga ya libota oyo esili kokufisa mwana se moko oyo bazalaki na ye, mpe suka na yango ekozala bobele se pasi makasi.
+030	AMO	008	011	Na mikolo ekoya, » elobi Nkolo Yawe, « nakotinda nzala makasi kati na mokili; ekozala te nzala ya bilei to posa ya mayi, kasi ekozala nzala ya koyoka Liloba na Yawe.
+030	AMO	008	012	Bato bakotelengana na bibale nyonso, bakoyengayenga longwa na nor kino na este mpo na koluka Liloba na Yawe, kasi bakotikala komona yango te.
+030	AMO	008	013	Na mokolo wana, bilenge basi ya kitoko mpe mibali ya makasi bakokufa na posa ya mayi.
+030	AMO	008	014	Bato oyo balapaka ndayi na kombo ya nzambe ya ekeko ya Samari mpe balobaka: ‹ Dani, lokola nzambe na yo azali na bomoi › to ‹ lokola nzambe ya Beri-Sheba azali na bomoi, › bakokweya mpe bakotelema lisusu te. »
+030	AMO	009	001	Namonaki Yawe atelemi pene ya etumbelo, mpe alobaki: « Buka makonzi ya Tempelo mpo ete ndako mobimba eningana mpe ekweyela bato nyonso na mito. Bato oyo bakotikala, nakoboma bango na mopanga. Moko te akokima, moko te akobika.
+030	AMO	009	002	Soki bakimi na se ya mabele, na mboka ya bakufi, loboko na Ngai ekobimisa bango kuna; soki bakimi na Lola, nakokitisa bango na se. (Sheol h7585)
+030	AMO	009	003	Soki babombami na songe ya ngomba Karimeli, nakokanga bango mpe nakokitisa bango na se; soki babombami Ngai na se ya ebale monene, nakopesa mitindo na nyoka ete eswa bango kuna.
+030	AMO	009	004	Ezala banguna na bango bamemi bango na bowumbu, nakopesa mitindo na mopanga ete eboma bango kuna. Miso na Ngai ekozala likolo na bango mpo na kosala bango mabe, kasi bolamu te.
+030	AMO	009	005	Soki Yawe, Mokonzi ya mampinga, asimbi mabele, mabele eninganaka, mpe bavandi na yango nyonso bakomaka na matanga, mokili mobimba etelemaka lokola ebale Nili mpe ekawukaka lokola mayi ya Ejipito.
+030	AMO	009	006	Yawe atonga ndako na Ye kati na Lola mpe atia miboko na yango na mabele; abengaka mayi ya ebale monene mpe asopaka yango na etando ya mabele. Kombo na Ye ezali: Yawe.
+030	AMO	009	007	Bino bana ya Isalaele, boni, bokokani te na bato ya mokili ya Kushi? » elobi Yawe. « Boni, nabimisaki te Isalaele wuta na Ejipito, bato ya Filisitia wuta na Kreti, bato ya Siri wuta na Kiri?
+030	AMO	009	008	Solo, miso ya Nkolo Yawe ezali kotala bokonzi ya masumu; nakobebisa mpe nakolongola yango na mabele. Nzokande, nakobebisa te libota mobimba ya Jakobi, » elobi Yawe.
+030	AMO	009	009	« Pamba te nakopesa mitindo mpe nakoningisa libota ya Isalaele kati na bikolo nyonso ndenge bayungolaka ble; bongo ata mbuma moko te ya moke ekokweya na se.
+030	AMO	009	010	Bato nyonso ya masumu kati na bato na Ngai bakokufa na mopanga, ba-oyo nyonso balobaka: ‹ Pasi ekotikala te kozwa to kokomela biso! ›
+030	AMO	009	011	Na mokolo wana, nakotonga lisusu ndako ya Davidi oyo ekweya, nakobamba madusu na yango, nakotelemisa lisusu bamir na yango oyo ebukana mpe nakotonga yango lisusu ndenge ezalaka kala,
+030	AMO	009	012	mpo ete bakoka kozwa ndambo ya mokili ya Edomi oyo etikalaki, mpe ya bikolo nyonso oyo babengamaka na Kombo na Ngai, » elobi Yawe oyo asalaka makambo wana nyonso.
+030	AMO	009	013	« Mikolo ezali koya, » elobi Yawe, « mikolo oyo mosali bilanga akobuka bambuma na yango noki, mpe moloni elanga ya vino akokamola vino noki. Vino ya sika ekobota na bangomba milayi mpe ekosopana na bangomba mikuse nyonso.
+030	AMO	009	014	Nakozongisa Isalaele, bato na Ngai, oyo bakendeki na bowumbu, mpe bakotonga lisusu bingumba oyo ebebisamaki mpe bakovanda kati na yango. Bakolona banzete ya vino mpe bakomela vino na yango, bakolona bilanga mpe bakolia bambuma na yango.
+030	AMO	009	015	Nakolona bango na mabele na bango moko, mpe bakotikala kopikola bango lisusu te na mabele oyo napesaki bango, » elobi Yawe, Nzambe na yo.
+#

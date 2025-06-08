@@ -1,0 +1,880 @@
+043	JOH	001	001	Na ebandeli, Ye oyo azali Liloba azalaka; azalaka elongo na Nzambe, mpe azali Nzambe.
+043	JOH	001	002	Wuta na ebandeli, azalaka elongo na Nzambe.
+043	JOH	001	003	Nzambe akelaki biloko nyonso na nzela na Ye; ezali na eloko moko te oyo ekelama soki na nzela na Ye te.
+043	JOH	001	004	Bomoi ewuta epai na Ye, mpe bomoi yango ezalaki pole mpo na bato.
+043	JOH	001	005	Pole engengaka kati na molili, kasi molili eyambaki yango te.
+043	JOH	001	006	Nzambe atindaki moto moko, kombo na ye ezalaki « Yoane. »
+043	JOH	001	007	Ayaki lokola motatoli, mpo na kotatola na tina na pole, mpo ete bato nyonso bandima na nzela na ye.
+043	JOH	001	008	Ye moko Yoane azalaki pole te, kasi ayaki nde mpo na kozala motatoli na tina na pole.
+043	JOH	001	009	Pole ya solo eyaki na mokili, mpe engengisaka bato nyonso.
+043	JOH	001	010	Ye oyo azali Liloba azalaki kati na mokili, pamba te Ye nde akelaki yango, kasi mokili endimaki Ye te.
+043	JOH	001	011	Ayaki epai ya ekolo na Ye, kasi bato ya ekolo na Ye moko bayambaki Ye te;
+043	JOH	001	012	nzokande bato nyonso oyo bayambaki Ye, ba-oyo bandimelaki Kombo na Ye, apesaki bango makoki ya kokoma bana na Nzambe.
+043	JOH	001	013	Bakomi bana na Nzambe na nzela ya mbotama ya bomoto te, na posa ya bomoto te to mpe na mokano ya moto te, kasi na mokano ya Nzambe.
+043	JOH	001	014	Ye oyo azalaki Liloba akomaki moto mpe avandaki kati na biso, atonda na ngolu mpe na solo. Tomonaki nkembo na Ye, nkembo oyo azwi epai ya Tata na Ye, lokola Mwana se moko.
+043	JOH	001	015	Yoane azalaki kotatola na tina na Ye, na mongongo makasi: « Botala Ye oyo nalobaki na tina na Ye: ‹ Ye oyo azali koya sima na ngai aleki ngai na lokumu, pamba te azalaki liboso ete ngai nazala. › »
+043	JOH	001	016	Lokola atonda na bolingo mpo na biso, apesaki biso ngolu likolo ya ngolu;
+043	JOH	001	017	pamba te Mibeko eyaki na nzela ya Moyize, kasi ngolu mpe solo eyaki na nzela ya Yesu-Klisto.
+043	JOH	001	018	Moto moko te amona Nzambe, kasi ezali kaka Mwana se moko oyo azali Nzambe mpe azali moko na Tata nde atalisaki biso Ye.
+043	JOH	001	019	Tala litatoli oyo Yoane apesaki tango bakambi ya Bayuda batindaki, wuta na Yelusalemi, Banganga-Nzambe mpe Balevi, mpo na kotuna ye: — Yo ozali nani?
+043	JOH	001	020	Abetaki monoko te, kasi alobaki na bango solo na bonsomi nyonso: — Ngai, nazali Klisto te.
+043	JOH	001	021	Batunaki ye lisusu: — Bongo ozali nani? Ozali Eliya? Azongisaki: — Nazali Eliya te. Batunaki ye lisusu: — Ozali mosakoli? Azongisaki: — Te!
+043	JOH	001	022	Bakobaki kotuna ye: — Bongo ozali penza nani? Ozali koloba nini na tina na yo moko? Yebisa biso yango, pamba te tosengeli kopesa eyano epai ya bato oyo batindi biso.
+043	JOH	001	023	Yoane azongiselaki bango kolanda ndenge mosakoli Ezayi alobaki: — Ngai, nazali mongongo ya moto oyo azali kobelela kati na esobe: « Bobongisa nzela mpo na Nkolo! »
+043	JOH	001	024	Nzokande batindami yango bazalaki Bafarizeo.
+043	JOH	001	025	Batunaki ye lisusu: — Soki ozali Masiya te, Eliya te to mpe mosakoli te, bongo mpo na nini ozali kobatisa?
+043	JOH	001	026	Yoane azongiselaki bango: — Ngai, nazali kobatisa na mayi; kasi kati na bino, ezali na Moto moko oyo bino boyebi te;
+043	JOH	001	027	azali koya sima na ngai, mpe ngai nabongi kutu te mpo na kofungola ata basinga ya basandale na Ye.
+043	JOH	001	028	Makambo oyo nyonso esalemaki na Betani, na ngambo mosusu ya Yordani, epai wapi Yoane azalaki kobatisa.
+043	JOH	001	029	Mokolo oyo elandaki, wana Yoane amonaki Yesu koya epai na ye, alobaki: — Tala Mpate ya Nzambe, oyo alongolaka lisumu ya mokili.
+043	JOH	001	030	Ezali na tina na Ye nde nalobaki: « Ezali na moko oyo azali koya sima na ngai, aleki ngai na lokumu, pamba te azalaki liboso ete ngai nazala. »
+043	JOH	001	031	Ngai moko mpe nayebaki te soki esengelaki kozala nani; kasi tina oyo ngai nayaki kobatisa bato na mayi, ezalaki nde mpo ete natalisa Ye epai ya bato ya Isalaele.
+043	JOH	001	032	Bongo Yoane apesaki litatoli oyo: — Namonaki Molimo kokita wuta na likolo lokola ebenga mpe kovanda likolo na Ye.
+043	JOH	001	033	Ngai moko mpe nayebaki Ye te; kasi Ye oyo atindaki ngai kobatisa na mayi alobaki na ngai: « Moto oyo okomona Molimo kokita mpe kowumela likolo na Ye, Ye nde akobatisa kati na Molimo Mosantu. »
+043	JOH	001	034	Mpe lokola ezali yango nde likambo oyo ngai namonaki, yango wana nazali kotatola: Moto oyo azali Mwana na Nzambe.
+043	JOH	001	035	Mokolo oyo elandaki, wana Yoane azalaki lisusu na esika yango elongo na bayekoli na ye mibale,
+043	JOH	001	036	amonaki Yesu koleka mpe alobaki: « Botala Mpate ya Nzambe! »
+043	JOH	001	037	Lokola bayekoli nyonso mibale bayokaki ndenge Yoane alobaki, balandaki Yesu.
+043	JOH	001	038	Bongo tango Yesu abalukaki mpo na kotala na sima, amonaki bango mibale bazali kolanda Ye. Atunaki bango: — Bolingi nini? Bazongisaki: — Rabi, ovandaka wapi?
+043	JOH	001	039	Yesu azongiselaki bango: — Boya mpe bokomona. Balandaki Yesu, bamonaki esika oyo azalaki kovanda mpe bavandaki elongo na Ye na mokolo wana. Ezalaki na ngonga ya minei sima na midi.
+043	JOH	001	040	Andre, ndeko ya Simona Petelo, azalaki moko kati na bato wana mibale oyo bayokaki maloba ya Yoane mpe balandaki Yesu.
+043	JOH	001	041	Akendeki kokutana na Simona, ndeko na ye, mpe alobaki na ye: « Tomoni Masiya! »
+043	JOH	001	042	Bongo amemaki Simona epai ya Yesu. Yesu atalaki Simona mpe alobaki: « Ozali Simona, mwana mobali ya Yoane; kasi bakobanda kobenga yo Sefasi. »
+043	JOH	001	043	Mokolo oyo elandaki, Yesu azwaki mokano ya kokende na Galile. Na nzela, akutanaki na Filipo mpe alobaki na ye: « Landa Ngai. »
+043	JOH	001	044	Filipo, Andre mpe Petelo bazalaki bato ya engumba Betisaida.
+043	JOH	001	045	Filipo akutanaki na Natanaele mpe alobaki na ye: — Tomoni Yesu ya Nazareti, mwana mobali ya Jozefi, oyo Moyize alobela kati na buku ya Mobeko, mpe oyo basakoli balobela.
+043	JOH	001	046	Natanaele atunaki ye: — Boni, eloko ya malamu ekoki mpe kobima na Nazareti? Filipo azongiselaki ye: — Yaka mpe okomona yo moko.
+043	JOH	001	047	Tango Yesu amonaki Natanaele koya epai na Ye, alobaki na tina na ye: — Tala moto ya Isalaele ya solo-solo oyo, kati na ye, lokuta ezali te!
+043	JOH	001	048	Natanaele atunaki Ye: — Oyebi ngai ndenge nini? Yesu azongiselaki ye: — Liboso ete Filipo abenga yo, wana ozalaki nanu na se ya nzete ya figi, namonaki yo.
+043	JOH	001	049	Natanaele alobaki: — Moteyi, ozali solo Mwana na Nzambe; ozali penza Mokonzi ya Isalaele.
+043	JOH	001	050	Yesu alobaki na ye: — Ondimi kaka mpo ete nalobi na yo: Namonaki yo na se ya nzete ya figi? Okomona lisusu makambo minene koleka oyo.
+043	JOH	001	051	Bongo alobaki lisusu: « Nazali koloba na bino penza ya solo: bokomona Likolo kofungwama, mpe ba-anjelu ya Nzambe komata mpe kokita mpo na Mwana na Moto. »
+043	JOH	002	001	Sima na mikolo mibale, ezalaki na feti moko ya libala na mboka Kana ya Galile. Mama ya Yesu azalaki na feti yango.
+043	JOH	002	002	Babengisaki mpe Yesu elongo na bayekoli na Ye na feti yango.
+043	JOH	002	003	Esalemaki ete tango vino esilaki, mama ya Yesu alobaki na Ye: — Bazali lisusu na vino te!
+043	JOH	002	004	Kasi Yesu azongiselaki ye: — Mwasi, biso na yo likambo nini? Tango na Ngai ekoki nanu te.
+043	JOH	002	005	Mama na Ye alobaki na basali: — Bosala makambo nyonso oyo akoloba na bino.
+043	JOH	002	006	Ezalaki wana na bambeki motoba ya mabanga, oyo Bayuda bazalaki kosalela mpo na komipetola. Mbeki moko na moko ekokaki kokota balitele kobanda tuku mwambe kino nkama moko na tuku mibale.
+043	JOH	002	007	Bongo Yesu alobaki na basali: — Botondisa bambeki oyo na mayi. Batondisaki yango meke.
+043	JOH	002	008	Alobaki lisusu: — Sik’oyo, botoka mayi wuta na bambeki mpe bomema yango epai ya mokambi ya feti. Bamemaki yango epai na mokambi ya feti.
+043	JOH	002	009	Mokambi ya feti amekaki mayi oyo Yesu abongolaki vino. Ayebaki te soki basali bazwaki vino yango wapi; nzokande bango moko basali bayebaki, pamba te bango nde batokaki mayi. Mbala moko, mokambi ya feti abengaki mobali oyo abalaki
+043	JOH	002	010	mpe alobaki na ye: « Bato nyonso bapesaka nanu vino oyo eleki kitoko; bongo, sima na babengami komela mingi, nde bayaka na vino oyo ya kitoko penza te. Kasi yo, obombi na yo vino oyo eleki kitoko kino sik’oyo! »
+043	JOH	002	011	Wana nde ezalaki likamwisi ya liboso, oyo Yesu asalaki: esalemaki na Kana ya Galile. Ezalaki moko kati na bikamwa oyo, na nzela na yango, amonisaki nkembo na Ye; mpe bayekoli na Ye bandimaki Ye.
+043	JOH	002	012	Sima na yango, Yesu akendeki elongo na mama na Ye, bandeko na Ye mpe bayekoli na Ye, na Kapernawumi epai wapi basalaki kaka mwa mikolo.
+043	JOH	002	013	Lokola mokolo oyo Bayuda basepelaka feti ya Pasika ekomaki pene, Yesu akendeki na Yelusalemi.
+043	JOH	002	014	Tango akotaki kati na lopango ya Tempelo, akutaki bato bazali koteka bangombe, bameme mpe bibenga; amonaki lisusu bato oyo babongolaka mbongo bavandi liboso ya bamesa na bango.
+043	JOH	002	015	Boye, asalaki fimbu ya basinga mpe abenganaki bango nyonso, longwa na lopango ya Tempelo, elongo na bangombe mpe bameme na bango; abalolaki bamesa ya bato oyo bazalaki kobongola mbongo, mpe apanzaki mbongo na bango na mabele.
+043	JOH	002	016	Alobaki na bato oyo bazalaki koteka bibenga: « Bolongola biloko oyo awa! Ezali Ndako ya Tata na Ngai! Ebandi ndenge nini bokomisa yango zando? »
+043	JOH	002	017	Bayekoli na Ye babandaki kokanisa makambo oyo ekomama: « Oh Nzambe, bolingo makasi oyo nazali na yango mpo na Ndako na Yo ekozikisa ngai lokola na moto! »
+043	JOH	002	018	Bayuda balobaki na Yesu: — Likamwisi nini okoki kolakisa biso mpo na kotalisa biso ete ozali na bokonzi ya kosala makambo oyo nyonso?
+043	JOH	002	019	Yesu azongisaki: — Bobuka Tempelo oyo, mpe Ngai nakotonga yango lisusu na mikolo misato.
+043	JOH	002	020	Bayuda balobaki lisusu: — Boni, soki esalaki mibu tuku minei na motoba mpo na kotonga lisusu Tempelo oyo, yo okanisi ete okotelemisa yango na mikolo misato?
+043	JOH	002	021	Nzokande Tempelo oyo Yesu azalaki kolobela, ezalaki nde nzoto na Ye moko.
+043	JOH	002	022	Sima, tango Yesu asekwaki, bayekoli na Ye basosolaki makambo oyo alobaki na bango. Boye bandimaki Makomi mpe maloba oyo Yesu alobaki.
+043	JOH	002	023	Wana Yesu azalaki kati na Yelusalemi mpo na feti ya Pasika, bato mingi bandimelaki Kombo na Ye tango bazalaki komona bikamwa oyo azalaki kosala.
+043	JOH	002	024	Kasi Yesu amipesaki te epai na bango, pamba te ayebaki bato nyonso.
+043	JOH	002	025	Azalaki ata na posa te ete bayebisa Ye makambo na tina na bato, pamba te ayebaki makambo nyonso oyo ezalaki kati na mitema na bango.
+043	JOH	003	001	Ezalaki na moto moko kati na Bafarizeo, oyo kombo na ye ezalaki « Nikodemi. » Azalaki moko kati na bakonzi ya Bayuda.
+043	JOH	003	002	Ayaki na butu epai ya Yesu mpe alobaki na Ye: — Rabi, toyebi ete ozali Moteyi oyo awuti epai ya Nzambe, pamba te moto moko te akoki kosala bikamwa oyo Yo ozali kosala soki Nzambe azali elongo na ye te.
+043	JOH	003	003	Yesu azongiselaki ye: — Nazali koloba na yo penza ya solo: moto moko te akoki komona Bokonzi ya Nzambe soki abotami te mbotama ya sika.
+043	JOH	003	004	Nikodemi atunaki Ye: — Ndenge nini moto oyo akomi mobange akoki kobotama lisusu? Akoki solo kozonga na libumu ya mama na ye mpo ete abotama lisusu?
+043	JOH	003	005	Yesu azongiselaki ye: — Nazali koloba na yo penza ya solo: moto moko te akoki kokota na Bokonzi ya Nzambe soki abotami te na mayi mpe na Molimo.
+043	JOH	003	006	Oyo abotami na mosuni azali mosuni, mpe oyo abotami na Molimo azali molimo.
+043	JOH	003	007	Kokamwa te ndenge nalobi na yo: « Osengeli kobotama mbotama ya sika! »
+043	JOH	003	008	Mopepe epepaka esika nyonso oyo elingi kopepa; atako oyoki makelele na yango, kasi okokaka te koloba soki ewuti wapi to ezali kokende wapi. Ezali mpe bongo mpo na moto nyonso oyo abotami na Molimo.
+043	JOH	003	009	Nikodemi atunaki lisusu: — Ekosalema ndenge nini?
+043	JOH	003	010	Yesu alobaki na ye: — Ndenge nini yo, molakisi mobimba oyo okenda sango kati na Isalaele, ozali kososola te makambo oyo?
+043	JOH	003	011	Nazali koloba na yo penza ya solo: tolobaka makambo oyo toyebi mpe topesaka litatoli na tina na makambo oyo tomoni; kasi bino, boboyi kondima litatoli na biso.
+043	JOH	003	012	Soki tango nazali koloba na bino makambo ndenge esalemaka na mokili, bozali kondima te, bongo bokondima ndenge nini soki nalobi na bino makambo ya Likolo?
+043	JOH	003	013	Ezali na moto moko te oyo asila komata na Likolo, longola kaka Ye oyo akita wuta na Likolo: Mwana na Moto.
+043	JOH	003	014	Ndenge kaka Moyize atelemisaki na nzete, ekeko ya nyoka kati na esobe, ndenge wana mpe Mwana na Moto asengeli kotombolama
+043	JOH	003	015	mpo ete moto nyonso oyo akondima Ye azwa, kati na Ye, bomoi ya seko. (aiōnios g166)
+043	JOH	003	016	Pamba te Nzambe alingaki mokili mingi penza, yango wana apesaki Mwana na Ye se moko, mpo ete moto nyonso oyo akondima Ye akufa te kasi azwa bomoi ya seko. (aiōnios g166)
+043	JOH	003	017	Nzambe atindaki Mwana na Ye kati na mokili mpo ete akatela yango etumbu te, kasi mpo ete abikisa yango.
+043	JOH	003	018	Moto nyonso oyo andimi Ye akozwa etumbu te; kasi ye oyo aboyi kondima Ye asili kozwa etumbu, pamba te aboyi kondima Mwana se moko ya Nzambe.
+043	JOH	003	019	Tala ndenge nini etumbu yango ezali: pole eyaki kati na mokili, kasi bato balingaki molili, pamba te misala na bango ezali mabe.
+043	JOH	003	020	Moto nyonso oyo asalaka mabe ayinaka pole mpe apusanaka te epai pole ezali, noki te misala na ye ekomonana polele.
+043	JOH	003	021	Nzokande, moto nyonso oyo atambolaka na solo ayaka epai pole ezali mpo ete misala oyo asalaka, na boyokani elongo na Nzambe, emonana polele.
+043	JOH	003	022	Sima na yango, Yesu akendeki na Yuda, elongo na bayekoli na Ye; avandaki kuna mwa tango elongo na bango mpe azalaki kobatisa.
+043	JOH	003	023	Yoane mpe azalaki kobatisa na Enoni, pembeni ya Salimi, mpo ete mayi ezalaki mingi kuna; bato bazalaki kokende kuna epai na ye mpe bazalaki kozwa libatisi.
+043	JOH	003	024	Na tango wana, batiaki nanu Yoane na boloko te.
+043	JOH	003	025	Mokolo moko, bayekoli ya Yoane bazalaki kobendana na Moyuda moko na tina na kopetolama.
+043	JOH	003	026	Bakendeki epai ya Yoane mpe balobaki na ye: — Moteyi, ozali koyeba lisusu moto oyo azalaki elongo na yo, na ngambo mosusu ya Yordani, oyo na tina ye opesaki litatoli? Ye mpe azali kobatisa bato, mpe bato nyonso bazali kokende epai na ye.
+043	JOH	003	027	Yoane azongisaki: — Moto akoki kozwa eloko moko te soki Likolo epesi ye yango te.
+043	JOH	003	028	Bino moko bokoki kotatola ete nalobaki: « Ngai, nazali Klisto te, kasi natindamaki liboso na Ye. »
+043	JOH	003	029	Mwasi ya libala azali ya mobali oyo abali ye; mpe moninga ya mobali oyo asili kobala, ezali moto oyo atelemi pembeni na ye mpe azali na esengo makasi tango azali koyoka mongongo na ye. Ezali mpe bongo mpo na ngai: esengo na ngai ezali sik’oyo ya kokoka.
+043	JOH	003	030	Esengeli ete Ye amata, mpe ngai nakita.
+043	JOH	003	031	Ye oyo awuti na Likolo azali likolo na nyonso; kasi moto oyo awuti na mokili akotikala kaka ya mokili mpe alobaka kaka lokola moto ya mokili. Ye oyo awuti na Likolo azali likolo na nyonso,
+043	JOH	003	032	azali kotatola na tina na makambo oyo amonaki mpe ayokaki, kasi moto moko te azali kondima litatoli na Ye.
+043	JOH	003	033	Moto nyonso oyo andimi litatoli na Ye akolobaka na solo ete Nzambe azali solo.
+043	JOH	003	034	Motindami ya Nzambe alobaka kaka maloba kowuta na Nzambe, pamba te Nzambe atondisa ye na Molimo na Ye nyonso.
+043	JOH	003	035	Tata alingaka Mwana, mpe Mwana azalaka na bokonzi kowuta na Tata mpo na kokonza nyonso.
+043	JOH	003	036	Moto nyonso oyo andimi Mwana azali na bomoi ya seko; nzokande moto oyo aboyi kondima Mwana akozwa bomoi yango te, kasi azalaka kaka na se ya etumbu ya Nzambe. (aiōnios g166)
+043	JOH	004	001	Yesu ayokaki ete Bafarizeo bazwi sango oyo ezali koloba ete akomi na bayekoli ebele koleka Yoane mpe azali kobatisa bato mingi koleka Yoane.
+043	JOH	004	002	(Nzokande, Yesu Ye moko azalaki kobatisa te, kasi ezalaki nde bayekoli na Ye.)
+043	JOH	004	003	Boye, alongwaki na Yuda mpe azongaki na Galile.
+043	JOH	004	004	Lokola asengelaki kolekela na Samari,
+043	JOH	004	005	akomaki na engumba Sishari ya Samari, oyo ezalaki mosika te na elanga oyo Jakobi apesaki epai ya mwana na ye, Jozefi.
+043	JOH	004	006	Nzokande libulu ya mayi ya Jakobi ezalaki kati na elanga yango. Boye lokola Yesu alembaki nzoto mpo na mobembo, avandaki pembeni ya libulu yango. Ezalaki pene ya ngonga ya midi.
+043	JOH	004	007	Tango mwasi moko ya engumba Samari akendeki kotoka mayi, Yesu alobaki na ye: — Pesa Ngai mayi mpo ete namela.
+043	JOH	004	008	(Bayekoli ya Yesu bakendeki na engumba mpo na kosomba biloko ya kolia).
+043	JOH	004	009	Kasi mwasi yango alobaki: — Ebandi ndenge nini yo oyo ozali Moyuda osenga ngai, mwasi ya engumba Samari, mayi mpo ete omela? —Pamba te Bayuda bazalaki koyokana te na bato ya Samari.—
+043	JOH	004	010	Yesu azongiselaki ye: — Soki oyebaki likabo ya Nzambe mpe nani oyo asengi yo mayi, ezali yo nde olingaki kosenga Ye mayi mpo ete omela, mpe Ye alingaki kopesa yo mayi ya bomoi.
+043	JOH	004	011	Mwasi alobaki na Yesu: — Nkolo, ozali na eloko moko te mpo na kotoka mayi, mpe libulu ezali mozindo; bongo mayi yango ya bomoi, olingaki kozwa yango wapi?
+043	JOH	004	012	Koko na biso, Jakobi, apesa biso libulu oyo; ye moko mpe amela mayi na yango, elongo na bana na ye mpe bibwele na ye. Boni, okanisi ete oleki ye?
+043	JOH	004	013	Yesu azongiselaki ye: — Moto nyonso oyo amelaka mayi oyo, ayokaka lisusu posa ya mayi;
+043	JOH	004	014	kasi moto oyo akomela mayi oyo Ngai nakopesa ye akoyoka lisusu posa ya mayi te: mayi oyo Ngai nakopesa ye ekokoma kati na ye lokola etima ya mayi oyo ekawukaka te mpe etiolaka kino na bomoi ya seko. (aiōn g165, aiōnios g166)
+043	JOH	004	015	Mwasi yango alobaki na Yesu: — Nkolo, pesa ngai mayi yango mpo ete nayokaka lisusu posa ya mayi te mpe nazonga lisusu awa te mpo na kotoka mayi.
+043	JOH	004	016	Yesu alobaki na ye: — Kende, benga mobali na yo mpe zonga awa.
+043	JOH	004	017	Mwasi azongisaki: — Nazali na mobali te. Yesu alobaki na ye: — Ozali koloba penza ya solo ete ozali na mobali te,
+043	JOH	004	018	pamba te ozalaki na mibali mitano; mpe ye oyo ozali na ye sik’oyo azali mpe mobali na yo te. Boye likambo oyo owuti koloba ezali ya solo.
+043	JOH	004	019	Mwasi yango alobaki na Yesu: — Nkolo, namoni ete ozali mosakoli.
+043	JOH	004	020	Bakoko na biso, bato ya Samari, bagumbamelaki Nzambe na likolo ya ngomba oyo; kasi bino, Bayuda, bolobaka ete esika epai wapi tosengeli kogumbamela ezali kati na Yelusalemi.
+043	JOH	004	021	Yesu azongiselaki ye: — Mwasi, ndima Ngai: tango ezali koya, tango oyo bakogumbamela lisusu Tata te na likolo ya ngomba oyo to kati na Yelusalemi.
+043	JOH	004	022	Bino, bato ya Samari, bogumbamelaka nzambe oyo boyebi te; kasi biso, togumbamelaka Nzambe oyo toyebi, pamba te lobiko ewuti epai ya Bayuda.
+043	JOH	004	023	Kasi tango ezali koya mpe esili na yango kokoka, tango oyo bagumbameli ya solo bokogumbamela Tata, kati na Molimo mpe kati na solo; pamba te Tata alukaka bato oyo bogumbamelaka Ye na lolenge wana.
+043	JOH	004	024	Nzambe azali Molimo; esengeli ete bato oyo bagumbamelaka Ye bagumbamela Ye kati na Molimo mpe kati na solo.
+043	JOH	004	025	Mwasi alobaki na Yesu: — Nayebi ete Masiya azali koya, Ye oyo babengaka Klisto; mpe tango akoya, akoyebisa biso makambo nyonso.
+043	JOH	004	026	Yesu alobaki na ye: — Nazali Masiya, Ngai oyo nazali koloba na yo.
+043	JOH	004	027	Kaka na tango yango, bayekoli ya Yesu bazongaki. Bakamwaki mingi komona Yesu kosolola na mwasi. Kasi moko te kati na bango amekaki kotuna Ye: « Ozali koluka nini? » to « Mpo na nini ozali kosolola na ye? »
+043	JOH	004	028	Bongo mwasi atikaki mbeki na ye wana, azongaki na engumba mpe alobaki na bato:
+043	JOH	004	029	— Boya kotala moto oyo ayebisi ngai makambo nyonso oyo nasalaki. Akoki kozala Klisto te?
+043	JOH	004	030	Bato babimaki longwa na engumba mpe bakendeki epai ya Yesu.
+043	JOH	004	031	Na tango yango, bayekoli bazalaki kosenga na Yesu: — Rabi, lia.
+043	JOH	004	032	Kasi Yesu azongiselaki bango: — Ngai, nakolia bilei oyo bino boyebi te.
+043	JOH	004	033	Bongo bayekoli na Ye balobanaki bango na bango: — Boni, ekoki kozala na moto oyo amemelaki Ye bilei?
+043	JOH	004	034	Yesu alobaki na bango: — Bilei na Ngai ezali: kosala mokano ya Ye oyo atindaki Ngai mpe kosilisa mosala oyo apesaki Ngai.
+043	JOH	004	035	Bino bolobaka: « Etikali sanza minei mpo ete tobuka mbuma kati na bilanga. » Kasi Ngai, nazali koloba na bino: bofungola miso na bino mpe botala malamu bilanga; bambuma ekomeli mpe ekoki mpo na kobuka.
+043	JOH	004	036	Moto oyo azali kobuka azali komizwela lifuti mpe kosangisa bambuma mpo na bomoi ya seko. Boye, moloni mpe mobuki mbuma bazali kosepela elongo, bango mibale. (aiōnios g166)
+043	JOH	004	037	Awa nde ekokisami bosolo ya lisese oyo elobaka: « Moko alonaka, mosusu abukaka. »
+043	JOH	004	038	Natindaki bino kobuka bambuma ya elanga oyo bino bolonaki te; ezali bato mosusu nde basalaki mosala, mpe bino bozali bobele kosepela na motoki ya bato mosusu.
+043	JOH	004	039	Bato mingi ya Samari, oyo bazalaki kovanda kati na engumba wana bandimelaki Yesu mpo na litatoli oyo mwasi azalaki kopesa: « Ayebisi ngai makambo nyonso oyo nasalaki. »
+043	JOH	004	040	Tango bato ya Samari bayaki epai ya Yesu, basengaki na Ye ete avanda elongo na bango; mpe Yesu avandaki elongo na bango mikolo mibale.
+043	JOH	004	041	Bato ebele koleka bakomaki kondimela Ye mpo na maloba oyo Ye moko azalaki koloba.
+043	JOH	004	042	Bongo balobaki na mwasi wana: — Tondimi kaka te mpo na makambo oyo olobaki, pamba te biso moko toyoki sik’oyo mpe toyebi ete azali penza Mobikisi ya mokili.
+043	JOH	004	043	Sima na mikolo mibale, Yesu alongwaki wana mpe akendeki na Galile.
+043	JOH	004	044	Solo, Ye moko Yesu alobaki ete mosakoli azwaka lokumu te kati na ekolo na ye.
+043	JOH	004	045	Tango akomaki na Galile, bato ya Galile bayambaki Ye, pamba te bango mpe bakendeki na Yelusalemi, na tango ya feti, mpe bamonaki makambo nyonso oyo asalaki kuna.
+043	JOH	004	046	Yesu ayaki lisusu na Kana ya Galile, epai wapi abongolaki mayi vino. Nzokande, na Kapernawumi, ezalaki na mokonzi moko ya basoda oyo mwana na ye ya mobali azalaki kobela.
+043	JOH	004	047	Tango ayokaki ete Yesu akomi na Galile longwa na Yuda, akendeki kokutana na Ye mpe asengaki na Ye ete akende kobikisa mwana na ye ya mobali oyo akomi pene ya kokufa.
+043	JOH	004	048	Yesu alobaki na ye: — Boni, bokondima kaka soki bomoni bilembo mpe bikamwa?
+043	JOH	004	049	Mokonzi wana ya basoda alobaki: — Nkolo na ngai, yaka noki liboso ete mwana na ngai ya mobali akufa.
+043	JOH	004	050	Yesu alobaki na ye: — Kende, mwana na yo ya mobali azali na bomoi. Moto yango andimaki maloba oyo Yesu alobaki mpe azongaki.
+043	JOH	004	051	Wana azalaki kozonga, basali na ye bayaki kokutana na ye mpe bayebisaki ye: — Mwana na yo ya mobali abiki na bokono na ye.
+043	JOH	004	052	Atunaki bango soki ezalaki na ngonga nini mwana abikaki. Bazongisaki: — Fievele etikaki ye lobi oyo eleki, na ngonga ya liboso sima na midi.
+043	JOH	004	053	Tata asosolaki ete ezalaki kaka na ngonga oyo Yesu alobaki na ye: « Mwana na yo ya mobali azali na bomoi. » Bongo ye elongo na bato nyonso ya ndako na ye bandimaki.
+043	JOH	004	054	Oyo nde ezalaki likamwisi ya mibale oyo Yesu asalaki sima na Ye kozonga na Galile longwa na Yuda.
+043	JOH	005	001	Sima na yango, Yesu akendeki na Yelusalemi mpo na feti moko ya Bayuda.
+043	JOH	005	002	Nzokande, kuna na Yelusalemi, pene ya Ekuke ya Bameme, ezalaki na liziba moko oyo, na lokota ya Arami, bazalaki kobenga « Betesida. » Liziba yango ezalaki na baveranda mitano zingazinga na yango.
+043	JOH	005	003	Babeli mingi bazalaki kolala na baveranda yango: bakufi miso, bato oyo batambolaka tengu-tengu mpe bato oyo bakufa makolo. [Bazalaki kozela ete mayi eningana,
+043	JOH	005	004	pamba te anjelu moko na Nkolo azalaki koya tango na tango na liziba yango mpo na koningisa mayi. Soki mayi eningani, moto oyo azalaki kokita moto ya liboso kati na liziba azalaki kobika ata soki pasi na ye ezali ndenge nini.]
+043	JOH	005	005	Ezalaki wana na moto moko oyo awumelaki na bokono mibu tuku misato na mwambe.
+043	JOH	005	006	Lokola Yesu amonaki ye alala na mabele mpe ayokaki ete awumeli mikolo ebele na pasi yango, atunaki ye: — Olingi kobika?
+043	JOH	005	007	Mobeli azongiselaki Ye: — Nkolo, nazali na moto te mpo na kokitisa ngai kati na liziba soki mayi eningani. Wana nabundanaka mpo na kokita na mayi, moto mosusu akitaka liboso na ngai.
+043	JOH	005	008	Yesu alobaki na ye: — Telema, kamata etoko na yo mpe tambola.
+043	JOH	005	009	Kaka na tango yango, moto yango abikaki; akamataki etoko na ye mpe akomaki kotambola. Nzokande likambo yango esalemaki na mokolo ya Saba.
+043	JOH	005	010	Boye, bakambi ya Bayuda balobaki na moto oyo abikisamaki: — Lelo ezali mokolo ya Saba; ozali na ndingisa te ya komema etoko oyo.
+043	JOH	005	011	Azongiselaki bango: — Moto oyo abikisi ngai alobi na ngai: « Kamata etoko na yo mpe tambola. »
+043	JOH	005	012	Batunaki ye lisusu: — Nani alobi na yo bongo?
+043	JOH	005	013	Kasi moto oyo abikaki ayebaki te soki moto oyo abikisaki ye azali nani, pamba te Yesu alimwaki kati na ebele ya bato oyo bazalaki wana.
+043	JOH	005	014	Sima na mwa tango, Yesu amonaki, kati na lopango ya Tempelo, moto oyo abikaki. Alobaki na ye: — Tala, omoni ndenge okomi sik’oyo nzoto kolongono. Kosala lisusu masumu te, noki te likambo moko ya mabe koleka ekomela yo.
+043	JOH	005	015	Moto yango akendeki koyebisa bakambi ya Bayuda ete ezali Yesu nde abikisaki ye.
+043	JOH	005	016	Lokola Yesu azalaki kosala makambo wana na mokolo ya Saba, bakambi ya Bayuda bakomaki kofunda Ye.
+043	JOH	005	017	Kasi Yesu alobaki na bango: « Tata na Ngai azali kosala kino sik’oyo, Ngai mpe nazali kosala. »
+043	JOH	005	018	Mpo na yango, bakambi ya Bayuda bakomaki koluka nzela ya koboma Ye; pamba te azalaki kotosa te mokolo ya Saba, azalaki koloba ete Nzambe azali Tata na Ye, mpe Ye akokani na Nzambe.
+043	JOH	005	019	Yesu alobaki na bango lisusu: Nazali koloba na bino penza ya solo: Mwana akoki kosala eloko moko te na ndenge na Ye moko, kasi azali kosala kaka makambo oyo azali komona Tata na Ye kosala; pamba te makambo nyonso oyo Tata asalaka, yango mpe Mwana asalaka.
+043	JOH	005	020	Boye lokola Tata alingaka Mwana, yango wana alakisaka Ye makambo nyonso oyo Ye moko Tata asalaka; kutu, akolakisa Ye lisusu kosala makambo minene koleka oyo bosili komona kino sik’oyo, mpo ete bokamwa.
+043	JOH	005	021	Ndenge kaka Tata asekwisaka bakufi mpe apesaka bango bomoi, ndenge wana mpe Mwana apesaka bomoi na moto oyo Ye alingi.
+043	JOH	005	022	Lisusu, Tata asambisaka bato te; apesa bokonzi ya kosambisa bato na maboko ya Mwana,
+043	JOH	005	023	mpo ete bato nyonso bakumisa Mwana ndenge bakumisaka Tata. Moto oyo akumisaka Mwana te akumisaka mpe Tata te oyo atindaki Mwana.
+043	JOH	005	024	Nazali koloba na bino penza ya solo: moto oyo azali koyoka maloba na Ngai mpe azali kondima Ye oyo atindaki Ngai, azali na bomoi ya seko mpe akosambisama te, kasi asili kolongwa na kufa mpe akomi na bomoi. (aiōnios g166)
+043	JOH	005	025	Nazali koloba na bino penza ya solo: tango ezali koya mpe esili kokoka oyo bakufi bakoyoka mongongo ya Mwana na Nzambe, mpe ba-oyo bakoyoka yango bakozala na bomoi;
+043	JOH	005	026	pamba te lokola Tata azali etima ya bomoi, yango wana asalaki mpe ete Mwana azala etima ya bomoi;
+043	JOH	005	027	mpe apesaki Ye bokonzi ya kosambisa bato, mpo ete azali Mwana na Moto.
+043	JOH	005	028	Bokamwa yango te, pamba te tango ezali koya, tango oyo bato nyonso oyo bazali kati na bakunda bakoyoka mongongo na Ye
+043	JOH	005	029	mpe bakobima longwa kati na yango: ba-oyo basalaki malamu bakosekwa mpo na kozwa bomoi, kasi ba-oyo basalaki mabe bakosekwa mpo na kozwa etumbu.
+043	JOH	005	030	Nakoki kosala eloko moko te na ndenge na Ngai moko: nakataka makambo kolanda oyo nayokaka kowuta epai na Tata, mpe kosambisa na Ngai ezali sembo; pamba te nalukaka te kosala mokano na Ngai moko, kasi mokano ya Ye oyo atindaki Ngai.
+043	JOH	005	031	Soki napesi litatoli mpo na Ngai moko, litatoli na Ngai ekozala ya solo te.
+043	JOH	005	032	Boye esengeli ete motatoli mosusu apesa yango mpo na Ngai; mpe nayebi ete litatoli oyo akopesa na tina na Ngai ezali ya solo.
+043	JOH	005	033	Botindaki bato epai ya Yoane, mpe ye atatolaki na tina na bosolo.
+043	JOH	005	034	Ngai, nandimaka litatoli ya moto te; kasi nalobi bongo mpo ete bobika.
+043	JOH	005	035	Solo, Yoane azalaki lokola mwinda oyo bapelisi mpe ezali kongenga. Kasi bino, boponaki kosepela na kongenga na ye kaka mpo na mwa tango moke.
+043	JOH	005	036	Nzokande Ngai, nazali na litatoli moko ya monene na tina na Ngai moko koleka kutu oyo ya Yoane: misala oyo nazali kosala na Kombo ya Tata etatolaka na tina na Ngai ete ezali Tata nde atindaki Ngai.
+043	JOH	005	037	Ye moko, Tata, oyo atindaki Ngai atatolaki mpo na Ngai. Botikala nanu te koyoka mongongo na Ye mpe komona elongi na Ye;
+043	JOH	005	038	mpe liloba na Ye ezali kati na bino te, pamba te bondima te Motindami na Ye.
+043	JOH	005	039	Bokundolaka Makomi na bokebi, mpo ete bokanisaka ete bokozwa bomoi ya seko kati na yango; nzokande, Makomi yango etatolaka na tina na Ngai, (aiōnios g166)
+043	JOH	005	040	kasi boboyi na bino koya epai na Ngai mpo na kozwa bomoi.
+043	JOH	005	041	Nalukaka na Ngai te lokumu oyo ewutaka na bato.
+043	JOH	005	042	Kutu nayebi bino malamu, nayebi ete, kati na mitema na bino, bozali na bolingo te mpo na Nzambe.
+043	JOH	005	043	Ngai, nayei na Kombo ya Tata na Ngai, kasi boboyi koyamba Ngai! Nzokande, soki moto mosusu ayei na kombo na ye moko, bokoyamba ye.
+043	JOH	005	044	Lokola bolukaka kaka kopesana lokumu bino na bino mpe boboyaka lokumu oyo ewutaka kaka na Nzambe, ndenge nini bokoki kondima Ngai?
+043	JOH	005	045	Bokanisa te ete Ngai nde nakofunda bino liboso ya Tata na Ngai, ezali Moyize oyo bondimaka nde akofunda bino.
+043	JOH	005	046	Pamba te, soki penza bozalaki kondima Moyize, bolingaki mpe kondima Ngai; pamba te akomaki na tina na Ngai.
+043	JOH	005	047	Kasi soki bozali kondima ata makomi na ye te, ndenge nini bokondima maloba na Ngai?
+043	JOH	006	001	Sima na yango, Yesu akendeki na ngambo mosusu ya ebale ya Galile oyo babengaka mpe ebale ya Tiberiade.
+043	JOH	006	002	Bato ebele bazalaki kolanda Ye mpo ete bazalaki komona bikamwa oyo azalaki kosala na banzoto ya babeli.
+043	JOH	006	003	Yango wana Yesu amataki na ngomba mpe avandaki kuna elongo na bayekoli na Ye.
+043	JOH	006	004	Nzokande Pasika, feti ya Bayuda, ekomaki pene.
+043	JOH	006	005	Tango Yesu atombolaki miso, amonaki ebele ya bato penza koya epai na Ye; alobaki na Filipo: — Tokosomba mapa wapi mpo na koleisa bato oyo nyonso?
+043	JOH	006	006	Yesu atunaki Filipo motuna oyo mpo na komeka ye mpe kotala soki akoloba nini, pamba te Ye, Yesu, ayebaki makambo oyo alingaki kosala.
+043	JOH	006	007	Filipo azongiselaki Yesu: — Mapa oyo tokoki kosomba na mbongo ya bibende nkama mibale ekokoka te mpo ete moto moko na moko kati na bango azwa eteni ya lipa!
+043	JOH	006	008	Moko kati na bayekoli na Ye, oyo kombo na ye ezali Andre, ndeko mobali ya Simona Petelo, alobaki na Ye:
+043	JOH	006	009	— Ezali awa na elenge mobali moko oyo azali na mapa mitano basala na bambuma ya orje, mpe bambisi mibale; kasi yango ekosala nini mpo na ebele ya bato oyo?
+043	JOH	006	010	Yesu apesaki bango mitindo: — Boloba na bato nyonso ete bavanda. Boye, lokola ezalaki na matiti ebele na esika yango, bavandaki. Ezalaki wana na mibali pene nkoto mitano.
+043	JOH	006	011	Bongo Yesu azwaki mapa yango, azongisaki matondi epai ya Nzambe mpe akabolaki yango epai ya bato oyo bazalaki wana; asalaki mpe bongo na bambisi: bato bazwaki kolanda ndenge posa na bango ezalaki.
+043	JOH	006	012	Sima na bato kolia mpe kotonda, Yesu alobaki na bayekoli na Ye: — Bosangisa biteni oyo etikali mpo ete eteni moko te ebeba.
+043	JOH	006	013	Basangisaki biteni yango; mpe na biteni ya mapa mitano basala na bambuma ya orje, oyo etikalaki na maboko ya bato oyo baliaki, batondisaki bitunga zomi na mibale.
+043	JOH	006	014	Tango bato bamonaki bikamwa oyo Yesu awutaki kosala, balobaki: « Azali penza Mosakoli oyo asengelaki koya na mokili. »
+043	JOH	006	015	Kasi, lokola Yesu ayebaki ete bazali na makanisi ya kokamata Ye mpo na kokomisa Ye mokonzi, abendanaki lisusu na ngomba mpo ete azala kaka Ye moko.
+043	JOH	006	016	Tango pokwa ekomaki, bayekoli na Ye bakitaki na ebale
+043	JOH	006	017	epai wapi bamataki na bwato moko, bakatisaki ebale mpo na kokende na Kapernawumi, na ngambo mosusu ya ebale. Butu ekotaki, wana Yesu amikomelaki nanu te epai bango bakomaki.
+043	JOH	006	018	Ekumbaki moko ebandaki kopepa, mpe mayi ya ebale etombokaki.
+043	JOH	006	019	Awa basilaki koluka nkayi na molayi ya bakilometele pene mitano to motoba, bamonaki Yesu kotambola likolo ya mayi ya ebale mpe kopusana pene ya bwato; somo makasi ekangaki bango.
+043	JOH	006	020	Kasi Yesu alobaki na bango: « Kimia! Kimia! Bobanga te! Ezali Ngai! »
+043	JOH	006	021	Balingaki kokotisa Yesu na bwato, kasi, mbala moko, bwato etutaki mabele ya esika oyo bazalaki kokende.
+043	JOH	006	022	Mokolo oyo elandaki, bato oyo batikalaki na ngambo mosusu ya ebale bayaki kokanisa na sima ete ezalaki kaka na bwato moko, mpe ete Yesu akendeki bwato moko te na bayekoli na Ye; bayekoli bakendeki bango moko kaka.
+043	JOH	006	023	Nzokande, babwato mosusu ewutaki na Tiberiade mpe ekomaki pene ya esika oyo baliaki mapa sima na Nkolo kozongisa matondi epai ya Nzambe.
+043	JOH	006	024	Tango bato bamonaki ete, ezala Yesu to bayekoli na Ye, moko te azalaki lisusu wana, bamataki na babwato yango mpe bakendeki koluka Yesu, na Kapernawumi.
+043	JOH	006	025	Tango bakutaki Ye na ngambo mosusu ya ebale, batunaki Ye: — Rabi, okomaki awa tango nini?
+043	JOH	006	026	Yesu azongiselaki bango: — Nazali koloba na bino penza ya solo: soki bozali koluka Ngai, ezali kaka mpo ete boliaki mapa mpe botondaki, kasi ezali te mpo ete bomonaki bikamwa.
+043	JOH	006	027	Bosalaka te mpo na bilei oyo ebebaka, kasi bosalaka mpo na bilei oyo ewumelaka mpo na bomoi ya seko, bilei oyo Mwana na Moto akopesa bino; pamba te ezali Ye nde Nzambe Tata abeta kashe. (aiōnios g166)
+043	JOH	006	028	Batunaki Ye lisusu: — Tosengeli kosala nini mpo na kokokisa misala oyo Nzambe azali kozela epai na biso?
+043	JOH	006	029	Yesu azongiselaki bango: — Mosala ya Nzambe, yango oyo: bondima Ye oyo Nzambe atindaki.
+043	JOH	006	030	Batunaki Ye lisusu: — Elembo nini ya kokamwa okolakisa biso mpo ete tondima Yo? Okosala penza nini?
+043	JOH	006	031	Bakoko na biso baliaki mana kati na esobe kolanda ndenge ekomama: « Apesaki bango lipa kowuta na Likolo. »
+043	JOH	006	032	Kasi Yesu azongiselaki bango: — Nazali koloba na bino penza ya solo: ezali Moyize te moto apesaki bino lipa oyo ezalaki kowuta na Likolo, kasi ezali Tata na Ngai nde apesaka bino lipa ya solo oyo ewutaka na Likolo.
+043	JOH	006	033	Pamba te lipa ya Nzambe ezali Ye oyo akiti wuta na Likolo mpe apesaka mokili bomoi.
+043	JOH	006	034	Bongo balobaki na Ye: — Nkolo, pesaka biso lipa yango tango nyonso.
+043	JOH	006	035	Yesu azongiselaki bango: — Ngai nazali lipa oyo epesaka bomoi. Moto nyonso oyo akoya epai na Ngai akoyoka lisusu nzala te, mpe moto nyonso oyo akondima Ngai akoyoka lisusu posa ya mayi te.
+043	JOH	006	036	Nzokande, ndenge nayebisaki bino, bozali komona Ngai, kasi bozali kondima te.
+043	JOH	006	037	Bato nyonso oyo Tata apesi Ngai bakoya epai na Ngai, mpe nakobengana soki moke te moto nyonso oyo akoya epai na Ngai.
+043	JOH	006	038	Pamba te soki nakitaki wuta na Likolo, ezali te mpo na kosala mokano na Ngai moko, kasi mpo na kokokisa mokano ya Ye oyo atindaki Ngai.
+043	JOH	006	039	Nzokande, Ye oyo atindaki Ngai alingi ete nabungisa ata moto moko te kati na bato oyo apesaki Ngai, kasi nasekwisa bango na mokolo ya suka.
+043	JOH	006	040	Pamba te mokano ya Tata na Ngai ezali ete moto nyonso oyo amoni Mwana mpe andimi Ye azwa bomoi ya seko; mpe, Ngai, nakosekwisa ye na mokolo ya suka. (aiōnios g166)
+043	JOH	006	041	Bayuda bakomaki koyimayima na tina na Ye mpo ete alobaki: « Ngai, nazali lipa oyo ekiti wuta na Likolo. »
+043	JOH	006	042	Bakomaki koloba: — Boni, wana ezali Yesu te? Ezali mwana mobali ya Jozefi te? Toyebi malamu tata mpe mama na ye! Bongo ndenge nini azali koloba: « Nawuti na Likolo? »
+043	JOH	006	043	Yesu azongiselaki bango: — Botika koyimayima kati na bino!
+043	JOH	006	044	Moto moko te akoki koya epai na Ngai soki Tata oyo atindaki Ngai abendi ye te; mpe Ngai, nakosekwisa ye na mokolo ya suka.
+043	JOH	006	045	Tala ndenge ekomama kati na mikanda ya Basakoli: « Nzambe akoteya bango nyonso. » Boye moto nyonso oyo ayokaka Tata mpe ayambaka mateya na Ye ayaka epai na Ngai.
+043	JOH	006	046	Moto moko te amona Tata, longola kaka Ye oyo ayaki wuta epai ya Nzambe.
+043	JOH	006	047	Nazali koloba na bino penza ya solo: moto oyo andimi azali na bomoi ya seko, (aiōnios g166)
+043	JOH	006	048	pamba te nazali lipa oyo epesaka bomoi.
+043	JOH	006	049	Bakoko na bino baliaki mana kati na esobe mpe bakufaki,
+043	JOH	006	050	kasi botala lipa oyo ewuti na Likolo; moto oyo akolia yango akokufa te.
+043	JOH	006	051	Ngai nde nazali lipa ya bomoi oyo ewuti na Likolo; moto nyonso oyo akolia lipa yango, akozala na bomoi ya seko; mpe lipa oyo nakopesa mpo ete mokili ezwa bomoi ezali nde nzoto na Ngai. (aiōn g165)
+043	JOH	006	052	Tango Bayuda bayokaki bongo, bakomaki kotiana tembe; bazalaki koloba: — Akopesa biso nzoto na ye ndenge nini mpo ete tolia yango?
+043	JOH	006	053	Bongo Yesu alobaki na bango: — Nazali koloba na bino penza ya solo: soki bolie nzoto ya Mwana na Moto te mpe bomeli makila na Ye te, bozali na bomoi te kati na bino.
+043	JOH	006	054	Moto oyo alie nzoto na Ngai mpe ameli makila na Ngai, azali na bomoi ya seko; mpe Ngai, nakosekwisa ye na mokolo ya suka. (aiōnios g166)
+043	JOH	006	055	Pamba te nzoto na Ngai ezali penza bilei, mpe makila na Ngai ezali penza lokola mayi oyo bamelaka.
+043	JOH	006	056	Moto oyo alie nzoto na Ngai mpe ameli makila na Ngai azali kati na Ngai, mpe Ngai nazali kati na ye.
+043	JOH	006	057	Ndenge Tata oyo atindaki Ngai azali etima ya bomoi mpe Ngai nazali na bomoi na nzela na Ye, ndenge wana mpe moto oyo alie nzoto na Ngai akozala na bomoi na nzela na Ngai.
+043	JOH	006	058	Tala ndenge lipa oyo ewuti na Likolo ezali: ekokani te na mana oyo bakoko na bino baliaki, kasi bakufaki kaka; nzokande, moto oyo akolia lipa oyo Ngai nazali akozala na bomoi ya seko. (aiōn g165)
+043	JOH	006	059	Wana nde ezalaki mateya ya Yesu kati na ndako ya mayangani ya Kapernawumi.
+043	JOH	006	060	Sima na koyoka Ye, bayekoli mingi ya Yesu balobaki: — Mateya oyo ezali makasi mingi, nani akoki kondima yango?
+043	JOH	006	061	Yesu asosolaki ete bayekoli na Ye bazalaki koyimayima na tina na yango; alobaki na bango: — Boni, maloba oyo ebetisi bino mabaku?
+043	JOH	006	062	Bongo ekozala ndenge nini soki bomoni Mwana na Moto kozonga epai Ye azalaki liboso?
+043	JOH	006	063	Ezali Molimo nde apesaka bomoi; mosuni ezali na eloko te. Maloba oyo nalobi na bino ezali Molimo mpe bomoi.
+043	JOH	006	064	Kasi bato mosusu kati na bino bazali kondima te. Solo, wuta na ebandeli, Yesu ayebaki banani bazalaki kondima te, mpe nani akoteka Ye.
+043	JOH	006	065	Alobaki lisusu: — Yango wana nalobaki na bino: « Moto moko te akoki koya epai na Ngai soki epesameli ye te na Tata. »
+043	JOH	006	066	Banda na tango wana, bayekoli na Ye mingi bazongaki mpe batikaki kolanda Ye.
+043	JOH	006	067	Boye, Yesu alobaki na bantoma zomi na mibale: — Boni, bino mpe bolingi kokende?
+043	JOH	006	068	Simona Petelo azongisaki: — Nkolo, tokokende epai ya nani? Yo nde ozali na maloba ya bomoi ya seko. (aiōnios g166)
+043	JOH	006	069	Biso, tondimi mpe toyebi ete ozali Mosantu ya Nzambe.
+043	JOH	006	070	Yesu alobaki na bango: — Boni, ezali Ngai te nde naponaki bino nyonso zomi na mibale? Nzokande, moko kati na bino azali Satana!
+043	JOH	006	071	Yesu azalaki nde koloba na tina na Yuda, mwana mobali ya Simona Isikarioti, oyo, kati na bantoma zomi na mibale, asengelaki koteka Ye.
+043	JOH	007	001	Sima na yango, Yesu atambolaki na mokili ya Galile, aboyaki kovanda na Yuda, pamba te Bayuda bazalaki koluka koboma Ye.
+043	JOH	007	002	Nzokande, feti ya Bandako ya kapo, feti ya Bayuda, ekomaki pene.
+043	JOH	007	003	Bandeko ya Yesu balobaki na Ye: — Longwa awa na Galile mpe kende na Yuda, mpo ete bayekoli na Yo bamona kuna bikamwa oyo ozali kosala.
+043	JOH	007	004	Moto moko te asalaka na nkuku soki alingi koyebana. Lokola ozali kosala makambo minene koleka, sala ete moto nyonso kati na mokili ayeba soki ozali nani.
+043	JOH	007	005	Pamba te, ezala bandeko ya Yesu, bango mpe bazalaki kondima Ye te.
+043	JOH	007	006	Yesu azongiselaki bango: — Tango na Ngai ekoki nanu te; kasi mpo na bino, tango nyonso ezali malamu.
+043	JOH	007	007	Mokili ekoki koyina bino te; kasi Ngai, ezali koyina Ngai mpo ete natatolaka ete misala na yango ezali mabe.
+043	JOH	007	008	Bino, bokende na feti wana; kasi Ngai, nakokende te, pamba te tango na Ngai ekoki nanu te.
+043	JOH	007	009	Sima na Ye koloba na bango bongo, atikalaki na Galile.
+043	JOH	007	010	Nzokande, tango bandeko na Ye bakendeki na feti, Ye mpe akendeki kuna, na komilakisa te, kasi na nkuku.
+043	JOH	007	011	Wana bazalaki kati na feti, Bayuda bazalaki koluka Ye mpe bazalaki kotuna-tuna: « Azali wapi? »
+043	JOH	007	012	Kati na bato, tembe ekomaki makasi na tina na Ye. Bamoko bazalaki koloba: Azali moto malamu; bamosusu: « Te, azali kokosa bato nyonso. »
+043	JOH	007	013	Kasi, lokola bango nyonso bazalaki kobanga Bayuda, moto ata moko te akokaki koloba na bonsomi nyonso na tina na Yesu.
+043	JOH	007	014	Tango mikolo ya feti ekomaki na kati-kati, Yesu akendeki na Tempelo mpe akomaki koteya.
+043	JOH	007	015	Bayuda bakamwaki mpe bazalaki kotunana: — Ndenge nini moto oyo ayekola te akoki koyeba Makomi boye?
+043	JOH	007	016	Yesu azongiselaki bango: — Makambo oyo nazali koteya ewuti epai na Ngai te, kasi ewuti epai na Ye oyo atindi Ngai.
+043	JOH	007	017	Moto nyonso oyo azwi mokano ya kosala makambo oyo Nzambe alingaka, akososola soki mateya na Ngai ewuti na Nzambe to nazali koloba na ndenge na Ngai moko.
+043	JOH	007	018	Moto oyo alobaka na kombo na ye moko alukaka lokumu na ye moko; kaka oyo azali koluka lokumu ya Nzambe oyo atindaki Ye nde azali koloba solo, mpe mabe ezali te kati na Ye.
+043	JOH	007	019	Boni, Moyize apesaki bino mibeko te? Nzokande moko te kati na bino atosaka yango! Bongo mpo na nini bozali koluka koboma Ngai?
+043	JOH	007	020	Bato kati na ngulupa bazongiselaki Yesu: — Ozali na molimo mabe. Nani azali koluka koboma yo?
+043	JOH	007	021	Yesu alobaki na bango: — Mpo na likamwisi moko oyo nasalaki, yango wana bino nyonso bokamwe!
+043	JOH	007	022	Bokanisa nanu: Moyize apesaki bino mitindo ya kokatisa ngenga, —mobeko yango ewutaki kutu na Moyize te, kasi na bakoko— mpe botosaka mitindo yango ata na mokolo ya Saba.
+043	JOH	007	023	Bongo soki bokataka bato ngenga na mokolo ya Saba, mpe yango ebukaka mobeko ya Moyize te, mpo na nini bozali kosilikela Ngai mpo ete nabikisi moto na mokolo ya Saba?
+043	JOH	007	024	Bosambisaka lisusu te kolanda oyo miso na bino ezali komona, kasi bokataka makambo na bosembo.
+043	JOH	007	025	Na bongo, ndambo ya bavandi ya Yelusalemi bakomaki komituna: « Azali te moto oyo bazali koluka koboma?
+043	JOH	007	026	Tala, azali koloba na bonsomi nyonso, mpe bazali koloba na ye eloko moko te mpo na kotelemela ye! Boni, bokanisi ete bakonzi na biso bayebi ete azali penza Klisto?
+043	JOH	007	027	Kasi biso, toyebi epai moto oyo awuti; nzokande tango Klisto akoya, moto moko te akoyeba soki azali moto ya engumba nini! »
+043	JOH	007	028	Kaka na tango yango, wana Yesu azalaki koteya kati na Tempelo, alobaki na mongongo makasi: — Solo, boyebi Ngai mpe boyebi epai nawuti! Nzokande, nayei na ndenge na Ngai moko te; ezali Ye oyo azali penza ya solo nde atindi Ngai, mpe bino, boyebi Ye te.
+043	JOH	007	029	Ngai, nayebi Ye, pamba te nawuti epai na Ye, mpe ezali Ye nde atindi Ngai.
+043	JOH	007	030	Na bongo, balukaki kokanga Yesu, kasi moto ata moko te alongaki; pamba te tango na Ye ekokaki nanu te.
+043	JOH	007	031	Boye kati na bato, mingi bandimaki Ye; bazalaki koloba: — Boni, tango Klisto akoya, akosala bikamwa mingi koleka oyo moto oyo ozali kosala?
+043	JOH	007	032	Bafarizeo bayokaki makambo oyo bato bazalaki koloba na se se na tina na Yesu. Bongo bakonzi ya Banganga-Nzambe mpe Bafarizeo batindaki bakengeli ya Tempelo mpo na kokanga Yesu.
+043	JOH	007	033	Yesu alobaki: — Nazali nanu elongo na bino mpo na mwa tango moke, bongo nakozonga epai ya Ye oyo atindaki Ngai.
+043	JOH	007	034	Bokoluka Ngai, kasi bokomona Ngai te; mpe epai Ngai nakozala, bino, bokoki te koya kuna.
+043	JOH	007	035	Bayuda balobanaki bango na bango: — Asengeli kokende wapi mpo ete tomona ye lisusu te? Akokende epai ya Bayuda oyo bapalangana kati na Bagreki mpe koteya Bagreki?
+043	JOH	007	036	Alingi penza koloba nini tango azali koloba: « Bokoluka Ngai, kasi bokomona Ngai te; mpe epai Ngai nakozala, bino, bokoki te koya kuna? »
+043	JOH	007	037	Na mokolo ya suka ya feti, mokolo oyo eleki monene, Yesu atelemaki mpe alobaki na mongongo makasi: — Tika ete moto nyonso oyo azali na posa ya mayi aya epai na Ngai mpe amela.
+043	JOH	007	038	Moto oyo akondima Ngai, kolanda ndenge Makomi elobi, bibale ya mayi ya bomoi ekotiola wuta kati na ye.
+043	JOH	007	039	Yesu alobaki bongo na tina na Molimo oyo bato oyo bakotia kondima na bango kati na Ye bakozwa; mpo ete na tango wana, Molimo apesamaki nanu te, pamba te Yesu akotaki nanu te kati na nkembo na Ye.
+043	JOH	007	040	Kati na bato oyo bayokaki maloba na Ye, bamoko bazalaki koloba: « Moto oyo azali penza Mosakoli, »
+043	JOH	007	041	bamosusu: « Azali Klisto, » kasi bamosusu lisusu: « Boni, Klisto akoki kobimela na Galile?
+043	JOH	007	042	Boni, Makomi ezali koloba te ete Klisto akobimela na libota ya Davidi mpe akobotama na Beteleemi, mboka ya Davidi? »
+043	JOH	007	043	Ezali bongo nde bato bakabwanaki na tina na Yesu.
+043	JOH	007	044	Bamosusu kati na bango balukaki kokanga Ye, kasi moto ata moko te alongaki.
+043	JOH	007	045	Bakengeli ya Tempelo bazongaki epai ya bakonzi ya Banganga-Nzambe mpe Bafarizeo. Bakonzi ya Banganga-Nzambe mpe Bafarizeo batunaki bakengeli: — Mpo na nini bomemi Yesu awa te?
+043	JOH	007	046	Bakengeli bazongisaki: — Ezali na moto ata moko te oyo asila koloba makambo oyo moto wana azali koloba.
+043	JOH	007	047	Bafarizeo batunaki lisusu: — Bino mpe bomitiki penza mpo ete akosa bino?
+043	JOH	007	048	Boni, kati na bakonzi to kati na Bafarizeo, ezali ata na moko oyo andimi ye?
+043	JOH	007	049	Ezali kaka bato oyo bayebi mibeko ya Moyize te, bazali penza bato balakelama mabe!
+043	JOH	007	050	Kasi moko kati na bango, Nikodemi, oyo, mokolo moko, akendeki epai ya Yesu, alobaki:
+043	JOH	007	051	— Boni, mibeko na biso ekoki kokatela moto etumbu na kozanga koyoka ye liboso, mpe na kozanga koyeba mabe oyo asili kosala?
+043	JOH	007	052	Bazongiselaki ye: — Boni, yo mpe ozali moto ya Galile? Kundola malamu Makomi, mpe okomona penza ete mosakoli moko te abimela na Galile. [
+043	JOH	007	053	Na bongo, moko na moko azongaki na ndako na ye.
+043	JOH	008	001	Kasi Yesu akendeki na ngomba ya banzete ya olive.
+043	JOH	008	002	Na tongo-tongo ya mokolo oyo elandaki, azongaki kati na lopango ya Tempelo; mpe lokola bato nyonso bayaki kozingela Ye, avandaki mpe abandaki koteya bango.
+043	JOH	008	003	Balakisi ya Mobeko mpe Bafarizeo bakumbaki mwasi moko oyo bakutaki azali kosala ekobo; batambolisaki ye kati na ebele ya bato mpe batiaki ye liboso ya Yesu, na miso ya bato nyonso.
+043	JOH	008	004	Balobaki na Yesu: — Moteyi, mwasi oyo asali ekobo; bakuti ye penza azali kosala yango!
+043	JOH	008	005	Kati na mibeko, Moyize apesa biso mitindo ya koboma basi ya boye na mabanga. Bongo yo, olobi nini na tina na yango?
+043	JOH	008	006	Balobaki bongo mpo na kotiela Yesu motambo mpe koluka nzela ya kofunda Ye. Kasi Yesu agunzamaki; mpe na nzela ya mosapi na Ye, abandaki kokoma na mabele.
+043	JOH	008	007	Lokola bakobaki kaka kopesa Ye mituna, Yesu atelemaki mpe alobaki na bango: — Tika ete moto oyo, kati na bino, asala nanu lisumu te abamba ye libanga moto ya liboso.
+043	JOH	008	008	Bongo Yesu agunzamaki lisusu mpe azongelaki kokoma na mabele.
+043	JOH	008	009	Tango bayokaki bongo, bango nyonso babendanaki moko sima na moninga, kobanda na mikolo. Mpe Yesu atikalaki Ye moko. Lokola mwasi yango azalaki kaka wana kati na lopango ya Tempelo,
+043	JOH	008	010	Yesu atombolaki moto mpe alobaki na ye: — Mwasi, bato oyo bayei kofunda yo bazali wapi? Boni, ata moko te akateli yo etumbu?
+043	JOH	008	011	Mwasi azongisaki: — Nkolo, moko te! Bongo Yesu alobaki na ye: — Ngai mpe nakateli yo etumbu te. Kende; kasi, kobanda lelo, kosala lisusu masumu te.]
+043	JOH	008	012	Yesu alobaki lisusu na bato: — Nazali pole ya mokili; moto nyonso oyo alandaka Ngai akotikala kotambola kati na molili te, kasi akozwa pole ya bomoi.
+043	JOH	008	013	Bafarizeo balobaki na Ye: — Ozali kotatola mpo na yo moko, litatoli na yo ezali ya solo te.
+043	JOH	008	014	Yesu azongiselaki bango: — Ezala soki natatoli mpo na Ngai moko, litatoli na Ngai ezali ya solo, pamba te nayebi epai nawuti mpe epai nazali kokende; kasi bino, boyebi te ezala epai nawuti to epai nazali kokende.
+043	JOH	008	015	Bino, bosambisaka na ndenge ya bomoto; kasi Ngai, nasambisi moto ata moko te.
+043	JOH	008	016	Mpe ezala soki esalemi ete Ngai nasambisi moto, kosambisa na Ngai ezali ya solo, pamba te nazali Ngai moko te: Tata oyo atindi Ngai azali elongo na Ngai.
+043	JOH	008	017	Ekomama kutu, kati na mibeko na bino, ete litatoli ya bato mibale nde ezalaka ya solo.
+043	JOH	008	018	Ngai, nazali kopesa litatoli na tina na Ngai moko, mpe Tata oyo atindaki Ngai azali lisusu kotatola na tina na Ngai.
+043	JOH	008	019	Bongo batunaki Ye: — Tata na yo azali wapi? Yesu azongisaki: — Boyebi Ngai te, mpe boyebi Tata na Ngai te. Soki boyebaki Ngai, bolingaki mpe koyeba Tata na Ngai.
+043	JOH	008	020	Yesu alobaki bongo, wana azalaki koteya kati na lopango ya Tempelo, pene ya esika oyo bazalaki kotia makabo; mpe moto ata moko te amekaki kokanga Ye, pamba te tango na Ye ekokaki nanu te.
+043	JOH	008	021	Yesu alobaki na bango lisusu: — Ngai, nazali kokende; mpe bokoluka Ngai, kasi bokokufa kati na lisumu na bino. Epai Ngai nazali kokende, bino, bokoki te koya kuna.
+043	JOH	008	022	Na bongo, Bayuda batunanaki bango na bango: — Boni, azali na makanisi ya komiboma, yango wana alobi: « Epai Ngai nazali kokende, bino, bokokoka te koya kuna? »
+043	JOH	008	023	Yesu azongiselaki bango: — Bino, bozali bato ya se; kasi Ngai, nawuti na Likolo. Bino, bozali bato ya mokili oyo; kasi Ngai, nazali ya mokili oyo te.
+043	JOH	008	024	Yango wana nalobaki na bino: « Bokokufa kati na lisumu na bino; » pamba te soki bondimi te ete « Nazali oyo azali, » bokokufa kati na lisumu na bino.
+043	JOH	008	025	Batunaki Ye: — Boye ozali nani? Yesu azongiselaki bango: — Oyo nazali koloba na bino wuta na ebandeli.
+043	JOH	008	026	Nazali na makambo mingi ya koloba na tina na bino mpe ya kosambisa kati na bino; kasi Ye oyo atindaki Ngai azali solo, mpe makambo oyo nayokaki epai na Ye, yango nde nazali koyebisa mokili.
+043	JOH	008	027	Kasi bazalaki kososola te ete Yesu azalaki koloba na bango na tina na Tata.
+043	JOH	008	028	Alobaki lisusu: — Sima na bino kotombola Mwana na Moto nde bokoyeba ete, Ngai, nazali oyo azali, mpe ete nasalaka eloko moko te na ndenge na Ngai moko, kasi nalobaka kolanda makambo oyo Tata ateyaki Ngai.
+043	JOH	008	029	Ye oyo atindaki Ngai azali elongo na Ngai; atikaki Ngai moko te, pamba te, Ngai, nasalaka tango nyonso makambo oyo esepelisaka Ye.
+043	JOH	008	030	Wana Yesu azalaki koloba bongo, bato mingi bandimaki Ye.
+043	JOH	008	031	Bongo Yesu alobaki na Bayuda oyo bandimaki Ye: — Soki bowumeli kati na Liloba oyo nateyaki bino, bokozala penza bayekoli na Ngai,
+043	JOH	008	032	bokoyeba solo, mpe solo ekokangola bino.
+043	JOH	008	033	Bazongiselaki Ye: — Biso, tozali bato ya libota ya Abrayami, totikala kozala te bawumbu ya moto; ndenge nini oloba ete tokokoma bansomi?
+043	JOH	008	034	Yesu azongiselaki bango: — Nazali koloba na bino penza ya solo: moto nyonso oyo asalaka masumu azali mowumbu ya lisumu.
+043	JOH	008	035	Nzokande, mowumbu azalaka kati na libota tango nyonso te, kasi mwana azali kati na yango mpo na seko. (aiōn g165)
+043	JOH	008	036	Boye, soki Mwana akangoli bino, bokozala penza bansomi.
+043	JOH	008	037	Nayebi ete bozali bato ya libota ya Abrayami; nzokande, bozali koluka koboma Ngai, pamba te boboyi koyamba Liloba na Ngai.
+043	JOH	008	038	Ngai, nazali koloba makambo oyo namonaki epai ya Tata na Ngai; bino mpe bozali kosala makambo oyo boyokaki epai ya tata na bino.
+043	JOH	008	039	Bazongisaki: — Ezali Abrayami nde azali tata na biso. Yesu alobaki na bango: — Soki bozalaki bana ya Abrayami, bolingaki kosala misala oyo Abrayami asalaki.
+043	JOH	008	040	Kasi sik’oyo, na esika ete bosala yango, bozali koluka koboma Ngai, Ngai oyo nalobi na bino solo oyo nayokaki epai ya Nzambe! Abrayami atikala kosala bongo te.
+043	JOH	008	041	Bozali penza kosala misala ya tata na bino. Bazongisaki: — Tozali bana ya makangu te; tozali kaka na tata moko: Nzambe!
+043	JOH	008	042	Yesu alobaki na bango: — Soki Nzambe azalaki penza Tata na bino, bolingaki kolinga Ngai, pamba te nawutaki epai ya Nzambe, mpe ezali kolanda mokano na Ye nde nazali sik’oyo awa. Nayaki na ndenge na Ngai moko te, kasi Ye nde atindaki Ngai.
+043	JOH	008	043	Mpo na nini bozali kososola te elobeli na Ngai? Ezali mpo ete bozali kokoka te koyoka makambo oyo nazali koloba na bino.
+043	JOH	008	044	Ezali Satana nde azali tata na bino, mpe bolingi nde kaka kokokisa posa ya tata na bino. Wuta na ebandeli, ye azala mobomi; avandaka kati na solo te, pamba te solo ezalaka te kati na ye. Tango akosaka, alobaka penza makambo oyo ewutaka kati na ye; pamba te azali mokosi mpe tata ya lokuta.
+043	JOH	008	045	Kasi Ngai, lokola nalobi solo, yango wana bozali kondima Ngai te.
+043	JOH	008	046	Nani kati na bino akoki kotalisa Ngai ete nasali masumu? Soki nalobaka solo, mpo na nini bondimaka Ngai te?
+043	JOH	008	047	Moto oyo azali ya Nzambe ayokaka makambo oyo Nzambe alobaka; kasi soki bino boyokaka te, ezali mpo ete bozali ya Nzambe te.
+043	JOH	008	048	Bayuda bazongiselaki Ye: — Omoni! Yango wana tolobaki na biso ete ozali moto ya Samari mpe ozali na molimo mabe kati na yo.
+043	JOH	008	049	Yesu azongisaki: — Nazali na molimo mabe te kati na Ngai. Ngai nazali nde kopesa Tata na Ngai lokumu, kasi bino bozali kotiola Ngai.
+043	JOH	008	050	Nalukaka lokumu na Ngai moko te; ezali na Moko oyo alukaka yango mpe asambisaka.
+043	JOH	008	051	Nazali koloba na bino penza ya solo: moto oyo akobatela Liloba na Ngai kati na ye akotikala kokufa te. (aiōn g165)
+043	JOH	008	052	Na yango, Bayuda balobaki na Ye: — Tomoni sik’oyo ete ozali na molimo mabe kati na yo! Pamba te Abrayami asila kokufa, basakoli mpe lokola; bongo yo ozali koloba ete moto oyo akobatela Liloba na yo kati na ye akotikala kokufa te! (aiōn g165)
+043	JOH	008	053	Boni, yo okanisi ete oleki Abrayami, tata na biso, oyo akufa to mpe oleki basakoli nyonso oyo bakufa? Yango yo, ozali komimona nani?
+043	JOH	008	054	Yesu azongiselaki bango: — Soki namipesaki Ngai moko lokumu, lokumu na Ngai elingaki kozala na tina te. Kasi ezali Tata na Ngai, Ye oyo bino bozali koloba ete azali Nzambe na bino, nde azali kopesa Ngai lokumu.
+043	JOH	008	055	Solo, bino, boyebi Ye te; kasi Ngai, nayebi Ye. Soki nameki koloba ete nayebi Ye te, wana nakozala mokosi lokola bino. Kasi nayebi Ye mpe nabatelaka Liloba na Ye.
+043	JOH	008	056	Tata na bino, Abrayami, atondaki na esengo, wana akanisaki ete akomona mokolo na Ngai. Amonaki yango mpe atondaki na esengo.
+043	JOH	008	057	Bayuda balobaki na Ye: — Nini? Yo moto oyo okokisi nanu te ata mibu tuku mitano ya mbotama, ozali koloba ete omonaki Abrayami!
+043	JOH	008	058	Yesu azongisaki: — Nazali koloba na bino penza ya solo: liboso ete Abrayami abotama, Ngai nazali.
+043	JOH	008	059	Tango Bayuda bayokaki bongo, balokotaki mabanga mpo na kobamba Yesu, kasi abombamaki mpe abimaki libanda ya lopango ya Tempelo.
+043	JOH	009	001	Wana Yesu azalaki kokende, amonaki moto moko akufa miso wuta mbotama na ye.
+043	JOH	009	002	Bayekoli na Ye batunaki Ye: — Moteyi, nani asalaki masumu mpo ete moto oyo abotama mokufi miso: boni, ezali ye moko to baboti na ye?
+043	JOH	009	003	Yesu azongisaki: — Ezali te mpo na masumu na ye to ya baboti na ye, kasi ezali mpo ete misala ya Nzambe emonisama kati na ye.
+043	JOH	009	004	Lokola moyi ezali, esengeli na Ngai kosala misala ya Ye oyo atindaki Ngai; butu ezali koya, oyo moto ata moko te akokoka kosala mosala.
+043	JOH	009	005	Wana nazali kati na mokili, nazali pole ya mokili.
+043	JOH	009	006	Sima na Yesu koloba bongo, abwakaki soyi na mabele mpe, na nzela ya soyi na Ye, asalaki potopoto. Bongo apakolaki yango na miso ya mokufi miso
+043	JOH	009	007	mpe alobaki na ye: — Kende kosukola na liziba ya Siloe. Mokufi miso akendeki mpe asukolaki. Tango azongaki, abandaki komona.
+043	JOH	009	008	Bato oyo bazalaki zingazinga na ye mpe ba-oyo bazalaki komona ye kosenga-senga mbongo bakomaki koloba: — Boni, ezali ye te moto oyo azalaki tango nyonso ya kovanda mpo na kosenga-senga mbongo?
+043	JOH	009	009	Bamoko bazalaki koloba: — Ezali ye! Bamosusu: — Te, ezali ye te; akokani na ye! Kasi ye moko, mokufi miso, azalaki koloba: — Ezali ngai!
+043	JOH	009	010	Bongo batunaki ye: — Miso na yo ebikaki ndenge nini?
+043	JOH	009	011	Azongiselaki bango: — Moto oyo babengaka Yesu asalaki potopoto, apakolaki ngai yango na miso, bongo alobaki na ngai: « Kende kosukola na Siloe. » Boye, nakendeki, nasukolaki mpe, mbala moko, nakomaki komona.
+043	JOH	009	012	Batunaki ye lisusu: — Moto yango azali wapi? Azongisaki: — Nayebi te!
+043	JOH	009	013	Bamemaki liboso ya Bafarizeo, mokufi miso oyo abikaki.
+043	JOH	009	014	Nzokande mokolo oyo Yesu asalaki potopoto mpo na kobikisa miso ya mokufi miso yango ezalaki mokolo ya Saba.
+043	JOH	009	015	Yango wana Bafarizeo mpe batunaki ye soki ndenge nini miso na ye ebikaki. Azongiselaki bango: — Atiaki ngai potopoto na miso, nasukolaki mpe nakomi komona.
+043	JOH	009	016	Kati na Bafarizeo, bamoko balobaki: — Moto oyo awuti epai ya Nzambe te, mpo ete azali kotosa te mokolo ya Saba. Kasi bamosusu balobaki: — Ndenge nini moto ya masumu akoki kozwa bokonzi ya kosala bikamwa ya ndenge wana? Bokabwani ekotaki kati na bango.
+043	JOH	009	017	Batunaki lisusu mokufi miso: — Bongo yo, olobi nini na tina na ye, pamba te ezali miso na yo nde abikisi? Azongiselaki bango: — Azali mosakoli.
+043	JOH	009	018	Bayuda baboyaki kondima ete azalaki liboso mokufi miso mpe ete abiki. Boye, babengaki baboti na ye
+043	JOH	009	019	mpe batunaki bango: — Mobali oyo azali mwana na bino? Boni, abotama solo mokufi miso? Ndenge nini sik’oyo akomi komona?
+043	JOH	009	020	Baboti na ye bazongisaki: — Toyebi ete azali mwana na biso mpe ete abotama mokufi miso;
+043	JOH	009	021	kasi mpo na oyo etali koyeba ndenge nini akomi komona sik’oyo mpe nani abikisi ye, toyebi eloko te. Botuna ye moko. Azali mokolo; akoloba na tina na ye moko.
+043	JOH	009	022	Baboti na ye balobaki bongo mpo ete bazalaki kobanga Bayuda, pamba te Bayuda basilaki kozwa mokano ya kobengana, na ndako na bango ya mayangani, moto nyonso oyo akondima ete Yesu azali Klisto.
+043	JOH	009	023	Yango wana baboti na ye bazongisaki: « Botuna ye moko, azali mokolo. »
+043	JOH	009	024	Bafarizeo babengisaki lisusu, mpo na mbala ya mibale, moto oyo azalaki mokufi miso mpe balobaki na ye: — Pesa Nzambe nkembo na koloba solo; biso toyebi ete moto wana azali moto ya masumu.
+043	JOH	009	025	Azongiselaki bango: — Soki azali moto ya masumu, wana ngai nayebi yango te; kasi ngai nayebi kaka likambo moko: nazalaki mokufi miso, kasi sik’oyo, nakomi komona.
+043	JOH	009	026	Batunaki ye lisusu: — Asalaki yo nini? Abikisaki miso na yo ndenge nini?
+043	JOH	009	027	Azongiselaki bango: — Nasilaki koyebisa bino yango, kasi boyokaki te. Bongo mpo na nini bolingi lisusu koyoka yango? Boni, bino mpe bolingi kokoma bayekoli na ye?
+043	JOH	009	028	Bongo Bafarizeo bakomaki kofinga ye mpe koloba: — Ezali yo nde ozali moyekoli na ye; biso tozali bayekoli ya Moyize.
+043	JOH	009	029	Toyebi ete Nzambe alobaki na Moyize; kasi moto wana, toyebi kutu te soki awuti wapi!
+043	JOH	009	030	Moto yango azongisaki: — Oh, ezali penza likambo ya kokamwa soki boyebi te epai nini awuti! Kasi mpo na ngai, abikisi miso na ngai.
+043	JOH	009	031	Toyebi biso nyonso ete Nzambe ayokaka bato ya masumu te, kasi ayokaka nde moto oyo atosaka Ye mpe asalaka mokano na Ye.
+043	JOH	009	032	Mpe totikala nanu koyoka te ete moto abikisi moto moko akufa miso wuta mbotama na ye. (aiōn g165)
+043	JOH	009	033	Soki moto wana awutaki epai ya Nzambe te, akokaki kosala ata eloko moko te.
+043	JOH	009	034	Bazongiselaki ye: — Ndenge nini yo moto oyo obotama mobimba kati na lisumu oteya biso? Boye, babenganaki ye.
+043	JOH	009	035	Tango Yesu ayokaki ete babengani moto wana, akendeki kokutana na ye mpe alobaki na ye: — Boni, ondimi Mwana na Moto?
+043	JOH	009	036	Moto wana azongiselaki Ye: — Nkolo, azali nani? Yebisa ngai mpo ete nandima Ye.
+043	JOH	009	037	Yesu alobaki: — Omoni Ye! Ezali Ye oyo azali koloba na yo.
+043	JOH	009	038	Moto yango azongisaki: — Nkolo, nandimi. Mpe agumbamelaki Ye.
+043	JOH	009	039	Yesu alobaki: — Nayaki mpo na kotia bososoli kati na mokili; mpo ete bakufi miso bakoma komona, mpe ba-oyo bazali komona bakoma bakufi miso.
+043	JOH	009	040	Bafarizeo mosusu oyo bazalaki elongo na ye bayokaki maloba yango mpe batunaki Yesu: — Boni, olingi koloba ete biso mpe tozali bakufi miso?
+043	JOH	009	041	Yesu azongiselaki bango: — Soki bozalaki bakufi miso, bolingaki kozala na ngambo te; kasi lokola bolobi ete bomonaka, elingi koloba ete bozali penza na ngambo.
+043	JOH	010	001	Nazali koloba na bino penza ya solo: moto oyo akotaka na lopango ya bameme na nzela ya ekuke te, kasi amataka na likolo ya lopango, na esika mosusu, azali moyibi mpe mobomi.
+043	JOH	010	002	Kasi ye oyo akotelaka na ekuke azali mobateli bameme.
+043	JOH	010	003	Mokengeli afungolelaka mobateli bameme ekuke, bameme eyokaka mongongo na ye. Mobateli abengaka bameme na ye na kombo na yango mpe abimisaka yango na libanda.
+043	JOH	010	004	Soki abimisi bameme na ye nyonso na libanda, alekaka liboso na yango; mpe bameme elandaka ye na sima, pamba te eyebi mongongo na ye.
+043	JOH	010	005	Ekotikala ata mokolo moko te kolanda mopaya; kasi ekokima ye mosika, pamba te eyebi mongongo na ye te.
+043	JOH	010	006	Yesu ayebisaki bango lisese yango, kasi basosolaki te tina ya makambo oyo azalaki koyebisa bango.
+043	JOH	010	007	Mpo na yango, Yesu alobaki na bango lisusu: — Nazali koloba na bino penza ya solo: Ngai nazali ekuke ya bameme.
+043	JOH	010	008	Bato nyonso oyo bayaki liboso na Ngai bazali miyibi mpe babomi; bameme eyokelaki bango te.
+043	JOH	010	009	Ngai nde nazali ekuke; moto nyonso oyo akokotela na nzela na Ngai akobika; akokota mpe akobima, mpe akozwa bilei.
+043	JOH	010	010	Moyibi ayaka kaka mpo na koyiba, koboma mpe kobebisa; kasi Ngai, nayei mpo ete bameme ezwa bomoi mpe ezwa yango na bofuluki penza.
+043	JOH	010	011	Nazali mobateli malamu ya bameme. Mobateli malamu ya bameme apesaka bomoi na ye mpo na bameme na ye.
+043	JOH	010	012	Mosali oyo azali mobateli bibwele te, oyo azali nkolo bameme te, asalaka kaka mpo na lifuti. Soki kaka amoni mbwa ya zamba koya, asundolaka bameme mpe akimaka. Bongo mbwa ya zamba ekangaka bameme mpe epanzaka yango.
+043	JOH	010	013	Mosali yango akimaka, pamba te asalaka kaka mpo na lifuti mpe atiaka makanisi na ye na bameme te.
+043	JOH	010	014	Ngai, nazali mobateli malamu ya bibwele; nayebi bameme na Ngai, mpe bameme na Ngai eyebi Ngai
+043	JOH	010	015	—ndenge kaka Tata ayebi Ngai, mpe Ngai nayebi Tata— Nazali kokaba bomoi na Ngai mpo na bameme na Ngai.
+043	JOH	010	016	Nazali na bameme mosusu oyo ezali ya lopango oyo te. Nasengeli komema yango; ekoyoka mongongo na Ngai. Etonga ekozala kaka moko, mpe mobateli bibwele akozala kaka moko.
+043	JOH	010	017	Tata alingaka Ngai mpo ete nazali kokaba bomoi na Ngai; kasi nakozwa yango lisusu.
+043	JOH	010	018	Moto moko te azali kobotola Ngai bomoi yango, kasi Ngai moko nde nazali kokaba yango, na mokano na Ngai moko. Nazali na bokonzi ya kopesa mpe ya kozwa yango lisusu. Yango nde mitindo oyo Tata na Ngai apesaki Ngai.
+043	JOH	010	019	Bayuda bakabwanaki lisusu likolo ya maloba yango.
+043	JOH	010	020	Mingi kati na bango bazalaki koloba: — Azali na molimo mabe! Azali na liboma! Mpo na nini bozali koyoka ye?
+043	JOH	010	021	Bamosusu bazalaki kozongisa: — Maloba wana ezali te ya moto oyo azali na se ya bokonzi ya molimo mabe! Boni, molimo mabe ekoki penza kofungola miso ya bakufi miso?
+043	JOH	010	022	Ekomaki tango ya kosepela feti ya Kobulisa Tempelo ya Yelusalemi. Feti yango esalemaki na tango ya malili makasi.
+043	JOH	010	023	Yesu azalaki kotambola kati na lopango ya Tempelo, na veranda ya Salomo.
+043	JOH	010	024	Bayuda bazingelaki Ye mpe batunaki Ye: — Kino tango nini okotika mitema na biso likolo-likolo? Soki ozali Klisto, yebisa biso yango polele!
+043	JOH	010	025	Yesu azongiselaki bango: — Nayebisaki bino yango, kasi boboyi na bino kondima. Makamwisi oyo nazali kosala na Kombo ya Tata ezali kotatola na tina na Ngai;
+043	JOH	010	026	kasi bino, boboyi na bino kondima, pamba te bozali bameme na Ngai te.
+043	JOH	010	027	Bameme na Ngai eyokaka mongongo na Ngai. Nayebi bameme na Ngai, mpe yango elandaka Ngai.
+043	JOH	010	028	Napesi yango bomoi ya seko: ekokufa soki moke te, mpe moto ata moko te akobotola yango na loboko na Ngai. (aiōn g165, aiōnios g166)
+043	JOH	010	029	Tata na Ngai, oyo apesaki Ngai bameme yango, aleki bato nyonso na monene, mpe moto moko te akoki kobotola yango na loboko ya Tata na Ngai.
+043	JOH	010	030	Ngai mpe Tata tozali se moko.
+043	JOH	010	031	Na bongo, Bayuda balokotaki lisusu mabanga mpo na koboma Ye,
+043	JOH	010	032	kasi Yesu alobaki na bango: — Nalakisi bino bikamwa mingi ya minene oyo esalemaki na nguya ya Tata; mpo na likamwisi nini bolingi koboma Ngai na mabanga?
+043	JOH	010	033	Bayuda bazongiselaki Ye: — Ezali te mpo na likamwisi moko boye ya malamu nde tolingi koboma yo, kasi ezali mpo ete ozali kofinga Nzambe. Lisusu, ezali mpo ete, yo oyo ozali moto, ozali koloba ete ozali Nzambe.
+043	JOH	010	034	Yesu alobaki na bango: — Ekomama te kati na mibeko na bino: « Nalobi: ‹ Bozali banzambe? › »
+043	JOH	010	035	Nzokande, batiaka tembe na Makomi te. Boye, soki abengaki « banzambe, » bato oyo epai banani Liloba na Nzambe eyaki,
+043	JOH	010	036	mpo na nini koloba na tina na Ngai oyo Tata abulisa mpe atinda kati na mokili: « Ozali kofinga, » mpo nalobaki: « Nazali Mwana na Nzambe? »
+043	JOH	010	037	Soki nasalaka te misala ya Tata na Ngai, wana bondima na bino Ngai te.
+043	JOH	010	038	Kasi soki nasalaka yango, ezala soki boboyi na bino kondima Ngai, bondima ata misala yango, mpo boyeba mpe bososola ete Tata azali kati na Ngai, mpe Ngai nazali kati na Tata.
+043	JOH	010	039	Mpo na yango, balukaki lisusu kokanga Ye, kasi Yesu akimaki bango.
+043	JOH	010	040	Akendeki lisusu na ngambo mosusu ya Yordani, kaka na esika oyo Yoane azalaki kobatisa bato, mpe atikalaki kuna.
+043	JOH	010	041	Bato mingi penza bayaki epai na Ye; bazalaki koloba: « Yoane asalaki likamwisi ata moko te, kasi makambo nyonso oyo alobaki na tina na moto oyo ezali ya solo! »
+043	JOH	010	042	Mpe kuna, bato mingi bandimaki Yesu.
+043	JOH	011	001	Kati na mboka Betani, ezalaki na mobali moko na kombo Lazare; azalaki kobela mpe azalaki na bandeko basi mibale: Mari mpe Marte.
+043	JOH	011	002	Mari azali mwasi oyo asopelaki Nkolo malasi mpe asalelaki suki na ye mpo na kopangusa makolo ya Yesu, mpe Lazare oyo azali kobela azali ndeko na ye ya mobali.
+043	JOH	011	003	Bandeko nyonso mibale ya basi batindaki maloba oyo epai ya Yesu: — Nkolo, moto oyo olingaka azali kobela.
+043	JOH	011	004	Tango Yesu ayokaki yango, alobaki: — Bokono oyo ekoboma ye te, kasi ekopesa Nzambe nkembo mpe ekozala nzela mpo ete Mwana na Nzambe azwa lokumu.
+043	JOH	011	005	Nzokande, Yesu azalaki kolinga makasi Marte, ndeko na ye ya mwasi mpe Lazare.
+043	JOH	011	006	Atako ayokaki ete Lazare azali kobela, kasi avandaki lisusu mikolo mibale na esika oyo azalaki.
+043	JOH	011	007	Bongo alobaki na bayekoli na Ye: — Tosengeli sik’oyo kozonga na Yuda.
+043	JOH	011	008	Bayekoli balobaki na Ye: — Moteyi, wuta mokolo oyo Bayuda balingaki koboma Yo na mabanga, eleki nanu mikolo mingi te; bongo mpo na nini olingi lisusu kozonga kuna?
+043	JOH	011	009	Yesu azongisaki: — Boni, moyi ezalaka na bangonga zomi na mibale te? Soki moto atamboli na moyi, akobeta mabaku te, pamba te azali komona pole ya mokili oyo.
+043	JOH	011	010	Nzokande, soki moto atamboli na butu, akobeta penza mabaku, pamba te pole ezali te.
+043	JOH	011	011	Sima na Ye koloba bongo, alobaki na bango lisusu: — Molingami na biso, Lazare, alali pongi; kasi nazali kokende kolamusa ye.
+043	JOH	011	012	Bayekoli balobaki na Yesu: — Nkolo, soki azali kolala pongi, akobika na bokono na ye!
+043	JOH	011	013	Solo, Yesu alingaki koloba ete Lazare akufi, kasi bayekoli bakanisaki ete azali kolobela nde pongi oyo tolalaka.
+043	JOH	011	014	Bongo Yesu alobaki na bango na polele: — Lazare akufi.
+043	JOH	011	015	Mpe nazali na esengo makasi mpo na bino lokola bozalaki kuna te, pamba te likambo oyo ekosala ete kondima na bino elendisama. Kasi sik’oyo tokende epai na ye.
+043	JOH	011	016	Na bongo, Toma, oyo bazalaki mpe kobenga « Lipasa, » alobaki na bayekoli mosusu: — Biso mpe, tokende mpo ete tokufa elongo na Yesu!
+043	JOH	011	017	Tango Yesu akomaki, ayokaki ete basilaki kokunda Lazare kati na kunda wuta mikolo minei.
+043	JOH	011	018	Mpe lokola Betani ezalaki mosika ya Yelusalemi na bakilometele pene misato,
+043	JOH	011	019	Bayuda mingi bayaki epai ya Mari mpe Marte mpo na kokabola mawa elongo na bango, mpo na kufa ya ndeko na bango.
+043	JOH	011	020	Tango Marte ayokaki ete Yesu azali koya, akendeki kokutana na Ye; kasi Mari atikalaki ya kovanda kati na ndako.
+043	JOH	011	021	Marte alobaki na Yesu: — Nkolo, soki ozalaki awa, ndeko na ngai alingaki kokufa te!
+043	JOH	011	022	Kasi nazali na kondima ete, ata sik’oyo, Nzambe akopesa Yo nyonso oyo okosenga Ye.
+043	JOH	011	023	Yesu alobaki na ye: — Ndeko na yo akosekwa.
+043	JOH	011	024	Marte azongiselaki Yesu: — Nayebi solo ete akosekwa, na mokolo ya suka, na tango bakufi bakosekwa.
+043	JOH	011	025	Yesu alobaki na ye: — Ngai nazali lisekwa mpe bomoi. Moto nyonso oyo andimi Ngai akozala na bomoi, atako akufi.
+043	JOH	011	026	Mpe moto nyonso oyo andimi Ngai, wana azali na bomoi, akotikala kokufa te. Ondimi yango? (aiōn g165)
+043	JOH	011	027	Marte azongisaki: — Iyo, Nkolo! Nandimi ete ozali Klisto, Mwana na Nzambe, oyo asengelaki koya na mokili.
+043	JOH	011	028	Sima na Marte koloba bongo, akendeki kobenga Mari, ndeko na ye; mpe wana abendaki ye pembeni, alobaki na ye na mongongo ya se penza: — Moteyi ayei, azali kobenga yo.
+043	JOH	011	029	Tango kaka Mari ayokaki bongo, atelemaki na lombangu mpe akendeki epai ya Yesu.
+043	JOH	011	030	Nzokande, Yesu akotaki nanu te na mboka; azalaki kaka na esika oyo Marte akutanaki na Ye.
+043	JOH	011	031	Tango Bayuda oyo bazalaki elongo na Mari kati na ndako mpo na kokabola mawa elongo na ye, bamonaki Mari kotelema na lombangu mpe kobima libanda, balandaki ye, pamba te bakanisaki ete akei kolela na kunda.
+043	JOH	011	032	Tango kaka Mari akomaki na esika oyo Yesu azalaki mpe amonaki Ye, amibwakaki na makolo na Ye mpe alobaki: — Nkolo, soki ozalaki awa, ndeko na ngai alingaki kokufa te!
+043	JOH	011	033	Tango Yesu amonaki Mari mpe Bayuda oyo bayaki elongo na ye kolela, ayokaki mawa makasi mpe amitungisaki.
+043	JOH	011	034	Atunaki bango: — Bokundaki ye wapi? Bazongisaki: — Nkolo, yaka kotala.
+043	JOH	011	035	Yesu alelaki.
+043	JOH	011	036	Bongo Bayuda balobaki: — Tala ndenge nini alingaki ye!
+043	JOH	011	037	Kasi bamosusu kati na bango balobaki: — Ezali ye te oyo abikisaki mokufi miso? Bongo ndenge nini akokaki te kosala ete Lazare akufa te?
+043	JOH	011	038	Lokola Yesu amitungisaki lisusu makasi, akendeki na kunda. Ezalaki kati na ebombamelo ya mabanga oyo, na ekotelo na yango, batiaki libanga moko ya monene.
+043	JOH	011	039	Yesu alobaki na bango: — Botindika libanga. Kasi Marte, ndeko ya mowei, alobaki na Yesu: — Nkolo, azali kolumba solo! Wuta bakundaki ye, esali mikolo minei.
+043	JOH	011	040	Yesu alobaki na ye: — Nalobaki na yo te ete soki ondimi, okomona nkembo ya Nzambe?
+043	JOH	011	041	Boye batindikaki libanga. Bongo Yesu atombolaki miso na likolo mpe alobaki: « Tata, nazali kotonda Yo mpo ete oyoki Ngai.
+043	JOH	011	042	Nayebaki ete oyokaka Ngai tango nyonso; kasi soki nalobi bongo, ezali mpo ete bato oyo bazali zingazinga na Ngai bandima ete Yo nde otindaki Ngai. »
+043	JOH	011	043	Sima na Yesu koloba bongo, agangaki: — Lazare, bima!
+043	JOH	011	044	Mpe mowei abimaki longwa na kunda; makolo mpe maboko na ye ezalaki ya kokangama na basinga ya bitendi, mpe elongi na ye ezalaki ya kozipama na elamba. Bongo Yesu alobaki na bato oyo bazalaki wana: — Bofungola ye basinga wana mpe botika ye kokende.
+043	JOH	011	045	Kati na Bayuda oyo bayaki epai ya Mari, mingi kati na bango bandimaki Yesu tango bamonaki makambo oyo asalaki;
+043	JOH	011	046	kasi bamosusu bakendeki kokuta Bafarizeo mpo na koyebisa bango makambo yango, oyo Yesu asalaki.
+043	JOH	011	047	Bongo bakonzi ya Banganga-Nzambe mpe Bafarizeo babengisaki Likita-Monene mpe batunanaki: — Tosala nini? Moto oyo azali kosala bikamwa mingi.
+043	JOH	011	048	Soki totiki ye kokoba kosala bongo, bato nyonso bakondima ye; bongo bato ya Rome bakoya bakobebisa Tempelo na biso mpe ekolo na biso.
+043	JOH	011	049	Moko kati na bango, Kayifa, oyo azalaki mokonzi ya Banganga-Nzambe na mobu wana, alobaki na bango:
+043	JOH	011	050	— Bozali kososola eloko moko te; bozali mpe komona te ete ezali mpo na bolamu na bino soki moto moko akufi mpo na bato nyonso, mpo ete ekolo mobimba ebebisama te?
+043	JOH	011	051	Nzokande, makambo oyo azalaki koloba na bango ewutaki na makanisi na ye moko te; kasi lokola azalaki mokonzi ya Banganga-Nzambe na mobu wana, yango wana asakolaki ete Yesu asengelaki kokufa mpo na ekolo ya Bayuda.
+043	JOH	011	052	Mpe asengelaki kokufa kaka mpo na ekolo yango te, kasi mpe mpo na kosangisa kati na libota moko, bana nyonso ya Nzambe, oyo bapalangana bipai na bipai.
+043	JOH	011	053	Ezali na mokolo wana nde bazwaki mokano ya koboma Yesu.
+043	JOH	011	054	Na bongo, Yesu atikaki komilakisa na polele kati na Bayuda; alongwaki wana mpe akendeki na etuka oyo ezalaki pene ya esobe, kati na engumba moko na kombo Efrayimi; mpe avandaki kuna elongo na bayekoli na Ye.
+043	JOH	011	055	Kasi lokola feti ya Pasika ya Bayuda ekomaki pene, bato mingi ya mboka bakendeki na Yelusalemi mpo na komipetola liboso ya feti yango.
+043	JOH	011	056	Bazalaki koluka Yesu mpe kotunana bango na bango kati na lopango ya Tempelo: — Bokanisi nini? Akoya penza na feti?
+043	JOH	011	057	Nzokande bakonzi ya Banganga-Nzambe mpe Bafarizeo basilaki kopesa mitindo ete moto nyonso oyo akoyeba esika oyo Yesu azali, ayebisa bango mpo ete bakanga ye.
+043	JOH	012	001	Wana etikalaki mikolo motoba mpo ete Pasika ebanda, Yesu akendeki na Betani epai wapi Lazare, oyo asekwisaki kati na bakufi, azalaki kovanda.
+043	JOH	012	002	Kuna, balambaki bilei mpo na Yesu; mpe wana Marte azalaki kobongisa mesa, Lazare azalaki moko kati na bato oyo bavandaki na mesa elongo na Yesu.
+043	JOH	012	003	Mari akamataki ndambo ya litele ya malasi ya nar, oyo basangisa na eloko mosusu te mpe ya motuya makasi, asopaki yango na makolo ya Yesu mpe asalelaki suki na ye mpo na kopangusa makolo yango. Ndako mobimba etondaki na solo ya malasi yango.
+043	JOH	012	004	Bongo moko kati na bayekoli ya Yesu, Yuda Isikarioti, ye oyo akoteka Ye, alobaki:
+043	JOH	012	005	— Mpo na nini bateki te malasi oyo na motuya ya mbongo ya bibende nkama misato mpo na kopesa yango epai ya babola?
+043	JOH	012	006	Yuda Isikarioti alobaki bongo mpo ete azalaki moyibi; ezalaki te mpo ete azalaki na makanisi ya kosunga babola. Bongo lokola azalaki mpe kobatela libenga ya mbongo ya lisanga, azalaki tango nyonso koyiba mbongo.
+043	JOH	012	007	Kasi Yesu alobaki: — Tika ye kimia! Abombi malasi yango mpo na mokolo oyo bakokunda Ngai.
+043	JOH	012	008	Bokozalaka na babola tango nyonso; kasi Ngai, bokozalaka na Ngai tango nyonso te.
+043	JOH	012	009	Lokola Bayuda mingi bayokaki ete Yesu azali na Betani, bakendeki kuna; bakendeki kaka te mpo na Yesu, kasi mpe mpo na kotala Lazare oyo Yesu asekwisaki kati na bakufi.
+043	JOH	012	010	Bongo bakonzi ya Banganga-Nzambe basalaki mabongisi mpo na koboma mpe Lazare;
+043	JOH	012	011	pamba te likolo na ye, Bayuda ebele bazalaki kokabwana na Banganga-Nzambe mpo na kondima Yesu.
+043	JOH	012	012	Mokolo oyo elandaki, ebele ya bato oyo bayaki na Yelusalemi mpo na feti ya Pasika bayokaki sango ete Yesu mpe azali kokende kuna na Yelusalemi.
+043	JOH	012	013	Bakataki mandalala mpe babimaki mpo na kokende koyamba Yesu; bazalaki koganga: « Ozana! Tika ete apambolama, Ye oyo ayei na Kombo ya Nkolo, Mokonzi ya Isalaele! »
+043	JOH	012	014	Yesu amonaki mwana moko ya ane mpe avandaki na likolo na yango kolanda ndenge ekomama:
+043	JOH	012	015	« Siona, engumba kitoko, kobanga te! Tala, mokonzi na yo azali koya, avandi na likolo ya mwana ya ane! »
+043	JOH	012	016	Bayekoli ya Yesu bayebaki nanu te tina ya makambo oyo ezalaki kosalema. Kaka tango Yesu akotaki kati na nkembo nde basosolaki ete makambo yango ekomamaki na tina na Ye, mpe ete bakokisaki kaka makambo oyo Makomi eloba.
+043	JOH	012	017	Bato nyonso oyo bazalaki elongo na Yesu tango abengaki Lazare ete abima na kunda mpe asekwisaki ye kati na bakufi, bazalaki kotatola makambo oyo bamonaki.
+043	JOH	012	018	Yango wana ebele ya bato bakendeki koyamba Yesu mpo ete bayokaki ete Ye nde asalaki likamwisi yango.
+043	JOH	012	019	Bongo Bafarizeo balobanaki bango na bango: — Bomoni, bokokoka lisusu eloko moko te; bato nyonso bakomi na bango kolanda ye!
+043	JOH	012	020	Kati na bato oyo bayaki na feti, na Yelusalemi, mpo na kogumbamela Nzambe, ezalaki na ndambo ya Bagreki.
+043	JOH	012	021	Bakendeki epai ya Filipo, moto ya mboka Betisaida ya Galile, mpe batalisaki ye bosenga oyo: — Tata, tolingi komona Yesu.
+043	JOH	012	022	Filipo akendeki koyebisa Andre; bongo bango mibale, Andre mpe Filipo, bakendeki koyebisa Yesu.
+043	JOH	012	023	Yesu azongiselaki bango: — Sik’oyo, ngonga ekoki, ngonga oyo Mwana na Moto asengeli kokota kati na nkembo na Ye.
+043	JOH	012	024	Nazali koloba na bino penza ya solo: soki mbuma ya ble oyo ekweyi na mabele ekufi te, mbuma yango ekotikala kaka yango moko. Kasi soki ekufi, ekobota solo bambuma ebele.
+043	JOH	012	025	Moto nyonso oyo akangami na bomoi na ye akobungisa yango; kasi moto oyo aboyi kokangama na bomoi na ye, kati na mokili oyo, akobatela yango mpo na bomoi ya seko. (aiōnios g166)
+043	JOH	012	026	Tika ete moto oyo alingi kosalela Ngai alanda Ngai! Epai Ngai nakozala, mosali na Ngai mpe akozala wana. Tata na Ngai akokumisa moto oyo asalelaka Ngai.
+043	JOH	012	027	Sik’oyo, molimo na Ngai etungisami! Naloba nini? Tata, kangola Ngai na tango oyo ya pasi? Nzokande, ezali penza mpo na tango yango ya pasi nde nakomi kino na ngonga oyo!
+043	JOH	012	028	Tata, pesa Kombo na Yo nkembo! Bongo mongongo moko eyokanaki wuta na Likolo: — Nasili kopesa yango nkembo mpe nakopesa yango lisusu nkembo!
+043	JOH	012	029	Bato oyo bazalaki wana mpe bayokaki mongongo yango balobaki: — Ezali kake! Bato mosusu balobaki: — Anjelu moko asololi na ye!
+043	JOH	012	030	Kasi Yesu alobaki na bango: — Mongongo wana eyokani te mpo na Ngai, kasi mpo na bino.
+043	JOH	012	031	Kosambisama ya mokili elingi kosalema nde sik’oyo; mokonzi ya mokili oyo akobwakama sik’oyo na libanda.
+043	JOH	012	032	Mpe tango bakotombola Ngai longwa na mabele, nakobenda bato nyonso epai na Ngai.
+043	JOH	012	033	Yesu alobaki bongo mpo na kolakisa lolenge ya kufa oyo asengeli kokufa.
+043	JOH	012	034	Bato bazongiselaki Ye: — Mibeko ezali kolakisa biso ete Klisto asengeli kozala na bomoi seko na seko. Bongo ndenge nini yo olobi na biso: « Mwana na Moto asengeli kotombolama? » Nani nde Mwana na Moto? (aiōn g165)
+043	JOH	012	035	Yesu alobaki na bango: — Pole ezali nanu kati na bino mpo na mwa tango moke. Botambola, wana bozali na pole, mpo ete molili ekanga bino te na mbalakata; pamba te moto oyo atambolaka kati na molili ayebaka te esika nini azali kotia lokolo.
+043	JOH	012	036	Boye wana bozali nanu na pole, bondima pole mpo ete bokoma bana ya pole. Tango Yesu asilisaki koloba bongo, akendeki mpe amibombaki mosika na bango.
+043	JOH	012	037	Atako Yesu asalaki bikamwa ebele na miso na bango, kasi bandimaki Ye kaka te
+043	JOH	012	038	mpo ete maloba ya mosakoli Ezayi ekokisama: « Nkolo, nani andimaki mateya na biso? Mpe nguya na Yo emonisamaki epai ya nani? »
+043	JOH	012	039	Ezali lisusu Ezayi nde alobaki tina oyo bakokaki kondima te:
+043	JOH	012	040	« Azipaki miso na bango mpe akomisaki bango mitema makasi, mpo ete bamona te na miso na bango, basosola te na mitema na bango, babongola mitema te, mpe ngai nabikisa bango te. »
+043	JOH	012	041	Ezayi alobaki bongo mpo ete amonaki Nkembo ya Yesu mpe azalaki koloba na tina na Ye.
+043	JOH	012	042	Nzokande, kati na bakonzi ya Bayuda, mingi bandimaki Ye; kasi balakisaki te kondima na bango na polele, pamba te bazalaki kobanga ete Bafarizeo babengana bango na ndako ya mayangani,
+043	JOH	012	043	pamba te bazalaki kolinga mingi kozwa lokumu kowuta na bato, kasi lokumu kowuta na Nzambe te.
+043	JOH	012	044	Bongo Yesu alobaki na mongongo ya makasi: — Moto oyo andimi Ngai, andimi kaka Ngai te, kasi andimi mpe Ye oyo atindaki Ngai;
+043	JOH	012	045	mpe moto oyo amoni Ngai, amoni mpe Ye oyo atindaki Ngai.
+043	JOH	012	046	Ngai, pole, nayaki kati na mokili mpo ete moto nyonso oyo akondima Ngai azala lisusu te kati na molili.
+043	JOH	012	047	Soki moto ayoki maloba na Ngai, kasi aboyi kotia yango na misala, Ngai, nakosambisa ye te; pamba te nayaki te mpo na kosambisa mokili, kasi mpo na kobikisa yango.
+043	JOH	012	048	Moto oyo aboyi Ngai mpe ayambi te maloba na Ngai azali na mosambisi na ye: ezali liloba oyo nateyi nde ekosambisa ye, na mokolo ya suka.
+043	JOH	012	049	Pamba te nalobaki na Kombo na Ngai moko te; kasi Ye moko Tata oyo atindaki Ngai apesaki Ngai, lokola mitindo, makambo oyo nasengeli koloba mpe koteya.
+043	JOH	012	050	Nzokande, nayebi malamu ete mitindo na Ye epesaka bomoi ya seko; yango wana nazali koloba makambo oyo, ndenge kaka Tata ayebisaki Ngai yango. (aiōnios g166)
+043	JOH	013	001	Liboso ete feti ya Pasika ekoma, Yesu ayebaki ete tango na Ye ekoki mpo na kotika mokili oyo mpe kokende epai ya Tata. Lokola azalaki kolinga bato na Ye, oyo bazalaki kati na mokili, akobaki kolinga bango kino na suka.
+043	JOH	013	002	Bongo, wana bazalaki kolia elongo, Satana asilaki kotia kati na motema ya Yuda Isikarioti, mwana mobali ya Simona, makanisi ya koteka Yesu.
+043	JOH	013	003	Yesu ayebaki ete Tata apesaki Ye bokonzi likolo ya makambo nyonso, ete awutaki epai ya Nzambe mpe ete asengelaki kozonga epai ya Nzambe;
+043	JOH	013	004	atelemaki longwa na mesa, alongolaki bilamba oyo alataki, azwaki eteni moko ya elamba mpe amikangaki yango na loketo.
+043	JOH	013	005	Bongo, atiaki mayi na sani mpe abandaki kosukola makolo ya bayekoli na Ye mpe kopangusa yango na eteni ya elamba oyo amikangaki na loketo.
+043	JOH	013	006	Tango akomaki na esika oyo Simona Petelo azalaki, Simona Petelo alobaki na Ye: — Nkolo, Yo penza osukola ngai makolo?
+043	JOH	013	007	Yesu azongiselaki ye: — Likambo oyo Ngai nazali kosala, yo okoki te kososola yango sik’oyo; kasi okososola yango na sima.
+043	JOH	013	008	Kasi Petelo alobaki na Yesu: — Te! Osengeli te kosukola ngai makolo! Yesu azongiselaki ye: — Soki nasukoli yo makolo te, okozala lisusu te na libula elongo na Ngai. (aiōn g165)
+043	JOH	013	009	Simona Petelo alobaki na Yesu: — Nkolo, lokola ekomi bongo, kosukola ngai kaka makolo te, kasi sukola ngai lisusu maboko mpe moto.
+043	JOH	013	010	Yesu alobaki na ye: — Moto oyo awuti komisukola nzoto azali penza peto; azali kaka na posa ya kosukola makolo na ye. Nzokande bino, bozali peto; kasi bino nyonso te.
+043	JOH	013	011	Solo, Yesu ayebaki moto oyo akoteka Ye; yango wana alobaki: « Bino nyonso bozali peto te. »
+043	JOH	013	012	Sima na Yesu kosukola bango makolo mpe kolata lisusu bilamba na Ye, avandaki lisusu na mesa mpe alobaki na bango: — Boni, bososoli tina ya likambo oyo nawuti kosala bino?
+043	JOH	013	013	Ndenge bobengaka Ngai « Moteyi » mpe « Nkolo, » bolobaka na bino penza ya solo, pamba te nazali penza Moteyi mpe Nkolo.
+043	JOH	013	014	Boye soki Ngai, Moteyi mpe Nkolo na bino, nasukoli bino makolo, bosengeli, bino mpe, kosukolana makolo;
+043	JOH	013	015	pamba te napesi bino kaka ndakisa, mpo ete, bino mpe, bosalaka ndenge kaka Ngai nasali bino.
+043	JOH	013	016	Nazali koloba na bino penza ya solo: mowumbu aleki nkolo na ye te na bokonzi, mpe ntoma aleki motindi na ye te na bokonzi.
+043	JOH	013	017	Wana bosili koyeba makambo oyo, bozali bato ya esengo soki kaka botie yango na misala.
+043	JOH	013	018	Nazali koloba bongo te na tina na bino nyonso; nayebi bato oyo napona. Kasi esengeli ete eteni oyo ya Makomi ekokisama: « Moto oyo azalaki kolia sani moko elongo na ngai abalukeli ngai! »
+043	JOH	013	019	Namiyebiseli bino yango sik’oyo, liboso ete likambo yango esalema, mpo ete, tango likambo yango ekosalema, bondima ete nazali oyo azali.
+043	JOH	013	020	Nazali koloba na bino penza ya solo: moto oyo ayambi motindami na Ngai ayambi nde Ngai, mpe moto oyo ayambi Ngai ayambi mpe Motindi na Ngai.
+043	JOH	013	021	Sima na Yesu koloba bongo, amitungisaki makasi kati na motema; alobaki: — Nazali koloba na bino penza ya solo: moko kati na bino akoteka Ngai.
+043	JOH	013	022	Bayekoli bakomaki kotalana bango na bango mpe kotunana mpo na koluka koyeba soki Yesu azalaki koloba na tina na nani.
+043	JOH	013	023	Moko kati na bango, moyekoli oyo Yesu azalaki kolinga koleka bayekoli mosusu, avandaki pembeni ya Yesu.
+043	JOH	013	024	Simona Petelo afinaki ye miso mpo na kosenga na ye ete atuna Yesu soki azali koloba bongo na tina na nani.
+043	JOH	013	025	Mbala moko, moyekoli yango alalelaki Yesu na tolo mpe atunaki Ye: — Nkolo, ezali nani?
+043	JOH	013	026	Yesu azongisaki: — Ezali moto oyo nakopesa eteni oyo ya lipa sima na Ngai kozindisa yango kati na elubu. Bongo, sima na Yesu kozindisa eteni yango ya lipa kati na elubu, akamataki yango mpe apesaki yango epai ya Yuda Isikarioti, mwana mobali ya Simona.
+043	JOH	013	027	Tango kaka Yuda azwaki eteni yango ya lipa, Satana akotaki kati na ye. Bongo Yesu alobaki na ye: — Likambo oyo obongisi kosala, kokisa yango noki.
+043	JOH	013	028	Kasi, kati na bato oyo bazalaki wana na mesa, moko te asosolaki tina oyo Yesu alobaki na ye bongo.
+043	JOH	013	029	Lokola ezalaki Yuda nde azalaki kobatela libenga ya mbongo, bayekoli mosusu bakanisaki ete Yesu alobi na ye: « Kende kosomba biloko oyo tosengeli na yango mpo na feti, » to « kende kopesa lisungi epai ya babola. »
+043	JOH	013	030	Boye, tango kaka Yuda azwaki eteni yango ya lipa, abimaki mbala moko. Mpe butu ekotaki.
+043	JOH	013	031	Sima na Yuda kobima, Yesu alobaki: — Sik’oyo, nkembo ya Mwana na Moto emonisami, mpe Nzambe akozwa nkembo kati na Ye. [
+043	JOH	013	032	Lokola Nzambe akozwa nkembo kati na Mwana, ]Nzambe mpe akopesa Mwana nkembo, kati na Ye moko, mpe akosala yango kala mingi te.
+043	JOH	013	033	Bana na Ngai, natikali na tango moke kaka ya kozala lisusu elongo na bino. Bokoluka Ngai; mpe makambo oyo nalobaki na Bayuda, yango mpe nazali koyebisa bino sik’oyo: « Epai Ngai nazali kokende, bino, bokoki te koya kuna. »
+043	JOH	013	034	Nazali kopesa bino mobeko ya sika: Bolinganaka bino na bino. Ndenge Ngai nalingi bino, bino mpe bosengeli kolinganaka bino na bino.
+043	JOH	013	035	Ezali na nzela ya bolingo oyo bokotalisana bino na bino nde bato nyonso bakoyeba ete bozali bayekoli na Ngai.
+043	JOH	013	036	Simona Petelo atunaki Yesu: — Nkolo, ozali kokende wapi? Yesu azongiselaki ye: — Okoki te kolanda Ngai sik’oyo na esika oyo nazali kokende; okolanda Ngai sima.
+043	JOH	013	037	Petelo atunaki lisusu: — Nkolo, mpo na nini nakoki te kolanda Yo sik’oyo? Nabongami kokufa mpo na Yo.
+043	JOH	013	038	Yesu azongiselaki ye: — Obongami penza kokufa mpo na Ngai! Nazali koloba na yo penza ya solo: liboso ete soso elela, okowangana Ngai mbala misato.
+043	JOH	014	001	Yesu alobaki: — Tika ete mitema na bino etungisama te! Bondima Nzambe mpe bondima Ngai.
+043	JOH	014	002	Kati na ndako ya Tata na Ngai, bisika ezali mingi. Soki ezalaki bongo te, boni, nalingaki koyebisa bino ete nakeyi kuna mpo na kobongisela bino esika?
+043	JOH	014	003	Mpe, sima na Ngai kobongisa yango, nakozonga mpe nakozwa bino mpo ete bozala elongo na Ngai; mpe mpo ete bino mpe bozala na esika oyo Ngai nazali.
+043	JOH	014	004	Boyebi nzela ya esika oyo nazali kokende.
+043	JOH	014	005	Toma alobaki na Yesu: — Te, Nkolo! Toyebi te esika oyo ozali kokende; bongo tokoyeba nzela na yango ndenge nini?
+043	JOH	014	006	Yesu azongiselaki ye: — Ngai, nazali nzela, solo mpe bomoi. Moto moko te akoki koya epai ya Tata, soki na nzela na Ngai te.
+043	JOH	014	007	Soki boyebaki Ngai, bolingaki mpe koyeba Tata na Ngai; mpe kobanda sik’oyo, boyebi Ye mpe bomoni Ye.
+043	JOH	014	008	Filipo alobaki na Yesu: — Nkolo, lakisa biso Tata; tozali na posa ya eloko mosusu te.
+043	JOH	014	009	Yesu azongiselaki ye: — Ah Filipo! Kala nyonso oyo nazalaka elongo na bino, oyebaka na yo kaka Ngai te? Moto oyo amoni Ngai amoni Tata. Bongo ndenge nini olobi: « Lakisa biso Tata? »
+043	JOH	014	010	Ondimi te ete nazali kati na Tata, mpe ete Tata azali kati na Ngai? Maloba oyo nayebisaka bino, nalobaka yango te na bokonzi na Ngai moko; ezali Tata oyo azali kati na Ngai nde azali kokokisa bongo misala na Ye.
+043	JOH	014	011	Bondima Ngai: nazali kati na Tata, mpe Tata azali kati na Ngai. Soki te, bondima ata mpo na misala oyo bomoni Ngai kosala.
+043	JOH	014	012	Nazali koloba na bino penza ya solo: moto oyo andimi Ngai akosala misala oyo nazali kosala; akosala kutu misala oyo eleki minene, pamba te nazali kokende epai ya Tata.
+043	JOH	014	013	Mpe nakosala nyonso oyo bokosenga na Kombo na Ngai, mpo ete Tata azwa lokumu kati na Mwana.
+043	JOH	014	014	Soki bosengi Ngai eloko na Kombo na Ngai, nakosala yango.
+043	JOH	014	015	Soki bolingaka Ngai, bokobatela mibeko na Ngai.
+043	JOH	014	016	Mpe Ngai, nakosenga epai ya Tata ete apesa bino Molobeli mosusu mpo ete azala elongo na bino tango nyonso, (aiōn g165)
+043	JOH	014	017	Molimo ya solo, Molimo oyo mokili ekoki koyamba te mpo ete ezali komona Ye te to eyebi Ye te. Kasi bino, boyebi Ye, pamba te azali elongo na bino mpe azali kati na bino.
+043	JOH	014	018	Nakotika bino te lokola bana bitike; nakozongela bino.
+043	JOH	014	019	Etikali kaka tango moke, mokili ekomona Ngai lisusu te; kasi bino, bokomona Ngai. Mpo ete nazali na bomoi, bino mpe bokozala na bomoi.
+043	JOH	014	020	Tango mokolo yango ekokoma, bokososola ete nazali kati na Tata na ngai; bokososola lisusu ete bozali kati na Ngai, mpe Ngai nazali kati na bino.
+043	JOH	014	021	Moto oyo alingaka Ngai, ezali ye oyo abatelaka mibeko na Ngai mpe atiaka yango na misala. Tata na Ngai akolinga moto oyo alingaka Ngai; Ngai mpe nakolinga ye mpe nakomimonisa epai na ye.
+043	JOH	014	022	Yuda (Yuda Isikarioti te) atunaki Yesu: — Nkolo, mpo na nini komimonisa epai na biso, kasi epai ya mokili te?
+043	JOH	014	023	Yesu azongiselaki ye: — Moto oyo alingaka Ngai akobatela maloba na Ngai, mpe Tata na Ngai akolinga ye; bongo tokoya epai na ye mpe tokovanda elongo na ye.
+043	JOH	014	024	Kasi moto oyo alingaka Ngai te, akobatela mpe maloba na Ngai te. Nzokande, Liloba oyo bozali koyoka ezali ya Ngai te, kasi ezali Liloba ya Tata oyo atindaki Ngai.
+043	JOH	014	025	Nayebisi bino makambo oyo nyonso, wana nazali nanu elongo na bino.
+043	JOH	014	026	Kasi Molobeli, Molimo Mosantu oyo Tata akotinda na Kombo na Ngai, akoteya bino makambo nyonso mpe akosunga bino mpo ete bobosana te nyonso oyo nayebisaki bino.
+043	JOH	014	027	Nakeyi, kasi natikeli bino kimia; napesi bino kimia na Ngai. Nazali kopesa bino te ndenge mokili epesaka. Tika ete mitema na bino etungisama te mpe bobanga te!
+043	JOH	014	028	Boyoki Ngai koloba na bino ete nakeyi, mpe lisusu ete nakozongela bino. Soki bozalaki kolinga Ngai, bolingaki kosepela na kokende na Ngai epai ya Tata, pamba te Tata aleki Ngai na monene.
+043	JOH	014	029	Nayebisi bino makambo yango sik’oyo, liboso ete esalema, mpo ete bokoka kondima, na mokolo oyo ekosalema.
+043	JOH	014	030	Kobanda sik’oyo, nakoloba na bino lisusu mingi te, pamba te mokonzi ya mokili oyo azali koya. Ezali te mpo ete azali na nguya moko te likolo na Ngai,
+043	JOH	014	031	kasi ezali mpo ete mokili eyeba ete nalingaka Tata, mpe ete nazali kosala kolanda ndenge atindaki Ngai. Botelema; tolongwa awa.
+043	JOH	015	001	Nazali nzete ya solo ya vino, mpe Tata na Ngai azali nkolo elanga.
+043	JOH	015	002	Tata na Ngai akataka etape nyonso oyo, kati na Ngai, ebotaka mbuma te; mpe abongisaka bitape nyonso oyo ebotaka bambuma, mpo ete ebota lisusu bambuma ebele koleka.
+043	JOH	015	003	Bino mpe, bosili kokoma peto mpo na liloba oyo nateyaki bino.
+043	JOH	015	004	Bowumela kati na Ngai, mpe Ngai nakowumela kati na bino. Ndenge etape ekoki kobota bambuma te na ndenge na yango moko, soki ekangani te na nzete na yango ya vino, ndenge wana mpe bino, bokoki kobota bambuma te soki bokangani na Ngai te.
+043	JOH	015	005	Nazali nzete ya vino; bino, bozali bitape. Moto oyo akowumela kati na Ngai, mpe Ngai kati na ye, akobotaka bambuma ebele, pamba te bokoki kosala eloko moko te, soki na lisungi na Ngai te.
+043	JOH	015	006	Moto oyo akowumela te kati na Ngai akobwakama na libanda ya elanga, lokola bitape oyo bakati: ekokawuka, bakolokota yango, bakobwaka yango na moto mpe ekozika.
+043	JOH	015	007	Soki bokowumela kati na Ngai, mpe maloba na Ngai ekowumela kati na bino, bosenga nyonso oyo bolingi, bokozwa yango.
+043	JOH	015	008	Soki boboti bambuma ebele mpe botalisi, na nzela yango, ete bozali bayekoli na Ngai, Tata na Ngai azwa lokumu.
+043	JOH	015	009	Ndenge Tata alingaki Ngai, Ngai mpe nalingaki bino; boye, bowumela kati na bolingo na Ngai.
+043	JOH	015	010	Soki kaka bobateli mibeko na Ngai, bokowumela kati na bolingo na Ngai, ndenge Ngai nabatelaki mibeko ya Tata na Ngai mpe nawumelaka kati na bolingo na Ye.
+043	JOH	015	011	Nalobi na bino makambo oyo nyonso mpo ete esengo na Ngai ezala kati na bino, mpe esengo na bino ezala ya kokoka.
+043	JOH	015	012	Tala mobeko na Ngai: bolinganaka bino na bino ndenge Ngai nalingaki bino.
+043	JOH	015	013	Bolingo oyo eleki monene ezali: kokaba bomoi mpo na balingami.
+043	JOH	015	014	Bozali baninga na Ngai soki bozali kosala makambo oyo nazali kotinda bino.
+043	JOH	015	015	Nazali kobenga bino lisusu te « bawumbu, » pamba te mowumbu ayebaka te makambo oyo nkolo na ye asalaka. Nzokande, nazali kobenga bino « baninga na Ngai, » pamba te nayebisi bino makambo nyonso oyo nayekolaki epai ya Tata na Ngai.
+043	JOH	015	016	Ezali bino te bato boponaki Ngai! Ngai nde naponaki bino mpe napesaki bino mosala mpo ete bokende, bobota bambuma, bambuma oyo ekowumela; mpe mpo ete Tata apesa bino nyonso oyo bokosenga Ye na Kombo na Ngai.
+043	JOH	015	017	Tala mobeko na Ngai: bolinganaka bino na bino.
+043	JOH	015	018	Solo, mokili ezali koyina bino; kasi boyeba ete eyinaki Ngai liboso na bino.
+043	JOH	015	019	Soki kaka bozalaki ya mokili, mokili ekokaki kolinga bino lokola bato na yango penza. Nzokande, bozali ya mokili te, pamba te nasilaki kopona mpe kolongola bino na se ya bokonzi na yango mpo na kobulisa bino; yango wana mokili ezali koyina bino.
+043	JOH	015	020	Bobosana te makambo oyo nayebisaki bino: « Mowumbu aleki nkolo na ye te, na bokonzi. » Lokola banyokolaki Ngai, bino mpe bakonyokola bino; soki babatelaki mateya na Ngai, bakobatela mpe mateya na bino.
+043	JOH	015	021	Bakosala bino makambo wana nyonso likolo na Ngai, pamba te bayebi te Ye oyo atindaki Ngai.
+043	JOH	015	022	Soki nayaki te mpe soki nalobaki na bango te, balingaki te komema ngambo ya lisumu; kasi sik’oyo, bakoki komilongisa te na tina na lisumu na bango.
+043	JOH	015	023	Pamba te moto oyo ayini Ngai ayini mpe Tata na Ngai.
+043	JOH	015	024	Mpe soki nasalaki te, kati na bango, misala wana oyo moto ata moko te asalaki, balingaki te kozala na ngambo ya lisumu. Kasi sik’oyo, atako bamonaki misala yango, bazali kaka kokoba koyina biso: Ngai mpe Tata na Ngai.
+043	JOH	015	025	Kasi ezali mpo ete liloba oyo ekomama kati na mibeko na bango ekokisama: « Bayinaki Ngai kaka pamba. »
+043	JOH	015	026	Tango Molobeli akoya, oyo nakotindela bino kowuta epai ya Tata —Molimo ya bosolo, oyo akowuta epai ya Tata— akotatola Ye moko na tina na Ngai;
+043	JOH	015	027	bongo bino mpe bokotatola na tina na Ngai, pamba te bozali elongo na Ngai wuta na ebandeli.
+043	JOH	016	001	Nalobi na bino makambo oyo nyonso mpo ete bokweya te na komekama to mpo ete kondima na bino ekweya te.
+043	JOH	016	002	Pamba te bakobengana bino na bandako ya mayangani; mpe tango elingi kutu kokoka, tango oyo moto nyonso oyo akoboma bino akokanisa ete, wana azali kosala bongo, azali kobonzela Nzambe mbeka.
+043	JOH	016	003	Bakosala bongo mpo ete batikalaki koyeba te ezala Tata to ngai.
+043	JOH	016	004	Namiyebiseli bino makambo wana nyonso mpo ete, soki tango yango ekoki, bokanisa ete Ngai nasilaki koyebisa bino yango. Nayebisaki bino yango te wuta na ebandeli, mpo ete nazalaki nanu elongo na bino.
+043	JOH	016	005	Sik’oyo, nazali kokende epai na Ye oyo atindaki Ngai, mpe moko te kati na bino azali kotuna Ngai: « Ozali kokende wapi? »
+043	JOH	016	006	Kasi mpo ete nalobi na bino bongo, mawa etondi kati na mitema na bino.
+043	JOH	016	007	Nzokande, nalobi na Ngai kaka bosolo. Ezali penza mpo na bolamu na bino ete Ngai nakende; pamba te soki nakeyi te, Molobeli akoya te epai na bino; kasi soki nakeyi, nakotindela bino Ye.
+043	JOH	016	008	Bongo tango akoya, akotalisa bato ya mokili na tina na lisumu, na tina na bosembo mpe na tina na kosambisama:
+043	JOH	016	009	na tina na lisumu, pamba te bandimaka Ngai te;
+043	JOH	016	010	na tina na bosembo, pamba te nakeyi epai ya Tata, mpe bokomona Ngai lisusu te;
+043	JOH	016	011	na tina na kosambisama, pamba te mokonzi ya mokili oyo asili kosambisama.
+043	JOH	016	012	Nazali lisusu na makambo mingi ya koyebisa bino, kasi bokokoka kososola yango te sik’oyo.
+043	JOH	016	013	Tango akoya, Molimo ya bosolo, akotambolisa bino kati na bosolo nyonso; pamba te akoloba te makambo kowuta na Ye moko, kasi akoloba kaka makambo nyonso oyo akoyoka, mpe akoyebisa bino makambo oyo ekoya;
+043	JOH	016	014	akomonisa nkembo na Ngai, pamba te akozwa makambo kowuta epai na Ngai mpe akoyebisa bino yango.
+043	JOH	016	015	Nyonso oyo ezali ya Tata ezali mpe ya Ngai; yango wana nalobi ete akozwa makambo kowuta epai na Ngai mpe akoyebisa bino yango.
+043	JOH	016	016	Etikali mwa tango moke mpo ete bomona Ngai lisusu te; mpe sima na mwa tango, bokomona Ngai lisusu.
+043	JOH	016	017	Ndambo ya bayekoli ya Yesu bakomaki komituna: — Yesu alingi penza koyebisa biso nini na maloba oyo: « Etikali mwa tango moke mpo ete bomona Ngai lisusu te; mpe sima na mwa tango, bokomona Ngai lisusu » mpe « nazali kokende epai ya Tata? »
+043	JOH	016	018	Bamitunaki lisusu: — Alingi kotalisa nini tango alobi: « Etikali mwa tango moke? » Tozali kososola te ndimbola to tina na yango.
+043	JOH	016	019	Wana Yesu asosolaki ete balingi kotuna Ye motuna, alobaki na bango: — Boni, bozali solo na posa ya koyeba tina ya maloba na Ngai oyo: « Etikali mwa tango moke mpo ete bomona Ngai lisusu te; mpe sima na mwa tango, bokomona Ngai lisusu? »
+043	JOH	016	020	Nazali koloba na bino penza ya solo: wana bino bokozala kolela mpe komitungisa, mokili ekosepela; bokozala solo na mawa, kasi mawa na bino ekobongwana esengo.
+043	JOH	016	021	Na tango ya kobota, mwasi ayokaka pasi makasi, pamba te eleko ya kobimisa mwana wuta kati na libumu na ye ekoki; kasi soki kaka aboti, abosanaka pasi nyonso oyo amonaki, mpo na esengo oyo atondaka na yango mpo ete aboti moto.
+043	JOH	016	022	Bino mpe ndenge moko, bozali sik’oyo na mawa; kasi tango nakomona bino lisusu, mitema na bino ekotonda na esengo, mpe moto ata moko te akokoka kolongola bino esengo yango.
+043	JOH	016	023	Na mokolo yango, bokopesa Ngai lisusu ata motuna moko te. Nazali koloba na bino penza ya solo: Tata akopesa bino nyonso oyo bokosenga Ye na Kombo na Ngai.
+043	JOH	016	024	Kino sik’oyo, bosengi nanu eloko moko te na Kombo na Ngai. Bosenga, mpe bokozwa, mpo ete esengo na bino ezala ya kokoka.
+043	JOH	016	025	Nalobaki na bino makambo wana nyonso na masese; kasi tango ezali koya, tango oyo nakoloba na bino lisusu na masese te, kasi tango oyo nakoyebisa bino na polele penza makambo oyo etali Tata.
+043	JOH	016	026	Na mokolo wana, bokosenga na Kombo na Ngai. Nazali koloba na bino te ete nakosengela bino epai ya Tata.
+043	JOH	016	027	Ye moko Tata alingaka bino, pamba te bolingaka Ngai mpe bondimaki ete nawutaki epai na Nzambe.
+043	JOH	016	028	Solo, nawutaki epai ya Tata mpe nayaki kati na mokili; mpe sik’oyo, nazali kotika mokili mpe nazali kozonga epai ya Tata.
+043	JOH	016	029	Bayekoli ya Yesu balobaki: — Okomi sik’oyo koloba na biso na polele mpe otiki koloba na masese!
+043	JOH	016	030	Tososoli sik’oyo ete oyebi nyonso, mpe ete ozali na posa te ete bapesa Yo mituna. Mpo na yango, tondimi solo ete owutaki epai ya Nzambe.
+043	JOH	016	031	Yesu azongiselaki bango: — Bondimi sik’oyo?
+043	JOH	016	032	Kasi boyeba malamu ete tango ezali koya, mpe esili kokoka, tango oyo bokopanzana na bangambo nyonso, moto na moto na ngambo na ye, mpe oyo bokotika Ngai, Ngai moko. Kasi nazali Ngai moko te, pamba te Tata azali elongo na Ngai.
+043	JOH	016	033	Nasengelaki koloba na bino bongo mpo ete bozala na kimia kati na Ngai. Kati na mokili, bozali solo komona pasi; kasi boyika mpiko, nalongi mokili.
+043	JOH	017	001	Sima na Yesu koloba bongo, atombolaki miso na Ye na Likolo mpe abondelaki: Tata, tango ekoki; monisa nkembo ya Mwana na Yo mpo ete Mwana mpe amonisa nkembo na Yo;
+043	JOH	017	002	pamba te opesaki Ye bokonzi likolo ya bato nyonso, mpo ete apesa bomoi ya seko epai ya bato nyonso oyo opesaki Ye. (aiōnios g166)
+043	JOH	017	003	Nzokande, bomoi ya seko ezali: koyeba Yo oyo ozali Nzambe moko kaka ya solo, mpe koyeba Yesu-Klisto oyo otindaki. (aiōnios g166)
+043	JOH	017	004	Namonisi nkembo na Yo awa na mokili mpe nasilisi mosala oyo opesaki Ngai.
+043	JOH	017	005	Sik’oyo Tata, pesa Ngai lisusu nkembo oyo nazalaki na yango kuna epai Yo ozali liboso ete okela mokili.
+043	JOH	017	006	Namonisi nkembo na Yo epai ya bato oyo opesaki Ngai sima na Yo kolongola bango na misala ya mokili. Bazalaki bato na Yo, kasi opesaki Ngai bango; mpe batosi Liloba na Yo.
+043	JOH	017	007	Bayebi malamu sik’oyo ete nyonso oyo opesaki Ngai ewutaki solo epai na Yo;
+043	JOH	017	008	pamba te nateyaki bango maloba oyo opesaki Ngai, mpe bayambaki yango na esengo; bayebi ete nawutaki solo epai na Yo, mpe bandimi ete Yo nde otindaki Ngai.
+043	JOH	017	009	Nazali kobondela nde mpo na bango; nazali kobondela te mpo na bato ya mokili, kasi mpo na bato oyo opesaki Ngai, mpo ete bazali bato na Yo.
+043	JOH	017	010	Bato na Yo nyonso bazali bato na Ngai, mpe bato na Ngai nyonso bazali bato na Yo; mpe nkembo na Ngai ezali komonisama kati na bango.
+043	JOH	017	011	Kala mingi te, nakozala lisusu te kati na mokili, pamba te nazali koya epai na Yo; kasi bango, bakokoba kozala kati na mokili. Tata na Ngai, Yo oyo ozali Mosantu, batela bango na nguya ya Kombo na Yo, Kombo oyo opesaki Ngai, mpo ete bazala moko ndenge Yo na Ngai tozali moko.
+043	JOH	017	012	Wana nazalaki elongo na bango, nabatelaki bango na nguya ya Kombo na Yo, Kombo oyo opesaki Ngai; nabatelaki bango malamu, mpe moko te kati na bango abungaki, longola kaka ye oyo asengeli na libebi mpo ete Makomi ekokisama.
+043	JOH	017	013	Sik’oyo, nazali koya epai na Yo; kasi nazali koloba makambo oyo tango nazali nanu kati na mokili mpo ete esengo na Ngai, oyo ezali ya kokoka, ezala kati na bango.
+043	JOH	017	014	Nateyaki bango maloba oyo oyebisaki Ngai, mpe mokili eyinaki bango mpo ete bazali bato ya mokili te, ndenge Ngai mpe nazali ya mokili te.
+043	JOH	017	015	Nazali kosenga na Yo te ete olongola bango kati na mokili, kasi nde obatela bango liboso ya Satana.
+043	JOH	017	016	Bazali bato ya mokili te, ndenge Ngai mpe nazali ya mokili te.
+043	JOH	017	017	Bulisa bango na nzela ya bosolo na Yo, Liloba na Yo ya solo.
+043	JOH	017	018	Ndenge otindaki Ngai kati na mokili, ndenge wana mpe Ngai nazali kotinda bango.
+043	JOH	017	019	Namibonzaki mobimba epai na Yo mpo na bango, mpo ete bango mpe babulisama na nzela ya bosolo.
+043	JOH	017	020	Nazali kobondela mpo na bango kaka te, kasi mpe mpo na bato oyo bakondima Ngai na nzela ya mateya na bango,
+043	JOH	017	021	mpo ete bango nyonso bazala moko ndenge Yo Tata ozali kati na Ngai, mpe Ngai kati na Yo; ete bango mpe bazala moko kati na biso, mpe ete mokili endima ete ezali Yo nde otindaki Ngai.
+043	JOH	017	022	Nasaleli bango ngolu ya kobika nkembo na Yo ndenge kaka osalaki mpo na Ngai, mpo ete bazala moko ndenge biso mpe tozali moko:
+043	JOH	017	023	Ngai kati na bango, mpe Yo kati na Ngai. Ezali kaka na nzela wana nde bakokoka kozala penza moko, mpo ete mokili eyeba penza ete Yo nde otindaki Ngai, mpe ete olingaka bango ndenge olingaka Ngai.
+043	JOH	017	024	Tata, nalingi ete bato oyo opesaki Ngai bazala elongo na Ngai kuna epai nazali kokende, mpo ete bamona nkembo na Ngai, nkembo oyo opesaki Ngai, pamba te olingaki Ngai liboso ete okela mokili.
+043	JOH	017	025	Tata, Yo oyo ozali sembo, mokili eyebi Yo te; kasi Ngai nayebi Yo, mpe bato oyo bayebi ete Yo nde otindaki Ngai.
+043	JOH	017	026	Nalakisi bango nguya ya Kombo na Yo, mpe nakokoba kolakisa bango yango, mpo ete bolingo oyo ozali na yango mpo na Ngai ezala kati na bango, mpe Ngai nazala kati na bango.
+043	JOH	018	001	Sima na Yesu kobondela, akendeki elongo na bayekoli na Ye mpe bakatisaki lubwaku ya Sedron epai wapi elanga moko ezalaki. Yesu akotaki na elanga yango elongo na bayekoli na Ye.
+043	JOH	018	002	Yuda oyo asilaki komibongisa mpo na kokaba Yesu ayebaki esika yango malamu, pamba te Yesu azalaki kokende kuna mbala mingi elongo na bayekoli na Ye.
+043	JOH	018	003	Boye Yuda akendeki na elanga yango mpe amemaki lisanga ya basoda mpe ya bakengeli oyo bakonzi ya Banganga-Nzambe mpe Bafarizeo bapesaki ye. Bato yango basimbaki minda, banzete oyo ezalaki kopela moto mpe bibundeli.
+043	JOH	018	004	Lokola Yesu ayebaki makambo nyonso oyo esengeli kokomela Ye, akendeki kokutana na bango mpe atunaki bango: — Bozali koluka nani?
+043	JOH	018	005	Bazongisaki: — Yesu ya Nazareti. Yesu alobaki na bango: — Ezali Ngai oyo. Mpe Yuda oyo atekaki Yesu epai na bango azalaki wana elongo na bango.
+043	JOH	018	006	Tango Yesu alobaki na bango: « Ezali Ngai oyo, » bazongaki na sima mpe bakweyaki na mabele.
+043	JOH	018	007	Yesu atunaki bango lisusu: — Bozali koluka nani? Bazongisaki: — Yesu ya Nazareti.
+043	JOH	018	008	Yesu alobaki na bango: — Nasili koloba na bino ete ezali Ngai. Soki ezali Ngai nde bozali koluka, botika bato mosusu kokende.
+043	JOH	018	009	Ezali bongo nde esengelaki kokokisama, liloba oyo Yesu alobaki: « Kati na bato oyo opesaki ngai, nabungisi ata moko te. »
+043	JOH	018	010	Lokola Simona Petelo azalaki na mopanga, abimisaki yango wuta na ebombelo na yango, abetaki mosali ya mokonzi ya Banganga-Nzambe mpe akataki ye litoyi ya ngambo ya loboko ya mobali. Kombo ya mosali yango ezalaki Malikisi.
+043	JOH	018	011	Kasi Yesu alobaki na Petelo: — Zongisa mopanga na yo kati na ebombelo na yango. Boni, nasengeli te komela kopo ya pasi, oyo Tata apesi Ngai?
+043	JOH	018	012	Lisanga ya basoda, mokonzi na bango mpe bakengeli ya Bayuda bakamataki Yesu mpe bakangaki Ye basinga;
+043	JOH	018	013	bamemaki Ye liboso epai ya Ana oyo azalaki tata-bokilo ya Kayifa, mokonzi ya Banganga-Nzambe, na mobu wana.
+043	JOH	018	014	Ezalaki mpe Kayifa wana nde apesaki Bayuda toli oyo: « Eleki malamu ete moto moko akufa mpo na bato nyonso. »
+043	JOH	018	015	Simona Petelo mpe moyekoli mosusu bazalaki kolanda Yesu. Moyekoli yango ayebanaki na mokonzi ya Banganga-Nzambe, mpe akotaki elongo na Yesu na lopango ya kati ya ndako ya mokonzi ya Banganga-Nzambe.
+043	JOH	018	016	Petelo azalaki kozela libanda, na liboso ya ekuke. Moyekoli wana, oyo ayebanaki na mokonzi ya Banganga-Nzambe, abimaki, asololaki na mwasi mokengeli ekuke mpe akotisaki Petelo.
+043	JOH	018	017	Mwasi mosali oyo azalaki kokengela ekuke atunaki Petelo: — Boni, yo mpe ozali te moko kati na bayekoli ya moto wana? Petelo azongisaki: — Nazali moyekoli na ye te.
+043	JOH	018	018	Lokola malili ezalaki, basali mpe bakengeli bapelisaki moto mpe batelemaki pembeni-pembeni mpo na koyetola. Petelo mpe azalaki wana elongo na bango mpo na koyetola.
+043	JOH	018	019	Mokonzi ya Banganga-Nzambe apesaki Yesu mituna na tina na bayekoli na Ye mpe na tina na mateya na Ye.
+043	JOH	018	020	Yesu azongiselaki ye: — Nazalaki koloba na polele penza na miso ya bato nyonso, nazalaki koteya tango nyonso kati na bandako ya mayangani mpe kati na Tempelo, epai wapi Bayuda nyonso basanganaka; nalobaki eloko moko te na nkuku.
+043	JOH	018	021	Mpo na nini ozali kotuna Ngai mituna? Tuna epai ya bato oyo bayokaki Ngai koloba. Ezali bango nde bakoki koyeba malamu makambo oyo nazalaki koloba.
+043	JOH	018	022	Tango kaka Yesu alobaki bongo, moko kati na bakengeli oyo bazalaki wana abetaki Ye mbata na koloba: — Boni! Ezali bongo nde ozali kozongisela mokonzi ya Banganga-Nzambe?
+043	JOH	018	023	Yesu alobaki na ye: — Soki nalobi mabe, mabe yango ezali wapi? Kasi soki nalobi na Ngai kaka solo, mpo na nini kobeta Ngai?
+043	JOH	018	024	Bongo Ana atindaki Yesu oyo azalaki kaka ya kokangama na basinga, epai ya Kayifa, mokonzi ya Banganga-Nzambe.
+043	JOH	018	025	Wana Simona Petelo azalaki nanu koyetola moto, batunaki ye: — Yo mpe ozali te moko kati na bayekoli na ye? Petelo awanganaki yango na koloba: — Te, nazali moyekoli na ye te.
+043	JOH	018	026	Kasi moko kati na basali ya mokonzi ya Banganga-Nzambe, ndeko mobali ya moto oyo Petelo akataki litoyi, alobaki: — Boni, ngai namonaki yo te elongo na ye kati na elanga?
+043	JOH	018	027	Kasi Petelo awanganaki yango lisusu; mpe mbala moko, soso elelaki.
+043	JOH	018	028	Bongo na tongo makasi, longwa na ndako ya Kayifa, bamemaki Yesu kati na ndako ya moyangeli oyo azalaki moto ya Rome. Kasi bango moko bato oyo bamemaki Yesu bakotaki te kati na ndako ya moyangeli, mpo ete bamikomisa mbindo te mpe mpo ete bazwa nzela ya kolia bilei ya Pasika.
+043	JOH	018	029	Yango wana moyangeli Pilato abimaki na libanda mpe atunaki bango: — Bofundi moto oyo mpo na likambo nini?
+043	JOH	018	030	Bazongiselaki ye: — Soki moto oyo asalaki mabe te, tolingaki mpe koya te kotika ye na maboko na yo.
+043	JOH	018	031	Pilato alobaki na bango: — Bokamata ye mpe bosambisa ye bino moko kolanda mibeko na bino. Bayuda bazongiselaki ye: — Biso tozali na ndingisa te ya kokatela moto etumbu ya kufa.
+043	JOH	018	032	Ezali ndenge wana nde ekokisamaki maloba oyo Yesu alobaki mpo na kolakisa lolenge ya kufa oyo asengelaki kokufa.
+043	JOH	018	033	Pilato azongaki kati na ndako ya moyangeli, abengaki Yesu mpe atunaki Ye: — Boni, ozali mokonzi ya Bayuda?
+043	JOH	018	034	Yesu azongisaki: — Boni, ezali na ndenge na yo moko nde olobi yango to bato mosusu nde bayebisi yo na tina na Ngai?
+043	JOH	018	035	Pilato atunaki Yesu: — Boni, okanisi ete ngai nazali Moyuda? Ezali bato ya ekolo na yo moko mpe bakonzi ya Banganga-Nzambe nde bayei kotika yo na maboko na ngai. Osali nini?
+043	JOH	018	036	Yesu azongisaki: — Bokonzi na Ngai ezali ya mokili oyo te; soki ezalaki ya mokili oyo, basali na Ngai balingaki kobunda mpo ete nakweya te na maboko ya Bayuda. Solo, bokonzi na Ngai ezali ya mokili oyo te.
+043	JOH	018	037	Pilato atunaki: — Elingi koloba nini, ozali nde mokonzi? Yesu azongisaki: — Yo nde olobi yango ete nazali mokonzi. Nabotamaki mpe nayaki kati na mokili mpo na kopesa litatoli na tina na solo. Moto oyo azali kati na solo ayokaka mongongo na Ngai.
+043	JOH	018	038	Pilato atunaki Ye: — Solo ezali nini? Sima na koloba maloba wana, Pilato abimaki lisusu na libanda epai wapi Bayuda bazalaki mpe alobaki na bango: — Nazwi ye na likambo moko te ya mabe mpo ete nakatela ye etumbu ya kufa.
+043	JOH	018	039	Kasi lokola ezali momesano epai na bino ete nabimisa na boloko mokangami moko, na tango ya feti ya Pasika, bozwa sik’oyo mokano. Bolingi ete natika mokonzi ya Bayuda mpo ete akoma nsomi?
+043	JOH	018	040	Bango nyonso bazongisaki na koganga: — Te! Ye te! Bimisa nde Barabasi! Nzokande, Barabasi azalaki moyibi mpe mobomi bato.
+043	JOH	019	001	Bongo Pilato apesaki mitindo ete bakamata Yesu, mpe abetisaki Ye fimbu.
+043	JOH	019	002	Basoda basalaki ekoti na banzube mpe balatisaki Ye yango na moto; balatisaki Ye lisusu nzambala ya motane.
+043	JOH	019	003	Bazalaki koya koloba na Ye: « Mbote, mokonzi ya Bayuda! » Mpe babandaki kobeta Ye bambata.
+043	JOH	019	004	Pilato abimaki lisusu mpe alobaki na bango: — Botala! Nayei na Ye na libanda epai na bino mpo boyeba ete ngai nazwi Ye na mabe moko te.
+043	JOH	019	005	Boye, Yesu abimaki alata ekoti ya nzube mpe nzambala ya motane. Pilato alobaki na bango: — Moto yango, ye oyo!
+043	JOH	019	006	Tango kaka bakonzi ya Banganga-Nzambe mpe bakengeli bamonaki Yesu, babandaki koganga: — Baka ye na ekulusu! Baka ye na ekulusu! Kasi Pilato azongisaki: — Bino moko, bokamata ye mpe bobaka ye na ekulusu; ngai nazwi ye na mabe ata moko te.
+043	JOH	019	007	Bayuda balobaki na molende nyonso: — Tozali na Mobeko; mpe kolanda Mobeko na biso, asengeli kokufa, pamba te amikomisi Mwana na Nzambe.
+043	JOH	019	008	Tango Pilato ayokaki maloba wana, abangaki lisusu makasi.
+043	JOH	019	009	Azongaki lisusu kati na ndako ya moyangeli mpe alobaki na Yesu: — Ozali moto ya mboka nini? Kasi Yesu apesaki ye eyano te.
+043	JOH	019	010	Pilato alobaki na Ye: — Boni, oboyi kozongisela ngai eyano? Oyebi te ete ngai nazali na makoki ya kobaka yo na ekulusu mpe ya kotika yo?
+043	JOH	019	011	Yesu alobaki na ye: — Okokaki kozala na bokonzi moko te likolo na Ngai soki epesamelaki yo te wuta na likolo. Yango wana, moto oyo akabi Ngai na maboko na yo asali lisumu monene koleka.
+043	JOH	019	012	Kobanda kaka na ngonga wana, Pilato akomaki koluka nzela ya kotika Yesu; kasi Bayuda babandaki lisusu koganga: — Soki otiki ye, wana ozali na yo moninga ya Sezare te! Pamba te moto nyonso oyo amikomisi mokonzi azali monguna ya Sezare.
+043	JOH	019	013	Tango Pilato ayokaki bongo, amemaki Yesu na libanda mpe avandaki na esambiselo, na esika oyo babengaka, na lokota ya Arami, « Gabata. »
+043	JOH	019	014	Ezalaki mokolo ya suka mpo na kokoma na mokolo ya Pasika, na ngonga ya midi. Pilato alobaki na Bayuda: — Botala mokonzi na bino!
+043	JOH	019	015	Kasi babandaki koganga: — Boma ye! Boma ye! Baka ye na ekulusu! Pilato alobaki na bango lisusu: — Nasengeli penza kobaka mokonzi na bino na ekulusu? Bakonzi ya Banganga-Nzambe bazongisaki: — Tozali kaka na Sezare lokola mokonzi, mokonzi mosusu azali te!
+043	JOH	019	016	Pilato akabaki Yesu na maboko na bango mpo ete babaka Ye na ekulusu. Boye, bakamataki Yesu mpe bakendeki na Ye.
+043	JOH	019	017	Yesu amemaki, Ye moko, ekulusu na Ye; abimaki na engumba mpe akendeki na esika oyo babengaka, na lokota ya Arami, « Gologota. »
+043	JOH	019	018	Ezalaki na esika yango nde babakaki Yesu na ekulusu, elongo na bato mosusu mibale: moko, na ngambo ya loboko ya mobali ya Yesu; mosusu, na ngambo ya loboko na Ye ya mwasi.
+043	JOH	019	019	Pilato akomaki na libaya, makomi oyo atiaki na ekulusu; akomaki: Yesu, moto ya Nazareti, Mokonzi ya Bayuda.
+043	JOH	019	020	Lokola esika oyo babakaki Yesu na ekulusu ezalaki pene ya engumba, Bayuda ebele batangaki makomi yango, pamba te bakomaki yango na lokota ya Ebre, lokota ya latino mpe lokota ya Greki.
+043	JOH	019	021	Bakonzi ya Banganga-Nzambe balobaki na Pilato: — Osengelaki te kokoma: « Mokonzi ya Bayuda; » osengelaki nde kokoma: « Moto oyo alobaki: ‹ Nazali mokonzi ya Bayuda. › »
+043	JOH	019	022	Kasi Pilato azongisaki: — Makambo oyo nakomi ekotikala kaka ndenge wana.
+043	JOH	019	023	Sima na basoda kobaka Yesu na ekulusu, bakamataki bilamba na Ye mpe bakabolaki yango na biteni minei: soda moko na moko azwaki eteni moko. Bakamataki mpe nzambala na Ye, oyo ezalaki ya kotongama te, kasi ezalaki kaka elamba moko, kobanda na likolo kino na se.
+043	JOH	019	024	Basoda balobanaki bango na bango: — Topasola yango te, kasi tobeta zeke mpo na koyeba soki nani akozwa yango. Esalemaki bongo mpo ete Makomi oyo ekokisama: « Bakabolaki bilamba na ngai kati na bango mpe babetaki zeke mpo na nzambala na ngai. » Ezali makambo wana nde basoda basalaki.
+043	JOH	019	025	Tala bato oyo batelemaki pene ya ekulusu ya Yesu: Mama na Ye, ndeko mwasi ya mama na Ye, Mari oyo azalaki mwasi ya Klopasi, mpe Mari ya mboka Magidala.
+043	JOH	019	026	Tango Yesu amonaki ete moyekoli oyo azalaki kolinga atelemi pembeni ya mama na Ye, alobaki na mama na Ye: — Mwasi, tala mwana na yo!
+043	JOH	019	027	Mpe alobaki na moyekoli yango: — Tala mama na yo! Boye, kobanda na tango wana, moyekoli yango azwaki mama ya Yesu mpo ete akoma kovanda na ndako na ye.
+043	JOH	019	028	Sima na yango, wana Yesu asosolaki ete makambo nyonso esili kosalema, abimisaki maloba oyo mpo ete Makomi ekokisama: — Nayoki posa ya mayi.
+043	JOH	019	029	Lokola ezalaki na mbeki moko etonda na vino ya ngayi pembeni ya esika yango, batiaki, na songe ya nzete moko ya izope, eponze moko epola na vino yango ya ngayi mpe batombolaki yango kino na monoko ya Yesu.
+043	JOH	019	030	Tango kaka Yesu amelaki vino yango ya ngayi, alobaki: — Nyonso ekokisami. Bongo, akitisaki moto mpe azongisaki molimo na Ye.
+043	JOH	019	031	Lokola ezalaki mokolo ya komilengela mpo na Saba, mpe lokola Saba yango ezalaki na tina makasi, Bayuda balingaki te ete bibembe etikala na ba-ekulusu na tango ya Saba. Boye, bakendeki kosenga epai ya Pilato ete apesa mitindo ya kobuka makolo ya bibembe oyo ezalaki na likolo ya ba-ekulusu mpe ya kolongola banzoto na bango.
+043	JOH	019	032	Basoda bayaki mpe babukaki makolo ya mibali nyonso mibale oyo babakaki na ba-ekulusu elongo na Yesu; babandaki na moko, bongo balekaki na oyo mosusu.
+043	JOH	019	033	Wana ekomaki ngala ya makolo ya Yesu, bamonaki ete Yesu amikufelaki; mpe babukaki lisusu te makolo na Ye.
+043	JOH	019	034	Moko kati na basoda atobolaki mopanzi ya Yesu na nzela ya likonga; mpe mbala moko, makila mpe mayi ebimaki na mopanzi yango.
+043	JOH	019	035	Moto oyo azali kopesa litatoli na tina na makambo oyo amonaki yango kosalema na miso na ye, mpe litatoli na ye ezali ya solo; ayebi penza ete azali koloba solo mpo ete bino mpe bondima.
+043	JOH	019	036	Makambo nyonso wana esalemaki bongo mpo ete Makomi oyo ekokisama: « Bakobuka ata mokuwa na Ye moko te. »
+043	JOH	019	037	Eteni mosusu ya Makomi elobi: « Bakotala Ye oyo batobolaki mopanzi. »
+043	JOH	019	038	Sima na makambo wana, Jozefi, moto ya mboka Arimate, oyo azalaki moyekoli ya Yesu, kasi na nkuku mpo ete azalaki kobanga Bayuda, asengaki epai ya Pilato ndingisa ya kokitisa nzoto ya Yesu longwa na ekulusu. Pilato apesaki ye ndingisa yango, mpe Jozefi akendeki mpe akitisaki nzoto ya Yesu.
+043	JOH	019	039	Nikodemi oyo, na ebandeli, akendeki kotala Yesu na butu, ye mpe ayaki; amemaki bakilo pene tuku misato ya mafuta ya mire basangisa na aloe.
+043	JOH	019	040	Bango mibale bakamataki nzoto ya Yesu mpe balingaki yango na maputa ya lino oyo, kati na yango, batiaki mafuta ya solo kitoko, ndenge ezalaki momesano ya Bayuda mpo na kokunda bibembe.
+043	JOH	019	041	Pene ya esika oyo babakaki Yesu na ekulusu, ezalaki na elanga moko oyo, kati na yango, ezalaki na kunda moko ya sika epai wapi batikalaki nanu kokunda ata moto moko te.
+043	JOH	019	042	Lokola, mpo na Bayuda, ezalaki mokolo ya komilengela mpo na Saba, batiaki Yesu kati na kunda yango, pamba te ezalaki pene.
+043	JOH	020	001	Na tongo-tongo ya mokolo ya liboso ya poso, wana molili ezalaki nanu, Mari, moto ya mboka Magidala, akendeki na kunda mpe amonaki ete libanga esilaki kolongolama na ekotelo ya kunda.
+043	JOH	020	002	Apotaki mbangu mpo na kokende kokutana na Simona Petelo mpe moyekoli mosusu, ye oyo Yesu azalaki kolinga; alobaki na bango: — Balongoli Nkolo wuta na kunda, mpe toyebi te soki batie Ye wapi!
+043	JOH	020	003	Petelo elongo na moyekoli wana bakendeki na kunda.
+043	JOH	020	004	Bango mibale bazalaki kopota mbangu nzela moko; kasi lokola moyekoli wana azalaki mbangu koleka Petelo, akomaki moto ya liboso na kunda.
+043	JOH	020	005	Agunzamaki mpo na kotala mpe amonaki, na mabele, maputa oyo bakundaki na yango Yesu; kasi akotaki te.
+043	JOH	020	006	Simona Petelo oyo azalaki kolanda ye akomaki mpe akotaki kati na kunda, amonaki maputa oyo ezalaki na mabele
+043	JOH	020	007	mpe elamba oyo balingaki na moto ya Yesu; elamba ezalaki esika moko te na maputa oyo balingaki na yango nzoto ya Yesu, kasi ezalaki ya kolingama na esika na yango moko.
+043	JOH	020	008	Bongo moyekoli oyo akomaki moto ya liboso kuna na kunda, ye mpe akotaki kati na kunda; amonaki mpe andimaki.
+043	JOH	020	009	Kasi kino na tango wana, basosolaki nanu te ete Yesu asengelaki kosekwa kati na bakufi, kolanda ndenge Makomi ezali koloba.
+043	JOH	020	010	Sima na yango, bayekoli nyonso mibale bazongaki na esika oyo bazalaki kovanda.
+043	JOH	020	011	Nzokande, Mari atelemaki na libanda, pene ya kunda, mpe azalaki kolela. Mpe wana azalaki kolela, agunzamaki mpo na kotala kati na kunda;
+043	JOH	020	012	amonaki ba-anjelu mibale balata bilamba ya pembe mpe bavanda na esika oyo nzoto ya Yesu ezalaki: moko na ngambo ya moto, mpe mosusu, na ngambo ya makolo.
+043	JOH	020	013	Ba-anjelu batunaki ye: — Mwasi, mpo na nini ozali kolela? Azongisaki: — Nazali kolela mpo ete balongoli Nkolo na ngai mpe nayebi te soki batie Ye wapi?
+043	JOH	020	014	Tango alobaki bongo, abalukaki mpe amonaki Yesu atelemi wana, kasi ayebaki te ete ezali Yesu.
+043	JOH	020	015	Yesu atunaki ye: — Mwasi, mpo na nini ozali kolela? Ozali koluka nani? Mari akanisaki ete azali mosali elanga; alobaki na ye: — Tata, soki yo nde moto olongolaki Ye, yebisa ngai esika nini otie Ye mpo ete nakende kokamata Ye.
+043	JOH	020	016	Yesu alobaki na ye: — Mari! Mari abalukaki mpe alobaki na lokota ya Ebre: — Rabuni!
+043	JOH	020	017	Yesu alobaki na ye: — Kosimba Ngai te, pamba te nanu namati te epai ya Tata na Ngai. Kende nde epai ya bandeko na Ngai mpe yebisa bango ete nakeyi epai ya Tata na Ngai, oyo azali mpe Tata na bino; epai ya Nzambe na Ngai, oyo azali mpe Nzambe na bino.
+043	JOH	020	018	Mari, moto ya mboka Magidala, akendeki koyebisa bayekoli ete awuti komona Nkolo; ayebisaki bango lisusu makambo oyo Nkolo alobaki na ye.
+043	JOH	020	019	Na pokwa ya mokolo wana ya liboso ya poso, wana bayekoli basanganaki esika moko kati na ndako mpe bakangaki malamu bikuke mpo ete bazalaki kobanga bakonzi ya Bayuda, Yesu ayaki, atelemaki na kati-kati na bango mpe alobaki: — Tika ete kimia ezala na bino!
+043	JOH	020	020	Wana azalaki koloba bongo, alakisaki bango maboko na Ye mpe mopanzi na Ye. Bayekoli batondaki na esengo tango bamonaki Nkolo.
+043	JOH	020	021	Yesu alobaki na bango lisusu: — Tika ete kimia ezala na bino! Ndenge Tata atindaki Ngai, Ngai mpe nazali kotinda bino.
+043	JOH	020	022	Sima na Yesu koloba makambo wana, afulaki bango mopepe mpe alobaki na bango: — Boyamba Molimo Mosantu!
+043	JOH	020	023	Bato oyo bokolimbisa masumu na bango, masumu na bango ekolimbisama; kasi ba-oyo bokolimbisa te, bakozwa mpe bolimbisi te.
+043	JOH	020	024	Toma, moko kati na bayekoli zomi na mibale, oyo babengaka Lipasa, azalaki te elongo na bayekoli tango Yesu ayaki.
+043	JOH	020	025	Bayekoli mosusu balobaki na ye: — Towuti komona Nkolo! Kasi Toma azongiselaki bango: — Soki ngai namoni te bilembo ya basete na maboko na Ye, soki natie mosapi na ngai te kati na bisika oyo basete etobolaki Ye, mpe soki natie te loboko na ngai kati na mopanzi na Ye, nakotikala kondima te.
+043	JOH	020	026	Sima na mikolo mwambe, bayekoli ya Yesu basanganaki lisusu kati na ndako. Na mbala oyo, Toma mpe azalaki elongo na bango, mpe bikuke ezalaki ya kokangama. Yesu ayaki, atelemaki kati na bango mpe alobaki: — Tika ete kimia ezala na bino!
+043	JOH	020	027	Bongo, alobaki na Toma: — Tia mosapi na yo awa, tala maboko na Ngai; sembola loboko na yo mpe tia yango na mopanzi na Ngai. Kozala te moto oyo azangi kondima, kasi moto na kondima!
+043	JOH	020	028	Toma azongiselaki Yesu: — Nkolo na ngai mpe Nzambe na ngai!
+043	JOH	020	029	Yesu alobaki na ye: — Ondimi mpo ete omoni Ngai! Esengo na bato oyo bamoni te, kasi bandimi!
+043	JOH	020	030	Yesu asalaki lisusu, na miso ya bayekoli na Ye, bikamwa mosusu mingi oyo ekomami te kati na buku oyo.
+043	JOH	020	031	Kasi mpo na oyo ekomami, ezali mpo ete bondima ete Yesu azali Klisto, Mwana na Nzambe; mpe mpo ete, na nzela ya kondima Ye, bozwa bomoi na Kombo na Ye.
+043	JOH	021	001	Sima na yango, Yesu abimelaki lisusu bayekoli na Ye na libongo ya ebale ya Tiberiade. Tala ndenge nini abimelaki bango:
+043	JOH	021	002	Wana bayekoli oyo bazalaki esika moko: Simona Petelo, Toma oyo babengaka Lipasa; Natanaele, moto ya mboka Kana ya Galile, bana ya Zebede mpe bayekoli mosusu mibale;
+043	JOH	021	003	Simona Petelo alobaki na bango: — Bandeko na ngai, nakeyi na ngai koloba mbisi! Balobaki na ye: — Biso mpe tokende elongo na yo! Bakendeki mpe bamataki na bwato; kasi na butu wana, bazwaki ata mbisi moko te.
+043	JOH	021	004	Na tongo makasi, Yesu atelemaki na libongo, kasi bayekoli bayebaki te ete ezali Ye.
+043	JOH	021	005	Yesu abengaki bango: — Bana na Ngai! Boni, bozali na mbisi te? Bazongisaki: — Te!
+043	JOH	021	006	Alobaki na bango: — Bobwaka monyama na ngambo ya loboko ya mobali ya bwato, mpe bokozwa bambisi. Boye, babwakaki monyama mpe bakokaki lisusu te kobenda yango longwa na mayi, pamba te etondaki na bambisi ebele.
+043	JOH	021	007	Moyekoli oyo Yesu azalaki kolinga mingi alobaki na Petelo: — Bandeko, ezali Nkolo! Tango kaka ayokaki ete ezali Nkolo, Simona Petelo akangaki nzambala na ye na loketo mpe amibwakaki na mayi, pamba te amilongolelaki bilamba mpo na koloba mbisi.
+043	JOH	021	008	Ezali bayekoli mosusu nde bazongisaki bwato na libongo, wana bazalaki kobenda monyama etonda na bambisi ebele, pamba te bazalaki mosika te na mokili: bametele pene nkama moko ekabolaki libongo na esika oyo bazalaki.
+043	JOH	021	009	Tango bakitaki na mabele, bamonaki mapa mpe moto ya makala oyo na likolo na yango ezalaki na bambisi.
+043	JOH	021	010	Yesu alobaki na bango: — Boya na ndambo ya bambisi oyo bowuti kozwa.
+043	JOH	021	011	Simona Petelo amataki na bwato mpe abendaki monyama kino na mokili. Ezalaki ya kotonda na bambisi ya minene pene nkama moko na tuku mitano na misato. Atako bambisi ezalaki penza ebele, monyama epasukaki te.
+043	JOH	021	012	Bongo Yesu alobaki na bango: — Boya kolia. Lokola bayekoli bayebaki ete ezali Nkolo, moko te kati na bango amekaki kotuna Ye: « Ozali nani? »
+043	JOH	021	013	Yesu apusanaki, azwaki mapa mpe akabolaki yango kati na bango; asalaki mpe bongo mpo na mbisi.
+043	JOH	021	014	Ezalaki mbala ya misato oyo Yesu abimelaki bayekoli na Ye sima na kosekwa na Ye kati na bakufi.
+043	JOH	021	015	Tango basilisaki kolia, Yesu atunaki Simona Petelo: — Simona, mwana mobali ya Yoane; boni, olingaka Ngai koleka ndenge bango balingaka Ngai? Azongisaki: — Iyo, Nkolo! Oyebi malamu ete nalingaka Yo. Yesu alobaki na ye: — Batela bampate na Ngai.
+043	JOH	021	016	Yesu atunaki ye mpo na mbala ya mibale: — Simona, mwana mobali ya Yoane; boni, olingaka Ngai? Azongisaki: — Iyo, Nkolo! Oyebi malamu ete nalingaka yo! Yesu alobaki na ye: — Batela bampate na Ngai.
+043	JOH	021	017	Bongo Yesu atunaki ye mpo na mbala ya misato: — Simona, mwana mobali ya Yoane; boni, olingaka Ngai? Petelo ayokaki mawa mingi kati na motema mpo ete ekomaki mbala ya misato oyo Yesu atunaki ye: « Olingaka Ngai? » Bongo azongiselaki Yesu: — Nkolo, oyebi makambo nyonso; oyebi malamu ete nalingaka Yo! Yesu alobaki na ye: — Batela bameme na Ngai.
+043	JOH	021	018	Nazali koloba na yo penza ya solo: tango ozalaki elenge, ozalaki kokanga yo moko mokaba na yo mpe ozalaki kokende na esika nyonso oyo olingi. Kasi tango okokoma mobange, okotanda maboko na yo, mpe ekozala moto mosusu nde akokanga yo mokaba mpe akomema yo na esika oyo yo okolinga kutu kokende te.
+043	JOH	021	019	Yesu alobaki bongo mpo na kotalisa lolenge ya kufa oyo Petelo asengelaki kokufa mpo na nkembo ya Nzambe. Sima na Ye koloba bongo, alobaki na Petelo: — Landa Ngai!
+043	JOH	021	020	Petelo atalaki na sima mpe amonaki moyekoli oyo Yesu azalaki kolinga koleka bayekoli mosusu, ye oyo, wana bazalaki kolia, alalelaki Yesu na tolo mpe atunaki Ye: « Nkolo, nani akoteka Yo? » Ye mpe azalaki kolanda bango.
+043	JOH	021	021	Tango Petelo amonaki ye, atunaki Yesu: — Nkolo, okanisi nini mpo na ye?
+043	JOH	021	022	Yesu azongisaki: — Soki nalingi ete azala kaka na bomoi kino tango nakoya, wana etali yo na nini? Kasi yo, landa Ngai.
+043	JOH	021	023	Mpo na yango, sango epanzanaki kati na bandeko ete moyekoli yango akokufa te. Nzokande, Yesu alobaki te ete moyekoli wana akokufa te, kasi alobaki nde: « Soki nalingi ete azala kaka na bomoi kino tango nakoya, wana etali yo na nini? »
+043	JOH	021	024	Ezali kutu moyekoli yango nde azali kotatola makambo yango mpe akomaki yango na mokanda. Mpe biso toyebi ete litatoli na ye ezali ya solo.
+043	JOH	021	025	Yesu asalaki lisusu makambo mosusu ebele; soki bakomaki yango na mikanda moko sima na mosusu, nakanisi ete mokili mobimba elingaki kokoka te mpo na kobomba babuku oyo balingaki kokoma.
+#

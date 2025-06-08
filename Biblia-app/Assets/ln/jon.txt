@@ -1,0 +1,49 @@
+032	JON	001	001	Yawe alobaki na Yona, mwana mobali ya Amitayi:
+032	JON	001	002	— Telema, kende na Ninive, engumba monene, mpe kebisa bato na yango, pamba te mabe na bango ekomi kino epai na ngai.
+032	JON	001	003	Yona atelemaki. Kasi mpo na kokima mosika na Yawe, akendeki na Tarsisi, akitaki na libongo ya Jafa mpe akutaki kuna masuwa moko oyo ezalaki kokende na Tarsisi. Sima na ye kofuta mbongo mpo na mobembo, akotaki na masuwa yango mpo na kokende na Tarsisi, mosika na Yawe.
+032	JON	001	004	Kasi Yawe atindaki mopepe makasi na likolo ya ebale monene, mpe mopepe yango ememaki mbonge oyo ekomaki pene ya kozindisa masuwa.
+032	JON	001	005	Bato oyo basalaka na masuwa bakomaki kobanga, mpe moto na moto akomaki kobelela nzambe na ye; babwakaki biloko nyonso oyo bazalaki na yango na ebale monene mpo na kokomisa masuwa pepele. Kasi Yona akitaki na kobe ya masuwa mpe, kuna, alalaki pongi ya makasi.
+032	JON	001	006	Mokumbi masuwa apusanaki pene ya Yona mpe alobaki na ye: — Ndenge nini okoki penza kolala pongi boye? Telema mpe belela nzambe na yo, tango mosusu akoki koyokela biso mawa mpo ete tokufa te.
+032	JON	001	007	Bato oyo basalaka na masuwa bamilobelaki bango na bango: « Boya! Tobeta zeke mpo toyeba moto oyo azali kobendela biso pasi oyo. » Babetaki zeke, mpe zeke yango ekweyaki epai ya Yona.
+032	JON	001	008	Batunaki ye: — Yebisa biso nani azali kobendela biso pasi oyo? Osalaka nini? Owuti wapi? Mboka na yo nini, mpe ozali moto ya ekolo nini?
+032	JON	001	009	Yona azongisaki: — Nazali Mo-Ebre, nasambelaka Yawe, Nzambe ya Lola, oyo akela bibale mpe mokili.
+032	JON	001	010	Ayebisaki bango ete azali kokima mosika na Yawe. Boye bato yango babangaki makasi; batunaki ye: — Eloko nini osalaki kuna?
+032	JON	001	011	Lokola ebale ezalaki kotomboka makasi penza, batunaki ye lisusu: — Tosala yo nini mpo ete ebale evanda kimia mpe etika kotungisa biso?
+032	JON	001	012	Azongiselaki bango: — Bokamata ngai mpe bobwaka ngai na ebale monene, mpe yango ekovanda kimia, pamba te nayebi malamu ete ezali mpo na ngai nde mopepe makasi oyo etelemeli bino.
+032	JON	001	013	Bato yango bamipesaki nanu na koluka nkayi, na makasi na bango nyonso, mpo na komema masuwa na mokili, kasi balongaki te, pamba te mopepe etelemelaki bango makasi.
+032	JON	001	014	Bongo, babelelaki Yawe: « Oh Yawe, tobondeli Yo, koboma biso te likolo ya moto oyo. Kotika te ete makila ya moto oyo asali mabe te etangama na mito na biso. Pamba te ezali solo Yo Yawe nde osali oyo olingaki. »
+032	JON	001	015	Boye, bakamataki Yona mpe babwakaki ye na ebale monene; mpe mbala moko, ebale monene oyo etombokaki makasi evandaki kimia.
+032	JON	001	016	Babangaki mpe bayokaki somo makasi liboso ya Yawe; babonzelaki Ye bambeka mpe bapesaki Ye bilaka.
+032	JON	001	017	Yawe atindaki mbisi moko ya monene komela Yona. Boye Yona asalaki kati na libumu ya mbisi yango mikolo misato mpe babutu misato.
+032	JON	002	001	Wuta na libumu ya mbisi, Yona asambelaki Yawe, Nzambe na ye.
+032	JON	002	002	Alobaki: « Kati na mawa na ngai, nabelelaka Yawe, mpe ayanolaka ngai. Wuta kati na mboka ya bakufi, nasengaka lisungi, mpe ayokaka ngai. (Sheol h7585)
+032	JON	002	003	Obwakaki ngai kati na libulu ya molili makasi, kati na mozindo ya ebale monene epai wapi mayi ezingeli ngai mpe bambonge na yo nyonso ekweyeli ngai.
+032	JON	002	004	Nazali komilobela: ‹ Obengani ngai mosika na miso na Yo; nzokande ngai nazali kokoba kotalela Tempelo na Yo ya bule. ›
+032	JON	002	005	Nazindi kino na kingo, mayi ya libulu ya molili makasi ezingeli ngai, matiti ya ebale ekangani-kangani zingazinga ya moto na ngai.
+032	JON	002	006	Nazindi kino na esika oyo ngomba ebandaka, mabele esili kokanga bikangelo na yango sima na ngai mpo na libela. Kasi Yo Yawe, Nzambe na ngai, obimisi ngai ya bomoi wuta na libulu ya mozindo.
+032	JON	002	007	Wana nakomi pene ya kobungisa elikya, nakanisi Yo, Yawe, mpe libondeli na ngai emati kino epai na Yo, kino na Tempelo na Yo ya bule.
+032	JON	002	008	Bato oyo bakangamaka na banzambe ya bikeko ezanga tina babungisaka bolingo oyo Nzambe alingaka bango.
+032	JON	002	009	Kasi ngai, na koyembaka nzembo ya matondi, nalingi kobanda kobonzelaka Yo bambeka mpe kokokisaka bilaka oyo nazali kopesa, pamba te lobiko ezali ya Yawe. »
+032	JON	002	010	Mpe Yawe apesaki mitindo na mbisi, mpe mbala moko, mbisi esanzaki Yona na mokili.
+032	JON	003	001	Yawe alobaki na Yona na mbala ya mibale:
+032	JON	003	002	— Telema, kende na Ninive, engumba monene, mpe sakola kuna maloba oyo nakopesa yo.
+032	JON	003	003	Yona atosaki Liloba na Yawe; atelemaki mpe akendeki na Ninive. Nzokande Ninive ezalaki engumba moko ya monene na miso ya Nzambe; esengelaki kosala mikolo misato mpo na kosilisa kotambola kati na yango.
+032	JON	003	004	Yona abandaki mosala na ye, atambolaki mokolo mobimba kati na engumba; azalaki kosakola: — Etikali mikolo tuku minei mpo ete engumba ya Ninive ebebisama nye!
+032	JON	003	005	Bato ya Ninive bandimelaki Nzambe; bazwaki mokano ya kokila bilei mpe ya kolata basaki, kobanda na oyo aleki na bozwi kino na oyo aleki na bobola.
+032	JON	003	006	Tango sango yango ekomaki epai ya mokonzi ya Ninive, atelemaki longwa na kiti na ye ya bokonzi, alongolaki bilamba na ye ya bokonzi, alataki saki mpe amivandisaki na putulu.
+032	JON	003	007	Apesaki mitindo ete bapanza sango oyo na Ninive: « Na mitindo ya mokonzi mpe ya bakalaka na ye, Epekisami na bato mpe na bibwele, ezala ngombe, meme to ntaba; epekisami kolia biloko nyonso mpe komela mayi.
+032	JON	003	008	Tika ete bato mpe bibwele balata basaki, babelela Nzambe makasi. Tika ete moko na moko atika nzela na ye ya mabe mpe mobulu oyo ekangami ye na maboko.
+032	JON	003	009	Nani ayebi? Tango mosusu Nzambe akobongola makanisi, akolongola kanda mpe akozongisa motema sima mpo ete tokufa te. »
+032	JON	003	010	Tango Nzambe amonaki makambo oyo basalaki mpe ndenge batikaki banzela na bango ya mabe, abongolaki makanisi na Ye mpe atindelaki bango lisusu te etumbu oyo akanaki kopesa bango.
+032	JON	004	001	Yona asepelaki na yango ata moke te, asilikaki makasi.
+032	JON	004	002	Asambelaki Yawe: — Oh Yawe! Ezali te makambo ya boye nde nazalaki komilobela tango nazalaki epai na ngai? Yango wana nasalaki na ngai mobembo na Tarsisi mpo na koluka kokima, pamba te nayebaki malamu ete ozali Nzambe ya ngolu mpe ya mawa, osilikaka noki te mpe otonda na bolingo, obongolaka makanisi na Yo ya kosala bato mabe.
+032	JON	004	003	Sik’oyo, oh Yawe, kamata na Yo bomoi na ngai; pamba te eleki malamu ete nakufa na ngai, kasi nazala na bomoi te!
+032	JON	004	004	Kasi Yawe azongiselaki ye: — Boni, okanisi ete ozali kosala malamu ndenge ozali kosilika?
+032	JON	004	005	Yona abimaki na libanda ya engumba mpe akendeki kovanda na este na yango. Kuna, amitongelaki ndako moko ya matiti mpe avandaki na se ya pio na yango mpo na kozela makambo oyo ekokweyela engumba Ninive.
+032	JON	004	006	Yawe Nzambe abimisaki nzete moko mpe akolisaki yango mpo na kopesa pio na moto ya Yona mpe kokitisa ye motema. Nzete yango esepelisaki Yona makasi.
+032	JON	004	007	Kasi na tongo-tongo ya mokolo oyo elandaki, Nzambe abimisaki mwa nyama moko oyo eliaka banzete; bongo eliaki nzete yango, mpe nzete yango ekawukaki.
+032	JON	004	008	Tango moyi ebimaki makasi, Nzambe atindaki mopepe ya este oyo epesaki molunge makasi. Moyi ebetaki moto ya Yona makasi. Yona alembaki nzoto, asengaki kokufa; alobaki: — Eleki malamu ete nakufa na ngai, kasi nazala na bomoi te!
+032	JON	004	009	Nzambe alobaki na Yona: — Okanisi ete ozali kosala malamu ndenge ozali kosilika mpo na nzete oyo? Yona azongisaki: — Ezali se bongo. Nazali kosala malamu ndenge nazali kosilika kino kosenga kufa na ngai.
+032	JON	004	010	Yawe alobaki: — Oyoki pasi na motema mpo na nzete oyo omoneli ata pasi te mpe okolisi te, oyo ekoli kaka na butu moko mpe ekawuki na butu oyo elandi! Oyokeli yango mpe mawa!
+032	JON	004	011	Bongo ndenge nini Ngai nayoka motema pasi te mpo na Ninive, engumba monene, oyo ezali na bato koleka nkoto nkama moko na tuku mibale oyo bayebi te kokesenisa makambo mabe mpe makambo malamu, mpe ezali na ebele ya bibwele?
+#

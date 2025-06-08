@@ -1,0 +1,1214 @@
+002	EXO	001	001	Tala bakombo ya bana ya Isalaele oyo bakendeki na Ejipito elongo na Jakobi, moko na moko elongo na libota na ye:
+002	EXO	001	002	Ribeni, Simeoni, Levi mpe Yuda;
+002	EXO	001	003	Isakari, Zabuloni mpe Benjame;
+002	EXO	001	004	Dani mpe Nefitali; Gadi mpe Aseri.
+002	EXO	001	005	Bakitani ya Jakobi bazalaki bango nyonso tuku sambo. Nzokande Jozefi amizalelaki na Ejipito.
+002	EXO	001	006	Jozefi mpe bandeko na ye nyonso ya mibali elongo na bato ya ekeke na bango basilaki na kokufa.
+002	EXO	001	007	Kasi bana ya Isalaele babotanaki mingi mpe bakomaki ebele penza. Bakomaki lisusu ebele koleka mpe makasi mingi: batondisaki mokili ya Ejipito.
+002	EXO	001	008	Mokonzi moko ya sika, oyo ayebaki Jozefi te, azwaki bokonzi na Ejipito.
+002	EXO	001	009	Alobaki na bato na ye: « Botala bana ya Isalaele, bakomi ebele koleka biso mpe baleki biso na makasi.
+002	EXO	001	010	Tosengeli kosala keba mpo na bango, mpo ete bakoma lisusu ebele te. Pamba te soki bitumba ekweyi, bakoki kokende na ngambo ya banguna na biso mpe kobundisa biso mpo ete babima na mokili oyo. »
+002	EXO	001	011	Boye batiaki bakonzi ya misala makasi mpo na konyokola bana ya Isalaele na nzela ya misala makasi. Na bongo, batongelaki Faraon bingumba ya Pitomi mpe ya Ramisesi mpo ete ezala bisika ya kobomba biloko.
+002	EXO	001	012	Kasi wana bazalaki konyokola bango, bazalaki kokoba kaka kobotana mpe kokoma ebele. Bongo bato ya Ejipito bakomaki kobanga bana ya Isalaele.
+002	EXO	001	013	Bato ya Ejipito bakotisaki bana ya Isalaele na bowumbu ya makasi
+002	EXO	001	014	mpe bakomaki konyokola bango na misala makasi: kosala potopoto, kobeta babiliki mpe kosala misala nyonso ya bilanga. Misala nyonso oyo bazalaki kosalisa bango ezalaki ya pasi mpe ya makasi.
+002	EXO	001	015	Mokonzi ya Ejipito alobaki na basi oyo babotisaka basi ya Ba-Ebre, oyo bakombo na bango ezalaki Shifra mpe Puwa:
+002	EXO	001	016	« Tango bokobotisa basi ya Ba-Ebre, botala soki mwana nini abotami; soki azali mwana mobali, boboma ye; kasi soki azali mwana mwasi, botika ye na bomoi. »
+002	EXO	001	017	Kasi basi oyo babotisaka babangaki Nzambe mpe basalaki te makambo oyo mokonzi ya Ejipito atindaki bango kosala; batikaki bana mibali na bomoi.
+002	EXO	001	018	Boye mokonzi ya Ejipito abengisaki basi oyo babotisaka mpe atunaki bango: — Mpo na nini bosali boye? Mpo na nini botiki bana mibali na bomoi?
+002	EXO	001	019	Basi oyo babotisaka bazongiselaki Faraon: — Basi ya Ba-Ebre bazali lokola basi ya Ejipito te. Bazali makasi, babotaka liboso ete basi oyo babotisaka bakoma.
+002	EXO	001	020	Nzambe asalaki bolamu epai ya basi oyo babotisaka. Boye bana ya Isalaele bakobaki kaka kokoma ebele mpe makasi koleka.
+002	EXO	001	021	Lokola basi oyo babotisaka bazalaki kobanga Nzambe, Nzambe afulukisaki mabota na bango.
+002	EXO	001	022	Bongo, Faraon apesaki mitindo epai ya bato na ye nyonso: « Bobwaka na ebale Nili bana mibali nyonso ya Isalaele oyo bakobotama, kasi botika na bomoi bana basi nyonso. »
+002	EXO	002	001	Mobali moko ya libota ya Levi abalaki mwasi kati na libota ya Levi.
+002	EXO	002	002	Mwana mwasi yango azwaki zemi mpe abotaki mwana mobali. Wana amonaki ete mwana yango azali kitoko, abombaki ye basanza misato.
+002	EXO	002	003	Lokola amonaki ete akokoka lisusu te kobomba ye, azwaki kitunga moko basala na poso ya nzete oyo babengaka papirisi, apakolaki yango gudron mpe potopoto ya mwindo; bongo atiaki mwana kati na yango. Sima, atiaki kitunga yango kati na matiti ya ebale Nili, pembeni ya mokili.
+002	EXO	002	004	Ndeko mwasi ya mwana yango atelemaki mosika mpo na kotala likambo oyo ekokaki kokomela ye.
+002	EXO	002	005	Tango mwana mwasi ya Faraon akendeki kosukola na ebale Nili, wana basi basali na ye bazalaki kotambola pembeni ya ebale Nili, amonaki kitunga kati na matiti ya ebale; mpe atindaki mwasi mosali na ye kozwa yango.
+002	EXO	002	006	Afungolaki yango mpe amonaki kati na yango mwana moko ya mobali azali kolela. Ayokelaki ye mawa mpe alobaki: « Oyo azali solo mwana ya Ba-Ebre. »
+002	EXO	002	007	Boye, ndeko na ye ya mwasi alobaki na mwana mwasi ya Faraon: — Boni, nakoki kokende kolukela yo kati na basi ya Ba-Ebre mwasi oyo akoki komelisa mwana oyo mabele mpo na yo?
+002	EXO	002	008	Mwana mwasi ya Faraon azongiselaki ye: — Iyo, kende! Elenge mwasi akendeki mpe azwaki mama ya mwana mobali yango.
+002	EXO	002	009	Mwana mwasi ya Faraon alobaki na mama yango: « Kamata mwana oyo, melisa ye mabele mpo na ngai, mpe nakofuta yo. » Bongo mama yango azwaki mwana mpe akomaki komelisa ye mabele.
+002	EXO	002	010	Tango mwana akolaki, amemaki ye epai ya mwana mwasi ya Faraon oyo akomisaki ye mwana na ye ya mobali. Apesaki ye kombo « Moyize, » pamba te alobaki: « Nazwaki ye na mayi. »
+002	EXO	002	011	Mokolo moko, wana Moyize akomaki mokolo, akendeki na esika oyo bandeko na ye bazalaki mpe amonaki bango kosala misala makasi oyo bapesaki bango mpo na konyokola bango. Amonaki moto moko ya Ejipito kobeta moko kati na bato na ye Ba-Ebre.
+002	EXO	002	012	Atalaki ngambo na ngambo mpe amonaki moto te; bongo abomaki moto ya Ejipito mpe akundaki ye na zelo.
+002	EXO	002	013	Mokolo oyo elandaki, Moyize abimaki mpe amonaki Ba-Ebre mibale bazali kobunda. Atunaki na moto oyo asalaki mabe: — Mpo na nini ozali kobeta moninga na yo?
+002	EXO	002	014	Moto wana azongisaki: — Boni, nani akomisi yo mokonzi mpe mosambisi kati na biso? Olingi koboma ngai ndenge obomaki moto ya Ejipito? Moyize abangaki mpe amilobelaki: « Solo, likambo oyo nasalaki, esili koyeba. »
+002	EXO	002	015	Tango Faraon ayokaki likambo yango, alukaki nzela ya koboma Moyize; kasi Moyize akimaki liboso ya Faraon mpe akendeki kovanda na mokili ya Madiani.
+002	EXO	002	016	Moyize avandaki pembeni ya libulu ya mayi. Nzokande, Nganga-Nzambe ya Madiani azalaki na bana basi sambo. Bayaki kotoka mayi mpe batondisaki bimelelo mpo ete bamelisa bibwele ya tata na bango.
+002	EXO	002	017	Kasi babateli bibwele bayaki mpe babenganaki bango. Moyize atelemaki, akotelaki bango mpe amelisaki bibwele na bango mayi.
+002	EXO	002	018	Tango bana basi bazongaki epai ya tata na bango Reweli, atunaki bango: — Mpo na nini lelo bozongi noki?
+002	EXO	002	019	Bango bazongisaki: — Moto moko ya Ejipito abundelaki biso liboso ya babateli bibwele, atokelaki biso mayi mpe amelisaki bibwele.
+002	EXO	002	020	Reweli atunaki bana na ye ya basi: — Moto yango ya Ejipito azali wapi? Mpo na nini botiki ye kuna? Bobenga ye mpo ete aya kolia.
+002	EXO	002	021	Moyize andimaki kovanda elongo na Reweli; bongo Reweli apesaki Sefora, mwana na ye ya mwasi, mpo ete azala mwasi ya Moyize.
+002	EXO	002	022	Sefora abotaki mwana mobali mpe Moyize apesaki ye kombo « Gerishomi, » pamba te alobaki: « Nazali mopaya na mboka mopaya. »
+002	EXO	002	023	Sima na tango molayi, mokonzi ya Ejipito akufaki. Bato ya Isalaele bazalaki kolela mpe koganga na se ya pasi ya bowumbu. Bongo koganga na bango ekomaki kino epai ya Nzambe.
+002	EXO	002	024	Nzambe ayokaki koganga na bango mpe akanisaki boyokani na Ye oyo asalaki elongo na Abrayami, Izaki mpe Jakobi.
+002	EXO	002	025	Nzambe atalaki bana ya Isalaele mpe asosolaki pasi na bango.
+002	EXO	003	001	Moyize azalaki koleisa bibwele ya Jetro, bokilo na ye mpe Nganga-Nzambe ya Madiani. Amemaki bibwele mosika, kati na esobe, mpe akomaki na Orebi, ngomba ya Nzambe.
+002	EXO	003	002	Kuna, Anjelu ya Yawe abimelaki ye kati na ndemo ya moto oyo ezalaki komata longwa kati na mwa nzete. Moyize amonaki nzete moke yango kopela moto, kasi ezalaki kozika te.
+002	EXO	003	003	Moyize amilobelaki: « Tika ete nabaluka mpo ete natala emoniseli oyo ya kokamwa mpe nayeba mpo na nini nzete moke oyo ezali kozika te. »
+002	EXO	003	004	Tango Yawe amonaki ete Moyize azali kobaluka mpo na kotala, Nzambe abengaki ye wuta na nzete moke yango: — Moyize, Moyize! Moyize azongisaki: — Ngai oyo!
+002	EXO	003	005	Nzambe alobaki na ye: — Kopusana awa te, longola basandale na yo na makolo na yo, pamba te esika oyo otelemi ezali mabele ya bule.
+002	EXO	003	006	Alobaki lisusu: — Nazali Nzambe ya bakoko na yo, Nzambe ya Abrayami, Nzambe ya Izaki, mpe Nzambe ya Jakobi. Boye Moyize abombaki elongi na ye, pamba te abangaki kotala Nzambe.
+002	EXO	003	007	Yawe alobaki: — Namoni pasi ya bato na Ngai kuna na Ejipito; nayoki koganga na bango mpo na misala makasi oyo bakonzi ya misala makasi bazali kopesa bango. Nayebi pasi na bango.
+002	EXO	003	008	Yango wana nakiti mpo na kokangola bango na maboko ya bato ya Ejipito mpe kobimisa bango na mokili oyo, mpo na kokotisa bango na mokili ya kitoko mpe ya monene, mokili oyo ezali kobimisa miliki mpe mafuta ya nzoyi. Ezali mokili oyo evandaka bato ya Kanana, ya Iti, ya Amori, ya Perizi, ya Evi mpe ya Yebusi.
+002	EXO	003	009	Sik’oyo, koganga ya bana ya Isalaele ekomi kino epai na Ngai mpe namoni ndenge nini bato ya Ejipito bazali konyokola bango.
+002	EXO	003	010	Yango wana natindi yo sik’oyo mpo ete okende epai ya Faraon mpo na kobimisa bato na Ngai, Isalaele, na Ejipito.
+002	EXO	003	011	Moyize alobaki na Nzambe: — Ngai nazali nani mpo ete nakende epai ya Faraon mpe mpo ete nabimisa bana ya Isalaele na Ejipito?
+002	EXO	003	012	Nzambe alobaki: — Nakozala na yo elongo. Mpe tala elembo oyo ekolakisa yo ete Ngai nde natindi yo: tango okobimisa bato na Ngai na Ejipito, bokogumbamela Nzambe na ngomba oyo.
+002	EXO	003	013	Moyize alobaki na Nzambe: — Soki nakeyi epai ya bana ya Isalaele mpe nalobi na bango: « Nzambe ya bakoko na bino atindi ngai epai na bino, » bongo soki bango batuni ngai: « Kombo na Ye nani? » Nakoyebisa bango nini?
+002	EXO	003	014	Nzambe alobaki na Moyize: — Ngai nazali oyo akosala. Tala makambo oyo okoloba na bana ya Isalaele: « Nazali atindi ngai epai na bino. »
+002	EXO	003	015	Nzambe alobaki lisusu na Moyize: — Loba na bana ya Isalaele: « Yawe Nzambe ya bakoko na bino, Nzambe ya Abrayami, Nzambe ya Izaki, mpe Nzambe ya Jakobi, atindi ngai epai na bino. »
+002	EXO	003	016	Boye, kende, sangisa bakambi ya Isalaele mpe loba na bango: « Yawe, Nzambe ya bakoko na bino, Nzambe ya Abrayami, ya Izaki mpe ya Jakobi, abimelaki ngai mpe alobi: ‹ Nazwi mokano ya kobundela bino, pamba te namoni pasi na bino na Ejipito. › »
+002	EXO	003	017	Mpe nalobi: « Nakolongola bino na minyoko ya Ejipito mpo na komema bino na mokili ya bato ya Kanana, ya Iti, ya Amori, ya Perizi, ya Evi mpe ya Yebusi, na mokili oyo ezali kobimisa miliki mpe mafuta ya nzoyi. »
+002	EXO	003	018	Bakambi ya Isalaele bakoyokela yo, bongo yo elongo na bakambi, bokokende epai ya mokonzi ya Ejipito mpe bokoloba na ye: « Yawe Nzambe ya Ba-Ebre akutanaki na biso. Sik’oyo, pesa biso nzela ya kotambola mikolo misato kati na esobe mpo ete tokende kotumbela Yawe, Nzambe na biso, mbeka. »
+002	EXO	003	019	Kasi nayebi ete mokonzi ya Ejipito akopesa bino te nzela ya kokende, ata soki amoni loboko na Ngai ya nguya.
+002	EXO	003	020	Yango wana, nakosembola loboko na Ngai; nakobeta Ejipito na nzela ya bikamwa na Ngai nyonso oyo nakosala kati na yango. Sima na yango, mokonzi ya Ejipito akotika bino kokende.
+002	EXO	003	021	Nakosala ete bana ya Isalaele bazwa ngolu na miso ya bato ya Ejipito mpo ete, tango bokolongwa, bokende maboko pamba te.
+002	EXO	003	022	Mwasi nyonso akosenga epai ya moninga na ye mpe epai ya mwasi oyo avandi na ndako na ye: biloko ya palata, ya wolo mpe bilamba. Bokopesa yango epai ya bana na bino ya mibali mpe ya basi mpo ete bamema. Na bongo nde bokosilisa biloko ya bato ya Ejipito.
+002	EXO	004	001	Moyize azongisaki: — Bongo soki bandimi ngai te, bayoki ngai te? Solo, bakoloba kaka: « Yawe amonanaki na yo te. »
+002	EXO	004	002	Yawe atunaki ye: — Ozali na nini na loboko na yo? Moyize azongisaki: — Nazali na lingenda.
+002	EXO	004	003	Yawe alobaki: — Bwaka yango na mabele. Moyize abwakaki lingenda yango na mabele mpe ebongwanaki nyoka. Bongo Moyize akimaki mosika na yango.
+002	EXO	004	004	Kasi Yawe alobaki na ye: — Sembola loboko na yo mpe kanga nyoka yango na mokila! Moyize asembolaki loboko mpe akangaki nyoka; mpe nyoka yango ebongwanaki lisusu lingenda na loboko na ye.
+002	EXO	004	005	Yawe alobaki na ye: — Esalemi bongo mpo ete bandima solo ete Yawe, Nzambe ya bakoko na bango, Nzambe ya Abrayami, ya Izaki mpe ya Jakobi, amonanaki na yo.
+002	EXO	004	006	Sima, Yawe alobaki na ye lisusu: — Tia loboko na yo na tolo na yo. Moyize atiaki loboko na ye na tolo na ye; mpe tango alongolaki yango, loboko yango ezwaki bokono ya maba; ekomaki pembe lokola mvula ya pembe.
+002	EXO	004	007	Yawe alobaki na ye: — Sik’oyo, zongisa loboko na yo na tolo na yo. Moyize azongisaki loboko na ye na tolo na ye. Mpe tango alongolaki yango, loboko yango ekomaki lisusu malamu lokola biteni mosusu ya nzoto na ye.
+002	EXO	004	008	Yawe alobaki na ye: — Soki bandimi yo te to soki babeti tembe mpo na elembo ya liboso, bakondima na elembo ya mibale.
+002	EXO	004	009	Kasi soki na bilembo oyo mibale, bandimi kaka te to bayoki te, wana okotoka mayi na ebale Nili, okosopa yango na esobe. Mayi oyo okozwa na ebale Nili ekokoma makila tango okosopa yango na mabele.
+002	EXO	004	010	Moyize alobaki na Yawe: — Ah, Nkolo, nakokaka koloba malamu te! Yango ezali likambo ya lobi oyo eleki te to ya wuta tango obandi koloba na mosali na Yo te, pamba te nazali na monoko mpe na lolemo kilo.
+002	EXO	004	011	Yawe alobaki na ye: — Nani apesaka monoko epai ya moto? Nani akomisaka moto baba to mokufi matoyi? Nani akomisaka moto, moto oyo amonaka to mokufi miso? Boni, ezali Ngai Yawe te?
+002	EXO	004	012	Sik’oyo kende, Ngai moko nakosunga yo mpo ete oloba malamu, mpe nakoteya yo makambo oyo osengeli koloba.
+002	EXO	004	013	Kasi Moyize azongisaki: — Te Nkolo! Nabondeli Yo! Tinda moto mosusu oyo olingi mpo na kosala yango.
+002	EXO	004	014	Boye Yawe asilikelaki Moyize mpe alobaki na ye: — Boni, Aron, moto ya libota ya Levi, azali ndeko na yo te? Nayebi ete alobaka malamu mpe ye wana azali koya kokutana na yo; mpe motema na ye ekosepela tango akomona yo.
+002	EXO	004	015	Okoloba na ye mpe okotia maloba na monoko na ye, bongo Ngai nakosunga bino mibale mpo ete bokoka koloba malamu, mpe nakoteya bino makambo oyo bosengeli kosala.
+002	EXO	004	016	Ye akoloba epai ya bato na esika na yo, akozala molobeli na yo; bongo yo okozala lokola nzambe na ye.
+002	EXO	004	017	Kasi zwa lingenda oyo ezali na maboko na yo mpo ete osala bilembo ya kokamwa na nzela na yango.
+002	EXO	004	018	Moyize azongaki epai ya Jetro, tata-bokilo na ye, mpe alobaki na ye: — Nasengeli kokende epai ya bandeko na ngai, na Ejipito, mpo ete natala soki ndambo kati na bango bazali nanu na bomoi. Jetro ozongisaki: — Kende na kimia!
+002	EXO	004	019	Yawe alobaki na Moyize tango azalaki nanu na mokili ya Madiani: — Telema mpe zonga na Ejipito, pamba te bato nyonso oyo balingaki koboma yo basili kokufa.
+002	EXO	004	020	Moyize azwaki mwasi na ye mpe bana na ye ya mibali, atiaki bango likolo ya ane mpe azongaki na Ejipito. Azwaki lisusu lingenda ya Nzambe na loboko na ye.
+002	EXO	004	021	Yawe alobaki na Moyize: — Sik’oyo, lokola ozali kozonga na Ejipito, tala bikamwa nyonso oyo napesi yo nguya ya kosala; okosala yango liboso ya Faraon. Ngai nakokomisa motema na ye libanga mpo ete akoka kotika te bato na Ngai kokende.
+002	EXO	004	022	Okoloba na Faraon: « Tala liloba oyo Yawe alobi: ‹ Isalaele azali mwana na Ngai ya liboso ya mobali.
+002	EXO	004	023	Mpe nalobi na yo: Tika mwana na Ngai ya mobali kokende mpo ete asalela Ngai. Soki kaka oboyi kotika ye, nakoboma mwana na yo ya liboso ya mobali. › »
+002	EXO	004	024	Nzokande na nzela, na esika oyo balekisaki butu, Yawe akutanaki na Moyize mpe alukaki koboma ye.
+002	EXO	004	025	Kasi Sefora azwaki libanga ya songe, akataki ngenga ya mwana na ye ya mobali mpe atutisaki ngenga yango na makolo ya Moyize; alobaki: — Solo, ozali penza mpo na ngai mobali ya makila.
+002	EXO	004	026	Bongo Yawe atikaki Moyize. Ezalaki na tango wana nde Sefora alobaki na Moyize likolo na likambo ya kokatama ngenga: — Mobali ya makila.
+002	EXO	004	027	Yawe alobaki na Aron: — Kende kokutana na Moyize na esobe. Aron akendeki, akutanaki na Moyize na ngomba ya Nzambe mpe apesaki ye beze.
+002	EXO	004	028	Moyize ayebisaki Aron makambo nyonso oyo Yawe atindaki ye koloba mpe bikamwa nyonso oyo atindaki ye kosala.
+002	EXO	004	029	Bongo Moyize mpe Aron bakendeki kosangisa bakambi nyonso ya Isalaele.
+002	EXO	004	030	Aron ayebisaki bango maloba nyonso oyo Yawe alobaki na Moyize. Asalaki bikamwa liboso ya bato.
+002	EXO	004	031	Bato bandimaki. Bongo tango bayokaki ete Yawe akanisaki bana ya Isalaele mpe amonaki pasi na bango, bafukamaki mpe bagumbamelaki Yawe.
+002	EXO	005	001	Sima na yango, Moyize mpe Aron bakendeki epai ya Faraon mpe balobaki: — Tala makambo oyo Yawe, Nzambe ya Isalaele, alobi: « Tika bato na Ngai kokende kosala feti na esobe mpo na lokumu na Ngai. »
+002	EXO	005	002	Faraon azongisaki: — Ye Yawe nde nani mpo ete ngai natosa ye mpe natika Isalaele kokende? Nayebi ye te mpe nakotika te ete Isalaele akende.
+002	EXO	005	003	Balobaki: — Nzambe ya Ba-Ebre akutanaki na biso. Sik’oyo, tika biso totambola mikolo misato kati na esobe mpo ete tokobonzela Yawe, Nzambe na biso, mbeka; noki te akoboma biso na bokono to na mopanga.
+002	EXO	005	004	Kasi mokonzi ya Ejipito alobaki: — Moyize mpe Aron, mpo na nini bozali kopekisa bato kosala misala na bango? Bozonga na mosala na bino!
+002	EXO	005	005	Faraon abakisaki lisusu: — Botala! Bato oyo bakomi ebele kati na mokili, bongo bino bozali kopekisa bango kosala mosala!
+002	EXO	005	006	Kaka na mokolo wana, Faraon apesaki mitindo oyo epai ya bakambi oyo balandelaka misala makasi ya bawumbu mpe na bakapita ya bana ya Isalaele:
+002	EXO	005	007	— Bokopesa lisusu matiti te epai ya bato oyo mpo na kosala babiliki ndenge bozalaki kopesa bango liboso; botika bango moko bakende kolokota matiti na bango.
+002	EXO	005	008	Kasi botinda bango kosala kaka motango ya babiliki oyo basalaka wuta kala, bokitisa motango na yango te. Bazali bagoyigoyi, yango wana bazali koganga: « Tika biso tokende kobonzela Nzambe na biso mbeka! »
+002	EXO	005	009	Bokomisa makasi misala na bango mpo ete bakoma na mosala ebele mpe batia matoyi te na makambo ya lokuta.
+002	EXO	005	010	Bongo bakambi oyo balandelaka misala makasi ya bawumbu mpe bakapita ya bana ya Isalaele babimaki mpe balobaki na bato: — Tala makambo oyo Faraon alobi: « Nakopesa bino lisusu matiti te.
+002	EXO	005	011	Bokende kozwa matiti bino moko na esika oyo bokoki komona yango! Kasi motango ya babiliki oyo bakatela bino ekokita ata moke te. »
+002	EXO	005	012	Boye bana ya Isalaele bapanzanaki na Ejipito mobimba mpo na kolokota matiti ya kotumba na yango babiliki.
+002	EXO	005	013	Bakambi oyo balandelaka misala makasi ya bawumbu bazalaki kotindika bango na makasi mpe koloba: — Bokokisa motango ya babiliki oyo bakatela bino mpo na mokolo na mokolo lokola na tango oyo bazalaki kopesa bino matiti!
+002	EXO	005	014	Bakambi oyo Faraon aponaki mpo na kolandela misala makasi ya bawumbu babetaki bakapita ya bana ya Isalaele oyo bango batiaki mpe batunaki bango: — Mpo na nini lobi oyo eleki mpe lelo bokokisi te motango ya babiliki oyo bosalaka wuta kala?
+002	EXO	005	015	Bakengeli ya bana ya Isalaele bakendeki kolela epai ya Faraon: — Mpo na nini ozali kosala basali na yo boye?
+002	EXO	005	016	Bazali kopesa lisusu te matiti epai ya basali na yo, nzokande bazali koloba na biso: « Bosala babiliki! » Sik’oyo tala, basali na yo bazali kobetama, kasi mbeba ezali epai ya bato na yo moko.
+002	EXO	005	017	Faraon alobaki: — Bagoyigoyi! Bozali penza bagoyigoyi! Yango wana bozali koloba: « Tika biso tokende kobonzela Yawe mbeka. »
+002	EXO	005	018	Sik’oyo, bozonga na mosala! Bakopesa bino lisusu matiti te, kasi bokosala kaka motango ya babiliki oyo bakatela bino.
+002	EXO	005	019	Bakengeli ya bana ya Isalaele bamonaki ete bakomi na pasi koleka tango bayebisaki bango: « Motango ya babiliki oyo bakatela bino mpo na mokolo na mokolo ekokita te. »
+002	EXO	005	020	Tango batikaki Faraon, batombokelaki Moyize mpe Aron oyo bazalaki kozela bango.
+002	EXO	005	021	Balobaki: — Tika ete Yawe atala bino mpe asambisa bino! Bokomisi biso eloko ya nkele liboso ya Faraon mpe ya basali na ye mpe botie mopanga na maboko na bango mpo ete baboma biso!
+002	EXO	005	022	Boye Moyize abalukaki epai na Yawe mpe abondelaki: — Nkolo! Mpo na nini ozali komemela bato oyo pasi? Boni, ezali mpo na yango nde otindaki ngai?
+002	EXO	005	023	Wuta tango nakendeki koloba na Faraon na Kombo na Yo, Faraon akomi konyokola bato oyo, bongo Yo ozali kosala ata eloko moke te mpo na kokangola bango!
+002	EXO	006	001	Yawe alobaki na Moyize: — Sik’oyo, okomona makambo oyo nakosala Faraon: na loboko na Ngai ya nguya, Faraon akotika bato na Ngai kokende mpe akobimisa bango na mokili na ye.
+002	EXO	006	002	Nzambe alobaki lisusu na Moyize: — Nazali Yawe.
+002	EXO	006	003	Namimonisaki epai ya Abrayami, ya Izaki mpe ya Jakobi lokola Nzambe-Na-Nguya-Nyonso, kasi namimonisaki te epai na bango na Kombo na Ngai: Yawe.
+002	EXO	006	004	Nasalaki boyokani na Ngai elongo na bango mpo na kopesa bango mokili ya Kanana epai wapi bazalaki kowumela lokola bapaya.
+002	EXO	006	005	Mpe lisusu nayoki kolela ya bana ya Isalaele oyo bato ya Ejipito bakomisi bawumbu, bongo nakanisi lisusu boyokani na Ngai.
+002	EXO	006	006	Yango wana, loba na bana ya Isalaele: « Nazali Yawe! Nakokangola bino na misala makasi oyo bato ya Ejipito bapesi bino. Nakokangola bino na se ya bowumbu na bango na loboko na nguya mpe na bitumbu ya makasi.
+002	EXO	006	007	Nakozwa bino lokola bato na Ngai moko, bongo nakozala Nzambe na bino. Boye bokoyeba ete Ngai Yawe, nazali Nzambe na bino, oyo akangolaki bino na se ya misala makasi ya bato ya Ejipito.
+002	EXO	006	008	Mpe nakokotisa bino na mokili oyo nalapaki ndayi, na kotombola loboko, ete nakopesa yango epai ya Abrayami, epai ya Izaki mpe epai ya Jakobi; nakopesa bino yango mpo ete ekoma ya bino. Nazali Yawe. »
+002	EXO	006	009	Moyize alobaki makambo oyo epai ya bana ya Isalaele, kasi bayokaki ye te, pamba te misala makasi oyo bazalaki kopesa bango elembisaki mitema na bango.
+002	EXO	006	010	Yawe alobaki na Moyize:
+002	EXO	006	011	— Kende koyebisa Faraon, mokonzi ya Ejipito, ete abimisa bana ya Isalaele na mokili na ye.
+002	EXO	006	012	Kasi Moyize azongiselaki Yawe: — Soki kutu bana ya Isalaele bayoki ngai te, ndenge nini Faraon ayoka ngai moto ya likukuma?
+002	EXO	006	013	Yawe alobaki na Moyize mpe Aron na tina na bana ya Isalaele mpe ya Faraon, mokonzi ya Ejipito, oyo epai ya nani apesaki mitindo ete abimisa bana ya Isalaele na Ejipito.
+002	EXO	006	014	Tala bakambi ya mabota na bango: Bana mibali ya Ribeni, mwana mobali ya liboso ya Isalaele: Enoki, Palu, Etsironi mpe Karimi. Wana nde mabota ya Ribeni.
+002	EXO	006	015	Bana mibali ya Simeoni: Yemuweli, Yamini, Owadi, Yakini, Tsoari mpe Saulo, mwana mobali oyo abotamaki na mwasi ya Kanana. Wana nde mabota ya Simeoni.
+002	EXO	006	016	Tala bakombo ya bana mibali ya Levi oyo awumelaki na bomoi mibu nkama moko na tuku misato na sambo kolanda ndenge babotamela: Gerishoni, Keati mpe Merari.
+002	EXO	006	017	Bana mibali ya Gerishoni kolanda mabota na bango: Libini mpe Shimei.
+002	EXO	006	018	Bana mibali ya Keati oyo awumelaki na bomoi mibu nkama moko na tuku misato na misato: Amirami, Yitseari, Ebron mpe Uzieli.
+002	EXO	006	019	Bana mibali ya Merari: Maali mpe Mushi. Wana nde mabota ya Levi kolanda ndenge babotamela.
+002	EXO	006	020	Amirami abalaki Yokebedi, tata mwasi na ye, oyo abotelaki ye Aron mpe Moyize. Amirami awumelaki na bomoi mibu nkama moko na tuku misato na sambo.
+002	EXO	006	021	Bana mibali ya Yitseari: Kore, Nefegi mpe Zikiri.
+002	EXO	006	022	Bana mibali ya Uzieli: Mishaeli, Elitsafani mpe Sitiri.
+002	EXO	006	023	Aron abalaki Elisheba, mwana mwasi ya Aminadabi mpe ndeko mwasi ya Nashoni. Elisheba abotelaki Aron: Nadabi, Abiyu, Eleazari mpe Itamari.
+002	EXO	006	024	Bana mibali ya Kore: Asiri, Elikana mpe Abiazafi. Wana nde mabota ya Kore.
+002	EXO	006	025	Eleazari, mwana mobali ya Aron, abalaki moko kati na bana basi ya Putieli, oyo abotelaki ye mwana mobali: Pineasi. Wana nde bakambi ya mabota ya Levi kolanda mabota ya botata na bango.
+002	EXO	006	026	Ezali epai ya Aron mpe Moyize nde Yawe alobaki: « Bobimisa bana ya Isalaele na Ejipito lokola mampinga oyo etandami na molongo. »
+002	EXO	006	027	Ezali bango nde bakendeki kokutana na Faraon, mokonzi ya Ejipito, mpo na kobimisa bana ya Isalaele na mokili na ye. Ezali nde Moyize mpe Aron wana.
+002	EXO	006	028	Tala makambo oyo ekomaki tango Yawe alobaki na Moyize, na Ejipito:
+002	EXO	006	029	Yawe ayebisaki Moyize: — Nazali Yawe. Loba na Faraon, mokonzi ya Ejipito, makambo nyonso oyo nayebisi yo.
+002	EXO	006	030	Kasi Moyize azongiselaki Yawe: — Tala, nazali na likukuma; ndenge nini Faraon akoyoka ngai?
+002	EXO	007	001	Yawe alobaki na Moyize: « Tala, nakomisi yo nzambe liboso ya Faraon, mpe Aron, ndeko na yo ya mobali, akozala mosakoli na yo.
+002	EXO	007	002	Okoloba makambo nyonso oyo natindi yo; mpe Aron, ndeko na yo ya mobali, akoyebisa yango epai ya Faraon mpo ete Faraon abimisa bana ya Isalaele na mokili na ye.
+002	EXO	007	003	Kasi Ngai, nakokomisa motema ya Faraon makasi lokola libanga, nakosala bilembo mpe bikamwa ebele na Ejipito.
+002	EXO	007	004	Atako bongo, Faraon akoyokela bino te. Boye, nakosembola loboko na Ngai kati na Ejipito; mpe na nzela ya bitumbu minene, nakobimisa wuta na Ejipito mampinga na Ngai, bato na Ngai, bana ya Isalaele.
+002	EXO	007	005	Bato ya Ejipito bakoyeba ete nazali Yawe tango nakosembola loboko na Ngai kati na mokili na bango mpe nakobimisa bana ya Isalaele wuta na Ejipito. »
+002	EXO	007	006	Moyize mpe Aron basalaki makambo nyonso oyo Yawe atindaki bango.
+002	EXO	007	007	Tango basololaki na Faraon, Moyize azalaki na mibu ya mbotama tuku mwambe; mpe Aron, tuku mwambe na misato.
+002	EXO	007	008	Yawe alobaki na Moyize mpe Aron:
+002	EXO	007	009	« Tango Faraon akoloba na bino: ‹ Bosala bikamwa, › yo Moyize, okoloba na Aron: ‹ Kamata lingenda na yo, bwaka yango liboso ya Faraon, › mpe lingenda ekobongwana nyoka. »
+002	EXO	007	010	Boye Moyize mpe Aron bakendeki epai ya Faraon mpe basalaki makambo nyonso oyo Yawe atindaki bango. Aron abwakaki lingenda na ye liboso ya Faraon mpe bakalaka na ye, mpe yango ebongwanaki nyoka.
+002	EXO	007	011	Faraon abengisaki bato ya bwanya mpe bato ya soloka. Bongo bato ya maji ya Ejipito, bango mpe basalaki bikamwa ya ndenge moko na nzela ya misala na bango ya soloka.
+002	EXO	007	012	Moko na moko kati na bango abwakaki lingenda na ye na mabele mpe ebongwanaki nyoka. Kasi lingenda ya Aron emelaki mangenda na bango.
+002	EXO	007	013	Atako bongo, motema ya Faraon ekomaki lisusu makasi; mpe aboyaki koyokela bango, ndenge kaka Yawe alobaki.
+002	EXO	007	014	Yawe alobaki na Moyize: « Motema ya Faraon ezali kaka makasi, aboyi kaka kotika bato na Ngai kokende.
+002	EXO	007	015	Kende epai ya Faraon na tongo-tongo, na tango oyo abimaka mpo na kokende na mayi. Zela ye pembeni ya Nili mpo na kokutana na ye mpe simba na loboko na yo lingenda oyo ebongwanaki nyoka.
+002	EXO	007	016	Bongo okoloba na ye: ‹ Yawe, Nzambe ya Ba-Ebre, atindi ngai epai na yo mpo na koyebisa yo: ‘Tala makambo oyo Yawe alobi: Tika bato na Ngai kokende kogumbamela Ngai na esobe. Kasi kino lelo, ozali kaka koyoka te.
+002	EXO	007	017	Tala makambo oyo Yawe alobi: Tala ndenge nini okoyeba ete Ngai nazali Yawe: Nakobeta na mayi ya Nili lingenda oyo nazali na yango na maboko, mpe mayi yango ekobongwana makila.
+002	EXO	007	018	Mbisi ya Nili ekokufa mpe mayi ya Nili ekokoma solo ya kopola, bongo bato ya Ejipito bakokoka lisusu komela yango te.’ › »
+002	EXO	007	019	Yawe alobaki na Moyize: « Yebisa Aron: ‹ Kamata lingenda na yo mpe sembola yango na ngambo ya mayi nyonso ya Ejipito: etima mpe miluka, maziba mpe mabulu nyonso ya mayi ekobongwana makila. › Makila ekozala na bisika nyonso ya Ejipito kino na bimelelo ya mayi oyo esalema na nzete to na mabanga. »
+002	EXO	007	020	Moyize mpe Aron basalaki ndenge kaka Yawe atindaki bango. Aron atombolaki nzete na ye mpe abetaki lingenda oyo azalaki na yango, na mayi ya Nili na miso ya Faraon mpe ya basali na ye; mpe mayi nyonso ebongwanaki makila.
+002	EXO	007	021	Mbisi ya Nili ekufaki mpe mayi elumbaki solo ya kopola na ndenge ete bato ya Ejipito bakokaki lisusu te komela yango. Makila ezalaki na bisika nyonso ya Ejipito.
+002	EXO	007	022	Kasi bato ya maji ya Ejipito, bango mpe basalaki bikamwa ya ndenge moko na nzela ya misala na bango ya soloka. Motema ya Faraon ekomaki lisusu makasi mpe aboyaki koyokela Moyize mpe Aron ndenge kaka Yawe alobaki.
+002	EXO	007	023	Atako bongo, Faraon abalukaki, akotaki na ndako na ye mpe azwaki likambo yango na motema te.
+002	EXO	007	024	Bato nyonso ya Ejipito batimolaki mabulu pene ya Nili mpo na kozwa mayi ya komela, pamba te bakokaki lisusu te komela mayi ya ebale.
+002	EXO	007	025	Mikolo sambo elekaki sima na Yawe kobebisa mayi ya Nili.
+002	EXO	008	001	Sima na yango, Yawe atindaki Moyize: « Kende kokutana na Faraon mpe loba na ye: ‹ Tala makambo oyo Yawe alobi: Tika bato na Ngai kokende kogumbamela Ngai.
+002	EXO	008	002	Soki oboyi kotika bango kokende, nakotinda etumbu ya magorodo na mokili na yo mobimba.
+002	EXO	008	003	Nili ekotonda na magorodo; bongo magorodo yango ekobima wuta na Nili, ekokota kino na ndako na yo ya bokonzi, na shambre na yo ya kolala, na mbeto na yo, na bandako ya basali na yo, na bandako ya bato na yo, na bafulu na yo ya mapa mpe kino na bisika oyo babalolaka farine.
+002	EXO	008	004	Magorodo ekomatela yo, basali na yo mpe bato na yo nyonso. › »
+002	EXO	008	005	Yawe alobaki na Moyize: « Loba na Aron ete asembola loboko na ye mpe lingenda na ye na ngambo ya mayi, ya miluka mpe ya maziba, mpo ete abimisa magorodo na mokili ya Ejipito. »
+002	EXO	008	006	Boye Aron asembolaki loboko na ye na ngambo ya mayi ya Ejipito; bongo magorodo ebimaki mpe etondisaki mokili ya Ejipito.
+002	EXO	008	007	Kasi bato ya maji ya Ejipito mpe basalaki bikamwa ya ndenge moko na nzela ya misala na bango ya soloka: bango mpe babimisaki magorodo na mokili ya Ejipito.
+002	EXO	008	008	Faraon abengisaki Moyize mpe Aron, alobaki na bango: — Bobondela Yawe ete alongola magorodo pene na ngai mpe pene ya bato na ngai; bongo nakotika bato na bino kokende kobonzela Yawe mbeka.
+002	EXO	008	009	Moyize alobaki na Faraon: — Tika ete mokonzi apona tango nini nasengeli kobondela Yawe mpo na yo, basali na yo mpe bato na yo, mpo ete Yawe alongola magorodo pene na yo mpe pene ya bandako na yo; kasi etikala kaka na ebale Nili.
+002	EXO	008	010	Faraon azongisaki: — Tika ete esalema lobi. Moyize alobaki: — Iyo, ekosalema ndenge osengi, mpo oyeba ete moko te azali lokola Yawe, Nzambe na biso.
+002	EXO	008	011	Magorodo ekolongwa pene na yo, pene na bandako na yo, ya basali na yo mpe ya bato na yo; kasi ekotikala kaka na ebale Nili.
+002	EXO	008	012	Sima, Moyize mpe Aron batikaki Faraon. Bongo Moyize agangaki epai na Yawe na tina na magorodo oyo atindelaki Faraon.
+002	EXO	008	013	Yawe asalaki makambo oyo Moyize asengaki: magorodo ekufaki na bandako, na mapango mpe na bilanga.
+002	EXO	008	014	Basangisaki yango na maboke mpe mabele elumbaki solo ya kopola.
+002	EXO	008	015	Kasi tango Faraon amonaki ete kimia ekoti, ayeisaki lisusu motema na ye makasi lokola libanga mpe ayokelaki te Moyize mpe Aron ndenge kaka Yawe alobaki.
+002	EXO	008	016	Yawe alobaki na Moyize: — Loba na Aron ete asembola lingenda na ye mpe abeta yango na putulu ya mabele; mpe yango ekokoma bangungi kati na mokili mobimba ya Ejipito.
+002	EXO	008	017	Basalaki kaka ndenge wana. Tango Aron asembolaki loboko mpe lingenda na ye, abetaki yango na putulu ya mabele; bongo putulu yango ekomaki bangungi oyo ematelaki bato mpe banyama. Putulu nyonso ya mokili ya Ejipito ebongwanaki bangungi.
+002	EXO	008	018	Kasi tango bato ya maji bamekaki kobimisa bangungi na nzela ya misala na bango ya soloka, balongaki te. Bongo bangungi ematelaki bato mpe banyama.
+002	EXO	008	019	Boye bato ya maji balobaki na Faraon: « Oyo ezali penza mosapi ya Nzambe! » Kasi Faraon ayeisaki lisusu motema na ye makasi lokola libanga mpe aboyaki koyoka, ndenge kaka Yawe alobaki.
+002	EXO	008	020	Yawe alobaki na Moyize: — Lamuka na tongo-tongo mpe kende kokutana na Faraon na tango oyo abimaka mpo na kokende na mayi. Loba na ye: « Tala makambo oyo Yawe alobi: Tika bato na Ngai kokende kogumbamela Ngai.
+002	EXO	008	021	Soki oboyi kotika bato na Ngai kokende, nakotinda banzinzi epai na yo, epai ya bakalaka na yo, epai ya bato na yo mpe kino na bandako na yo. Boye bandako ya bato na Ejipito, ezala mabele epai wapi bazali, ekotonda na banzinzi oyo eswaka.
+002	EXO	008	022	Na mokolo wana, nakosala bokeseni mpo na etuka ya Gosheni epai wapi bato na Ngai bazali kovanda; banzinzi oyo eswaka ekozala kuna te, mpo oyeba ete, Ngai Yawe, nazali kati na etuka yango.
+002	EXO	008	023	Bongo nakotia bokeseni kati na bato na Ngai mpe bato na yo. Elembo yango ekosalema lobi. »
+002	EXO	008	024	Yawe asalaki bongo: banzinzi ebele oyo eswaka ekotaki mpe epanzanaki kati na ndako ya Faraon, na bandako ya bakalaka na ye mpe kati na mokili mobimba ya Ejipito. Boye mokili ebebisamaki na banzinzi oyo eswaka.
+002	EXO	008	025	Faraon abengisaki Moyize mpe Aron, alobaki na bango: — Bokende, bobonzela Nzambe na bino mbeka kati na mokili oyo.
+002	EXO	008	026	Kasi Moyize azongisaki: — Ekoki kosalema bongo te; noki te mbeka oyo tokobonzela Yawe, Nzambe na biso, ekomonana lokola eloko ya nkele na miso ya bato ya Ejipito. Boni, soki tobonzi mbeka oyo emonani lokola eloko ya nkele na miso na bango, bakobamba biso mabanga te?
+002	EXO	008	027	Tosengeli kotambola mikolo misato kati na esobe, sima tokobonzela Yawe, Nzambe na biso, mbeka ndenge atindaki biso.
+002	EXO	008	028	Faraon alobaki: — Nakotika bino kokende kobonzela Yawe, Nzambe na bino, mbeka kati na esobe; kasi bokende mosika te. Sik’oyo, bobondela mpo na ngai!
+002	EXO	008	029	Moyize azongisaki: — Ndenge nazali kobima boye na ndako na yo, nakobondela Yawe; bongo lobi, banzinzi oyo eswaka ekolongwa epai ya Faraon, epai ya bakalaka na ye mpe epai ya bato na ye. Kasi tika ete Faraon akoba te kotiola Yawe na koboya kotika bato kokende kobonzela Yawe mbeka.
+002	EXO	008	030	Tango Moyize abimaki na ndako ya Faraon, abondelaki Yawe
+002	EXO	008	031	mpe Yawe akokisaki makambo oyo Moyize asengaki: banzinzi oyo eswaka etikaki Faraon, bakalaka na ye mpe bato na ye. Ata nzinzi moko te etikalaki.
+002	EXO	008	032	Kasi na mbala oyo, Faraon ayeisaki lisusu motema na ye makasi lokola libanga mpe aboyaki kaka kotika bato kokende.
+002	EXO	009	001	Yawe alobaki na Moyize: « Kende koyebisa Faraon: ‹ Tala makambo oyo Yawe, Nzambe ya Ba-Ebre, alobi: ‘Tika bato na Ngai kokende kogumbamela Ngai!’
+002	EXO	009	002	Soki oboyi kotika bango kokende mpe okobi kokanga bango,
+002	EXO	009	003	loboko na Yawe ekomema mopepe ya bokono ya somo kati na bibwele na yo, oyo ezali na elanga: bampunda, ba-ane, bashamo, bangombe, bameme mpe bantaba.
+002	EXO	009	004	Kasi Yawe akotia bokeseni kati na bibwele ya bana ya Isalaele mpe ya bato ya Ejipito, pamba te nyama moko te ya bana ya Isalaele ekokufa. › »
+002	EXO	009	005	Yawe abongisaki tango mpe alobaki: « Lobi, Yawe akokokisa likambo oyo na mokili. »
+002	EXO	009	006	Mpe mokolo oyo elandaki, Yawe akokisaki yango: bibwele nyonso ya bato ya Ejipito ekufaki, kasi ebwele ata moko te ya bana ya Isalaele ekufaki.
+002	EXO	009	007	Faraon atindaki bato mpo na kolandela likambo oyo mpe bamonaki ete ata ebwele moko te kati na bibwele ya bana ya Isalaele ekufaki. Atako bongo, Faraon ayeisaki lisusu motema na ye makasi mpe aboyaki kaka kotika bato kokende.
+002	EXO	009	008	Yawe alobaki na Moyize mpe Aron: « Botondisa maboko na bino na putulu oyo ewuti na fulu ya moto makasi, mpe tika ete Moyize abwaka yango likolo, na miso ya Faraon.
+002	EXO	009	009	Yango ekopanzana na mokili mobimba ya Ejipito mpe ekobimisa, kati na Ejipito mobimba, na banzoto ya bato mpe ya bibwele, babibon oyo ekokoma bapota ya kopola. »
+002	EXO	009	010	Bazwaki putulu na fulu ya moto mpe batelemaki liboso ya Faraon. Moyize abwakaki yango likolo mpe ebimisaki babibon oyo ekomaki bapota ya kopola na banzoto ya bato mpe ya bibwele.
+002	EXO	009	011	Bato ya soloka bakokaki te kotelema liboso ya Moyize likolo ya bapota oyo ezalaki na banzoto na bango mpe ya bato nyonso ya Ejipito.
+002	EXO	009	012	Kasi Yawe akomisaki lisusu motema ya Faraon makasi mpe Faraon ayokelaki te Moyize mpe Aron, ndenge kaka Yawe alobaki yango na Moyize.
+002	EXO	009	013	Yawe alobaki na Moyize: « Lamuka na tongo-tongo, kende kokutana na Faraon mpe loba na ye: ‹ Tala makambo oyo Yawe, Nzambe ya Ba-Ebre, alobi: Tika bato na Ngai kokende kogumbamela Ngai.
+002	EXO	009	014	Ya mbala oyo, nakotinda mopepe na Ngai nyonso ya bokono epai na yo, epai ya bakalaka na yo mpe epai ya bato na yo, mpo oyeba ete moko te azali lokola Ngai, na mokili mobimba.
+002	EXO	009	015	Pamba te kino sik’oyo, nakokaki kosembola loboko na Ngai mpe kotindela yo elongo na bato na yo nyonso, mopepe ya bokono oyo ekokaki kolimwisa bino na mokili.
+002	EXO	009	016	Kasi natikaki yo na bomoi mpo na tina oyo: kotalisa yo nguya na Ngai mpe kosala ete lokumu ya Kombo na Ngai epanzana na mokili mobimba.
+002	EXO	009	017	Lokola ozali kokoba koboya kotika bato na Ngai kokende,
+002	EXO	009	018	lobi na ngonga oyo, nakobetisa mvula ya mabanga ya moto makasi, oyo etikala nanu kobeta te wuta mokili ya Ejipito ezala.
+002	EXO	009	019	Sik’oyo, pesa mitindo ete bamema na ebombelo, bibwele na yo mpe biloko nyonso oyo ozali na yango kati na elanga. Pamba te mvula ya mabanga ekokweyela mpe ekoboma moto mpe nyama nyonso oyo bokokotisa kuna te to oyo ekotikala kati na elanga. › »
+002	EXO	009	020	Kati na basali ya Faraon, ba-oyo babangaki Liloba na Yawe bakotisaki na lombangu bawumbu mpe bibwele na bango kati na bandako.
+002	EXO	009	021	Kasi ba-oyo babangaki te Liloba na Yawe, batikaki bawumbu mpe bibwele na bango kati na elanga.
+002	EXO	009	022	Yawe alobaki na Moyize: « Sembola loboko na yo na likolo mpo ete mvula ya mabanga enoka na mokili mobimba ya Ejipito: likolo ya bato, ya bibwele mpe ya matiti nyonso oyo ebotaka na elanga kati na Ejipito. »
+002	EXO	009	023	Tango Moyize asembolaki lingenda na ye na likolo, Yawe abetisaki bakake mpe mvula ya mabanga. Bakake ebetaki na mokili. Bongo Yawe anokisaki mvula ya mabanga na mokili ya Ejipito.
+002	EXO	009	024	Boye mvula ya mabanga mpe bakake ebetaki. Ezalaki mvula moko ya makasi penza oyo etikala nanu kobeta te wuta Ejipito ekoma ekolo.
+002	EXO	009	025	Ebomaki, kati na Ejipito, nyonso oyo ezalaki kati na elanga, ezala bato to bibwele; ebebisaki matiti nyonso ya elanga mpe ebukaki banzete nyonso.
+002	EXO	009	026	Kasi enokaki te kati na etuka ya Gosheni epai wapi bana ya Isalaele bazalaki.
+002	EXO	009	027	Faraon abengisaki Moyize mpe Aron, alobaki na bango: — Ya mbala oyo, nasali lisumu. Yawe azali sembo; ngai mpe bato na ngai tosali mabe.
+002	EXO	009	028	Bobondela Yawe mpo ete asilisa mvula ya mabanga mpe bakake. Bongo ngai nakotika bino kokende, mpe bino bokowumela lisusu awa te.
+002	EXO	009	029	Moyize azongisaki: — Tango nakobima na engumba, nakotombola maboko na ngai mpo na kobondela Yawe. Bakake ekosila mpe mvula ya mabanga ekonoka lisusu te, mpo ete oyeba ete mokili ezali ya Yawe.
+002	EXO	009	030	Kasi nayebi ete, yo elongo na bakalaka na yo, bokobanga na bino kaka Yawe Nzambe te.
+002	EXO	009	031	Lino mpe Orje ebebaki, pamba te lino ebimisaki mito mpe Orje ebimisaki bafololo.
+002	EXO	009	032	Ble mpe epotele ebebaki te, pamba te tango na yango ya kobota ekokaki nanu te.
+002	EXO	009	033	Bongo Moyize atikaki Faraon mpe abimaki libanda ya engumba. Atombolaki maboko na ye epai na Yawe; boye bakake mpe mvula ya mabanga etikaki kobeta, mpe mvula esilaki kati na Ejipito.
+002	EXO	009	034	Tango Faraon amonaki ete mvula ya mabanga mpe bakake etiki kobeta, asalaki lisusu lisumu. Ye mpe bakalaka na ye bayeisaki lisusu mitema na bango makasi.
+002	EXO	009	035	Boye motema ya Faraon ekomaki penza makasi mpe aboyaki kotika bana ya Isalaele kokende, ndenge kaka Yawe alobaki na nzela ya Moyize.
+002	EXO	010	001	Yawe alobaki na Moyize: « Kende epai ya Faraon, pamba te nakomisi motema na ye mpe ya bakalaka na ye makasi, mpo ete nasala bilembo na Ngai ya kokamwa kati na bango,
+002	EXO	010	002	mpe ete oyebisa bana na yo mpe bakoko na yo makambo oyo nasalaki na Ejipito mpe bilembo ya kokamwa oyo nasalaki kati na bango. Bongo bokoyeba ete Ngai nazali Yawe. »
+002	EXO	010	003	Boye Moyize mpe Aron bakendeki epai ya Faraon mpe balobaki na ye: « Tala makambo oyo Yawe, Nzambe ya Ba-Ebre, alobi: ‹ Kino tango nini okoboya komikitisa liboso na Ngai? Tika bato na Ngai kokende kogumbamela Ngai.
+002	EXO	010	004	Soki oboyi kotika bango kokende, lobi nakotinda mabanki na mokili na yo.
+002	EXO	010	005	Ekotondisa mokili ya Ejipito na ndenge ete mabele ekomonana lisusu te. Mabanki yango ekolia mwa biloko moke oyo mvula ya mabanga etikaki; ekolia mpe banzete na bino nyonso oyo ezali kokola kati na bilanga.
+002	EXO	010	006	Ekotonda na bandako na yo, ya bakalaka na yo mpe ya bato nyonso ya Ejipito; ezala batata na yo to bakoko na yo batikala nanu komona te likambo ya boye wuta bazala na mokili oyo kino lelo. › » Moyize abalukaki mpe atikaki ndako ya Faraon.
+002	EXO	010	007	Bakalaka ya Faraon balobaki na ye: — Kino tango nini moto oyo akozala motambo mpo na biso? Tika bango bakende kogumbamela Yawe, Nzambe na bango. Ozali komona te ete Ejipito ebebi?
+002	EXO	010	008	Bongo bazongisaki Moyize mpe Aron epai ya Faraon; mpe Faraon alobaki na bango: — Bokende kogumbamela Yawe, Nzambe na bino. Kasi banani oyo bakokende?
+002	EXO	010	009	Moyize azongisaki: — Tokokende elongo na bilenge na biso, bampaka na biso, bana na biso ya mibali mpe ya basi, bameme na biso, bantaba na biso mpe bangombe na biso; pamba te tokosala feti mpo na lokumu ya Yawe.
+002	EXO	010	010	Faraon alobaki na bango: — Soki nakotika bino kokende elongo na bana na bino, wana tika ete Yawe azala elongo na bino! Nzokande emonani solo ete bozali na makanisi mabe.
+002	EXO	010	011	Ekosalema bongo te! Kaka mibali nde bakokende kogumbamela Yawe, pamba te yango nde likambo oyo bozali kosenga ngai. Boye babenganaki Moyize mpe Aron liboso ya Faraon.
+002	EXO	010	012	Yawe alobaki na Moyize: — Sembola loboko na yo na mokili ya Ejipito mpo ete obimisa mabanki kati na mokili yango mpe mabanki yango elia matiti nyonso ya bilanga, biloko nyonso oyo mvula ya mabanga ebebisaki te.
+002	EXO	010	013	Boye Moyize asembolaki lingenda na ye na mokili ya Ejipito mpe Yawe atindaki mopepe ya este mokolo mobimba mpe butu mobimba. Mpe tango tongo etanaki, mopepe yango eyaki na mabanki.
+002	EXO	010	014	Mabanki ekotaki kati na Ejipito nyonso mpe evandaki ebele na bisika nyonso ya Ejipito. Etumbu ya mabanki ya ndenge wana etikala nanu kozala te mpe ekotikala kozala lisusu te.
+002	EXO	010	015	Ezipaki mabele nyonso mpe mabele eyindaki. Eliaki nyonso oyo mvula ya mabanga ebebisaki te: matiti nyonso ya bilanga mpe bambuma nyonso ya banzete. Kati na mokili mobimba ya Ejipito, eloko moko te ya mobesu etikalaki na banzete to na matiti ya bilanga.
+002	EXO	010	016	Faraon abengisaki Moyize mpe Aron na lombangu, alobaki: — Nasali lisumu epai na Yawe, Nzambe na bino, mpe epai na bino.
+002	EXO	010	017	Sik’oyo lisusu, bolimbisa lisumu na ngai. Bobondela Yawe, Nzambe na bino, mpo ete alongola etumbu oyo ya kufa kati na ngai.
+002	EXO	010	018	Moyize atikaki Faraon mpe abondelaki Yawe.
+002	EXO	010	019	Bongo Yawe akomisaki mopepe ya este ekumbaki moko ya weste oyo ememaki mabanki mpe ebwakaki yango na ebale monene ya Barozo. Ata libanki moko te etikalaki na bisika nyonso ya Ejipito.
+002	EXO	010	020	Kasi Yawe akomisaki lisusu motema ya Faraon makasi mpe Faraon aboyaki kotika bana ya Isalaele kokende.
+002	EXO	010	021	Yawe alobaki na Moyize: — Sembola loboko na yo likolo mpo ete molili epanzana na mokili ya Ejipito, molili oyo ekosala ete bato batambola na kosimbasimba.
+002	EXO	010	022	Boye Moyize asembolaki loboko na ye likolo mpe molili makasi ezipaki mokili mobimba ya Ejipito mikolo misato.
+002	EXO	010	023	Na mikolo misato yango, moto moko te akokaki komona moto mosusu mpe kolongwa na esika oyo azali mpo na kokende na esika mosusu. Nzokande pole ezalaki na bisika nyonso oyo bana ya Isalaele bazalaki kovanda.
+002	EXO	010	024	Faraon abengisaki Moyize mpe alobaki: — Bokende kogumbamela Yawe; bokende bino nyonso nzela moko, ezala basi mpe bana na bino. Kasi botika kaka bangombe, bameme mpe bantaba na bino.
+002	EXO	010	025	Kasi Moyize alobaki: — Okopesa biso mbeka mpe makabo ya kotumba oyo tokobonzela Yawe, Nzambe na biso.
+002	EXO	010	026	Bitonga na biso ya bibwele mpe ekokende nzela moko na biso; ata linzaka moko te ya ebwele ekotikala. Pamba te ezali kati na bibwele yango nde tokopona oyo tokobonzela Yawe, Nzambe na biso; mpe wana tokomi nanu kuna te, toyebi te ebwele nini tokobonza mpo na kogumbamela Yawe.
+002	EXO	010	027	Kasi Yawe akomisaki lisusu motema ya Faraon makasi; mpe Faraon aboyaki kaka kotika bango kokende.
+002	EXO	010	028	Faraon alobaki na Moyize: — Longwa liboso na ngai mpe keba na yo! Koya lisusu liboso na ngai te! Mokolo oyo okoya lisusu liboso na ngai, okokufa.
+002	EXO	010	029	Moyize azongisaki: — Ndenge kaka olobi, nakotikala koya lisusu liboso na yo te!
+002	EXO	011	001	Yawe alobaki na Moyize: « Nakoyeisa lisusu etumbu moko na bomoi ya Faraon mpe ya Ejipito. Sima na yango, Faraon akotika bino ete bokende; kutu, akobengana bino libela.
+002	EXO	011	002	Loba na bato ete basenga biloko ya palata mpe ya wolo: mobali nyonso asenga yango epai ya moninga na ye mobali mpe mwasi nyonso, epai ya moninga na ye mwasi. »
+002	EXO	011	003	Yawe asalaki ete bana ya Isalaele bazwa ngolu na miso ya bato ya Ejipito. Mpe Moyize ye moko azalaki moto monene kati na Ejipito, na miso ya basali ya Faraon mpe ya bato nyonso.
+002	EXO	011	004	Moyize alobaki na Faraon: « Tala makambo oyo Yawe alobi: ‹ Na kati-kati ya butu, nakotambola kati na mokili mobimba ya Ejipito.
+002	EXO	011	005	Mwana mobali nyonso ya liboso kati na Ejipito akokufa, kobanda na mwana mobali ya liboso ya Faraon oyo avandi na kiti ya bokonzi kino na mwana mobali ya liboso ya mwasi mowumbu oyo azali konika ble mpe bana mibali nyonso ya liboso ya bibwele.
+002	EXO	011	006	Bongo koganga makasi ekozala na mokili mobimba ya Ejipito, koganga oyo ezala nanu te mpe ekotikala kozala te.
+002	EXO	011	007	Kasi kati na bana nyonso ya Isalaele, ezala mbwa ekoganga te liboso ya moto to ya nyama. › Na bongo, bokoyeba ete Yawe asali bokeseni kati na bato ya Ejipito mpe ya Isalaele.
+002	EXO	011	008	Boye, bakalaka na yo nyonso oyo bazali zingazinga na yo bakoya epai na ngai, bakofukama liboso na ngai mpe bakoloba: ‹ Kende, yo mpe bato nyonso oyo bazali kotambola sima na yo. › Mpe sima na yango, nakobima. » Bongo Moyize abimaki na ndako ya Faraon na kanda makasi.
+002	EXO	011	009	Yawe alobaki na Moyize: « Faraon akoboya koyokela bino mpo ete bikamwa na Ngai ekoka komonana ebele kati na Ejipito. »
+002	EXO	011	010	Boye Moyize mpe Aron basalaki bikamwa wana nyonso liboso ya Faraon. Kasi Yawe akomisaki motema ya Faraon makasi mpe Faraon aboyaki kaka kotika bana ya Isalaele kobima na mokili na ye.
+002	EXO	012	001	Yawe alobaki na Moyize mpe Aron kati na Ejipito:
+002	EXO	012	002	« Sanza oyo ekozala mpo na bino sanza ya liboso ya mobu.
+002	EXO	012	003	Boloba boye na lisanga mobimba ya Isalaele: Na mokolo ya zomi na sanza oyo, libota moko na moko to ndako moko na moko esengeli kozala na mwana meme to na mwana ntaba.
+002	EXO	012	004	Kasi soki bato ya ndako bazali ebele te mpo na kolia mwana meme ya mobimba, bakolia yango elongo na bato ya ndako oyo ezali pene na ndako na bango kolanda motango ya bato. Bakopona mwana meme kolanda oyo moko na moko akoki kolia.
+002	EXO	012	005	Mwana meme to mwana ntaba oyo bakopona esengeli kozala ya mobali, ya mobu moko mpe ezanga mbeba.
+002	EXO	012	006	Bokobatela yango kino na mokolo ya zomi na minei ya sanza yango. Na mokolo yango, bato nyonso ya lisanga ya Isalaele bakokata yango kingo na pokwa.
+002	EXO	012	007	Bakozwa makila na yango mpe bakopakola yango na libaya ya likolo mpe na mabaya mibale ya mipanzi oyo esimbaka ekuke ya bandako epai wapi bakolia nyama yango.
+002	EXO	012	008	Na butu ya mokolo yango, bakotumba mosuni na yango na moto mpe bakolia yango elongo na mapa ezanga levire mpe matiti ya bololo.
+002	EXO	012	009	Bakolia te mosuni oyo ebela malamu te to oyo batokisa, kasi bakolia kaka mosuni oyo batumba na moto elongo na makolo, moto mpe biloko ya kati.
+002	EXO	012	010	Bokotika ata ndambo te kino na tongo. Kasi soki ndambo ekomi na tongo, botumba yango na moto.
+002	EXO	012	011	Tala ndenge nini bokolia yango: bokolata mokaba na loketo, basandale na makolo, mpe bokosimba lingenda na loboko. Bokolia yango na lombangu. Ezali feti ya Pasika mpo na Yawe.
+002	EXO	012	012	Kaka na butu yango, nakoleka na Ejipito; nakoboma bana nyonso ya liboso kati na Ejipito kobanda na bato kino na banyama; mpe nakosambisa banzambe nyonso ya Ejipito na nzela ya bitumbu. Nazali Yawe.
+002	EXO	012	013	Na bandako epai wapi bokozala, makila ekozala elembo mpo na bino; bongo tango Ngai nakomona makila yango, nakoleka bino. Boye etumbu moko te ya kufa ekokweya kati na bino tango nakopesa etumbu na mokili ya Ejipito.
+002	EXO	012	014	Mokolo yango ekozala mokolo ya ekaniseli mpo na bino. Bileko na bileko, bokobanda kosala feti na mokolo yango mpo na lokumu ya Yawe; yango ekozala mpo na bino mobeko ya libela na libela mpo na bakitani oyo bakoya sima na bino.
+002	EXO	012	015	Mikolo sambo, bokolia mapa ezanga levire. Na mokolo ya liboso, bokolongola levire na bandako na bino; pamba te moto nyonso oyo akolia eloko oyo ezali na levire, kobanda na mokolo ya liboso kino na mokolo ya sambo, bakolongola ye kati na bato ya Isalaele.
+002	EXO	012	016	Bokozala na mayangani ya bule na mokolo ya liboso mpe na mokolo ya sambo. Bokosala mosala moko te na mikolo wana longola kaka mosala ya kolamba bilei oyo moto na moto akolia. Yango kaka nde bokosala.
+002	EXO	012	017	Bokosala feti ya Mapa ezanga levire, pamba te ezalaki na mokolo yango nde nabimisaki mampinga na bino na Ejipito. Bokosala feti na mokolo yango lokola mobeko ya libela na libela mpo na bakitani oyo bakoya sima na bino.
+002	EXO	012	018	Na sanza ya liboso, bokolia mapa ezanga levire kobanda na pokwa ya mokolo ya zomi na minei kino na pokwa ya mokolo ya tuku mibale na moko.
+002	EXO	012	019	Mikolo sambo, levire esengeli te komonana kati na bandako na bino; pamba te moto nyonso oyo akolia eloko oyo ezali na levire, esengeli balongola ye na lisanga ya Isalaele, azala mopaya to mwana mboka ya Isalaele.
+002	EXO	012	020	Bokolia eloko moko te oyo ezali na levire. Na bisika nyonso oyo bokozala, bokolia kaka mapa ezanga levire. »
+002	EXO	012	021	Moyize abengisaki bakambi nyonso ya Isalaele mpe alobaki na bango: « Bokende kozwa na libota moko na moko mwana meme to mwana ntaba mpe bokata yango kingo lokola mbeka ya Pasika.
+002	EXO	012	022	Bokokamata etape ya nzete ya izope, bokozindisa yango na makila oyo ekozala kati na sani monene, bokopakola yango na libaya ya likolo mpe na mabaya mibale ya mipanzi oyo esimbaka ekuke. Moko te kati na bino abima libanda ya ekuke ya ndako na ye kino na tongo.
+002	EXO	012	023	Wana Yawe akoleka na mokili mpo na koboma bato ya Ejipito mpe akomona makila na libaya ya likolo mpe na mabaya mibale ya mipanzi oyo esimbaka ekuke, akoleka ekuke yango mpe akopesa nzela te na mobomi ete akota na bandako na bino mpo na koboma.
+002	EXO	012	024	Bokotosa malako oyo lokola mobeko ya libela na libela mpo na bino mpe mpo na bakitani na bino.
+002	EXO	012	025	Tango bokokota na mokili oyo Yawe akopesa bino ndenge alakaki, bosalela likambo oyo.
+002	EXO	012	026	Bongo tango bana na bino bakotuna bino: ‹ Molulu oyo elakisi nini mpo na bino? ›
+002	EXO	012	027	Bokoloba na bango: ‹ Ezali mbeka ya feti ya Pasika mpo na Yawe oyo alekaki bandako ya bana ya Isalaele kati na Ejipito mpe abikisaki bandako na biso tango abomaki bato ya Ejipito. › » Na bongo, bana ya Isalaele bafukamaki mpe bagumbamelaki Yawe.
+002	EXO	012	028	Bato ya Isalaele basalaki ndenge kaka Yawe atindaki Moyize mpe Aron.
+002	EXO	012	029	Na kati-kati ya butu, Yawe abomaki bana mibali nyonso ya liboso kati na Ejipito kobanda na mwana mobali ya liboso ya Faraon oyo azalaki kokonza na kiti ya bokonzi kino na mwana mobali ya liboso ya mokangami oyo azalaki kati na boloko, mpe bana mibali ya liboso ya bibwele nyonso.
+002	EXO	012	030	Na butu wana, Faraon elongo na bakalaka na ye nyonso mpe bato nyonso ya Ejipito batelemaki; mpe koganga makasi ezalaki na Ejipito, pamba te ezalaki na ndako moko te oyo ezangaki ebembe.
+002	EXO	012	031	Kaka na butu wana, Faraon abengisaki Moyize mpe Aron, alobaki na bango: « Botelema, bobima kati na bato na ngai, bino mpe bana ya Isalaele. Bokende kogumbamela Yawe ndenge bosengaki.
+002	EXO	012	032	Bokamata bibwele na bino ndenge bolobaki: bangombe, bameme mpe bantaba; mpe bokende. Boye, bopambola mpe ngai. »
+002	EXO	012	033	Bato ya Ejipito batindikaki bana ya Isalaele ete babima noki na mokili na bango. Bazalaki koloba: « Bokende na bino, noki te biso tokokufa. »
+002	EXO	012	034	Boye bato bazwaki potopoto na bango ya farine liboso ete batia yango levire, bazingaki na banzambala na bango banzungu oyo basalelaka potopoto mpe batiaki yango na mapeka na bango.
+002	EXO	012	035	Bato ya Isalaele basalaki ndenge Moyize alobaki na bango mpe basengaki epai ya bato ya Ejipito biloko ya palata, ya wolo mpe bilamba.
+002	EXO	012	036	Bongo Yawe asalaki ete bana ya Isalaele bazwa ngolu na miso ya bato ya Ejipito oyo bapesaki bango biloko oyo basengaki. Na ndenge wana nde basilisaki biloko ya bato ya Ejipito.
+002	EXO	012	037	Bato ya Isalaele balongwaki na Ramisesi mpe bakendeki na Sukoti; bazalaki mibali nkoto nkama motoba oyo bazalaki kotambola na makolo longola basi mpe bana.
+002	EXO	012	038	Ezalaki lisusu na ebele ya bato oyo bakendeki na bango elongo; bamemaki lisusu bibwele: bameme, bantaba mpe bangombe.
+002	EXO	012	039	Basalaki na farine oyo bamemaki wuta na Ejipito bagato ezanga levire, pamba te tango babenganaki bango, potopoto emivimbelaki te mpe bazangaki tango ya kobongisa biloko ya kolia mpo na bango moko.
+002	EXO	012	040	Mibu oyo bana ya Isalaele bavandaki na Ejipito ezalaki nkama minei na tuku misato.
+002	EXO	012	041	Na suka ya mobu oyo ya nkama minei na tuku misato, mampinga nyonso ya Yawe batikaki Ejipito.
+002	EXO	012	042	Lokola Yawe akengelaki butu wana mpo na kobimisa bana ya Isalaele na Ejipito, butu yango ekomi ya Yawe: ekobanda kozala butu ya kokengela mpo na bana ya Isalaele na milongo na bango nyonso oyo ekoya.
+002	EXO	012	043	Yawe alobaki na Moyize mpe Aron: « Tala mibeko na tina na Pasika: ‹ Mopaya moko te akoki kolia yango.
+002	EXO	012	044	Kasi mowumbu nyonso oyo bakosomba, basengeli liboso kokata ye ngenga, sima nde akoki kolia Pasika.
+002	EXO	012	045	Mopaya oyo akozala na bino mpo na tango moke mpe mosali oyo azwaka lifuti bakolia yango te.
+002	EXO	012	046	Ekoliama kaka kati na ndako moko na moko, bakobimisa ata mosuni moko te na libanda ya ndako mpe bakobuka ata mokuwa na yango moko te.
+002	EXO	012	047	Lisanga mobimba ya Isalaele ekosala feti ya Pasika.
+002	EXO	012	048	Soki mopaya oyo azali kati na bino alingi kosepela na feti ya Pasika ya Yawe, esengeli ete mibali nyonso oyo bazali kati na ndako na ye bakatama ngenga; bongo nde akozwa nzela ya kolia Pasika lokola mwana mboka ya Isalaele. Kasi mobali oyo akokatama ngenga te akoki kolia Pasika te.
+002	EXO	012	049	Mibeko ezali se ndenge moko mpo na mwana mboka ya Isalaele mpe mpo na mopaya oyo azali kati na bino. › »
+002	EXO	012	050	Bato nyonso ya Isalaele basalaki ndenge kaka Yawe atindaki Moyize mpe Aron.
+002	EXO	012	051	Mpe na mokolo wana, Yawe abimisaki bana ya Isalaele na molongo, wuta na Ejipito, lokola mampinga ya basoda.
+002	EXO	013	001	Yawe alobaki na Moyize:
+002	EXO	013	002	« Bulisela Ngai mwana mobali nyonso ya liboso kati na bana ya Isalaele; ezala moto to nyama, azali ya Ngai. »
+002	EXO	013	003	Moyize alobaki na bato: « Bokanisa mokolo oyo bobimaki na Ejipito, mokolo oyo bobimaki na bowumbu, pamba te Yawe abimisaki bino na loboko na Ye ya nguya. Bokolia eloko moko te oyo ezali na levire.
+002	EXO	013	004	Bozali kobima nde lelo oyo, na sanza ya abibi.
+002	EXO	013	005	Tango Yawe akokotisa yo na mokili ya bato ya Kanana, ya bato ya Iti, ya bato ya Amori, ya bato ya Evi mpe ya bato ya Yebusi, mokili oyo alakaki na batata na bino, na nzela ya ndayi, ete akopesa bino yango, mokili oyo ezali kobimisa miliki mpe mafuta ya nzoyi, okosala feti oyo na sanza oyo.
+002	EXO	013	006	Mikolo sambo, bokolia mapa ezanga levire; na mokolo ya sambo, bokosala feti mpo na Yawe.
+002	EXO	013	007	Bokolia mapa ezanga levire mikolo sambo, mpe eloko moko te oyo ezali na levire ekomonana kati na mokili na bino mobimba.
+002	EXO	013	008	Na mokolo wana, bokoyebisa na bana na bino ya mibali: ‹ Nazali kosala molulu oyo mpo na kokanisa makambo oyo Yawe asalelaki ngai tango abimisaki ngai na Ejipito. ›
+002	EXO	013	009	Feti oyo bokosala ekozala lokola elembo na loboko na bino mpe ekaniseli na elongi na bino mpo ete mibeko ya Yawe ezala na bibebu na bino, pamba te Ye nde abimisaki bino na Ejipito na loboko na Ye ya nguya.
+002	EXO	013	010	Bokobatela mobu na mobu mibeko oyo na eleko na yango.
+002	EXO	013	011	Tango Yawe akokotisa bino na mokili ya Kanana mpe akopesa bino yango ndenge alakaki yango, na nzela ya ndayi, epai ya bakoko na bino mpe epai na bino,
+002	EXO	013	012	bokobonzela Ye bana mibali nyonso ya liboso: bana nyonso ya liboso ya banyama ekozala ya Yawe.
+002	EXO	013	013	Kasi soki mwana yango ya liboso ya nyama ezali mwana ya ane, bosengeli kobonza na esika na yango mwana meme; soki te, bokobuka yango kingo. Kasi bokosikola na mbongo mwana nyonso ya liboso kati na bana na bino ya mibali.
+002	EXO	013	014	Mikolo ekoya, tango bana na bino ya mibali bakotuna bino: ‹ Molulu oyo elakisi nini? › Bokoloba na bango: ‹ Ezali na nguya na Ye nde Yawe abimisaki biso na Ejipito, mokili ya bowumbu.
+002	EXO	013	015	Tango Faraon aboyaki kotika biso kokende, Yawe abomaki kati na Ejipito mwana nyonso ya liboso, ezala ya moto to ya nyama. Yango wana nazali kobonzela Yawe bana nyonso ya liboso kati na banyama mpe nazali kosikola bana nyonso ya liboso kati na bana na ngai. ›
+002	EXO	013	016	Mpe yango ekozala lokola elembo na loboko na bino mpe ekaniseli na elongi na bino, pamba te Yawe abimisaki bino na Ejipito na nzela ya loboko na Ye ya nguya. »
+002	EXO	013	017	Tango Faraon atikaki bana ya Isalaele kokende, Nzambe amemaki bango te na nzela ya mboka ya Filisitia atako yango nde ezalaki mokuse, pamba te Nzambe amilobelaki: « Soki bakutani na bitumba, bakoyoka mawa na ndenge babimaki na Ejipito mpe bakoluka kozonga kuna. »
+002	EXO	013	018	Boye, Nzambe amemaki bato na nzela ya molayi, na nzela oyo ekenda na esobe, na ngambo ya ebale monene ya barozo. Bato ya Isalaele babimaki libanda ya Ejipito na molongo lokola mampinga ya basoda.
+002	EXO	013	019	Moyize azwaki mikuwa ya Jozefi, pamba te Jozefi alapisaki bana ya Isalaele ndayi; alobaki: « Solo, Nzambe akozanga te kosunga bino, boye bokolongola mikuwa na ngai na esika oyo mpe bokomema yango elongo na bino. »
+002	EXO	013	020	Tango balongwaki na Sukoti mpe batongaki molako na Etami, na mondelo ya esobe,
+002	EXO	013	021	Yawe atambolaki liboso na bango, na moyi lokola likonzi ya lipata mpo na kolakisa bango nzela, mpe na butu lokola likonzi ya moto mpo na kongengisa bango, mpo ete batambola butu mpe moyi.
+002	EXO	013	022	Likonzi ya lipata na moyi to likonzi ya moto na butu elongwaki na esika na yango te liboso ya bana ya Isalaele.
+002	EXO	014	001	Yawe alobaki na Moyize:
+002	EXO	014	002	« Loba na bana ya Isalaele ete bazonga mpe batonga molako pembeni ya Pi-Ayiroti, kati ya Migidoli mpe ebale monene. Batonga yango etalana na Bala-Tsefoni pembeni ya ebale monene.
+002	EXO	014	003	Faraon akokanisa ete bana ya Isalaele babungi na mokili, esobe ekangi bango.
+002	EXO	014	004	Nakokomisa motema ya Faraon libanga, mpe ye akolanda bango; kasi nakomonisa nkembo na Ngai, nakotelemela Faraon mpe mampinga na ye; bongo bato ya Ejipito bakoyeba ete Ngai nazali Yawe. » Bana ya Isalaele basalaki bongo.
+002	EXO	014	005	Tango bayebisaki mokonzi ya Ejipito ete bana ya Isalaele bakimi, Faraon mpe bakalaka na ye babongolaki makanisi na bango mpo na bana ya Isalaele mpe balobaki: « Likambo nini oyo tosali? Totiki Isalaele kokende mpe tozangeli bato oyo bakoki kosalela biso! »
+002	EXO	014	006	Boye Faraon azwaki shar oyo ezalaki ya kobombama mpe azwaki mampinga na ye elongo na ye.
+002	EXO	014	007	Akamataki bashar nkama motoba oyo eleki malamu elongo na bashar nyonso ya Ejipito; shar moko na moko ezalaki na basoda misato.
+002	EXO	014	008	Yawe akomisaki motema ya Faraon, mokonzi ya Ejipito, libanga mpo ete alanda bana ya Isalaele oyo bazalaki kotambola na bonsomi nyonso.
+002	EXO	014	009	Bato ya Ejipito, bampunda nyonso ya Faraon mpe shar mosusu ya Faraon elongo na bato oyo batambolisaka yango mpe mampinga mosusu ya Faraon balandaki bana ya Isalaele mpe bazwaki bango tango batongaki molako na bango pembeni ya Pi-Ayiroti oyo etalana na Bala-Tsefoni.
+002	EXO	014	010	Lokola Faraon apusanaki, bana ya Isalaele batombolaki miso na bango mpe bamonaki ete bato ya Ejipito bazali kolanda bango na sima. Bana ya Isalaele babangaki makasi mpe bagangaki epai na Yawe.
+002	EXO	014	011	Balobaki na Moyize: — Boni, ezali mpo ete malita ezali te na Ejipito, yango wana omemi biso mpo ete tokufa na esobe? Osali biso nini awa obimisi biso na Ejipito?
+002	EXO	014	012	Toyebisaki yo te tango tozalaki na Ejipito: « Tika biso kimia, tika biso tosalela bato ya Ejipito? » Pamba te elekaki malamu mpo na biso kosalela bato ya Ejipito na esika ya kokufa na esobe.
+002	EXO	014	013	Moyize azongiselaki bango: — Bobanga te, boyika mpiko! Bokomona kokangolama oyo Yawe akomemela bino lelo; bato ya Ejipito oyo bozali komona lelo, bokotikala komona bango lisusu te.
+002	EXO	014	014	Yawe akobunda mpo na bino, mpe bino bovanda kimia.
+002	EXO	014	015	Yawe alobaki na Moyize: — Mpo na nini ozali koganga boye epai na Ngai? Loba na bana ya Isalaele ete batambola.
+002	EXO	014	016	Kasi yo, tombola lingenda na yo, sembola loboko na yo likolo ya ebale monene mpe kabola mayi mpo ete bana ya Isalaele bakoka kokatisa ebale monene lokola na mabele ya kokawuka.
+002	EXO	014	017	Bongo Ngai, nakoyeisa motema ya bato ya Ejipito libanga mpo ete balanda bino mpe nakomonisa nkembo na Ngai na kotelemela Faraon mpe mampinga na ye nyonso elongo na bashar na ye mpe bato na ye oyo batambolisaka bampunda.
+002	EXO	014	018	Bongo bato ya Ejipito bakoyeba ete nazali Yawe tango nakomonisa nkembo na Ngai na kotelemela Faraon, bashar na ye mpe bato na ye oyo batambolisaka bampunda.
+002	EXO	014	019	Anjelu na Nzambe oyo azalaki kotambola liboso ya mampinga ya Isalaele azongaki sima na bango, mpe likonzi ya lipata elongwaki liboso na bango mpo ete etelema sima na bango.
+002	EXO	014	020	Likonzi ya lipata etelemaki kati ya mampinga ya bato ya Ejipito mpe ya bana ya Isalaele. Likonzi ya lipata epesaki molili na ngambo moko mpe engengisaki ngambo mosusu; yango wana butu mobimba, bato ya Ejipito bakokaki kopusana te pembeni ya bana ya Isalaele.
+002	EXO	014	021	Moyize asembolaki loboko na ye likolo ya ebale monene; bongo na butu mobimba, Yawe atindaki na ebale monene mopepe makasi ya este oyo ekabolaki mayi ya ebale monene.
+002	EXO	014	022	Bato ya Isalaele batambolaki na ebale monene lokola na mabele ya kokawuka. Mayi etelemaki lokola mir na ngambo ya loboko na bango ya mobali mpe na ngambo ya loboko na bango ya mwasi.
+002	EXO	014	023	Bato ya Ejipito balandaki bango mpe bango nyonso bakotaki kati na ebale monene: bampunda nyonso ya Faraon, bashar na ye mpe batambolisi ya bampunda.
+002	EXO	014	024	Liboso ete tongo etana, Yawe atelemaki na likolo ya likonzi ya moto mpe ya lipata, atalaki mampinga ya bato ya Ejipito mpe akotisaki mobulu kati na yango.
+002	EXO	014	025	Alongolaki bapine na bashar na bango mpo ete bamona pasi mpo na kokumba. Boye bato ya Ejipito balobaki: — Tokima mosika ya bana ya Isalaele, pamba te Yawe azali kobundela bango liboso na biso.
+002	EXO	014	026	Yawe alobaki na Moyize: — Sembola loboko na yo likolo ya ebale monene mpo ete mayi ezonga mpe ekweyela bato ya Ejipito, bashar na bango mpe batambolisi ya bampunda.
+002	EXO	014	027	Moyize asembolaki loboko na ye likolo ya ebale monene, mpe liboso ete tongo etana, ebale monene ezongaki na esika na yango mpe bato ya Ejipito oyo balukaki kokima, bakutanaki na mayi liboso na bango. Boye Yawe azindisaki bango kati na ebale monene.
+002	EXO	014	028	Mayi ezongaki mpe ezipaki bashar elongo na batambolisi ya bampunda mpe mampinga ya Faraon oyo elandaki bana ya Isalaele kati na ebale monene. Moko te kati na bango abikaki.
+002	EXO	014	029	Kasi bana ya Isalaele batambolaki na ebale monene lokola na mabele ya kokawuka. Mayi etelemaki lokola mir na ngambo ya loboko na bango ya mobali mpe na ngambo ya loboko na bango ya mwasi.
+002	EXO	014	030	Na mokolo wana, Yawe abikisaki bana ya Isalaele liboso ya bato ya Ejipito mpe bana ya Isalaele bamonaki bibembe ya bato ya Ejipito etandami na libongo ya ebale monene.
+002	EXO	014	031	Tango bana ya Isalaele bamonaki nguya monene oyo Yawe atalisaki liboso ya bato ya Ejipito, babangaki Yawe mpe batiaki elikya na bango kati na Ye mpe kati na mosali na Ye Moyize.
+002	EXO	015	001	Moyize mpe bana ya Isalaele bayembaki loyembo oyo mpo na lokumu ya Yawe: Nakoyemba mpo na lokumu ya Yawe, mpo ete amonisi monene ya nkembo na Ye! Azindisi mpunda mpe motambolisi na yango kati na ebale monene.
+002	EXO	015	002	Yawe azali makasi na ngai, azali solo loyembo na ngai, azali mobikisi na ngai, azali Nzambe na ngai, nakokumisa Ye; azali Nzambe ya tata na ngai, nakonetola Ye.
+002	EXO	015	003	Yawe azali elombe ya bitumba; Kombo na Ye ezali Yawe.
+002	EXO	015	004	Azindisi na ebale monene, bashar mpe mampinga ya Faraon; abwaki na ebale monene ya barozo, bakonzi mpe basoda oyo Faraon atielaka motema.
+002	EXO	015	005	Mozindo ya mayi ezipi bango, bakiti kino na se ya ebale monene lokola libanga.
+002	EXO	015	006	Loboko na Yo ya mobali, oh Yawe, emonisi nguya na Yo; loboko na Yo ya mobali, oh Yawe, enyati monguna.
+002	EXO	015	007	Na monene ya nguya na Yo, obebisi batelemeli na Yo; na kanda na Yo, otombokeli bango, mpe baziki lokola matiti.
+002	EXO	015	008	Na pema ya zolo na Yo, mayi ekabwani, bambonge etelemi lokola mir, mpe mozindo ya mayi ekangami kati na ebale monene.
+002	EXO	015	009	Monguna amilobelaki: « Nakolanda bango kino nakokanga bango, molimo na ngai ekotonda na biloko oyo nakobotola; nakobimisa mopanga na ngai, mpe loboko na ngai ekobebisa bango. »
+002	EXO	015	010	Kasi Yo, Yawe, ofuli mopepe na Yo, mpe ebale monene ezipi bango. Bazindi lokola mbodi kati na mayi makasi.
+002	EXO	015	011	Oh Yawe, nani kati na banzambe azali lokola Yo? Nani azali lokola Yo, kitoko makasi kati na bosantu, somo, mpe abongi na lokumu, mpe asalaka makambo ya kokamwa?
+002	EXO	015	012	Osembolaki loboko na Yo ya mobali, mpe mabele emeli bango.
+002	EXO	015	013	Na bolingo na Yo, otambolisi bato oyo okangoli. Na makasi na Yo, omemi bango na Ndako na Yo ya bule.
+002	EXO	015	014	Bikolo eyoki sango na yango mpe ekomi kolenga, somo ekangaki bato ya Filisitia.
+002	EXO	015	015	Bakambi ya Edomi bakomi na somo, bankumu ya Moabi bakomi kolenga, bato ya Kanana balembi nzoto.
+002	EXO	015	016	Kobanga mpe somo ekweyeli bango. Na nguya ya loboko na Yo, bakomi bababa lokola libanga kino bato na Yo, oh Yawe, balekaki, kino bato oyo osikolaki balekaki.
+002	EXO	015	017	Okomema bango mpe okovandisa bango na ngomba na Yo, esika oyo obongisaki, oh Nkolo, mpo na kovanda, Esika ya bule, oh Yawe, esika oyo maboko na Yo esalaki.
+002	EXO	015	018	Yawe akotikala mokonzi libela na libela!
+002	EXO	015	019	Tango bampunda ya Faraon, bashar na ye elongo na bato oyo batambolisaka yango bamikotisaki kati na ebale monene, Yawe azongisaki mayi ya ebale monene likolo na bango. Nzokande bana ya Isalaele bakatisaki ebale monene lokola na esobe.
+002	EXO	015	020	Miriami, mwasi mosakoli mpe ndeko mwasi ya Aron, azwaki mbunda moke na loboko na ye mpe basi nyonso balandaki ye; bazalaki kobeta bambunda mike mpe kobina.
+002	EXO	015	021	Miriami ayembaki elongo na bango: « Boyembela Yawe, pamba te amonisi monene ya nkembo na Ye; azindisi na ebale monene, mpunda mpe motambolisi na yango. »
+002	EXO	015	022	Moyize atambolisaki bana ya Isalaele wuta na ebale monene ya barozo mpe amemaki bango na nzela oyo ekenda na esobe ya Shuri. Batambolaki mikolo misato kati na esobe mpe bamonaki mayi te.
+002	EXO	015	023	Tango bakomaki na Mara epai wapi bamonaki mayi, bakokaki te komela mayi yango, pamba te ezalaki bololo. Yango wana babengaki esika yango Mara.
+002	EXO	015	024	Boye bato bayimaki-yimaki na tina na Moyize mpe balobaki: « Tokomela nini? »
+002	EXO	015	025	Boye Moyize abelelaki Yawe, mpe Yawe alakisaki ye eteni ya nzete. Moyize abwakaki yango na mayi, mpe mayi ekomaki elengi mpo na komela. Ezalaki kuna nde Yawe apesaki bango bikateli, mibeko mpe amekaki bango.
+002	EXO	015	026	Alobaki: « Soki boyoki na bokebi mongongo na Yawe, Nzambe na bino, mpe bosali oyo ezali sembo na miso na Ye, soki bosali keba na malako na Ye mpe bobateli bikateli na Ye nyonso, nakotindela bino ata bokono moko te oyo natindelaki bato ya Ejipito; pamba te nazali Yawe oyo abikisaka bino na bokono. »
+002	EXO	015	027	Bongo bana ya Isalaele bakomaki na Elimi epai wapi bitima zomi na mibale mpe banzete ya mbila tuku sambo ezalaki. Ezalaki kuna nde batongaki molako na bango, pene ya mayi.
+002	EXO	016	001	Lisanga nyonso ya bana ya Isalaele balongwaki na Elimi mpe bakomaki na esobe ya Tsini, oyo ezali kati ya Elimi mpe ngomba Sinai, na mokolo ya zomi na mitano, na sanza ya mibale sima na kobima na bango na Ejipito.
+002	EXO	016	002	Lisanga nyonso ya bana ya Isalaele bayimaki-yimaki na tina na Moyize mpe Aron kati na esobe.
+002	EXO	016	003	Bana ya Isalaele balobaki na bango: — Ah! Ebongaki kutu loboko na Yawe epamela biso kati na Ejipito, pamba te, kuna, tozalaki kovanda pembeni ya banzungu etonda na misuni; tozalaki kolia mpe kotonda biloko. Kasi bino bomemi biso kati na esobe oyo mpo na koboma lisanga oyo nyonso na nzala!
+002	EXO	016	004	Yawe alobaki na Moyize: — Tala, nakokitisela bino mapa wuta na likolo. Mokolo na mokolo, bato bakobanda kobima mpe kolokota mapa oyo ekoki mpo na kolia mokolo wana. Na nzela wana, nakomeka bango mpo na kotala soki bakobatela to te malako na Ngai.
+002	EXO	016	005	Na mokolo ya motoba, bakolokota mbala mibale ndambo oyo bazalaki kolokota mpo na mokolo moko mpe bakolamba yango.
+002	EXO	016	006	Moyize mpe Aron balobaki na bana nyonso ya Isalaele: — Na pokwa ya lelo, bokoyeba solo ete ezali Yawe nde abimisaki bino na Ejipito.
+002	EXO	016	007	Boye lobi na tongo, bokomona nkembo na Yawe; pamba te ayoki koyimayima na bino na tina na Ye. Mpo na yango, biso tozali banani mpo ete boyimayima epai na biso?
+002	EXO	016	008	Moyize alobaki lisusu: — Bokoyeba ete ezali solo Yawe tango akopesa bino misuni ya kolia na pokwa mpe mapa ebele na tongo. Pamba te ayoki koyimayima na bino na tina na Ye. Biso tozali banani? Boyimaki-yimaki na tina na biso te, kasi na tina na Yawe.
+002	EXO	016	009	Boye Moyize alobaki na Aron: — Yebisa lisanga nyonso ya bana ya Isalaele ete bapusana pene ya Yawe mpo ete ayoki koyimayima na bango.
+002	EXO	016	010	Wana Aron azalaki koloba na lisanga nyonso ya bana ya Isalaele, babalolaki miso na bango na ngambo ya esobe, mpe bamonaki nkembo na Yawe kobima na mapata.
+002	EXO	016	011	Yawe alobaki na Moyize:
+002	EXO	016	012	— Nayoki koyimayima ya bana ya Isalaele. Yebisa bango: « Na pokwa ya lelo, bokolia misuni; bongo na tongo, bokotonda mana. Boye, bokoyeba solo ete nazali Yawe, Nzambe na bino. »
+002	EXO	016	013	Kaka na pokwa wana, bakayi eyaki mpe etondisaki molako; mpe na tongo, mamwe ezalaki zingazinga ya molako.
+002	EXO	016	014	Tango mamwe elimwaki, biloko ya mike-mike penza lokola bambuma ya mike-mike emonanaki na mabele ya esobe, pembe lokola mvula ya pembe.
+002	EXO	016	015	Tango bana ya Isalaele bamonaki yango, batunanaki bango na bango: — Oyo nini? Pamba te bayebaki te soki ezali nini. Moyize alobaki na bango: — Ezali mapa oyo Yawe apesi bino mpo ete bolia.
+002	EXO	016	016	Tala mibeko oyo Yawe apesi na tina na likambo oyo: « Tika ete moto na moto alokota oyo ekoki mpo na ye kolia, omeri moko mpo na moto moko. Moto na moto akolokota kolanda motango ya bato oyo bazali kati na ndako na ye ya kapo. »
+002	EXO	016	017	Bato ya Isalaele basalaki bongo: bamoko balokotaki moke; mpe bamosusu, ebele.
+002	EXO	016	018	Mpe bamekaki na omeri: moto oyo alokotaki ebele, alekelaki te; mpe oyo alokotaki moke, azangelaki te. Balokotaki moto na moto kolanda oyo ekokaki mpo na ye kolia.
+002	EXO	016	019	Moyize ayebisaki bango: — Moko te abomba ata moke kino na tongo.
+002	EXO	016	020	Kasi bamosusu kati na bango bayokelaki Moyize te mpe babombaki ndambo na yango kino na tongo. Boye bankusu etondaki na ndambo oyo babombaki, mpe ekomaki kolumba solo ya kopola. Mpo na yango, Moyize atombokelaki bango.
+002	EXO	016	021	Tongo nyonso, moto na moto abandaki kolokota oyo ekokaki mpo na ye kolia.
+002	EXO	016	022	Na mokolo ya motoba, bana ya Isalaele bazalaki kolokota mbala mibale ndambo oyo bazalaki kolokota mpo na mokolo moko: omeri mibale mpo na moto moko. Bakambi nyonso ya lisanga bayaki koyebisa yango Moyize.
+002	EXO	016	023	Moyize alobaki na bango: — Tala mibeko oyo Yawe apesi: « Lobi ezali mokolo ya kopema, mokolo ya Saba oyo ebulisami mpo na Yawe. Bokolamba oyo bolingi kolamba mpe bokotokisa oyo bolingi kotokisa; kasi oyo ekotikala, bobatela yango kino lobi. »
+002	EXO	016	024	Bato ya Isalaele babatelaki yango kino na tongo, ndenge kaka Moyize atindaki; mana elumbaki te solo ya kopola, mpe bankusu ezalaki te kati na yango.
+002	EXO	016	025	Moyize ayebisaki bango: — Mokolo ya lelo ezali mokolo ya Saba, mokolo ya Yawe. Bolia mana oyo bobombaki; pamba te lelo, bokotikala te komona mana na libanda.
+002	EXO	016	026	Bokobanda kolokota yango mikolo motoba; kasi na mokolo ya sambo, mokolo ya Saba, mana ekobanda kozala te.
+002	EXO	016	027	Atako bongo, na mokolo ya sambo, bato mosusu kati na bango babimaki mpo na kolokota yango, kasi bamonaki eloko te.
+002	EXO	016	028	Boye Yawe alobaki na Moyize: — Kino tango nini bokoboya kobatela mibeko mpe malako na Ngai?
+002	EXO	016	029	Botia na mito na bino ete Ngai Yawe, napesaki bino mokolo ya Saba. Yango wana, na mokolo ya motoba, napesaka bino mapa mpo na mikolo mibale. Boye tika ete, na mokolo ya sambo, moto na moto avanda epai na ye; moko te abima na libanda.
+002	EXO	016	030	Boye bato bapemaki na mokolo ya sambo.
+002	EXO	016	031	Bato ya Isalaele babengaki lipa yango mana. Ezalaki pembe lokola bambuma ya koriande mpe elengi lokola mikate balamba na mafuta ya nzoyi.
+002	EXO	016	032	Moyize alobaki: — Tala mibeko oyo Yawe apesi: « Bozwa omeri moko ya mana mpe bobomba yango mpo na milongo ya bakitani na bino oyo ekoya, mpo ete bamona mapa oyo naleisaki bino na esobe tango nabimisaki bino na Ejipito. »
+002	EXO	016	033	Boye Moyize alobi na Aron: — Kamata ekolo moko mpe tia omeri moko ya mana kati na yango; bongo tia yango liboso ya Yawe mpo ete ebombama mpo na milongo oyo ekoya.
+002	EXO	016	034	Ndenge kaka Yawe atindaki Moyize, Aron atiaki mana yango liboso ya Sanduku ya Boyokani mpo ete ebombama malamu.
+002	EXO	016	035	Bana ya Isalaele baliaki mana mibu tuku minei kino tango bakomaki na mondelo ya mokili ya Kanana.
+002	EXO	016	036	Omeri moko ekokani na eteni ya zomi ya efa.
+002	EXO	017	001	Lisanga mobimba ya bana ya Isalaele elongwaki na esobe ya Tsini mpe ezalaki kotambola kolanda ndenge Yawe azalaki kotinda. Batongaki molako na bango na Refidimi, kasi mayi ya komela ezalaki te mpo na bato.
+002	EXO	017	002	Bato ya Isalaele baswanisaki Moyize, balobaki na ye: — Pesa biso mayi ya komela! Moyize azongiselaki bango: — Mpo na nini bozali koswanisa ngai? Mpo na nini bolingi komeka Yawe?
+002	EXO	017	003	Lokola posa ya mayi elekaki makasi, bato bayimaki-yimaki epai ya Moyize mpe balobaki: — Mpo na nini obimisaki biso na Ejipito? Ezali mpo ete obomisa biso, bana na biso mpe bibwele na biso na posa ya mayi?
+002	EXO	017	004	Moyize abelelaki Yawe: — Nasala nini mpo na bato oyo? Etikali kaka moke ete babamba ngai mabanga!
+002	EXO	017	005	Yawe azongiselaki Moyize: — Leka liboso ya bato, kamata ndambo ya bakambi ya Isalaele. Zwa na loboko na yo, lingenda oyo obetaki na ebale Nili, mpe kende.
+002	EXO	017	006	Ngai nakotelema kuna, liboso na yo, na likolo ya libanga oyo ezali na ngomba Orebi. Okobeta libanga yango, mpe yango ekobimisa mayi, bongo bato bakomela. Moyize asalaki bongo na miso ya bakambi ya Isalaele.
+002	EXO	017	007	Abengaki esika yango Masa mpe Meriba, pamba te bana ya Isalaele baswanisaki ye mpe bamekaki Yawe tango balobaki: « Boni, Yawe yango azali kati na biso to te? »
+002	EXO	017	008	Bato ya Amaleki bayaki mpe babundisaki bana ya Isalaele na Refidimi.
+002	EXO	017	009	Moyize alobaki na Jozue: — Ponela biso bilombe ya bitumba kati na bato; mpe lobi; wana yo okende kobundisa bato ya Amaleki, ngai nakotelema na likolo ya ngomba moke elongo na lingenda ya Nzambe na loboko na ngai.
+002	EXO	017	010	Jozue asalaki ndenge Moyize atindaki ye mpe abundisaki bato ya Amaleki; wana Moyize, Aron mpe Wuri bamataki likolo ya ngomba.
+002	EXO	017	011	Tango nyonso Moyize abandaki kotombola maboko na ye mpo na kobondela, bana ya Isalaele bazalaki kolonga; kasi tango nyonso azalaki kokitisa maboko na ye, bato ya Amaleki bazalaki kolonga.
+002	EXO	017	012	Tango maboko ya Moyize elembaki, Aron mpe Wuri bakamataki libanga mpe batielaki ye yango mpo ete avandela yango; mpe Moyize avandelaki yango. Aron mpe Uri batombolaki maboko na ye, moko na ngambo moko, mpe mosusu na ngambo mosusu. Boye maboko na ye etikalaki ya kosembolama kino na pokwa.
+002	EXO	017	013	Mpe Jozue alongaki basoda ya bato ya Amaleki na mopanga.
+002	EXO	017	014	Yawe alobaki na Moyize: — Koma yango na buku lokola ekaniseli, mpe loba na Jozue ete nakosilisa bato ya Amaleki na mokili; bakotikala kokanisa bango lisusu te.
+002	EXO	017	015	Moyize atongaki etumbelo mpe abengaki yango « Nkolo azali bendele na ngai ya lokumu. »
+002	EXO	017	016	Moyize alobaki: « Lokola esali ete babundisi Kiti ya Bokonzi ya Yawe, Yawe akobundisa bato ya Amaleki tango nyonso. »
+002	EXO	018	001	Jetro, Nganga-Nzambe ya Madiani mpe bokilo ya Moyize, ayokaki makambo nyonso oyo Nzambe asalelaki Moyize mpe Isalaele, bato na Ye, mpe ndenge nini Yawe abimisaki Isalaele na Ejipito.
+002	EXO	018	002	Jetro amemaki Sefora, mwasi ya Moyize, oyo ye Moyize azongisaki nanu epai ya baboti na ye,
+002	EXO	018	003	elongo na bana mibali mibale oyo Sefora abotelaki Moyize. Mwana ya liboso, kombo na ye ezalaki « Gerishomi, » pamba te Moyize amilobelaki: « Nakomaki mopaya kati na mokili ya mopaya; »
+002	EXO	018	004	mwana ya mibale, kombo na ye ezalaki « Eliezeri, » pamba te amilobelaki: « Nzambe ya tata na ngai asungaki ngai mpe akangolaki ngai wuta na mopanga ya Faraon. »
+002	EXO	018	005	Jetro, bokilo ya Moyize, elongo na bana mibali ya Moyize mpe mwasi ya Moyize bayaki epai ya Moyize, na esobe epai wapi batongaki molako pembeni ya ngomba ya Nzambe.
+002	EXO	018	006	Jetro atindelaki Moyize maloba oyo: — Ngai Jetro, bokilo na yo, nazali koya epai na yo elongo na mwasi na yo mpe bana na yo mibale ya mibali.
+002	EXO	018	007	Moyize abimaki mpo na kokutana na bokilo na ye; agumbamaki liboso na ye mpe apesaki ye beze. Batunanaki basango ya moko na moko mpe bakotaki na ndako ya kapo.
+002	EXO	018	008	Moyize ayebisaki bokilo na ye makambo nyonso oyo Yawe asalaki Faraon mpe bato ya Ejipito mpo na kokangola Isalaele, pasi nyonso oyo bakutanaki na yango na nzela mpe ndenge nini Yawe abikisaki bango.
+002	EXO	018	009	Jetro asepelaki koyoka makambo wana nyonso ya kitoko oyo Yawe asalelaki bana ya Isalaele tango akangolaki bango wuta na maboko ya bato ya Ejipito.
+002	EXO	018	010	Jetro alobaki: — Tika ete Yawe akumisama, Ye oyo akangolaki yo wuta na maboko ya bato ya Ejipito mpe ya Faraon, Ye oyo akangolaki bato wuta na bowumbu ya bato ya Ejipito.
+002	EXO	018	011	Nandimi sik’oyo ete Yawe azali monene koleka banzambe nyonso, pamba te asali makambo ya lolenge oyo epai ya banyokoli ya Isalaele.
+002	EXO	018	012	Bongo Jetro, bokilo ya Moyize, abonzelaki Nzambe mbeka ya kotumba mpe bambeka mosusu. Aron elongo na bakambi nyonso ya Isalaele bayaki mpo na kolia lipa elongo na bokilo ya Moyize, na miso ya Nzambe.
+002	EXO	018	013	Mokolo oyo elandaki, Moyize avandaki mpo na kosambisa bato. Bato batelemaki liboso ya Moyize, kobanda na tongo kino na pokwa.
+002	EXO	018	014	Tango bokilo na ye amonaki makambo nyonso oyo Moyize azalaki kosala mpo na bato, alobaki: — Mpo na nini ozali kosala bongo tango ozali kotala makambo ya bato? Mpo na nini ozali yo moko lokola mosambisi? Mpo na nini bato oyo nyonso batelemi pembeni na yo, kobanda na tongo kino na pokwa?
+002	EXO	018	015	Moyize azongiselaki ye: — Bayaka epai na ngai mpo na kotuna toli ya Nzambe.
+002	EXO	018	016	Soki bazali na kowelana, bayaka epai na ngai; mpe ngai nakataka makambo, sima nalakisaka bango mibeko mpe bikateli ya Nzambe.
+002	EXO	018	017	Bokilo ya Moyize alobaki na ye: — Lolenge na yo ya kosala ezali malamu te.
+002	EXO	018	018	Okolemba noki elongo na bato oyo bazali koya epai na yo. Mosala oyo eleki makasi mpo na yo; okolonga kosala yango yo moko te.
+002	EXO	018	019	Yoka sik’oyo toli oyo nalingi kopesa yo, mpe tika ete Nzambe azala na yo. Mosala na yo ezali: kozala molobeli ya bato liboso ya Nzambe, komema mikumba na bango epai ya Nzambe
+002	EXO	018	020	mpe kolakisa bango bikateli elongo na mibeko oyo ekotalisa bango nzela ya kolanda mpe makambo oyo basengeli kosala.
+002	EXO	018	021	Mpe lisusu, kati na bato, pona mibali ya mayele, oyo batosaka Nzambe, oyo bato bakoki kotiela motema mpo ete basalelaka bosembo mpe bazwaka kanyaka te. Okotia bango lokola bakambi ya bato: bakambi ya bankoto, ya bankama, ya batuku mitano mpe ya bazomi.
+002	EXO	018	022	Okopesa bango mosala ya kosambisa bato tango nyonso mpe ndingisa ya kokata bango moko makambo ya mike; kasi babanda komemela yo kaka makambo ya minene. Soki osali bongo, okozala lisusu na mokumba ya makasi te; pamba te okokabola yango elongo na bango.
+002	EXO	018	023	Soki osaleli toli oyo napesi yo mpe soki Nzambe akambi yo, okolonga, mpe bato oyo nyonso bakobanda kozonga na esengo epai na bango.
+002	EXO	018	024	Moyize ayokaki toli oyo bokilo na ye apesaki ye mpe asalelaki makambo nyonso oyo alobaki.
+002	EXO	018	025	Moyize aponaki bato ya mayele kati na bana ya Isalaele mpe akomisaki bango bakambi ya bato: bakambi ya bankoto, ya bankama, ya batuku mitano mpe ya bazomi.
+002	EXO	018	026	Bazalaki tango nyonso kati na bato mpo na kosambisa bato mpe kokata makambo; bazalaki kokata bango moko makambo ya mike, kasi bazalaki komema oyo ya minene epai ya Moyize.
+002	EXO	018	027	Moyize apesaki nzela ete bokilo na ye akende, mpe Jetro azongaki na mokili na ye.
+002	EXO	019	001	Sanza misato sima na bana ya Isalaele kobima na Ejipito, kaka na mokolo yango, bana ya Isalaele bakomaki na esobe ya Sinai.
+002	EXO	019	002	Tango balongwaki na Refidimi, bakotaki na esobe ya Sinai, mpe Isalaele atongaki kuna kati na esobe molako etalana na ngomba.
+002	EXO	019	003	Moyize amataki na ngomba mpo na kosolola na Nzambe; mpe wuta na likolo ya ngomba, Yawe abengaki ye mpe alobaki na ye: — Tala makambo oyo okoyebisa bakitani ya Jakobi mpe oyo okotalisa na bana ya Isalaele:
+002	EXO	019	004	« Bomonaki bino moko ndenge nini nasalaki bato ya Ejipito mpe ndenge nini namemaki bino lokola na mapapu ya mpongo kino epai na Ngai.
+002	EXO	019	005	Soki botosi Ngai penza mpe bobateli boyokani na Ngai, bokozala mpo na Ngai ekolo ya motuya kati na bikolo nyonso. Atako mokili mobimba ezali ya Ngai,
+002	EXO	019	006	kasi bino bokozala mpo na Ngai ekolo oyo ekosala mosala ya bonganga-Nzambe, ekolo ya bule. » Oyo nde maloba okoyebisa bana ya Isalaele.
+002	EXO	019	007	Moyize azongaki, abengisaki bakambi ya Isalaele mpe ayebisaki bango maloba nyonso oyo Yawe atindaki ye koloba.
+002	EXO	019	008	Bato nyonso bazongisaki lokola moto moko: — Tokosala nyonso oyo Yawe alobi. Bongo Moyize amemaki eyano na bango epai na Yawe.
+002	EXO	019	009	Yawe alobaki na Moyize: — Nazali koya epai na yo kati na lipata monene, mpo ete bana ya Isalaele bayoka tango nakosolola na yo mpe mpo ete batia tango nyonso elikya na bango epai na yo. Moyize ayebisaki Yawe makambo nyonso oyo bana ya Isalaele balobaki.
+002	EXO	019	010	Yawe alobaki na Moyize: — Kende epai ya bato, bulisa bango lelo mpe lobi, bongo yebisa bango ete basukola bilamba na bango;
+002	EXO	019	011	bamibongisa mpo na mokolo ya misato, pamba te na mokolo wana nde Ngai Yawe, nakokita na likolo ya ngomba Sinai, na miso ya bana nyonso ya Isalaele.
+002	EXO	019	012	Okotia bandelo zingazinga ya ngomba mpo na bato mpe okoyebisa bango: « Bosala keba ete bomata te na ngomba oyo mpe bopusana te pembeni na yango. Moto nyonso oyo akotuta yango akokufa penza.
+002	EXO	019	013	Soki moto moko abuki mobeko oyo, bakosimba ye te, kasi bakoboma ye na mabanga to bakotobola ye likonga; ezala moto to nyama, asengeli kokufa. Kaka soki lokito ya liseke ya meme eyokani makasi nde ndambo ya bato bakomata na ngomba. »
+002	EXO	019	014	Moyize alongwaki na ngomba, akendeki epai ya bana ya Isalaele, abulisaki bango, mpe basukolaki bilamba na bango.
+002	EXO	019	015	Moyize alobaki na bango: — Bomilengela mpo na mokolo ya misato, bosangisa nzoto te na basi na bino.
+002	EXO	019	016	Na tongo ya mokolo ya misato, bakake ebetaki, mikalikali ezalaki kongenga, mpe lipata monene ezipaki ngomba; bongo bato bayokaki bakelelo kobeta makasi. Bato nyonso kati na molako balengaki.
+002	EXO	019	017	Moyize abimisaki bato mpo ete bakende kokutana na Nzambe, na libanda ya molako. Mpe bato batelemaki na ebandeli ya ngomba.
+002	EXO	019	018	Milinga ezipaki ngomba Sinai mpo ete Yawe akitaki na likolo na yango na lolenge ya moto, bongo milinga yango ezalaki komata lokola milinga oyo ebimaka na fulu ya moto. Mpe ngomba nyonso eninganaki makasi.
+002	EXO	019	019	Mongongo ya kelelo ezalaki kaka komata se komata. Boye Moyize abandaki koloba na Nzambe, mpe Nzambe azalaki koyanola ye na lokito ya kake.
+002	EXO	019	020	Yawe akitaki na likolo ya ngomba Sinai mpe abengaki Moyize mpo ete amata na songe ya ngomba yango. Boye Moyize amataki.
+002	EXO	019	021	Yawe alobaki na Moyize: — Kita mpe kebisa bato ete baleka bandelo te mpo na koluka komona Ngai Yawe, noki te mingi kati na bango bakokufa.
+002	EXO	019	022	Ezala Banganga-Nzambe oyo basengeli kopusana pene na Ngai, basengeli komibulisa; noki te Ngai Yawe, nakoboma bango.
+002	EXO	019	023	Moyize alobaki na Yawe: — Bato ya Isalaele bakoki te komata na ngomba Sinai, pamba te Yo moko oyebisaki biso ete totia bandelo zingazinga ya ngomba mpe tomona yango lokola bule.
+002	EXO	019	024	Yawe azongiselaki ye: — Kita lisusu; bongo omata elongo na Aron. Kasi mpo na Banganga-Nzambe mpe bana ya Isalaele, tika ete bawelela komata te epai na Ngai Yawe, noki te nakoboma bango.
+002	EXO	019	025	Moyize akitaki, akendeki epai ya bana ya Isalaele mpe ayebisaki bango makambo oyo Yawe alobaki.
+002	EXO	020	001	Tala maloba oyo Nzambe alobaki:
+002	EXO	020	002	« Nazali Yawe, Nzambe na yo, oyo abimisaki yo wuta na mokili ya Ejipito epai wapi ozalaki na bowumbu.
+002	EXO	020	003	Okozalaka na banzambe mosusu te, bobele Ngai.
+002	EXO	020	004	Okomisalelaka te nzambe ya ekeko to bililingi ya biloko oyo ezali na likolo, na se to na mayi oyo ezali na se ya mabele.
+002	EXO	020	005	Okogumbamelaka yango te mpe okosalelaka yango te, pamba te Ngai Yawe, Nzambe na yo, nazali Nzambe ya zuwa; napesaka bana etumbu mpo na masumu ya batata kino na molongo ya misato mpe ya minei ya bato oyo bayinaka Ngai.
+002	EXO	020	006	Kasi natalisaka bolingo na Ngai kino na molongo ya nkoto epai ya bato oyo balingaka Ngai mpe babatelaka mibeko na Ngai.
+002	EXO	020	007	Okotangaka te na pamba Kombo ya Yawe, Nzambe na yo, pamba te Yawe akopesa etumbu na moto nyonso oyo akotanga Kombo na Ye na pamba.
+002	EXO	020	008	Kanisaka mokolo ya Saba mpe bulisaka yango.
+002	EXO	020	009	Okosalaka misala na yo nyonso mikolo motoba.
+002	EXO	020	010	Kasi mokolo ya sambo ezali mokolo ya Saba ya Yawe, Nzambe na yo. Na mokolo wana, okosalaka mosala ata moko te; ezala yo, mwana na yo ya mobali, mwana na yo ya mwasi, mowumbu na yo ya mobali, mwasi mowumbu na yo, bibwele na yo to mopaya oyo azali kati na bingumba na yo.
+002	EXO	020	011	Pamba te na mikolo motoba, Yawe asalaki Likolo, mabele, ebale monene mpe nyonso oyo ezali kati na yango, kasi akataki mosala na mokolo ya sambo. Yango wana, Yawe apambolaki mokolo ya Saba mpe abulisaki yango.
+002	EXO	020	012	Okopesaka tata na yo mpe mama na yo lokumu mpo ete ozala na bomoi ya molayi kati na mokili oyo Yawe, Nzambe na yo, azali kopesa yo.
+002	EXO	020	013	Okobomaka te.
+002	EXO	020	014	Okosalaka ekobo te.
+002	EXO	020	015	Okoyibaka te.
+002	EXO	020	016	Okolobaka te matatoli ya lokuta mpo na kokosela moninga na yo makambo.
+002	EXO	020	017	Okolulaka te ndako ya moninga na yo; okolulaka te mwasi ya moninga na yo, mowumbu na ye ya mobali to mwasi mowumbu na ye, ngombe na ye, ane na ye to eloko nyonso oyo ezali ya moninga na yo. »
+002	EXO	020	018	Tango bato bayokaki bakake mpe koganga ya kelelo, mpe bamonaki mikalikali mpe milinga kobima na ngomba, balengaki. Batelemaki mosika
+002	EXO	020	019	mpe balobaki na Moyize: — Tika ete yo moko oloba na biso, mpe tokoyoka yo; kasi Nzambe te, noki te tokokufa!
+002	EXO	020	020	Moyize azongiselaki bango: — Bobanga te! Nzambe ayei nde komeka bino mpo ete kobanga Nzambe ezala kati na bino mpe bosala masumu te.
+002	EXO	020	021	Bato bazalaki kaka mosika, wana Moyize apusanaki pembeni ya lipata oyo kati na yango Nzambe azalaki.
+002	EXO	020	022	Yawe alobaki na Moyize: — Yebisa makambo oyo epai ya bana ya Isalaele: « Bomonaki bino moko ndenge nini nalobelaki bino wuta na likolo.
+002	EXO	020	023	Bokomisalela te banzambe ya bikeko ya palata to ya wolo, mpo na kosangisa yango na Ngai.
+002	EXO	020	024	Okotongela Ngai etumbelo ya mabele epai wapi okobonza bambeka na yo ya kotumba, bambeka na yo ya boyokani, meme na yo, ntaba na yo, ngombe na yo. Esika nyonso oyo nakomimonisa mpo na lokumu ya Kombo na Ngai, nakoya epai na yo mpe nakopambola yo.
+002	EXO	020	025	Soki otongeli Ngai etumbelo ya mabanga, okotonga yango te na mabanga oyo bakata; pamba te soki okati yango, okobebisa bosantu na yango.
+002	EXO	020	026	Okomata te na etumbelo na Ngai na ematelo mpo ete bolumbu na yo emonana te. »
+002	EXO	021	001	Yawe alobaki na Moyize: — Tala mibeko oyo okoyebisa bana ya Isalaele:
+002	EXO	021	002	« Soki bosombi Mo-Ebre moko lokola mowumbu, akosalela bino mibu motoba; na mobu ya sambo, akozwa bonsomi mpe akofuta eloko moko te.
+002	EXO	021	003	Soki azalaki monzemba tango ayaki, asengeli kokende ye moko; kasi soki azalaki na mwasi tango ayaki, mwasi na ye asengeli kokende na ye elongo.
+002	EXO	021	004	Soki nkolo na ye apesaki ye mwasi mpe mwasi yango abotelaki ye bana mibali to bana basi, mwasi mpe bana bakozala ya nkolo na ye; mobali akokende ye moko.
+002	EXO	021	005	Kasi soki mowumbu alobi: ‹ Nalingaka nkolo na ngai, mwasi na ngai mpe bana na ngai, nalingi te kozwa bonsomi, ›
+002	EXO	021	006	wana nkolo na ye asengeli komema ye liboso ya basambisi; akomema ye na ezipelo ya ekuke to na mabaya oyo esimbaka ekuke mpe akotobola ye litoyi na motonga; mpe mowumbu akosalela nkolo yango mpo na libela.
+002	EXO	021	007	Soki moto ateki mwana na ye ya mwasi lokola mwasi mowumbu, mwana yango akozwa bonsomi te ndenge bawumbu bazwaka yango.
+002	EXO	021	008	Soki mwana mwasi asepelisi te nkolo oyo aponaki ye mpo ete azala mowumbu na ye, nkolo yango akotika ete mwana mwasi asikolama; azali na ndingisa te ya koteka ye epai ya bapaya. Kasi soki ateki ye, wana asambwisi ye.
+002	EXO	021	009	Soki aponaki mwana mwasi yango mpo ete azala mwasi ya mwana na ye ya mobali, asengeli kokokisa makambo oyo mibeko esengaka mpo na kobala mwasi.
+002	EXO	021	010	Soki abali mwasi mosusu, akolongola eloko te na oyo etali kolia, kolata mpe oyo basalelaka mwasi ya libala.
+002	EXO	021	011	Soki apimeli ye ata eloko moko kati na biloko oyo misato, wana mwasi oyo akoki kokende na bonsomi mpe akofuta eloko moko te.
+002	EXO	021	012	Moto oyo akobeta moninga na ye kino koboma ye, basengeli koboma ye.
+002	EXO	021	013	Nzokande, soki azalaki na likanisi ya koboma te, kasi Nzambe atiki ete yango esalema na nzela ya maboko na ye, moto wana akokima na esika oyo Ngai Yawe nakopona.
+002	EXO	021	014	Kasi soki moto akaneli moninga na ye mpe aluki koboma ye na mayele mabe, okomema ye mosika ya etumbelo na Ngai mpo na koboma ye.
+002	EXO	021	015	Moto oyo akobeta tata to mama na ye, asengeli kozwa etumbu ya kufa.
+002	EXO	021	016	Moto oyo akokanga moto mosusu na makasi mpo na kokima na ye, ezala soki ateki moto yango to bakangi ye na moto yango na maboko, asengeli kozwa etumbu ya kufa.
+002	EXO	021	017	Moto oyo akolakela tata to mama na ye mabe, asengeli kozwa etumbu ya kufa.
+002	EXO	021	018	Soki bato baswani, bongo moko abeti moninga likofi to libanga; mpe moto oyo babeti likofi to libanga akufi te kasi abeli makasi;
+002	EXO	021	019	soki moto oyo babeti atelemi mpe atamboli na nzete kino na libanda, bakokatela moto oyo abetaki ye etumbu te, kasi akofuta kaka mikolo oyo moto yango azalaki kosala te mpe akosalisa ye kino akobika.
+002	EXO	021	020	Soki moto abeti mowumbu na ye ya mobali to mwasi mowumbu na ye, bongo mowumbu yango akufi na mbala moko, moto wana asengeli kozwa etumbu.
+002	EXO	021	021	Kasi soki mowumbu yango awumeli lisusu na bomoi mokolo moko to mibale, wana nkolo na ye akozwa etumbu te, pamba te asombaki ye na mbongo.
+002	EXO	021	022	Soki mibali, wana bazali kobunda, batutani na mwasi ya zemi, bongo mwasi yango aboti mwana matsombe mpe likama mosusu emonani te, wana basengeli kofuta lomande ndenge mobali ya mwasi yango akokata kolanda mokano ya basambisi.
+002	EXO	021	023	Kasi soki likama ezali, okofuta bomoi mpo na bomoi:
+002	EXO	021	024	liso mpo na liso, linu mpo na linu, loboko mpo na loboko, lokolo mpo na lokolo,
+002	EXO	021	025	kozika mpo na kozika, pota mpo na pota, litutu mpo na litutu.
+002	EXO	021	026	Soki moto abeti mowumbu na ye ya mobali to mwasi mowumbu na ye na liso, mpe liso yango ekufi, moto yango akopesa bonsomi na mowumbu mpo na liso na ye.
+002	EXO	021	027	Soki abuki linu ya mowumbu na ye ya mobali to ya mwasi mowumbu na ye, akopesa ye bonsomi mpo na linu na ye.
+002	EXO	021	028	Soki ngombe ebomi moto na maseke, basengeli koboma ngombe yango na mabanga, mpe bakolia mosuni na yango te; nzokande nkolo na yango akozwa etumbu te.
+002	EXO	021	029	Soki ngombe ezali na momesano ya kobeta bato maseke, bongo bakebisi makasi nkolo na yango, kasi ye abateli kaka ngombe na ye malamu te mpe yango ebomi moto; basengeli koboma ngombe yango na mabanga mpe nkolo na yango asengeli kozwa etumbu ya kufa.
+002	EXO	021	030	Kasi soki basengi ye lomande mpo na kosikola bomoi na ye, akofuta nyonso oyo bakosenga ye.
+002	EXO	021	031	Bakosalela mpe mobeko oyo soki ngombe ebeti mwana mobali to mwana mwasi maseke.
+002	EXO	021	032	Soki ngombe ebeti mowumbu ya mobali to mwasi mowumbu maseke, nkolo na yango asengeli kofuta mbongo ya bibende, tuku misato, epai ya nkolo ya mowumbu, mpe bakobamba ngombe yango mabanga.
+002	EXO	021	033	Soki moto atiki libulu polele to atimoli libulu mpe azipi yango te, bongo ngombe to ane ezindi kuna;
+002	EXO	021	034	nkolo libulu asengeli kofuta epai ya nkolo nyama mbongo oyo ekokani na motuya ya nyama oyo esili kokufa, mpe nyama yango ekokoma ya ye.
+002	EXO	021	035	Soki ngombe ya moto moko ebomi ngombe ya moto mosusu, esengeli koteka ngombe oyo ezali na bomoi mpe kokabola na kati-kati mbongo mpe ngombe oyo esili kokufa.
+002	EXO	021	036	Kasi soki eyebani ete ngombe yango emesana kobeta bato maseke, bongo nkolo na yango abateli yango malamu te; wana asengeli kofuta ngombe mpo na ngombe, mpe ngombe ya kokufa ekokoma ya ye.
+002	EXO	022	001	Soki moto ayibi ngombe moko to meme moko, bongo abomi yango to ateki yango; asengeli kofuta bangombe mitano mpo na ngombe moko oyo ayibaki to bameme minei mpo na meme moko oyo ayibaki.
+002	EXO	022	002	Soki bakangi moto azali koyiba, bongo babeti ye mpe akufi; mobomi akozwa etumbu te mpo na makila oyo esopani.
+002	EXO	022	003	Kasi soki makambo yango esalemi na moyi, moto oyo akoboma ye akozwa etumbu mpo na makila oyo esopani. Moyibi nyonso asengeli kozongisa biloko oyo ayibi. Soki azali na eloko te, bakoteka ye mpo na kofuta eloko oyo ayibaki.
+002	EXO	022	004	Soki ayibaki nyama, ezala ngombe, ane to meme, bongo bakuti nyama yango ya bomoi na maboko na ye, akofuta banyama mibale.
+002	EXO	022	005	Soki moto azali koleisa bibwele na ye matiti na elanga na ye to na elanga na ye ya vino, bongo atiki bibwele yango koyengayenga mpe ekeyi kolia matiti na elanga to na elanga ya vino ya moto mosusu, nkolo bibwele asengeli kofuta mbuma oyo eleki kitoko kati na elanga na ye to kati na elanga na ye ya vino.
+002	EXO	022	006	Soki moto apelisi moto, bongo moto yango ekutani na banzete ya sende, epanzani mpe ezikisi ble oyo basili kotia na maboke to ble oyo babuki nanu te, moto oyo apelisaki moto asengeli kofuta biloko nyonso oyo eziki.
+002	EXO	022	007	Soki moto abombisi palata to biloko na ye ya motuya epai ya moninga na ye, bongo bayibi yango kati na ndako ya moninga wana; soki bakangi moyibi ya biloko yango, akozongisa mbala mibale biloko oyo ayibaki.
+002	EXO	022	008	Kasi soki moyibi amonani te, nkolo ndako asengeli kosamba liboso ya basambisi mpo na koyeba soki ayibaki biloko ya moninga na ye to te.
+002	EXO	022	009	Na likambo nyonso ya moyibi, soki bato mibale bazali kowela ngombe, ane, meme, elamba to eloko nyonso oyo ebungaki, bongo moto na moto azali koloba: ‹ Ezali ya ngai! › bango mibale bakomema likambo na bango liboso ya basambisi; bongo moto oyo basambisi bakokweyisa akozongisa yango mbala mibale epai ya moninga na ye.
+002	EXO	022	010	Soki moto apesi moninga na ye ngombe to ane to meme to nyama mosusu mpo ete abokola, bongo nyama yango ekufi to ebukani to bayibi yango mpe ata moto moko te amoni mpo na kotatola ndenge nini likambo yango esalemaki,
+002	EXO	022	011	kaka ndayi oyo balapi na Kombo na Yawe nde ekokabola bango: Moto oyo andimaki kobokola akolapa ndayi liboso ya Yawe mpo na kotalisa ete ayebi likambo te. Bongo nkolo nyama asengeli kondima maloba ya moninga na ye mpe ye akofuta nyama yango te.
+002	EXO	022	012	Kasi soki bayibi nyama yango na maboko ya moto oyo andimaki kobokola yango, akofuta nyama yango epai ya nkolo na yango.
+002	EXO	022	013	Soki ezali nyama ya zamba nde ebomaki nyama yango, moto oyo andimaki kobokola yango akomema lokola litatoli biteni oyo etikali; bongo akofuta nyama yango te.
+002	EXO	022	014	Soki moto adefi nyama epai ya moninga na ye, bongo ebukani lokolo to ekufi na tango oyo nkolo na yango azali te, moto wana asengeli kofuta yango.
+002	EXO	022	015	Nzokande soki nkolo na yango azalaki wana, moto oyo adefaki akofuta nyama yango te. Soki bayokanaki ete akofuta mbongo sima na kosalela yango, asengeli kofuta mbongo oyo bayokanaki.
+002	EXO	022	016	Soki mobali alingi elenge mwasi oyo ayebi nanu nzoto ya mibali te mpe azali na mobandami na libala te, bongo asangisi na ye nzoto, asengeli kofuta mbongo ya libala mpo ete akoma mwasi na ye.
+002	EXO	022	017	Soki tata ya elenge mwasi aboyi kopesa mwana na ye na libala epai ya mobali wana, mobali yango akofuta mbongo ya libala na motuya oyo babalelaka elenge mwasi oyo ayebi nanu nzoto ya mibali te.
+002	EXO	022	018	Okotika te na bomoi mwasi oyo asalaka maji.
+002	EXO	022	019	Moto nyonso oyo akosangisa nzoto na nyama, asengeli kozwa etumbu ya kufa.
+002	EXO	022	020	Moto nyonso oyo akotumba mbeka mpo na nzambe mosusu, basengeli koboma ye; mbeka ekotumbama kaka mpo na Yawe Ye moko.
+002	EXO	022	021	Okosalisa mopaya mosala na ndenge ya mabe te mpe okonyokola ye te, pamba te bino mpe bozalaki bapaya na Ejipito.
+002	EXO	022	022	Bokonyokola te mwasi oyo akufisa mobali to mwana etike.
+002	EXO	022	023	Soki bonyokoli bango, bongo bango bagangi epai na Ngai, solo nakoyoka koganga na bango.
+002	EXO	022	024	Nakosilikela bino, nakoboma bino na mopanga; bongo basi na bino mpe bakokoma basi bakufisa mibali mpe bana na bino, bana bitike.
+002	EXO	022	025	Soki odefisi mbongo na moko kati na bato na Ngai, na mobola oyo azali kati na bino, okosala te ndenge modefisi mbongo asalaka; okosenga ye mileki te.
+002	EXO	022	026	Soki moninga na yo asimbisi yo kazaka na ye lokola ndanga, okozongisela ye yango liboso ete butu eya;
+002	EXO	022	027	pamba te azali kaka na kazaka wana mpo na kofinika nzoto na ye. Akofinika lisusu nini tango akolala? Soki agangi epai na Ngai, nakoyoka ye mpo ete nazali Nzambe ya mawa.
+002	EXO	022	028	Okofingaka Nzambe te mpe okolakelaka mokambi ya bato na yo mabe te.
+002	EXO	022	029	Okowumisa te kopesa Ngai mbuma ya liboso oyo ekomela mpe vino oyo okamoli. Okopesa Ngai mwana na yo ya liboso ya mobali.
+002	EXO	022	030	Okosala mpe lolenge moko mpo na bana liboso ya bangombe, bameme mpe bantaba na yo: ekotikala mikolo sambo elongo na bamama na yango; bongo na mokolo ya mwambe, okopesa Ngai yango.
+002	EXO	022	031	Bokozala bule mpo na Ngai: bokolia te mosuni ya nyama oyo babomi na nyama ya zamba; bosengeli kopesa yango na bambwa.
+002	EXO	023	001	Okopanza sango ya lokuta te; okosangana te na moto mabe mpo na koloba litatoli ya lokuta.
+002	EXO	023	002	Okolanda ebele ya bato te mpo na kosala mabe. Tango okoloba litatoli liboso ya basambisi, okotatola te kolanda mokano ya bato ebele mpo na kokweyisa bosembo.
+002	EXO	023	003	Okokotela mobola te na tango azali kosamba liboso ya basambisi.
+002	EXO	023	004	Soki okutani na ngombe to ane ya monguna na yo, oyo ebungi, osengeli kozongisela ye yango.
+002	EXO	023	005	Soki omoni ane ya moto oyo ayinaka yo ekweyi na se ya mokumba oyo yango ememi, okotika yango wana te; osengeli kosalisa yango.
+002	EXO	023	006	Okokweyisa bosembo ya mobola te tango azali kosamba liboso ya basambisi.
+002	EXO	023	007	Okozala mosika ya makambo ya lokuta. Okoboma te ezala moto oyo ayebi likambo te to moto ya sembo; pamba te nalongisaka te moto mabe.
+002	EXO	023	008	Okondimaka kanyaka te, pamba te kanyaka ezipaka miso ya bato oyo bamonaka malamu mpe ebebisaka maloba ya moto ya sembo.
+002	EXO	023	009	Okonyokola mopaya te, pamba te oyebi yo moko ndenge ezalaka soki ozali mopaya; bino mpe bozalaki bapaya na Ejipito.
+002	EXO	023	010	Mibu motoba, okolona bilanga na yo mpe okobuka mbuma.
+002	EXO	023	011	Kasi na mobu ya sambo, okopemisa mabele. Boye babola kati na bato na yo bakozwa bilei ya kolia kati na yango mpe nyama ya zamba ekolia bilei oyo bato bakotika. Okosala ndenge moko mpo na elanga na yo ya vino mpe mpo na nzete na yo ya olive.
+002	EXO	023	012	Mikolo motoba, okosala mosala na yo; kasi na mokolo ya sambo, okosala mosala moko te mpo ete ngombe na yo elongo na ane na yo ekoka kopema, mpe mpo ete mwana mobali ya mwasi mowumbu na yo mpe mopaya bazwa lisusu makasi.
+002	EXO	023	013	Bokosala keba na makambo nyonso oyo nayebisi bino. Bokobelela kombo ya banzambe mosusu te; bokomeka kutu te kotanga yango na bibebu na bino.
+002	EXO	023	014	Mbala misato na mobu, bokosala bafeti misato mpo na Ngai.
+002	EXO	023	015	Bokosala feti ya Mapa ezanga levire. Na mikolo sambo kolanda ndenge napesaki bino mitindo, bokolia mapa ezanga levire na tango oyo ekatama, na sanza ya Abibi, mpo ete ezali na sanza yango nde bobimaki na Ejipito.
+002	EXO	023	016	Okosala feti ya kobuka bambuma, okosala mpe feti ya bambuma ya liboso ya bilanga na yo, oyo olonaki. Na suka ya mobu, okosala feti ya kobuka bambuma tango okobuka mbuma ya elanga.
+002	EXO	023	017	Mbala misato na mobu, bato nyonso bakoya liboso ya Nkolo Yawe.
+002	EXO	023	018	Okobonzela Ngai te mbeka ya makila elongo na mapa batia levire. Mafuta ya nyama ya feti na Ngai ekoki kobombama te kino na tongo.
+002	EXO	023	019	Okomema na Ndako ya Yawe, Nzambe na yo, bambuma ya liboso ya mabele na yo. Okolamba te mwana ntaba oyo ezali nanu komela mabele ya mama na yango.
+002	EXO	023	020	Nakotinda anjelu liboso na bino mpo ete abatela bino na nzela mpe amema bino na esika oyo nabongisaki mpo na bino.
+002	EXO	023	021	Bosala keba na miso na ye mpe boyoka makambo oyo akoloba; botombokela ye te mpo ete akolimbisa botomboki na bino te, pamba te Kombo na Ngai ezali kati na ye.
+002	EXO	023	022	Kasi soki boyoki na bokebi makambo oyo akoyebisa bino mpe soki bosaleli nyonso oyo nalobi, nakozala monguna ya banguna na bino mpe nakotelemela bato oyo bakotelemela bino.
+002	EXO	023	023	Anjelu na Ngai akotambola liboso na bino mpe akokotisa bino na mokili ya bato ya Amori, ya bato ya Iti, ya bato ya Perizi, ya bato ya Kanana, ya bato ya Evi mpe ya bato ya Yebusi; bongo Ngai nakosilisa bango.
+002	EXO	023	024	Bokogumbamela banzambe na bango te mpe bokosalela yango te to bokolanda te lolenge na bango ya kosalela. Bokokweyisa banzambe yango mpe bokobuka-buka bikeko na bango na biteni.
+002	EXO	023	025	Soki bokosalela Yawe, Nzambe na bino, akopambola mapa mpe mayi na bino, mpe akolongola bokono kati na bino.
+002	EXO	023	026	Na mboka na bino, ekozala na mwasi moko te oyo akosopa zemi to akozanga kobota. Nakobakisela bino mikolo ebele na bomoi na bino.
+002	EXO	023	027	Nakotinda somo na Ngai liboso na bino mpe nakokotisa mobulu kati na bikolo nyonso oyo bokokota. Banguna na bino nyonso bakopesa bino mokongo mpe bakokima.
+002	EXO	023	028	Nakotinda banzoyi ya minene liboso na bino mpo na kobengana bato ya Evi, ya Kanana mpe ya Iti na liboso na bino.
+002	EXO	023	029	Kasi nakobengana bango te na mbala moko mpo ete mboka ekoma te lokola ndako ezanga bato, mpe mpo ete banyama ya zamba ekoma mingi te mpo na kotungisa bino.
+002	EXO	023	030	Nakobengana bango moke-moke liboso na bino kino bokokoma ebele mpo na kozwa mboka.
+002	EXO	023	031	Nakotia bandelo na bino kobanda na ebale monene ya barozo kino na ebale monene ya bato ya Filisitia mpe kobanda na esobe ya Sinai kino na ebale Efrate; pamba te nakopesa bato ya mboka na maboko na bino, bongo bino bokobengana bango liboso na bino.
+002	EXO	023	032	Bokosala boyokani te elongo na bango mpe elongo na banzambe na bango.
+002	EXO	023	033	Botika bango te ete bawumela na mokili na bino, noki te bakotinda bino kosala masumu liboso na Ngai mpe kosalela banzambe na bango; pamba te ekozala solo motambo mpo na bino. »
+002	EXO	024	001	Yawe alobaki na Moyize: — Mata epai na Yawe, yo elongo na Aron, Nadabi, Abiyu mpe bakambi tuku sambo ya Isalaele; bokogumbama na mosika.
+002	EXO	024	002	Moyize kaka nde asengeli kopusana pene ya Yawe; kasi bato mosusu te. Lisanga mobimba ya Isalaele mpe ekomata te elongo na ye.
+002	EXO	024	003	Tango Moyize akendeki koyebisa bato makambo mpe mibeko nyonso ya Yawe, bato bazongisaki elongo: — Tokosala makambo nyonso oyo Yawe alobi.
+002	EXO	024	004	Moyize akomaki maloba nyonso oyo Yawe ayebisaki ye. Mokolo oyo elandaki, alamukaki na tongo makasi mpe atongaki etumbelo na ebandeli ya ngomba. Bongo, atelemisaki mabanga zomi na mibale oyo ezali kotalisa mabota zomi na mibale ya Isalaele.
+002	EXO	024	005	Atindaki bilenge mibali ya Isalaele ete babonzela Yawe mbeka ya kotumba ya bangombe ya mibali lokola mbeka ya boyokani.
+002	EXO	024	006	Moyize azwaki ndambo ya makila, atiaki yango na sani; bongo ndambo mosusu, abwakaki-bwakaki yango na likolo ya etumbelo.
+002	EXO	024	007	Azwaki lisusu buku ya Boyokani mpe atangaki yango liboso ya bana ya Isalaele. Boye bango bazongisaki: — Tokosala makambo nyonso oyo Yawe alobi mpe tokotosa yango.
+002	EXO	024	008	Moyize azwaki makila, abwakelaki-bwakelaki yango bato mpe alobaki: — Oyo ezali makila ya boyokani oyo Yawe asali elongo na bino kolanda maloba oyo nyonso.
+002	EXO	024	009	Sima na yango, Moyize elongo na Aron, Nadabi, Abiyu mpe bakambi tuku sambo ya Isalaele, bamataki likolo ya ngomba
+002	EXO	024	010	epai wapi bamonaki Nzambe ya Isalaele; se ya matambe na Ye ezalaki lokola mabanga ya talo ya safiri mpe ezalaki na langi ya ble ya kitoko lokola ble ya likolo.
+002	EXO	024	011	Kasi Nzambe asembolaki loboko na Ye te mpo na kobeta bakambi ya Isalaele; bamonaki Nzambe, baliaki mpe bamelaki.
+002	EXO	024	012	Yawe alobaki na Moyize: « Yaka pene na Ngai na likolo ya ngomba mpe telema wana. Ngai nakopesa yo bitando ya mabanga ya papala oyo na likolo na yango nakomi Mobeko mpe mitindo mpo na kopesa bana ya Isalaele malako. »
+002	EXO	024	013	Boye Moyize atelemaki elongo na mosungi na ye Jozue mpe amataki na ngomba ya Nzambe.
+002	EXO	024	014	Moyize alobaki na bakambi: « Bozela biso awa kino tokozonga. Aron mpe Wuri bazali elongo na bino. Tika ete soki moto azali na likambo, ayebisa bango yango. »
+002	EXO	024	015	Tango Moyize amataki likolo ya ngomba, mapata ezipaki ye
+002	EXO	024	016	mpe nkembo ya Yawe ewumelaki na likolo ya ngomba Sinai. Mikolo motoba, mapata ezipaki ngomba. Bongo na mokolo ya sambo, Yawe abengaki Moyize kati na mapata.
+002	EXO	024	017	Na miso ya bana ya Isalaele, Nkembo ya Yawe emonanaki na likolo ya ngomba lokola moto oyo etumbaka.
+002	EXO	024	018	Tango Moyize amataki likolo ya ngomba, akotaki kati na mapata. Awumelaki kuna mikolo tuku minei mpe babutu tuku minei.
+002	EXO	025	001	Yawe alobaki na Moyize:
+002	EXO	025	002	— Yebisa bana ya Isalaele ete bamemela Ngai makabo. Okozwa yango na maboko ya moto nyonso oyo akopesa na motema malamu.
+002	EXO	025	003	Tala makabo oyo okozwa na maboko na bango: wolo, palata mpe bronze,
+002	EXO	025	004	bilamba ya langi ya ble, ya motane, ya motane makasi, lino ya kitoko, bapwale ya ntaba,
+002	EXO	025	005	baposo ya bameme batia langi ya motane mpe baposo ya banyama ya ebale, banzete ya akasia,
+002	EXO	025	006	mafuta ya olive mpo na kopelisela mwinda, biloko ya mike-mike ya solo kitoko mpo na kosala mafuta ya epakolami mpe malasi ya solo kitoko;
+002	EXO	025	007	mabanga ya onikisi mpe mabanga mosusu ya talo mpo na kotia yango na efode mpe na elamba ya tolo oyo Nganga-Nzambe akobanda kolata.
+002	EXO	025	008	Bakosalela Ngai Ndako ya bule, mpe nakovanda kati na bango.
+002	EXO	025	009	Bokosala yango kolanda lolenge ya Mongombo mpe bisalelo oyo nakolakisa yo.
+002	EXO	025	010	Bokosala sanduku na nzete ya akasia. Molayi na yango ekozala na basantimetele pene nkama moko na tuku mibale na mitano; mokuse na yango, basantimetele tuku sambo na mitano mpe bosanda na yango, basantimetele tuku sambo na mitano.
+002	EXO	025	011	Okobamba yango wolo ya peto, na kati mpe na libanda. Okolatisa mpe songe na yango na wolo.
+002	EXO	025	012	Okosalela yango bapete minei ya wolo mpe okotia yango na basonge minei: mibale na ngambo moko, mpe mibale na ngambo mosusu.
+002	EXO	025	013	Okosala mabaya mibale na nzete ya akasia mpe okobamba yango wolo.
+002	EXO	025	014	Okokotisa mabaya yango na bapete oyo ezali na songe ya sanduku, mpo na komemela yango.
+002	EXO	025	015	Mabaya yango ekotikala libela kati na bapete ya sanduku: bakolongola yango te.
+002	EXO	025	016	Okotia kati na sanduku bitando ya mabanga ya mibeko, oyo nakopesa yo.
+002	EXO	025	017	Okosala mofinuku na wolo ya peto. Molayi na yango ekozala na basantimetele pene nkama moko na tuku mibale na mitano; mpe mokuse na yango, basantimetele pene tuku sambo na mitano.
+002	EXO	025	018	Okosala bikeko mibale ya basheribe oyo okotia na suka mibale ya mofinuku; okosala yango na wolo oyo batuti na nzela ya marto.
+002	EXO	025	019	Okotia ekeko moko ya sheribe na suka moko, mpe mosusu, na suka mosusu. Okokangisa bikeko ya basheribe na mofinuku, na suka nyonso mibale.
+002	EXO	025	020	Mapapu ya basheribe ekozala ya kofungwama na likolo mpo na kobatela mofinuku; bakozala ngambo na ngambo, mpe miso na bango ekotala mofinuku.
+002	EXO	025	021	Okotia kati na sanduku, bitando ya mabanga ya mibeko oyo nakopesa yo mpe okotia mofinuku na likolo ya sanduku.
+002	EXO	025	022	Ezali wana, na likolo ya mofinuku nde Ngai nakomimonisa epai na yo, na kati-kati ya basheribe mibale oyo bakozala na likolo ya Sanduku ya Litatoli; mpe nakopesa yo mitindo na Ngai nyonso mpo na bana ya Isalaele.
+002	EXO	025	023	Okosala mesa moko na mabaya ya akasia. Molayi na yango ekozala na basantimetele pene nkama moko; mokuse na yango, basantimetele pene tuku mitano mpe bosanda na yango, basantimetele pene tuku sambo na mitano.
+002	EXO	025	024	Okobamba yango wolo ya peto mpe okotia lisusu wolo na pembeni na yango.
+002	EXO	025	025	Okozingela mesa yango na libaya oyo ekozala na basantimetele pene mwambe na monene, mpe okotia wolo na pembeni ya libaya yango.
+002	EXO	025	026	Okosala bapete minei ya wolo mpe okotia yango na songe minei ya mesa epai wapi makolo na yango ezali.
+002	EXO	025	027	Bapete ekozala pene ya libaya oyo ekozingela mesa, mpe bakokotisa kati na bapete yango mabaya ya komemela sanduku.
+002	EXO	025	028	Okosala na nzete ya akasia mabaya ya komemela mesa mpe okobamba yango wolo.
+002	EXO	025	029	Okosala na wolo ya peto basani, bakopo, bambilika mpe bambeki, mpo na makabo ya masanga.
+002	EXO	025	030	Okotia tango nyonso mapa na likolo ya mesa liboso na Ngai.
+002	EXO	025	031	Okosala na wolo ya peto etelemiselo ya minda; okosala yango na wolo oyo batuti na nzela ya marto. Evandelo na yango, likonzi na yango, bakeni na yango, bambuma mpe bafololo na yango, nyonso ekozala ekangana lokola eloko moko.
+002	EXO	025	032	Mipanzi ya likonzi ya etelemiselo ya minda esengeli kozala na bitape motoba: misato na ngambo moko, mpe misato na ngambo mosusu.
+002	EXO	025	033	Na likolo ya etape moko na moko ya etelemiselo ya minda, okotia bakeni misato oyo ezali na lolenge ya fololo ya madame, elongo na bambuma mpe bafololo.
+002	EXO	025	034	Na moto ya likonzi ya etelemiselo ya minda, esengeli kozala na bakeni minei oyo ezali na lolenge ya bafololo ya madame, elongo na bambuma mpe bafololo.
+002	EXO	025	035	Na se ya bitape mibale-mibale ya etelemiselo ya minda, ekozala na mbuma moko; mpe ekozala bongo mpo na bitape nyonso motoba ya etelemiselo ya minda.
+002	EXO	025	036	Bambuma mpe bitape ekozala ekangana na etelemiselo ya minda; mpe nyonso ekosalema na wolo ya peto, wolo oyo batuti na nzela ya marto.
+002	EXO	025	037	Okosala minda sambo oyo okotia na likolo ya etelemiselo ya minda mpo ete epesa pole na etando oyo ezali na liboso ya etelemiselo.
+002	EXO	025	038	Okosala na wolo ya peto bibende oyo bazwelaka makala ya moto mpe basani ya putulu.
+002	EXO	025	039	Okosalela bakilo tuku misato na minei ya wolo ya peto mpo na kosala etelemiselo ya minda mpe bisalelo na yango nyonso.
+002	EXO	025	040	Tala malamu mpe sala mosala nyonso kolanda ndakisa oyo natalisi yo na likolo ya ngomba.
+002	EXO	026	001	Okotonga Mongombo elongo na batapi zomi ya lino ya kitoko oyo bakotonga bililingi na likolo na yango, ya langi ya ble, ya motane ya pete mpe ya motane makasi, elongo na basheribe; ekozala mosala ya bato oyo basalaka bililingi na maboko.
+002	EXO	026	002	Tapi moko na moko ekozala na bametele pene zomi na minei na molayi; mpe bametele pene mibale, na mokuse. Batapi nyonso ekozala ndenge moko na mokuse mpe na molayi.
+002	EXO	026	003	Okokangisa batapi mitano, moko na mosusu, mpe okosala ndenge moko mpo na batapi mitano mosusu.
+002	EXO	026	004	Okotia basinga ya langi ya ble na pembeni ya tapi ya suka ya lisanga ya batapi mitano ya liboso, mpe na pembeni ya tapi ya suka ya lisanga ya batapi mitano ya mibale.
+002	EXO	026	005	Okotia basinga tuku mitano na suka ya lisanga ya batapi mitano ya liboso, mpe na suka ya lisanga ya batapi mitano ya mibale; basinga yango ekotalana.
+002	EXO	026	006	Okosala na wolo bibende tuku mitano oyo ezali lokola ndobo; mpe okokangisa na bibende oyo ezali lokola ndobo lisanga ya batapi mitano ya liboso mpe lisanga ya batapi mitano ya mibale. Na boye, Mongombo ekobima eloko moko.
+002	EXO	026	007	Okosala batapi zomi na moko na bapwale ya ntaba mpo na kotia yango na likolo ya Mongombo.
+002	EXO	026	008	Molayi ya tapi moko na moko ekozala na bametele pene zomi na mitano, mpe mokuse na yango ekozala na bametele pene mibale. Batapi nyonso zomi na moko ekozala ndenge moko na mokuse mpe na molayi.
+002	EXO	026	009	Okokangisa batapi mitano na ngambo moko, mpe batapi motoba na ngambo mosusu; mpe okogumba tapi ya motoba na liboso ya Mongombo.
+002	EXO	026	010	Okotia basinga tuku mitano na suka ya liboke ya batapi ya liboso, mpe basinga tuku mitano na suka ya liboke ya batapi ya mibale.
+002	EXO	026	011	Okosala na bronze bibende tuku mitano oyo ezali lokola ndobo; okokotisa yango na basinga mpo na kokangisa Mongombo mpo ete ekoma eloko moko.
+002	EXO	026	012	Batapi oyo ekozala na likolo ya Mongombo ekoleka molayi mpe ndambo na yango ekokita na sima ya Mongombo.
+002	EXO	026	013	Mpe na molayi ya batapi oyo ezali na likolo ya Mongombo, basantimetele pene tuku mitano ekolekana na bangambo mibale ya Mongombo mpo na kozipa yango.
+002	EXO	026	014	Okosalela baposo ya bameme oyo bapakola langi ya motane mpo na kozipa Mongombo, mpe okobakisa na likolo na yango baposo ya banyama ya ebale.
+002	EXO	026	015	Okosala bizingelo ya Mongombo na banzete ya akasia mpe okotelemisa yango.
+002	EXO	026	016	Ezingelo moko na moko ekozala na bametele mitano na molayi, mpe basantimetele tuku sambo na mitano na mokuse.
+002	EXO	026	017	Okobeta banzete mibale-mibale na ezingelo; okosala bongo mpo na bizingelo nyonso ya Mongombo.
+002	EXO	026	018	Okotia bizingelo tuku mibale na ngambo ya Negevi, na sude;
+002	EXO	026	019	mpe makolo tuku minei ya palata na se ya bizingelo tuku mibale: makolo mibale na se ya ezingelo moko na moko oyo babeta banzete mibale;
+002	EXO	026	020	bizingelo tuku mibale na ngambo mosusu ya Mongombo, na nor,
+002	EXO	026	021	elongo na makolo na yango tuku minei ya palata: makolo mibale mpo na ezingelo moko na moko;
+002	EXO	026	022	bizingelo motoba na suka ya Mongombo, na ngambo ya weste,
+002	EXO	026	023	mpe bizingelo mibale na suka mpo na kolendisa Mongombo.
+002	EXO	026	024	Bizingelo yango ekozala ya kofungwama na se, kasi ekosala songe na likolo mpe ekokota na lopete ya liboso: nyonso mibale ekozala ndenge moko mpe ekolendisa Mongombo.
+002	EXO	026	025	Boye, bizingelo ekozala mwambe elongo na makolo na yango zomi na motoba ya palata: makolo mibale-mibale na se ya ezingelo moko na moko.
+002	EXO	026	026	Sima, okosala, na nzete ya akasia, mabaya mitano mpo na bizingelo ya ngambo moko ya Mongombo,
+002	EXO	026	027	mabaya mitano mpo na bizingelo ya ngambo mosusu ya Mongombo, mabaya mitano mpo na bizingelo oyo ekozala na suka ya Mongombo, na ngambo ya weste.
+002	EXO	026	028	Libaya ya kati ekoleka na kati-kati ya bizingelo, ekoleka ngambo na ngambo.
+002	EXO	026	029	Okobamba wolo na bizingelo, okosala bapete na yango na wolo mpo na kolekisa mabaya; mpe okobamba mabaya wolo.
+002	EXO	026	030	Okotonga Mongombo ndenge kaka balakisaki yo yango na likolo ya ngomba.
+002	EXO	026	031	Okosala rido ya langi ya ble, ya motane ya pete, ya motane makasi, mpe na lino ya kitoko oyo bakotonga bililingi na likolo na yango, elongo na basheribe; ekozala mosala ya bato oyo basalaka bililingi na maboko.
+002	EXO	026	032	Okotia yango na makonzi minei ya nzete ya akasia, oyo bapakola wolo; okokangisa yango na bibende ya wolo oyo ezali lokola ndobo mpe okotelemisa yango na makolo minei ya palata.
+002	EXO	026	033	Okokangisa rido na bibende oyo ezali lokola ndobo mpe okotia Sanduku ya Litatoli na sima ya rido yango. Rido nde ekokabola Esika ya bule mpe Esika-Oyo-Eleki-Bule.
+002	EXO	026	034	Kati na Esika-Oyo-Eleki-Bule, okotia mofinuku na likolo ya Sanduku ya Litatoli.
+002	EXO	026	035	Okotia mesa na liboso ya rido, na ngambo ya nor ya Mongombo, mpe okotia etelemiselo ya minda na liboso ya mesa, na ngambo ya sude.
+002	EXO	026	036	Mpo na ekotelo ya Ndako ya kapo, okosala rido ya langi ya ble, ya motane ya pete, ya motane makasi mpe na lino ya kitoko oyo bakotonga bililingi na likolo na yango; ekozala mosala ya bato oyo batongaka bililingi na bilamba.
+002	EXO	026	037	Okosala na wolo, bibende mitano oyo ezali lokola ndobo mpo na kokangisela rido mpe banzete mitano ya akasia babamba wolo; okosala makolo mitano ya bronze mpo na kotelemisela banzete yango.
+002	EXO	027	001	Okosala na mabaya ya nzete ya akasia etumbelo: ekozala ndenge moko na molayi mpe na mokuse, bametele mibale na basantimetele tuku mitano; bongo bosanda na yango ekozala ya metele moko na basantimetele tuku mitano.
+002	EXO	027	002	Okosala maseke minei na basonge nyonso minei ya etumbelo, mpo ete maseke mpe etumbelo esala eloko moko; mpe okobamba bronze na etumbelo.
+002	EXO	027	003	Okosala na bronze banzungu ya mike mpo na kolongola putulu ya moto, bapawu, basani ya minene, bakanya mpe basani mpo na komema makala ya moto.
+002	EXO	027	004	Okosala motalaka ya bronze mpo na etumbelo; okokangisa bapete minei ya bronze, na basonge nyonso minei ya motalaka.
+002	EXO	027	005	Okotia motalaka na se ya etumbelo, na bandelo na yango, mpo ete ekoma na kati-kati ya etumbelo.
+002	EXO	027	006	Okosala na nzete ya akasia, mabaya mpo na etumbelo mpe okobamba yango bronze.
+002	EXO	027	007	Boye, mpo na komema etumbelo, bakokotisa mabaya yango na bapete oyo ezali na basonge mibale ya etumbelo.
+002	EXO	027	008	Okosala etumbelo na mabaya; ekozala polele kati na yango. Okosala yango ndenge kaka balakisaki yo na ngomba.
+002	EXO	027	009	Tala ndenge okotonga lopango ya Mongombo: ngambo ya sude oyo ekozala ya bametele pene tuku mitano na molayi, ekozipama na rido ya lino ya kitoko oyo bakotonga bililingi na likolo na yango.
+002	EXO	027	010	Makonzi na yango tuku mibale elongo na makolo na yango tuku mibale ekosalema na bronze; bongo bibende ya makonzi elongo na biloko na yango ya kosimbela ekozala ya palata.
+002	EXO	027	011	Ngambo ya nor ekozala na bametele pene tuku mitano na molayi. Ekozala mpe na barido, na makonzi tuku mibale mpe na makolo tuku mibale, oyo esalema na bronze. Makonzi yango ekozala na bibende ya palata egumbama lokola ndobo elongo na biloko na yango ya kosimbela, oyo ekozala ya palata.
+002	EXO	027	012	Ngambo ya weste ya lopango ya Mongombo ekozala na bametele pene tuku mibale na mitano na mokuse. Ekozala mpe na barido, makonzi zomi mpe makolo zomi.
+002	EXO	027	013	Ngambo ya este ya lopango ya Mongombo, epai wapi moyi ebimelaka, ekozala na bametele pene tuku mibale na mitano na mokuse.
+002	EXO	027	014	Ngambo moko ya ekuke ekozala na barido ya bametele sambo na basantimetele tuku mitano elongo na makonzi misato mpe makolo misato.
+002	EXO	027	015	Ngambo mosusu ya ekuke ekozala mpe na barido ya bametele sambo na basantimetele tuku mitano, elongo na makonzi misato mpe makolo misato.
+002	EXO	027	016	Mpo na ekuke ya lopango ya Mongombo, bongisa rido ya bametele pene zomi na molayi, ya langi ya ble, ya motane ya pete, ya motane makasi; mpe ekosalema na lino ya kitoko oyo bakotonga bililingi na likolo na yango, elongo na makonzi minei mpe makolo minei; ekozala mosala ya bato oyo batongaka bililingi na bilamba.
+002	EXO	027	017	Makonzi nyonso oyo ekozala zingazinga ya lopango esengeli kozala na biloko na yango ya kosimbela, bibende na yango egumbama lokola ndobo, ya palata; mpe makolo na yango ya bronze.
+002	EXO	027	018	Lopango ya Mongombo ekozala ya bametele tuku mitano na molayi, bametele tuku mibale na mitano na mokuse na ngambo moko na moko, bametele mibale na basantimetele tuku mitano na bosanda. Barido na yango ekozala ya lino ya kitoko oyo bakotonga bililingi na likolo na yango, mpe makolo na yango ekozala ya bronze.
+002	EXO	027	019	Biloko nyonso oyo bakosalela misala ya Mongombo, bapike nyonso ya Mongombo mpe ya lopango ekozala ya bronze.
+002	EXO	027	020	Okopesa mitindo na bana ya Isalaele ete bamemela yo mafuta ya olive ya peto mpo na minda, mpo ete minda ekoka kopela tango nyonso.
+002	EXO	027	021	Ezali kati na Ndako ya kapo ya Bokutani, libanda ya rido oyo ezali liboso ya Sanduku ya Litatoli, nde Aron mpe bana na ye ya mibali bakobanda kopelisa minda tango nyonso liboso ya Yawe, kobanda na pokwa kino na tongo. Ezali mobeko ya libela mpo na milongo nyonso ya bana ya Isalaele.
+002	EXO	028	001	Kamata kati na bana ya Isalaele Aron, ndeko na yo ya mobali, elongo na bana na ye ya mibali: Nadabi mpe Abiyu, Eleazari mpe Itamari; mpo ete basala mosala ya bonganga-Nzambe liboso na Ngai.
+002	EXO	028	002	Okotonga mpo na Aron, ndeko na yo ya mobali, bilamba ya bule lokola elembo ya nkembo mpe ya lokumu.
+002	EXO	028	003	Bongo yo, okoloba na bato nyonso ya mayele oyo, kati na bango, natondisi molimo ya bwanya mpo ete batonga bilamba ya Aron mpo na kobulisa ye na mosala ya bonganga-Nzambe liboso na Ngai.
+002	EXO	028	004	Tala bilamba oyo bakotonga: elamba ya tolo, efode, kazaka mpe nzambala oyo batia bililingi likolo na yango, kitendi ya kokanga na moto mpe mokaba. Bakotonga bilamba ya bule mpo na Aron, ndeko na yo ya mobali, mpe mpo na bana na ye ya mibali oyo bakosala mosala ya bonganga-Nzambe liboso na Ngai.
+002	EXO	028	005	Bakosalela wolo, langi ya ble, ya motane ya pete, ya motane makasi mpe lino ya kitoko.
+002	EXO	028	006	Bakotonga na wolo efode ya langi ya ble, ya motane ya pete, ya motane makasi mpe na lino ya kitoko oyo bakotonga bililingi na likolo na yango; ekozala mosala ya bato oyo basalaka bililingi na maboko.
+002	EXO	028	007	Ekozala na bankamba mibale na basuka na yango mibale mpo na kolata efode yango; bankamba ekoleka likolo ya mapeka.
+002	EXO	028	008	Mokaba ya efode ekosalema ndenge moko na efode: ekozala ya wolo, ya langi ya ble, ya motane ya pete, ya motane makasi mpe na lino ya kitoko oyo bakotonga bililingi na likolo na yango.
+002	EXO	028	009	Okozwa mabanga mibale ya onikisi mpe okokoma na likolo na yango bakombo ya bana mibali ya Isalaele
+002	EXO	028	010	kolanda ndenge babotama: bakombo motoba na libanga ya liboso mpe bakombo motoba oyo etikali, na libanga ya mibale.
+002	EXO	028	011	Okokoma bakombo ya bana mibali ya Isalaele na mabanga nyonso mibale ndenge bato basalaka bililingi na kashe na libanga; mpe okozingela yango na wolo.
+002	EXO	028	012	Okotia mabanga yango na bankamba ya efode lokola mabanga ya ekaniseli mpo na bana mibali ya Isalaele. Aron akomema likolo ya mapeka na ye lokola ekaniseli liboso ya Yawe bakombo na bango.
+002	EXO	028	013	Okotia bikangelo ya wolo
+002	EXO	028	014	mpe okosala basheneti mibale ya wolo basangisa na eloko mosusu te; okosala yango lokola suki ya maboko mpe okokangisa basheneti yango pembeni-pembeni ya mabanga.
+002	EXO	028	015	Okosala elamba ya tolo mpo na koyeba mokano ya Nzambe; ekozala mosala ya bato oyo basalaka bililingi na maboko. Okotonga yango lokola efode: ekozala ya wolo, ya langi ya ble, ya motane ya pete, ya motane makasi mpe na lino ya kitoko oyo bakotonga bililingi na likolo na yango.
+002	EXO	028	016	Soki bagumbi yango na biteni mibale, molayi mpe mokuse esengeli kozala ndenge moko: basantimetele pene tuku mibale na mitano.
+002	EXO	028	017	Okotia na likolo na yango milongo minei ya mabanga ya talo. Na molongo ya liboso, okotia libanga ya saridwane, ya topaze mpe ya emerode;
+002	EXO	028	018	na molongo ya mibale, okotia libanga ya ribisi, ya safiri mpe ya diama;
+002	EXO	028	019	na molongo ya misato, okotia libanga ya opale, ya agate mpe ya ametisite;
+002	EXO	028	020	mpe na molongo ya minei, okotia libanga ya krizolite, ya onikisi mpe ya jasipe. Okokanga mabanga yango na bikangelo ya wolo.
+002	EXO	028	021	Mabanga yango ekozala zomi na mibale kolanda bakombo ya bana mibali ya Isalaele. Na likolo ya libanga moko na moko, bakokoma kombo ya moko kati na mabota zomi na mibale; bakokoma yango ndenge basalaka bililingi na kashe.
+002	EXO	028	022	Okosala basheneti ya wolo ya peto mpo na elamba ya tolo; okosala yango ndenge bakangaka suki ya maboko.
+002	EXO	028	023	Okosala bapete mibale ya wolo mpo na elamba ya tolo mpe okokangisa yango na basonge mibale ya elamba yango.
+002	EXO	028	024	Okolekisa basheneti mibale ya wolo kati na bapete mibale oyo ezali na basonge ya elamba ya tolo,
+002	EXO	028	025	mpe okokangisa basonge mibale mosusu ya basheneti yango, na bikangelo nyonso mibale; mpe okokangisa yango na bankamba ya efode; bankamba yango ekoleka na liboso.
+002	EXO	028	026	Okosala bapete mibale ya wolo oyo okotia na basonge mibale ya se ya elamba ya tolo, na ngambo ya kati oyo etala efode.
+002	EXO	028	027	Okosala bapete mosusu mibale ya wolo oyo okotia na bankamba mibale ya efode, na se, na liboso mpe na pembeni ya mokaba ya efode.
+002	EXO	028	028	Okokangisa na singa ya langi ya ble bapete ya wolo ya elamba ya tolo mpe bapete ya wolo ya efode, mpo ete elamba ya tolo ezala likolo ya efode mpe elongwa te na likolo na yango.
+002	EXO	028	029	Boye tango Aron akokota na Esika-Oyo-Eleki-Bule, akomema na motema na ye, na elamba ya tolo ya kokata makambo, bakombo ya bana mibali ya Isalaele lokola ekaniseli liboso ya Yawe mpo na libela.
+002	EXO	028	030	Okotia lisusu Urimi mpe Tumimi kati na elamba ya tolo ya kokata makambo mpe yango ekozala likolo ya motema ya Aron tango akotelema liboso ya Yawe. Boye Aron akomema makambo ya bana ya Isalaele liboso ya Yawe mpo na libela.
+002	EXO	028	031	Okosala mobimba ya nzambala oyo ekozala na se ya efode na langi ya ble.
+002	EXO	028	032	Nzambala esengeli kozala na lidusu na kati-kati mpo na kokotisa moto; bakotonga pembeni-pembeni ya lidusu yango poso ya makasi mpo ete epasuka te.
+002	EXO	028	033	Na se mpe zingazinga ya nzambala, okotia bambuma ya grenade bakangisa na singa ya langi ya ble, ya motane ya pete mpe ya motane makasi; mpe okotia bangonga ya mike-mike kati na bambuma ya grenade.
+002	EXO	028	034	Ekolandana boye: ngonga moko ya moke ya wolo, mbuma moko ya grenade, mpe bongo na bongo, zingazinga ya basonge nyonso ya nzambala.
+002	EXO	028	035	Aron asengeli kolata yango tango azali kosala mosala. Makelele ya bangonga ya mike-mike ekoyokana tango akotelema liboso ya Yawe na Esika-Oyo-Eleki-Bule mpe tango akobima; wana ekolakisa ete akufi te.
+002	EXO	028	036	Okosala na wolo ya peto medaye mpe okokoma na likolo na yango ndenge basalaka bililingi na kashe: abulisama mpo na Yawe.
+002	EXO	028	037	Okokangisa yango na singa ya ble, mpe ekozala na likolo ya kitendi ya kokanga na moto, na mbunzu.
+002	EXO	028	038	Linzanza yango ekozala na mbunzu ya Aron mpo ete akoka komema bambeba oyo bana ya Isalaele bakosala na tina na biloko ya bule oyo bakobonza mpe bakobulisa. Linzanza yango ekozala tango nyonso na mbunzu ya Aron mpo ete Ngai Yawe, nandima makabo yango.
+002	EXO	028	039	Okotongela Aron nzambala ya lino mpe kitendi ya lino mpo na moto; okosalela ye mpe mokaba oyo bato oyo batongaka bililingi na bilamba bakoyeba kotia bililingi.
+002	EXO	028	040	Okosala lisusu mpo na bana ya Aron banzambala, mikaba mpe bikoti, lokola elembo ya lokumu mpe ya nkembo.
+002	EXO	028	041	Sima na kolatisa Aron, ndeko na yo ya mobali, elongo na bana na ye ya mibali, okopakola bango mafuta mpe okobulisa bango. Okokomisa bango Banganga-Nzambe mpo ete basalela Ngai.
+002	EXO	028	042	Okosalela bango bakaputula ya lino mpo na kozipa bolumbu na bango: bakaputula yango ekobanda na loketo kino na mipende.
+002	EXO	028	043	Aron mpe bana na ye ya mibali bakolata yango tango nyonso bakobanda kokota na Ndako ya kapo ya Bokutani to kopusana pembeni ya etumbelo mpo na kosala mosala kati na Esika ya bule, mpo ete bazala na ngambo te mpe bakufa te. Ezali mobeko ya libela mpo na Aron mpe bakitani na ye.
+002	EXO	029	001	Tala ndenge okosala mpo na kobulisa Aron elongo na bana na ye ya mibali, na mosala ya bonganga-Nzambe mpo ete basalela Ngai. Okozwa mwana ngombe ya mobali mpe bameme mibale ya mibali, ezanga mbeba;
+002	EXO	029	002	okosala mapa mpe bagato ezanga levire, oyo farine na yango basangisa na mafuta; okosala mpe mikate ezanga levire, kasi bapakola yango mafuta; okosala yango na farine oyo batuta mpe bayungola malamu.
+002	EXO	029	003	Okotia yango nyonso na kitunga moko mpe okomema yango na ekuke ya Mongombo, elongo na mwana ngombe ya mobali mpe bameme mibale ya mibali.
+002	EXO	029	004	Okomema Aron mpe bana na ye ya mibali na ekotelo ya Ndako ya kapo ya Bokutani mpe okosukola bango na mayi.
+002	EXO	029	005	Okozwa bilamba ya bule mpe okolatisa Aron nzambala, kazaka, efode mpe elamba ya tolo; mpe okokanga ye mokaba ya efode.
+002	EXO	029	006	Okokanga ye kitendi na moto mpe okobakisa na likolo ya kitendi yango elembo ya libulisi.
+002	EXO	029	007	Okozwa mafuta ya epakolami, okosopa yango na moto na ye mpe okopakola ye yango.
+002	EXO	029	008	Okomema bana na ye ya mibali mpe okolatisa bango banzambala.
+002	EXO	029	009	Okolatisa Aron mpe bana na ye ya mibali mikaba na loketo na bango mpe okolatisa bango bikoti. Na bongo, okobulisa bango na mosala ya bonganga-Nzambe oyo ekozala ya bango kolanda mobeko ya libela na libela.
+002	EXO	029	010	Okomema ngombe ya mobali liboso ya Ndako ya kapo ya Bokutani; Aron mpe bana na ye ya mibali bakotia maboko na bango na moto na yango.
+002	EXO	029	011	Okokata ngombe yango kingo liboso na Ngai Yawe, na ekotelo ya Ndako ya kapo ya Bokutani.
+002	EXO	029	012	Okozwa ndambo ya makila ya ngombe yango, mpe okosalela mosapi na yo mpo na kotia makila yango na maseke ya etumbelo; okosopa na makolo ya etumbelo makila oyo ekotikala.
+002	EXO	029	013	Okozwa mafuta nyonso oyo ezalaka pembeni-pembeni ya biloko ya kati, mafuta oyo ezipaka bafwa mpe bambuma nyonso mibale oyo ezalaka kati na loketo elongo na mafuta na yango; mpe okotumba yango na etumbelo.
+002	EXO	029	014	Kasi okotumba na libanda ya molako misuni ya ngombe yango, poso na yango mpe nyei na yango. Ezali mbeka mpo na masumu.
+002	EXO	029	015	Okozwa lisusu meme moko ya mobali; Aron mpe bana na ye ya mibali bakotia maboko na bango na moto na yango.
+002	EXO	029	016	Okokata meme yango kingo, okozwa makila na yango mpe okosopa yango na bapembeni nyonso ya etumbelo.
+002	EXO	029	017	Okokata-kata meme yango na biteni, okosukola biloko na yango ya kati elongo na makolo na yango mpe okotia yango likolo ya biteni mosusu mpe likolo ya moto.
+002	EXO	029	018	Okotumba meme mobimba ya mobali na etumbelo; ezali mbeka ya kotumba mpo na Yawe, likabo bazikisa na moto mpo na Yawe, likabo oyo solo kitoko na yango esepelisaka Yawe.
+002	EXO	029	019	Okozwa meme mosusu ya mobali; Aron elongo na bana na ye ya mibali bakotia maboko na bango na moto na yango.
+002	EXO	029	020	Okokata meme yango kingo, okozwa ndambo ya makila na yango mpe okotia yango na songe ya litoyi ya ngambo ya loboko ya mobali ya Aron mpe ya bana na ye ya mibali. Okotia yango lisusu na mosapi ya monene ya loboko na bango ya ngambo ya mobali mpe na mosapi ya monene ya lokolo na bango ya ngambo ya loboko ya mobali.
+002	EXO	029	021	Okozwa makila oyo ekozala na etumbelo mpe mafuta ya epakolami, okosopela yango Aron mpe bilamba na ye, bana na ye mpe bilamba na bango. Na bongo, ye mpe bana na ye elongo na bilamba na bango bakobulisama.
+002	EXO	029	022	Tala biteni ya mafuta ya meme ya mobali oyo okozwa: mokila, mafuta nyonso oyo ezalaka pembeni-pembeni ya biloko ya kati, mafuta oyo ezipi bafwa, bambuma mibale oyo ezalaka kati na loketo elongo na mafuta na yango mpe mopende ya ngambo ya mobali, pamba te meme yango ya mobali ezali ya libulisi.
+002	EXO	029	023	Tala biloko oyo okozwa kati na kitunga ya mapa ezanga levire, oyo ezali liboso ya Yawe: lipa moko, gato moko balamba na mafuta mpe galeti moko.
+002	EXO	029	024	Okotia biloko oyo nyonso na maboko ya Aron mpe ya bana na ye ya mibali; okoyebisa bango ete batombola yango liboso ya Yawe lokola likabo ya kotombola.
+002	EXO	029	025	Okozwa yango lisusu na maboko na bango mpe okotumba yango na etumbelo, na likolo ya mbeka ya kotumba; ezali likabo bazikisa na moto mpo na Yawe, likabo oyo solo kitoko na yango esepelisaka Yawe.
+002	EXO	029	026	Okozwa tolo ya meme ya mobali mpo na kobulisa Aron, okotombola yango liboso ya Yawe lokola mbeka ya kotombola; ekozala eteni na yo.
+002	EXO	029	027	Okobulisa biteni ya libulisi mpo na Aron mpe bana na ye ya mibali: tolo mpe mopende ya meme oyo batombolaki mpo na kobonzela Yawe.
+002	EXO	029	028	Biteni yango ekozala ya Aron mpe ya bana na ye ya mibali lokola mobeko ya libela na libela. Pamba te ezali makabo ya bana ya Isalaele mpo na Yawe, makabo oyo ekowuta na mbeka na bango ya boyokani.
+002	EXO	029	029	Bilamba ya bule ya Aron ekotikala sima na ye epai ya bana na ye. Bakolata yango tango bakopakola bango mafuta mpe bakobulisa bango.
+002	EXO	029	030	Mikolo sambo, moko kati na bana na ye ya mibali oyo akokitana na ye lokola Nganga-Nzambe, akolata yango mpe akokota na Ndako ya kapo ya Bokutani mpo na kosala mosala ya bonganga-Nzambe kati na Esika ya bule.
+002	EXO	029	031	Okokamata meme ya mobali ya libulisi mpe okolamba mosuni na yango na esika moko ya bule.
+002	EXO	029	032	Aron mpe bana na ye ya mibali bakolia mosuni ya meme mpe lipa oyo ezali kati na kitunga, na ekotelo ya Ndako ya kapo ya Bokutani.
+002	EXO	029	033	Kaka bango nde bakolia makabo oyo na nzela na yango mosala ya bolimbisi masumu esalemaki tango babulisaki bango mpo na mosala ya bonganga-Nzambe; kasi moto oyo abulisama te akoki kolia yango te, pamba te ezali bule.
+002	EXO	029	034	Soki mosuni ya mbeka ya libulisi mpe lipa ekomi kino na tongo, okotumba yango na moto. Bakoki kolia yango lisusu te, pamba te ezali bule.
+002	EXO	029	035	Sala mpo na Aron mpe mpo na bana na ye ya mibali makambo nyonso oyo natindi yo. Okosala mikolo sambo mpo na kobulisa bango na mosala ya bonganga-Nzambe.
+002	EXO	029	036	Mokolo na mokolo, okobonza mbeka ya ngombe ya mobali lokola mbeka mpo na bolimbisi masumu. Okopetola etumbelo na nzela ya mosala ya bolimbisi masumu, oyo okosala mpo na etumbelo yango mpe okosopela yango mafuta ya epakolami mpo na kobulisa yango.
+002	EXO	029	037	Mikolo sambo, okosala mosala ya bolimbisi masumu na etumbelo mpo na kobulisa yango. Boye etumbelo ekokoma bule koleka mpe nyonso oyo ekotutana na yango ekokoma bule.
+002	EXO	029	038	Tala mbeka oyo okopesela mitindo ete batumbaka mokolo na mokolo na etumbelo mpo na libela: bana meme mibale ya mobu moko.
+002	EXO	029	039	Okotumba mwana meme moko na tongo, mpe mosusu, na pokwa.
+002	EXO	029	040	Mpo na mwana meme ya liboso, okopesa bakilo misato ya farine basangisa na litele moko na kati-kati ya litele ya mafuta, mpe okosopa litele moko na kati-kati ya litele ya vino lokola mbeka ya masanga.
+002	EXO	029	041	Mpo na mwana meme ya mibale, okobonza yango na pokwa elongo na lolenge moko ya makabo oyo obonzaki na tongo: farine, mafuta mpe mbeka ya masanga ya vino; okobonza yango lokola likabo bazikisa na moto mpo na Yawe, oyo solo kitoko na yango esepelisaka Yawe.
+002	EXO	029	042	Ezali mbeka ya kotumba ya tango nyonso, kati na bikeke nyonso: bokobanda kotumba yango na ekuke ya Ndako ya kapo ya Bokutani liboso ya Yawe; ezali na esika wana nde nakobanda kokutana mpe kolobana na bino.
+002	EXO	029	043	Ezali na esika yango nde nakobanda kokutana na bana ya Isalaele; bongo nkembo na Ngai ekobulisa esika yango.
+002	EXO	029	044	Nakobulisa Ndako ya kapo ya Bokutani mpe etumbelo; nakobulisa lisusu Aron mpe bana na ye ya mibali mpo ete basalela Ngai lokola Banganga-Nzambe.
+002	EXO	029	045	Boye nakovanda kati na bana ya Isalaele mpe nakozala Nzambe na bango.
+002	EXO	029	046	Bakoyeba solo ete Ngai nazali Yawe, Nzambe na bango, Nzambe oyo abimisaki bango wuta na Ejipito mpo na kovanda kati na bango. Nazali Yawe, Nzambe na bango.
+002	EXO	030	001	Okosala lisusu etumbelo ya malasi na nzete ya akasia.
+002	EXO	030	002	Molayi mpe mokuse na yango ekozala ndenge moko, basantimetele pene tuku mitano; mpe bosanda na yango ekozala na metele moko. Maseke na yango ekokangana na etumbelo.
+002	EXO	030	003	Okobamba wolo ya peto na likolo ya etumbelo, na mipanzi na yango mpe na maseke; mpe okozingela pembeni na yango na libende ya wolo.
+002	EXO	030	004	Okosala mpo na etumbelo bapete ya wolo na se ya ebende ya wolo oyo ezingeli yango: mibale na ngambo moko, mpe mibale na ngambo mosusu; mpo na kokotisa mabaya ya komemela etumbelo.
+002	EXO	030	005	Okosala mabaya yango na nzete ya akasia mpe okobamba yango wolo.
+002	EXO	030	006	Okotia etumbelo liboso ya rido oyo ezali liboso ya Sanduku ya Litatoli, liboso ya esika ya bolimbisi masumu oyo ezali na likolo ya Sanduku ya Litatoli. Ezali na esika yango nde nakobanda kokutana na yo.
+002	EXO	030	007	Tongo nyonso, Aron akotumba ansa na etumbelo yango tango akobongisa minda; mpe pokwa nyonso, tango akopelisa yango.
+002	EXO	030	008	Aron asengeli kotumba lisusu ansa tango akopelisa minda na pokwa mpo ete ansa epelaka tango nyonso liboso ya Yawe mpo na libela.
+002	EXO	030	009	Kobonza te na etumbelo: ansa oyo elongobani te, mbeka ya kotumba to makabo ya bambuma. Mpe kosopa te likolo na yango makabo ya masanga ya vino.
+002	EXO	030	010	Mbala moko na mobu, Aron asengeli kosala mosala ya bolimbisi masumu, na maseke ya etumbelo; akosala yango na makila ya mbeka ya masumu mpo na milongo oyo ekoya. Etumbelo ekozala bule koleka mpo na Yawe.
+002	EXO	030	011	Yawe alobaki na Moyize:
+002	EXO	030	012	— Tango okotanga bana ya Isalaele, moko na moko kati na bango akofuta mpo na Yawe, mpako mpo na kosikola bomoi na ye tango bakotanga ye. Boye etumbu moko te ekokweyela bango tango bakotangama.
+002	EXO	030	013	Moto nyonso oyo batangi asengeli kofuta motuya oyo mpo na Yawe lokola mpako, kolanda ndenge bamekaka kilo kati na Mongombo: bagrame motoba ya palata.
+002	EXO	030	014	Moto nyonso oyo batangi, kobanda mibu tuku mibale to koleka, akofuta mpako mpo na Yawe.
+002	EXO	030	015	Na tango ya kofuta mpako mpo na Yawe, mpo na kosikola bomoi na bino, mozwi akofuta te motuya koleka bagrame motoba ya palata, mpe mobola akofuta te motuya oyo ezali na se ya bagrame motoba.
+002	EXO	030	016	Okozwa epai ya bana ya Isalaele mpako mpo na kosikola bomoi na bango mpe okosalela yango mpo na mosala ya kobongisa Ndako ya kapo ya Bokutani. Ekozala mpo na bana ya Isalaele ekaniseli liboso ya Yawe mpo na lisiko ya bomoi na bango.
+002	EXO	030	017	Yawe alobaki na Moyize:
+002	EXO	030	018	— Okosala na bronze sani moko monene mpo na komipetola mpe evandelo na yango; okotia yango na kati-kati ya Ndako ya kapo ya Bokutani mpe etumbelo, mpe okotia mayi kati na yango.
+002	EXO	030	019	Aron mpe bana na ye ya mibali bakobanda kosukola maboko mpe makolo na bango na mayi ya sani yango.
+002	EXO	030	020	Basengeli kosukola na mayi yango mpo ete bakufa te tango bakokota na Ndako ya kapo ya Bokutani to tango bakopusana pembeni ya etumbelo mpo na kotumba makabo bazikisa na moto mpo na Yawe.
+002	EXO	030	021	Basengeli kosukola makolo mpe maboko na bango mpo ete bakufa te. Oyo ezali mobeko oyo ekobongwana te mpo na Aron mpe bakitani na ye mpo na libela.
+002	EXO	030	022	Yawe alobaki na Moyize:
+002	EXO	030	023	— Zwa mafuta ya solo kitoko: bakilo motoba ya mire, kati-kati na yango to bakilo misato ya sinamoni, bakilo misato ya kaneli,
+002	EXO	030	024	bakilo misato ya kasia, kolanda ndenge bamekaka kilo kati na Esika ya bule, mpe balitele motoba ya mafuta ya olive.
+002	EXO	030	025	Na biloko oyo nyonso, okosala mafuta ya epakolami ya bule, ya solo kitoko, oyo esalemi na mosali malasi; ekozala mafuta ya bule mpo na epakolami.
+002	EXO	030	026	Okosalela mafuta yango mpo na kopakola Ndako ya kapo ya Bokutani, Sanduku ya Litatoli,
+002	EXO	030	027	mesa mpe bisalelo na yango nyonso, etelemiselo ya minda mpe biloko na yango nyonso, etumbelo ya malasi,
+002	EXO	030	028	etumbelo ya bambeka ya kotumba mpe bisalelo na yango nyonso elongo na sani mpo na komipetola mpe evandelo na yango.
+002	EXO	030	029	Okobulisa yango mpo ete ezala bule koleka. Nyonso oyo ekotutana na yango ekozala bule.
+002	EXO	030	030	Okopakola Aron mpe bana na ye ya mibali mafuta mpe okobulisa bango mpo ete basalela Ngai lokola Banganga-Nzambe.
+002	EXO	030	031	Sima, okoloba na bana ya Isalaele: « Mafuta oyo ya epakolami ebulisami libela na libela mpo na Yawe.
+002	EXO	030	032	Bokopakola yango te na banzoto ya bato mpe bomekola te ndenge basalela yango, pamba te ezali bule mpe bosengeli komona yango bule.
+002	EXO	030	033	Moto nyonso oyo akomekola mafuta yango mpe akosopa yango na nzoto ya moto oyo abulisami te, basengeli kolongola ye kati na bato na ye. »
+002	EXO	030	034	Yawe alobaki na Moyize: — Zwa biloko ya mike-mike ya solo kitoko: sitakite, onikisi, galibanumi mpe ansa oyo basangisa na eloko mosusu te; biloko nyonso ezala kilo moko.
+002	EXO	030	035	Okosala na yango ansa ya solo kitoko oyo esalemi na moto oyo asalaka malasi. Ekozala malasi oyo ezali na mungwa, ya peto mpe ya bule.
+002	EXO	030	036	Okosala na ndambo na yango mosusu putulu oyo okotia liboso ya Sanduku ya Litatoli kati na Ndako ya kapo ya Bokutani epai wapi nakokutana na yo. Ekozala bule koleka mpo na bino.
+002	EXO	030	037	Bokomisalela te ansa mosusu ya lolenge wana. Okomona yango bule mpe ekozala kaka mpo na Yawe.
+002	EXO	030	038	Moto nyonso oyo akomekola yango mpo na kosepela na solo na yango ya kitoko, basengeli kolongola ye kati na bato na ye.
+002	EXO	031	001	Yawe alobaki na Moyize:
+002	EXO	031	002	— Yoka, naponi Betisaleyeli, mwana mobali ya Uri, mwana mobali ya Wuri, moto ya libota ya Yuda;
+002	EXO	031	003	natondisi ye na Molimo ya Nzambe, na bwanya, na mayele mpe na boyebi mpo na kosala misala ya lolenge nyonso;
+002	EXO	031	004	mpo na kokanisa mpe kosala misala ya wolo, ya palata mpe ya bronze;
+002	EXO	031	005	mpo na kokata mabanga ya talo, kobamba yango, kosala bililingi na banzete mpe mpo na kosala misala ya lolenge nyonso.
+002	EXO	031	006	Tala, napesi ye lokola mosungi Oliabi, mwana mobali ya Ayisamaki, moto ya libota ya Dani. Mpe napesi bwanya epai ya bato nyonso ya misala ya maboko mpo ete basala misala nyonso oyo natindi yo:
+002	EXO	031	007	Ndako ya kapo ya Bokutani, Sanduku ya Litatoli, esika ya bolimbisi masumu oyo ezali likolo ya Sanduku, mpe bisalelo nyonso ya Ndako ya kapo;
+002	EXO	031	008	mesa elongo na biloko na yango; etelemiselo ya minda, basala na wolo oyo basangisa na eloko mosusu te, elongo na biloko na yango nyonso; etumbelo ya malasi,
+002	EXO	031	009	etumbelo ya bambeka ya kotumba elongo na bisalelo na yango nyonso; sani mpo na komipetola elongo na evandelo na yango;
+002	EXO	031	010	bilamba ya mosala, bilamba nyonso ya bule ya Nganga-Nzambe Aron, bilamba oyo bana na ye ya mibali bakolata tango bakosala mosala na bango ya bonganga-Nzambe,
+002	EXO	031	011	mafuta ya epakolami mpe ansa ya solo kitoko mpo na Esika ya bule. Basengeli kosala yango ndenge kaka natindaki yo.
+002	EXO	031	012	Yawe alobaki na Moyize:
+002	EXO	031	013	— Loba na bana ya Isalaele: « Bosengeli kobatela mikolo na Ngai ya Saba; ekozala elembo ya libela na libela kati na Ngai mpe bino, mpo ete boyeba ete ezali Ngai Yawe nde nabulisi bino.
+002	EXO	031	014	Lisusu, bokobatela mokolo ya Saba, pamba te ekozala mpo na bino mokolo ya bule. Moto nyonso oyo akobuka mobeko yango, basengeli koboma ye; mpe moto nyonso oyo akosala mosala ata ya lolenge nini na mokolo yango, basengeli kolongola ye kati na bato na ye.
+002	EXO	031	015	Bokosala mosala mikolo motoba, mpe mokolo ya sambo ezali mokolo ya Saba, mokolo ya kopema, mokolo oyo ebulisami mpo na Yawe. Moto nyonso oyo akosala mosala na mokolo ya Saba, basengeli koboma ye.
+002	EXO	031	016	Bana ya Isalaele bakobatela mokolo ya Saba; bango mpe bakitani na bango bakotosa yango lokola boyokani ya libela na libela.
+002	EXO	031	017	Ekozala elembo kati na Ngai mpe bana ya Isalaele mpo na libela na libela, pamba te na mikolo motoba, Yawe asalaki likolo mpe mokili; bongo na mokolo ya sambo, akataki mosala mpe apemaki. »
+002	EXO	031	018	Tango Yawe asilisaki kosolola na Moyize, na ngomba Sinai, Yawe apesaki ye bitando mibale ya mabanga ya litatoli oyo Nzambe akomaki na mosapi na Ye.
+002	EXO	032	001	Tango bato bamonaki ete Moyize azali kowumela mpo na kokita na ngomba, basanganaki zingazinga ya Aron mpe balobaki: — Yaka mpe salela biso nzambe oyo akotambola liboso na biso. Pamba te Moyize, moto oyo abimisaki biso na Ejipito, toyebi te makambo nini ekomeli ye.
+002	EXO	032	002	Aron azongiselaki bango: — Bolongola biloko ya matoyi oyo ezali na matoyi ya basi na bino, ya bana na bino ya basi mpe ya mibali, mpe bomemela ngai yango.
+002	EXO	032	003	Bato nyonso balongolaki biloko ya matoyi mpe bamemaki yango epai ya Aron.
+002	EXO	032	004	Aron azwaki biloko oyo bapesaki ye, anyangwisaki yango na moto, mpe sima, asalaki ekeko ya mwana ngombe. Bongo balobaki: — Tala nzambe na yo, oh Isalaele, oyo abimisaki yo na Ejipito.
+002	EXO	032	005	Tango Aron amonaki yango, atongaki etumbelo liboso ya mwana ngombe mpe alobaki: — Feti ekozala lobi mpo na Yawe.
+002	EXO	032	006	Mokolo oyo elandaki, bato balamukaki na tongo makasi, babonzaki bambeka ya kotumba mpe bambeka ya boyokani. Sima na yango, bavandaki mpo na kolia mpe mpo na komela; mpe batelemaki mpo na kosakana.
+002	EXO	032	007	Yawe alobaki na Moyize: — Kita, pamba te bato na yo, oyo obimisaki na Ejipito babungi nzela,
+002	EXO	032	008	bapesi mokongo noki na makambo oyo natindaki bango mpe bamisaleli ekeko ya mwana ngombe. Bagumbameli yango, babonzeli yango makabo mpe balobi: « Tala nzambe na yo, Oh Isalaele, oyo abimisaki yo na Ejipito. »
+002	EXO	032	009	Yawe alobaki lisusu na Moyize: — Namoni ete bato oyo bazali batomboki.
+002	EXO	032	010	Sik’oyo, tika Ngai moko nasala mpo ete kanda na Ngai ekweyela bango mpe naboma bango. Kasi nakokomisa yo libota monene.
+002	EXO	032	011	Moyize abondelaki Yawe, Nzambe na ye, mpe alobaki: — Eh Yawe! Mpo na nini kanda na Yo ekweyela bato na Yo, oyo obimisaki na Ejipito, na nguya monene mpe na loboko ya makasi?
+002	EXO	032	012	Mpo na nini bato ya Ejipito baloba: « Nzambe na bango azalaki na makanisi mabe tango abimisaki bango na Ejipito. Ezali nde mpo na koboma bango na mokili ya bangomba mpe kosilisa bango na mokili. » Lembisa kanda na Yo ya makasi mpe kosala lisusu mabe te na bato na Yo.
+002	EXO	032	013	Kanisa Abrayami, Izaki mpe Isalaele, basali na Yo, oyo Yo moko olapelaki ndayi mpe olobaki: « Nakokomisa bakitani na yo ebele lokola minzoto na likolo, nakopesa bango mokili oyo nyonso ndenge kaka nalobaki na bango; mpe yango ekozala libula na bango mpo na libela. »
+002	EXO	032	014	Mpe Yawe asalaki lisusu te mabe oyo akanaki kosala bato na Ye.
+002	EXO	032	015	Moyize abalukaki mpe akitaki wuta na ngomba, elongo na bitando mibale ya mabanga ya boyokani na maboko na ye; mabanga yango ekomama na bangambo mibale, na liboso mpe na sima.
+002	EXO	032	016	Bitando yango ya mabanga ezalaki mosala ya Nzambe, mpe makomi oyo ezalaki ya kokomama na bitando yango ya mabanga ezalaki ya Nzambe.
+002	EXO	032	017	Tango Jozue ayokaki makelele ya bato oyo bazalaki koganga, alobaki na Moyize: — Ezali na makelele ya bitumba kati na molako!
+002	EXO	032	018	Moyize azongisaki: — Te, ezali makelele ya elonga te, makelele ya kokweyisama mpe te! Oyo ngai nazali koyoka, ezali nde makelele ya banzembo.
+002	EXO	032	019	Tango Moyize apusanaki pembeni ya molako, amonaki ekeko ya mwana ngombe mpe bato bazali kobina; asilikaki makasi, abwakaki bitando ya mabanga wuta na maboko na ye mpe apanzaki yango na biteni, na ebandeli ya ngomba.
+002	EXO	032	020	Moyize azwaki ekeko ya mwana ngombe oyo basalaki, atumbaki yango na moto mpe anikaki yango malamu kino ekomaki putulu. Bongo apanzaki yango likolo ya mayi mpe amelisaki bana ya Isalaele mayi yango.
+002	EXO	032	021	Moyize atunaki Aron: — Likambo nini bato oyo basali yo mpo ete okamba bango kino kosala lisumu ya monene boye?
+002	EXO	032	022	Aron azongisaki: — Tika ete nkolo na ngai asilika te! Oyebi bato, balingaka kaka kosala mabe.
+002	EXO	032	023	Balobaki na ngai: « Salela biso Nzambe oyo akotambola liboso na biso, pamba te toyebi te likambo nini ekweyeli Moyize oyo abimisaki biso na Ejipito. »
+002	EXO	032	024	Bongo nayebisaki bango: « Tika ete moto nyonso oyo azali na biloko ya matoyi ya wolo alongola yango. » Bapesaki ngai wolo, nanyangwisaki yango na moto mpe nasalaki na yango ekeko ya mwana ngombe oyo.
+002	EXO	032	025	Moyize amonaki ete bato bazalaki kati na mobulu, pamba te Aron akambaki bango mabe; yango wana bakomaki eloko ya kotiola na miso ya banguna na bango.
+002	EXO	032	026	Moyize atelemaki na ekotelo ya molako mpe alobaki: — Tika ete moto nyonso oyo azali mpo na Yawe aya epai na ngai. Mpe Balevi nyonso basanganaki pene na ye.
+002	EXO	032	027	Alobaki na bango: — Tala makambo oyo Yawe, Nzambe ya Isalaele, alobi: « Tika ete moto nyonso atia mopanga na mopende na ye. Botambola kati na molako wuta na ndako ya kapo moko kino na ndako ya kapo mosusu; mpe moko na moko na bino aboma ndeko na ye ya mobali, moninga na ye mpe mozalani na ye. »
+002	EXO	032	028	Balevi basalaki ndenge Moyize atindaki; mpe na mokolo wana, bato pene nkoto misato bakufaki.
+002	EXO	032	029	Moyize alobaki: — Na mokolo ya lelo, Yawe atie bino pembeni mpo ete bobomi bana na bino moko ya mibali mpe bandeko na bino ya mibali. Bongo mpo na yango, apamboli bino.
+002	EXO	032	030	Mokolo elandaki, Moyize alobaki na bato: — Bosalaki lisumu monene. Kasi sik’oyo, nakomata epai na Yawe; tango mosusu, nakozwa bolimbisi mpo na lisumu na bino.
+002	EXO	032	031	Moyize azongaki epai na Yawe mpe alobaki: — Ah! Tala lisumu monene bato oyo basali. Bamisalelaki nzambe ya wolo.
+002	EXO	032	032	Kasi sik’oyo, nabondeli Yo, limbisa lisumu na bango, soki te longola kombo na ngai na buku ya bomoi oyo okomaki.
+002	EXO	032	033	Yawe azongiselaki Moyize: — Moto nyonso oyo asalaki lisumu liboso na Ngai, ye nde nakolongola na buku na Ngai.
+002	EXO	032	034	Sik’oyo, kende! Kamba bato na esika oyo nalobaki na yo. Tala, anjelu na Ngai akozala liboso na yo. Atako bongo, tango mokolo ekokoka mpo ete napesa etumbu, nakopesa bango etumbu mpo na lisumu na bango.
+002	EXO	032	035	Yawe apesaki bato etumbu likolo ya ekeko ya mwana ngombe oyo balobaki na Aron ete asala.
+002	EXO	033	001	Yawe alobaki na Moyize: — Kende, longwa na esika oyo elongo na bato oyo obimisaki na Ejipito; kende na mokili oyo nalakaki na ndayi epai ya Abrayami, Izaki mpe Jakobi ete nakopesa yango epai na bana na yo.
+002	EXO	033	002	Nakotinda anjelu liboso na yo, nakobengana bato ya Kanana ya Amori, ya Iti, ya Perizi, ya Evi mpe ya Yebusi.
+002	EXO	033	003	Bokende na mokili oyo ezali kobimisa miliki mpe mafuta ya nzoyi. Mpo na Ngai, nakotambola elongo na bino te, pamba te bozali batomboki, noki te nakosilisa koboma bino na nzela.
+002	EXO	033	004	Tango bato bayokaki maloba oyo ya somo, balataki pili, mpe ata moto moko te alataki lisusu biloko ya monzele.
+002	EXO	033	005	Bongo Yawe alobaki na Moyize: — Loba na bana ya Isalaele: « Bozali batomboki; soki natamboli elongo na bino ata mpo na tango moke, nakosilisa koboma bino. Bolongola biloko na bino ya monzele, mpe nakoyebisa bino makambo oyo nakosala bino. »
+002	EXO	033	006	Bana ya Isalaele balongolaki biloko na bango ya monzele na ngomba Orebi.
+002	EXO	033	007	Moyize azwaki ndako ya kapo mpe atelemisaki yango mwa mosika, na libanda ya molako, mpo na bolamu na bango; mpe abengaki yango Ndako ya kapo ya Bokutani. Moto nyonso oyo alingaki kokutana na Yawe, asengelaki kokende na Ndako ya kapo ya Bokutani, na libanda ya molako.
+002	EXO	033	008	Mbala nyonso oyo Moyize azalaki kokende na Ndako ya kapo ya Bokutani, bato nyonso bazalaki kotelema: moko na moko azalaki kotelema na ekuke ya ndako na ye ya kapo mpo na kotala Moyize kino akokota na Ndako ya kapo ya Bokutani.
+002	EXO	033	009	Soki Moyize akoti na kati, likonzi ya lipata ezalaki kokita mpe kotelema na ekotelo ya Ndako ya kapo ya Bokutani; bongo Yawe azalaki kosolola na Moyize.
+002	EXO	033	010	Bato nyonso bazalaki komona likonzi ya lipata kotelema na ekotelo ya Ndako ya kapo ya Bokutani. Boye bazalaki kotelema mpe kofukamela Yawe, moko na moko na ekuke ya ndako na ye ya kapo.
+002	EXO	033	011	Yawe azalaki kosolola na Moyize ndenge moto asololaka na moninga na ye. Wana Moyize azalaki kozonga na molako; Jozue, mwana mobali ya Nuni, elenge oyo azalaki kosunga ye, azalaki kotikala kati na ndako ya kapo.
+002	EXO	033	012	Moyize alobaki na Yawe: — Tala, ozali koloba na ngai ete nakamba bato oyo, kasi ozali koyebisa ngai te nani okotinda elongo na ngai. Nzokande Yo nde olobaki na ngai: « Nayebi yo na kombo na yo, » mpe lisusu: « Ozwi ngolu na miso na Ngai. »
+002	EXO	033	013	Sik’oyo, soki penza nazwi ngolu na miso na Yo, teya ngai banzela na Yo mpo ete nayeba Yo mpe nazwa ngolu na miso na Yo. Mpe kanisa lisusu ete libota wana bazali bato na Yo.
+002	EXO	033	014	Yawe azongisaki: — Ngai moko nakotambola elongo na yo mpe nakopesa yo bopemi.
+002	EXO	033	015	Moyize azongisaki: — Soki Yo moko okotambola elongo na biso te, kolongola biso te na esika oyo.
+002	EXO	033	016	Soki otamboli elongo na biso te, ndenge nini bato bakoyeba ete ngai mpe bato na Yo tozwi ngolu na miso na Yo? Ezali nde tango okotambola elongo na biso nde ngai mpe bato na yo tokokesana na bikolo nyonso oyo ezali kati na mokili.
+002	EXO	033	017	Yawe alobaki na Moyize: — Nakosala makambo nyonso oyo osengi Ngai, pamba te ozwi ngolu na miso na Ngai mpe nayebi yo na kombo na yo.
+002	EXO	033	018	Moyize azongisaki: — Monisa ngai nkembo na Yo.
+002	EXO	033	019	Yawe azongisaki: — Nakolekisa bolamu na Ngai nyonso liboso na yo mpe nakotatola nani oyo nazali liboso na yo; natalisaka ngolu epai ya moto oyo Ngai nasepeli kosalela ngolu, mpe nayokelaka mawa moto oyo Ngai nasepeli koyokela mawa.
+002	EXO	033	020	Kasi okokoka komona elongi na Ngai te, pamba te moto moko te akoki komona Ngai mpe azala na bomoi.
+002	EXO	033	021	Yawe alobaki lisusu: — Ezali na esika moko awa, pembeni na Ngai, epai wapi okoki kotelema na likolo ya libanga.
+002	EXO	033	022	Tango nkembo na Ngai ekoleka, nakotia yo kati na lidusu ya libanga mpe nakozipa yo na loboko na Ngai kino nakoleka.
+002	EXO	033	023	Bongo tango nakolongola loboko na Ngai, okomona Ngai kaka na mokongo; kasi okokoka komona elongi na Ngai te.
+002	EXO	034	001	Yawe alobaki na Moyize: — Bongisa bitando mibale ya mabanga lokola oyo ya liboso; nakokoma na bitando yango maloba oyo ezalaki na likolo ya bitando ya liboso oyo obukaki.
+002	EXO	034	002	Omilengela mpo na lobi na tongo. Na tongo-tongo, okomata na ngomba Sinai mpe okotelema liboso na Ngai, kuna na songe ya ngomba.
+002	EXO	034	003	Moto moko te asengeli komata elongo na yo; na ngomba mobimba, moto moko te amonana; bameme, bantaba to bangombe esengeli mpe te kolia na ebandeli ya ngomba.
+002	EXO	034	004	Moyize abongisaki bitando mibale ya mabanga lokola oyo ya liboso. Bongo na tongo-tongo ya mokolo oyo elandaki, amataki ngomba Sinai ndenge kaka Yawe atindaki ye; amemaki bitando mibale ya mabanga, na maboko na ye.
+002	EXO	034	005	Yawe akitaki kati na lipata, atelemaki wana pene na ye, mpe Moyize abelelaki Kombo ya Yawe.
+002	EXO	034	006	Yawe alekaki liboso ya Moyize, mpe Moyize atatolaki: — Yawe, Yawe, Nzambe na mawa mpe na ngolu, Nzambe oyo asilikaka noki te, atondi na bolingo mpe na boboto,
+002	EXO	034	007	atalisaka bolingo na Ye kino na milongo nkoto, alimbisaka mabe, botomboki mpe masumu, kasi azangaka te kopesa etumbu na moto oyo asali mabe, Nzambe oyo apesaka bakitani etumbu mpo na mabe ya batata na bango kino na molongo ya misato mpe ya minei!
+002	EXO	034	008	Mbala moko, Moyize afukamaki mpe agumbamelaki Yawe;
+002	EXO	034	009	alobaki: — Eh Nkolo, soki penza nazwi ngolu na miso na Yo, nabondeli Yo: tambola kati na biso. Atako bato oyo bazali batomboki, kasi limbisa mabe mpe masumu na biso, mpe zwa biso lokola bato na Yo!
+002	EXO	034	010	Yawe azongisaki: — Nalingi kosala boyokani elongo na bino. Liboso ya bato na yo nyonso, nakosala makambo ya kokamwa oyo etikala nanu kosalema te na mokili mobimba to na ekolo moko. Boye bato nyonso oyo bazali zingazinga na yo bakomona misala ya somo oyo Ngai Yawe nakosala na nzela na yo.
+002	EXO	034	011	Botosa makambo oyo nazali kotinda bino lelo. Nakobengana liboso na bino: bato ya Amori, ya Kanana, ya Iti, ya Perizi, ya Evi mpe ya Yebusi.
+002	EXO	034	012	Bokeba! Bosala boyokani te elongo na bavandi ya mokili oyo bozali kokende, noki te bakokoma motambo kati na bino!
+002	EXO	034	013	Bokweyisa bitumbelo na bango, bopanza bikeko na bango mpe bobuka makonzi oyo bapika mpo na nzambe mwasi Ashera.
+002	EXO	034	014	Bogumbamela nzambe mosusu te, pamba te Yawe andimaka bombanda te; Kombo na Ye ezali Nzambe ya zuwa.
+002	EXO	034	015	Bokeba! Bosala boyokani te elongo na bavandi ya mokili yango; noki te tango bakosambela banzambe na bango mpe bakobonzela yango mbeka, babenga bino mpo ete bolia mbeka na bango elongo;
+002	EXO	034	016	mpe soki bozwi na libala bana na bango ya basi mpo na bana na bino ya mibali, wana bana na bango ya basi bakokoba kosambela banzambe na bango ya bikeko, bakotindika bana na bino ya mibali na kosambela banzambe na bango.
+002	EXO	034	017	Bokosala nzambe ya ekeko te.
+002	EXO	034	018	Bokosala feti ya Mapa ezanga levire. Mikolo sambo, bokolia mapa ezanga levire ndenge natindaki yo. Bokosala yango na tango ekatama, na sanza ya Abibi, pamba te ezali na sanza yango nde bobimaki na Ejipito.
+002	EXO	034	019	Mwana mobali nyonso ya liboso azali ya Ngai; ekozala mpe bongo mpo na mwana mobali nyonso ya liboso kati na bibwele na bino: ezala mwana ngombe, mwana ntaba to mwana meme.
+002	EXO	034	020	Nzokande, mpo na mwana liboso ya ane, bokosikola yango na mwana meme. Soki bosikoli yango te, bokobuka yango kingo. Bokosikola bana na bino nyonso ya liboso ya mibali. Moto moko te akoya kotelema liboso na Ngai maboko pamba.
+002	EXO	034	021	Bokosala mosala mikolo motoba, kasi na mokolo ya sambo, bosengeli kopema: ezala na tango ya kolona to na tango ya kobuka.
+002	EXO	034	022	Bokosala feti ya Baposo mpo na kosepela na tina na bambuma ya liboso ya ble oyo ekomeli, mpe feti ya kobuka bambuma na suka ya mobu.
+002	EXO	034	023	Mbala misato na mobu, mibali nyonso basengeli koya liboso ya Nkolo Yawe, Nzambe ya Isalaele.
+002	EXO	034	024	Mpo na bolamu na yo, nakobengana bikolo liboso na yo mpe nakoyeisa mokili na yo monene. Moto moko te akoluka kobotola mokili na yo tango okobanda komata mbala misato na mobu, mpo na kokutana na Yawe, Nzambe na yo.
+002	EXO	034	025	Okobonzela Ngai te makila ya nyama elongo na mapa batia levire; okobomba te kino lobi na tongo mbeka oyo babonzi mpo na Pasika.
+002	EXO	034	026	Okomema na Ndako ya Yawe, Nzambe na yo, bambuma ya liboso ya mabele na yo. Okolamba te mwana ntaba oyo ezali nanu komela mabele ya mama na yango.
+002	EXO	034	027	Yawe alobaki lisusu na Moyize: — Koma maloba oyo, pamba te ezali na nzela na yango nde nasalaki boyokani elongo na yo mpe Isalaele.
+002	EXO	034	028	Moyize asalaki kuna elongo na Yawe mikolo tuku minei mpe babutu tuku minei; aliaki ata eloko moko te mpe amelaki mayi te. Bongo Moyize akomaki na bitando ya mabanga maloba ya Boyokani oyo babengi mibeko zomi.
+002	EXO	034	029	Nzokande, tango Moyize akitaki wuta na ngomba Sinai, na bitando ya mabanga mibale ya mibeko na maboko na ye, ayebaki te ete elongi na ye ezalaki kongenga, mpo ete asololaki na Yawe.
+002	EXO	034	030	Tango Aron mpe bana nyonso ya Isalaele bamonaki ete elongi ya Moyize ezali kongenga, babangaki kopusana pembeni na ye.
+002	EXO	034	031	Moyize abengaki bango; bongo Aron mpe bakambi nyonso ya lisanga ya Isalaele bapusanaki pembeni ya Moyize, mpe ye Moyize asololaki na bango.
+002	EXO	034	032	Sima na yango, bana nyonso ya Isalaele bapusanaki pembeni ya Moyize mpe ayebisaki bango mibeko nyonso oyo Yawe apesaki ye na ngomba Sinai.
+002	EXO	034	033	Tango Moyize asilisaki kosolola na bango, azipaki elongi na ye na vwale.
+002	EXO	034	034	Kasi tango nyonso Moyize azalaki kokota liboso ya Yawe mpo na kosolola na Ye, azalaki kolongola vwale kino tango akobima. Mpe soki abimi, azalaki koyebisa na bana ya Isalaele mibeko nyonso oyo azalaki kozwa epai na Yawe.
+002	EXO	034	035	Mpe bana ya Isalaele bazalaki komona elongi ya Moyize kongenga. Bongo azalaki kozongisa vwale na elongi na ye kino tango azalaki kozonga mpo na kosolola na Yawe.
+002	EXO	035	001	Moyize asangisaki lisanga mobimba ya bana ya Isalaele mpe alobaki na bango: « Boyoka makambo oyo Yawe atindi bino kosala:
+002	EXO	035	002	— Mikolo motoba, bokosala mosala na bino, kasi mokolo ya sambo ekozala mokolo ya bule, mokolo ya Saba mpo na Yawe, mokolo na bino ya kopema. Moto nyonso oyo akosala mosala na mokolo yango, bakoboma ye.
+002	EXO	035	003	Na mokolo yango ya Saba, bokopelisa ata moto te na bandako na bino. »
+002	EXO	035	004	Moyize alobaki na lisanga mobimba ya bana ya Isalaele: « Boyoka makambo oyo Yawe atindi bino kosala:
+002	EXO	035	005	— Kati na biloko oyo bozali na yango, botia pembeni ndambo oyo bokobonza epai na Yawe lokola makabo. Moto nyonso oyo azali na motema malamu akomemela Yawe makabo: wolo, palata mpe bronze,
+002	EXO	035	006	langi ya ble, ya motane ya pete, ya motane makasi, lino ya kitoko, bapwale ya ntaba,
+002	EXO	035	007	baposo ya bameme batia langi ya motane mpe baposo ya banyama ya ebale; banzete ya akasia,
+002	EXO	035	008	mafuta ya olive mpo na kopelisela mwinda, biloko ya mike-mike ya solo kitoko mpo na kosala mafuta ya epakolami mpe malasi ya solo kitoko,
+002	EXO	035	009	mabanga ya onikisi mpe mabanga mosusu ya talo mpo na kotia yango na efode mpe na elamba ya tolo oyo Nganga-Nzambe akobanda kolata.
+002	EXO	035	010	Tika ete bato nyonso oyo kati na bino bayebi misala, baya kosala misala nyonso oyo Yawe atindi:
+002	EXO	035	011	Mongombo, ndako na yango ya kapo, ezipelo na yango, bibende na yango oyo ezali lokola ndobo, bikangelo na yango, mabaya na yango, makonzi na yango mpe bivandelo na yango;
+002	EXO	035	012	Sanduku elongo na mabaya ya komemela yango, mofinuku na yango, barido,
+002	EXO	035	013	mesa, mabaya na yango, bisalelo na yango nyonso mpe mapa oyo esengeli kozala liboso ya Yawe,
+002	EXO	035	014	etelemiselo ya minda, bisalelo na yango, minda na yango mpe mafuta mpo na kopelisa minda,
+002	EXO	035	015	etumbelo ya malasi, mabaya ya komemela yango, mafuta ya epakolami mpe malasi ya solo kitoko, rido ya ekotelo ya ndako ya kapo epai wapi Mongombo ezali,
+002	EXO	035	016	etumbelo ya bambeka ya kotumba, motalaka na yango ya bronze, mabaya ya komemela yango mpe bisalelo na yango nyonso, sani ya bronze mpe evandelo na yango,
+002	EXO	035	017	batapi ya lopango, makonzi na yango, makolo na yango mpe rido mpo na ekotelo ya lopango,
+002	EXO	035	018	bapike ya Mongombo, bapike ya lopango mpe basinga na yango,
+002	EXO	035	019	bilamba ya mosala ya bonganga-Nzambe mpo na kosala kati na Mongombo, bilamba ya bule mpo na Nganga-Nzambe Aron mpe bilamba ya bonganga-Nzambe mpo na bana na ye ya mibali. »
+002	EXO	035	020	Lisanga mobimba ya bana ya Isalaele batikaki Moyize.
+002	EXO	035	021	Bongo bato nyonso oyo bazalaki na motema malamu mpe na bolingo ya kopesa, babonzelaki Yawe makabo mpo na mosala ya Ndako ya kapo ya Bokutani, mpo na misala nyonso mpe kotonga bilamba ya bule.
+002	EXO	035	022	Bato nyonso oyo bazalaki na motema malamu, ezala mobali to mwasi, bayaki na basheneti, biloko ya matoyi, bapete mpe biloko ya ndenge na ndenge oyo esalema na wolo. Bango nyonso bamemaki biloko na bango ya wolo liboso ya Yawe mpe babonzelaki Ye yango.
+002	EXO	035	023	Bato nyonso oyo bazalaki na langi ya ble, ya motane ya pete, ya motane makasi to mpe ya motane ya kongenga, lino, bapwale ya ntaba, baposo ya bameme batia langi ya motane mpe baposo ya banyama ya ebale, bamemaki yango.
+002	EXO	035	024	Bato nyonso oyo batiaki pembeni makabo ya palata to ya bronze bamemaki yango mpe babonzelaki yango Yawe; ndenge moko mpe na bato oyo bazalaki na banzete ya akasia mpo na misala nyonso.
+002	EXO	035	025	Basi nyonso oyo bayebaki kosala bilamba basalaki yango na maboko na bango mpe bamemaki bilamba ya langi ya ble, ya motane ya pete, ya motane makasi mpe lino ya kitoko.
+002	EXO	035	026	Mpe basi nyonso oyo bazalaki na motema malamu mpe bayebaki kosala bilamba, basalaki yango na bapwale ya ntaba.
+002	EXO	035	027	Bakambi bamemaki mabanga ya talo ya onikisi mpe mabanga mosusu ya talo mpo na kotia yango na efode mpe na elamba ya tolo oyo Nganga-Nzambe akobanda kolata.
+002	EXO	035	028	Bamemaki mpe biloko ya mike-mike ya solo kitoko mpe mafuta mpo na etelemiselo ya minda, mafuta mpo na epakolami mpe malasi ya solo kitoko.
+002	EXO	035	029	Bato nyonso ya Isalaele, ezala basi to mibali, oyo mitema na bango esimbamaki mpo na komema eloko mpo na misala oyo Yawe atindaki na nzela ya Moyize, bamemaki epai na Yawe makabo oyo bango moko bakataki kopesa wuta na mokano ya mitema na bango.
+002	EXO	035	030	Moyize alobaki na bana ya Isalaele: « Botala, Yawe aponi Betisaleyeli, mwana mobali ya Uri, mwana mobali ya Wuri, moto ya libota ya Yuda;
+002	EXO	035	031	atondisi ye na Molimo ya Nzambe, na bwanya, na mayele mpe na boyebi mpo na kosala misala ya lolenge nyonso:
+002	EXO	035	032	mpo na kokanisa mpe kosala misala ya wolo, ya palata mpe ya bronze,
+002	EXO	035	033	mpo na kokata mabanga ya talo, kobamba yango, kosala bililingi na banzete mpe mpo na kosala misala ya lolenge nyonso. »
+002	EXO	035	034	Yawe apesaki na Betisaleyeli mpe Oliabi, mwana mobali ya Ayisamaki, moto ya libota ya Dani, makoki ya koteya bato mosusu lolenge ya kosala.
+002	EXO	035	035	Apesaki bango lisusu makoki ya kosala misala ya lolenge nyonso: kosala bililingi, kosala bilamba na basinga ya langi ya ble, ya motane ya pete, ya motane makasi mpe ya lino, kosala misala ya lolenge nyonso mpe kobongisa ndenge misala esengeli kosalema.
+002	EXO	036	001	Betisaleyeli, Oliabi mpe bato nyonso epai ya banani Yawe apesaki makoki mpe mayele ya kosala misala ya lolenge nyonso mpo na kotonga Mongombo, basalaki yango ndenge kaka Yawe atindaki.
+002	EXO	036	002	Bongo Moyize abengisaki Betisaleyeli, Oliabi mpe bato nyonso epai ya banani Yawe apesaki makoki mpe mayele elongo na bato oyo bamibongisaki mpo na kosala misala yango.
+002	EXO	036	003	Bazwaki na maboko ya Moyize makabo nyonso oyo bana ya Isalaele bamemaki mpo na kosala misala ya botongi Mongombo. Tongo nyonso, bana ya Isalaele bakobaki komema epai ya Moyize makabo oyo bango moko bakataki kopesa wuta na mokano ya mitema na bango.
+002	EXO	036	004	Boye bato oyo bazalaki kosala misala ya kotonga Mongombo batikaki misala na bango
+002	EXO	036	005	mpe bayaki koloba na Moyize: — Makabo oyo bana ya Isalaele bazali kopesa eleki mingi mpo na kosala mosala oyo Yawe atindaki.
+002	EXO	036	006	Bongo Moyize atindaki maloba oyo epai ya bana ya Isalaele: — Tika ete moto moko te, azala mwasi to mobali, apesa lisusu makabo mpo na Mongombo! Boye bato batikaki komema makabo,
+002	EXO	036	007	pamba te biloko nyonso ezalaki ya kokoka mpo na misala nyonso oyo esengelaki kosalema: ezalaki kutu ya koleka.
+002	EXO	036	008	Bato oyo balekaki mayele kati na basali batongaki Mongombo elongo na batapi zomi ya lino ya kitoko oyo batongaki bililingi na likolo na yango, ya langi ya ble, ya motane ya pete mpe ya motane makasi, elongo na bililingi ya basheribe; ezalaki mosala ya bato oyo basalaka bililingi na maboko.
+002	EXO	036	009	Tapi moko na moko ezalaki na bametele pene zomi na minei na molayi; mpe bametele pene mibale, na mokuse. Batapi nyonso ezalaki ndenge moko na mokuse mpe na molayi.
+002	EXO	036	010	Bakangisaki batapi mitano, moko na mosusu, mpe basalaki ndenge moko mpo na batapi mitano mosusu.
+002	EXO	036	011	Batiaki basinga ya langi ya ble, na pembeni ya tapi ya suka ya lisanga ya batapi mitano ya liboso, mpe na pembeni ya tapi ya suka ya lisanga ya batapi mitano ya mibale.
+002	EXO	036	012	Batiaki basinga tuku mitano na suka ya lisanga ya batapi mitano ya liboso, mpe na suka ya lisanga ya batapi mitano ya mibale; basinga yango etalanaki.
+002	EXO	036	013	Basalaki na wolo bibende tuku mitano oyo ezali lokola ndobo; mpe bakangisaki na bibende oyo ezali lokola ndobo lisanga ya batapi mitano ya liboso mpe lisanga ya batapi mitano ya mibale. Boye, Mongombo ebimaki eloko moko.
+002	EXO	036	014	Basalaki batapi zomi na moko, na bapwale ya ntaba mpo na kotia yango na likolo ya Mongombo.
+002	EXO	036	015	Molayi ya tapi moko na moko ezalaki na bametele pene zomi na mitano mpe mokuse na yango ezalaki na bametele pene mibale. Batapi nyonso zomi na moko ezalaki ndenge moko na molayi mpe na mokuse.
+002	EXO	036	016	Bakangisaki batapi mitano na ngambo moko, mpe batapi motoba na ngambo mosusu.
+002	EXO	036	017	Batiaki basinga tuku mitano na suka ya liboke ya batapi ya liboso, mpe basinga tuku mitano na suka ya liboke ya batapi ya mibale.
+002	EXO	036	018	Basalaki na bronze bibende tuku mitano oyo ezali lokola ndobo; bakotisaki yango na basinga mpo na kokangisa Mongombo mpo ete ekoma eloko moko.
+002	EXO	036	019	Basalelaki baposo ya bameme oyo bapakola langi ya motane mpo na kozipa Mongombo, mpe babakisaki na likolo na yango baposo ya banyama ya ebale.
+002	EXO	036	020	Basalaki bizingelo ya Mongombo na banzete ya akasia mpe batelemisaki yango.
+002	EXO	036	021	Ezingelo moko na moko ezalaki na bametele mitano na molayi, mpe basantimetele tuku sambo na mitano na mokuse.
+002	EXO	036	022	Babetaki banzete mibale-mibale na ezingelo moko na moko; basalaki bongo mpo na bizingelo nyonso ya Mongombo.
+002	EXO	036	023	Batiaki bizingelo tuku mibale na ngambo ya Negevi, na sude ya Mongombo,
+002	EXO	036	024	mpe makolo tuku minei ya palata, na se ya bizingelo tuku mibale: makolo mibale na se ya ezingelo moko na moko oyo babeta banzete mibale;
+002	EXO	036	025	bizingelo tuku mibale na ngambo mosusu ya Mongombo, na nor,
+002	EXO	036	026	elongo na makolo na yango tuku minei ya palata: makolo mibale mpo na ezingelo moko na moko;
+002	EXO	036	027	bizingelo motoba na suka ya Mongombo, na ngambo ya weste,
+002	EXO	036	028	mpe bizingelo mibale na suka mpo na kolendisa Mongombo.
+002	EXO	036	029	Bizingelo yango ezalaki ya kofungwama na se, kasi esalaki songe na likolo mpe ekotaki na lopete ya liboso: nyonso mibale ezalaki ndenge moko mpe elendisaki Mongombo.
+002	EXO	036	030	Boye, bizingelo ezalaki mwambe elongo na makolo na yango ya palata zomi na motoba: makolo mibale-mibale na se ya ezingelo moko na moko.
+002	EXO	036	031	Sima, basalaki, na nzete ya akasia, mabaya mitano mpo na bizingelo ya ngambo moko ya Mongombo,
+002	EXO	036	032	mabaya mitano mpo na bizingelo ya ngambo mosusu ya Mongombo, mabaya mitano mpo na bizingelo oyo ezalaki na suka ya Mongombo, na ngambo ya weste.
+002	EXO	036	033	Libaya ya kati elekaki na kati-kati ya bizingelo, elekaki ngambo na ngambo.
+002	EXO	036	034	Babambaki wolo na bizingelo, basalaki bapete na yango na wolo mpo na kolekisa mabaya; mpe babambaki mabaya wolo.
+002	EXO	036	035	Basalaki rido ya langi ya ble, ya motane ya pete, ya motane makasi mpe na lino ya kitoko oyo batongaki bililingi na likolo na yango. Mpe bato oyo basalaka bililingi batongaki basheribe ya kitoko na rido yango.
+002	EXO	036	036	Batiaki yango na makonzi minei ya nzete ya akasia, oyo bapakola wolo; bakangisaki yango na bibende ya wolo oyo ezali lokola ndobo mpe batelemisaki yango na makolo minei ya palata.
+002	EXO	036	037	Mpo na ekotelo ya Ndako ya kapo, asalaki rido ya langi ya ble, ya motane ya pete, ya motane makasi mpe na lino ya kitoko; ezalaki mosala ya bato oyo batongaka bililingi na bilamba.
+002	EXO	036	038	Basalaki na wolo bibende mitano oyo ezali lokola ndobo mpo na kokangisela rido, mpe banzete mitano ya akasia babamba wolo; basalaki makolo mitano ya bronze mpo na kotelemisela banzete yango.
+002	EXO	037	001	Betisaleyeli asalaki Sanduku na nzete ya akasia. Molayi na yango ezalaki na basantimetele pene nkama moko na tuku mibale na mitano; mokuse na yango, basantimetele pene tuku sambo na mitano; mpe bosanda na yango, basantimetele pene tuku sambo na mitano.
+002	EXO	037	002	Abambaki yango wolo ya peto, na kati mpe na libanda. Alatisaki mpe songe na yango wolo.
+002	EXO	037	003	Asalelaki yango bapete minei ya wolo mpe atiaki yango basonge minei: mibale na ngambo moko, mpe mibale na ngambo mosusu.
+002	EXO	037	004	Asalaki mabaya mibale na nzete ya akasia mpe abambaki yango wolo.
+002	EXO	037	005	Akotisaki mabaya yango na bapete oyo ezali na songe ya Sanduku, mpo na komemela yango.
+002	EXO	037	006	Asalaki mofinuku na wolo ya peto. Molayi na yango ezalaki na basantimetele pene nkama moko na tuku mibale na mitano; mpe mokuse na yango, basantimetele pene tuku sambo na mitano.
+002	EXO	037	007	Asalaki bikeko mibale ya basheribe oyo atiaki na suka mibale ya mofinuku; asalaki yango na wolo oyo batuti na nzela ya marto.
+002	EXO	037	008	Atiaki ekeko moko ya sheribe na suka moko, mpe ekeko mosusu, na suka mosusu. Akangisaki bikeko ya basheribe na mofinuku, na suka nyonso mibale.
+002	EXO	037	009	Mapapu ya basheribe ezalaki ya kofungwama na likolo mpo na kobatela mofinuku; bazalaki ngambo na ngambo, mpe miso na bango etalaki mofinuku.
+002	EXO	037	010	Asalaki mesa moko na mabaya ya akasia. Molayi na yango ezalaki na basantimetele pene nkama moko; mokuse na yango, basantimetele pene tuku mitano; mpe bosanda na yango, basantimetele pene tuku sambo na mitano.
+002	EXO	037	011	Abambaki yango wolo ya peto mpe atiaki lisusu wolo na pembeni na yango.
+002	EXO	037	012	Azingelaki mesa yango na libaya oyo ezalaki na basantimetele pene mwambe na monene mpe atiaki wolo na pembeni ya libaya yango.
+002	EXO	037	013	Asalaki bapete minei ya wolo mpe atiaki yango na songe minei ya mesa epai wapi makolo na yango ezalaki.
+002	EXO	037	014	Bapete ezalaki pene ya libaya oyo ezingelaki mesa, mpe bakotisaki kati na bapete yango mabaya ya komemela Sanduku.
+002	EXO	037	015	Asalaki na nzete ya akasia mabaya ya komemela mesa, mpe abambaki yango wolo.
+002	EXO	037	016	Asalaki na wolo ya peto basani, bakopo, bambilika mpe bambeki, mpo na makabo ya masanga.
+002	EXO	037	017	Asalaki na wolo ya peto etelemiselo ya minda; asalaki yango na wolo oyo batuti na nzela ya marto. Evandelo na yango, likonzi na yango, bakeni na yango, bambuma mpe bafololo na yango, nyonso ezalaki ekangana lokola eloko moko.
+002	EXO	037	018	Mipanzi ya likonzi ya etelemiselo ya minda ezalaki na bitape motoba: misato na ngambo moko, mpe misato na ngambo mosusu.
+002	EXO	037	019	Na likolo ya etape moko na moko ya etelemiselo ya minda, atiaki bakeni misato oyo ezali na lolenge ya fololo ya madame, elongo na bambuma mpe bafololo.
+002	EXO	037	020	Na moto ya likonzi ya etelemiselo ya minda, ezalaki na bakeni minei oyo ezali na lolenge ya bafololo ya madame, elongo na bambuma mpe bafololo.
+002	EXO	037	021	Na se ya bitape mibale-mibale ya etelemiselo ya minda, ezalaki na mbuma moko; mpe ezalaki bongo mpo na bitape nyonso motoba ya etelemiselo ya minda.
+002	EXO	037	022	Bambuma mpe bitape ezalaki ekangana na etelemiselo ya minda; mpe nyonso esalemaki na wolo ya peto, wolo oyo batuti na nzela ya marto.
+002	EXO	037	023	Asalaki minda sambo; mpe asalaki na wolo ya peto bisimbelo elongo na basani ya putulu.
+002	EXO	037	024	Asalelaki bakilo tuku misato na minei ya wolo ya peto mpo na kosala etelemiselo ya minda mpe bisalelo na yango nyonso.
+002	EXO	037	025	Betisaleyeli asalaki etumbelo ya malasi na nzete ya akasia. Molayi mpe mokuse na yango ezalaki ndenge moko, basantimetele pene tuku mitano; mpe bosanda na yango ezalaki na metele moko. Maseke na yango ekangamaki na etumbelo mpe esalaki kaka eloko moko.
+002	EXO	037	026	Abambaki wolo ya peto na likolo ya etumbelo, na mipanzi na yango mpe na maseke na yango; mpe azingelaki pembeni na yango na libende ya wolo.
+002	EXO	037	027	Asalaki mpo na etumbelo bapete ya wolo na se ya ebende ya wolo oyo ezingeli yango: mibale na ngambo moko, mpe mibale na ngambo mosusu; mpo na kokotisa mabaya ya komemela etumbelo.
+002	EXO	037	028	Asalaki mabaya yango na nzete ya akasia mpe abambaki yango wolo.
+002	EXO	037	029	Asalaki mafuta ya epakolami ya bule, malasi ya solo kitoko mpe ya peto, oyo esalemi na mosali malasi.
+002	EXO	038	001	Betisaleyeli asalaki na mabaya ya nzete ya akasia etumbelo ya bambeka ya kotumba; ezalaki ndenge moko na molayi mpe na mokuse, bametele mibale na basantimetele tuku mitano; bongo bosanda na yango ezalaki ya metele moko na basantimetele tuku mitano.
+002	EXO	038	002	Asalaki maseke minei na basonge nyonso minei ya etumbelo, mpo ete maseke mpe etumbelo esala eloko moko; mpe abambaki bronze na etumbelo.
+002	EXO	038	003	Asalaki na bronze banzungu ya mike mpo na kolongola putulu ya moto, bapawu, basani ya minene, bakanya mpe basani mpo na komema makala ya moto.
+002	EXO	038	004	Asalaki motalaka ya bronze mpo na etumbelo; akangisaki bapete minei ya bronze na basonge nyonso minei ya motalaka.
+002	EXO	038	005	Asalaki na bronze bapete minei oyo atiaki na basonge nyonso minei ya motalaka mpo na koyamba mabaya.
+002	EXO	038	006	Asalaki na nzete ya akasia, mabaya mpo na etumbelo mpe abambaki yango bronze.
+002	EXO	038	007	Boye, mpo na komema etumbelo, bakotisaki mabaya yango na bapete oyo ezali na basonge mibale ya etumbelo. Bongo etumbelo yango ezalaki polele kati na yango.
+002	EXO	038	008	Asalaki lisusu na bronze ya bitalatala ya basi oyo bazalaki kosangana na ekuke ya Ndako ya kapo ya Bokutani: sani monene mpo na komipetola mpe evandelo na yango.
+002	EXO	038	009	Tala ndenge atongaki lopango ya Mongombo: ngambo ya sude oyo ezalaki ya bametele pene tuku mitano na molayi, ezipamaki na rido ya lino oyo basali bilamba basalaki.
+002	EXO	038	010	Makonzi na yango tuku mibale mpe bivandelo tuku mibale esalemaki na bronze; bongo bibende ya makonzi elongo na biloko na yango ya kosimbela ezalaki ya palata.
+002	EXO	038	011	Ngambo ya nor ezalaki na bametele pene tuku mitano na molayi, na makonzi tuku mibale mpe na makolo tuku mibale, oyo esalema na bronze. Makonzi yango ezalaki na bibende ya palata egumbama lokola ndobo elongo na biloko na yango ya kosimbela, oyo ezalaki ya palata.
+002	EXO	038	012	Ngambo ya weste ezalaki na bametele pene tuku mibale na mitano na mokuse mpe barido elongo na makonzi zomi, makolo zomi, bibende ya palata egumbama lokola ndobo mpe biloko na yango ya kosimbela.
+002	EXO	038	013	Ngambo ya este ya lopango ya Mongombo, epai wapi moyi ebimelaka, ezalaki na bametele pene tuku mibale na mitano na mokuse.
+002	EXO	038	014	Ngambo moko ya ekuke ezalaki na barido ya bametele pene sambo na basantimetele tuku mitano, elongo na makonzi misato mpe makolo misato.
+002	EXO	038	015	Ngambo mosusu ya ekuke ezalaki mpe na barido ya bametele pene sambo na basantimetele tuku mitano, elongo na makonzi misato mpe makolo misato.
+002	EXO	038	016	Barido nyonso zingazinga ya lopango ezalaki ya lino ya kitoko oyo batongaki bililingi na likolo na yango.
+002	EXO	038	017	Makolo ya makonzi ezalaki ya bronze; bibende egumbama lokola ndobo mpe biloko na yango ya kosimbela ezalaki ya palata, mpe balatisaki basonge na yango palata. Makonzi nyonso ya lopango ezalaki na biloko ya palata ya kosimbela.
+002	EXO	038	018	Rido ya ekuke ya lopango ezalaki ya langi ya ble, ya motane ya pete, ya motane makasi mpe ya lino ya kitoko oyo batongaki bililingi na likolo na yango; ezalaki mosala ya bato oyo batongaka bililingi na bilamba. Molayi na yango ezalaki na bametele pene zomi, mpe bosanda na yango, bametele pene mibale na basantimetele pene tuku mitano, ndenge barido nyonso ya lopango ezalaki.
+002	EXO	038	019	Ezalaki mpe na makonzi minei mpe bivandelo minei ya bronze. Bibende na yango oyo egumbama lokola ndobo mpe biloko na yango ya kosimbela rido ezalaki ya palata, mpe balatisaki basonge na yango palata.
+002	EXO	038	020	Bapike nyonso ya Mongombo mpe ya lopango ezalaki ya bronze.
+002	EXO	038	021	Tala motuya ya biloko oyo basalelaki Mongombo oyo, kati na yango, ezalaki na buku ya Boyokani, ndenge kaka Moyize atindaki. Balevi batongaki yango na bokambami ya Itamari, mwana mobali ya Nganga-Nzambe Aron.
+002	EXO	038	022	Betisaleyeli, mwana mobali ya Uri, mwana mobali ya Wuri, ya libota ya Yuda, asalaki nyonso oyo Yawe atindaki Moyize.
+002	EXO	038	023	Asungamaki na Oliabi, mwana mobali ya Ayisamaki, moto ya libota ya Dani, mosali mpe motongi bililingi na maboko, oyo azalaki kobimisa makanisi mpe kotonga bililingi na bilamba ya langi ya ble, ya motane ya pete, ya motane makasi mpe na lino ya kitoko.
+002	EXO	038	024	Wolo nyonso oyo basalelaki mpo na kotonga mpe mpo na misala nyonso ya Mongombo, wolo oyo babonzelaki Yawe, ezalaki bakilo nkoto moko mpe bagrame nkama moko na tuku mibale, kolanda ndenge bamekaka kilo kati na Mongombo. Wolo nyonso wana ewutaki na makabo ya kotombola.
+002	EXO	038	025	Palata oyo bazwaki na maboko ya bato oyo batangamaki na lisanga, ezalaki bakilo nkoto misato mpe bagrame nkama minei na tuku minei, kolanda ndenge bamekaka kilo kati na Mongombo.
+002	EXO	038	026	Elingi koloba ete moto nyonso oyo batangaki amemaki bagrame mitano na badesigrame sambo, kolanda ndenge bamekaka kilo kati na Mongombo. Bato nyonso oyo batangamaki, oyo bazalaki na mibu ya mbotama tuku mibale mpe koleka, bazalaki nkoto nkama motoba na misato na nkama mitano na tuku mitano.
+002	EXO	038	027	Basalelaki bakilo ya palata nkoto misato na nkama minei na tuku mibale mpo na kosala bivandelo nkama moko ya Mongombo mpe barido nkama moko: elingi koloba ete basalelaki bakilo pene tuku misato na minei mpe bagrame pene nkama mibale mpo na evandelo moko.
+002	EXO	038	028	Shekeli nkoto moko na nkama sambo na tuku sambo na mitano oyo etikalaki, basalelaki yango bibende oyo egumbama lokola ndobo, biloko ya kosimbela rido mpe balatiselaki yango basonge ya makonzi.
+002	EXO	038	029	Bronze oyo ewutaki na makabo ya kotombola ezalaki bakilo pene nkoto mibale na nkama minei na tuku mibale na moko.
+002	EXO	038	030	Bazwaki yango mpo na kosala bivandelo ya ekuke ya Ndako ya kapo ya Bokutani, etumbelo ya bronze elongo na motalaka na yango mpe bisalelo na yango nyonso.
+002	EXO	038	031	Basalelaki yango lisusu bivandelo nyonso oyo ezalaki pembeni-pembeni ya lopango ya Mongombo, bivandelo ya ekotelo na yango, bapike nyonso ya Mongombo mpe bapike oyo ezingelaki lopango.
+002	EXO	039	001	Batongaki na langi ya ble, ya motane ya pete mpe ya motane makasi bilamba ya mosala ya bonganga-Nzambe kati na Mongombo; batongaki mpe bilamba ya bule mpo na Aron, ndenge kaka Yawe atindaki yango na Moyize.
+002	EXO	039	002	Betisaleyeli atongaki efode ya wolo, ya langi ya ble, ya motane ya pete, ya motane makasi mpe na lino ya kitoko oyo batongaki bililingi na likolo na yango; asalaki yango kitoko penza.
+002	EXO	039	003	Batandaki mabende mike-mike ya wolo, bakataki-kataki yango lokola basinga mpe bakotisaki kati na langi ya ble mpe ya motane ya pete, langi ya motane makasi mpe lino ya kitoko; ezalaki mosala ya bato oyo basalaka bililingi na maboko.
+002	EXO	039	004	Atiaki bankamba mibale na basuka na yango mibale mpo na kolata efode yango; bankamba elekaki likolo ya mapeka.
+002	EXO	039	005	Mokaba ya efode esalemaki lolenge moko na efode: ezalaki ya wolo, ya langi ya ble, ya motane ya pete, ya motane makasi mpe na lino ya kitoko oyo batongaki bililingi na likolo na yango, ndenge kaka Yawe atindaki Moyize.
+002	EXO	039	006	Abongisaki mabanga ya onikisi, mpe bakangaki yango na bikangelo ya wolo; akomaki likolo na yango bakombo ya bana mibali ya Isalaele, ndenge basalaka bililingi na kashe.
+002	EXO	039	007	Atiaki yango na bankamba ya efode lokola mabanga ya ekaniseli mpo na bana mibali ya Isalaele, ndenge kaka Yawe atindaki Moyize.
+002	EXO	039	008	Betisaleyeli asalaki elamba ya tolo; esalemaki kitoko penza. Atongaki yango ndenge moko na efode: ezalaki ya wolo, ya langi ya ble, ya motane ya pete, ya motane makasi mpe na lino ya kitoko oyo batongaki bililingi na likolo na yango.
+002	EXO	039	009	Agumbaki yango na biteni mibale; molayi mpe mokuse ezalaki ndenge moko, basantimetele pene tuku mibale na mitano.
+002	EXO	039	010	Atiaki milongo minei ya mabanga ya talo na likolo ya elamba ya tolo: na molongo ya liboso, libanga ya saridwane, ya topaze mpe ya emerode.
+002	EXO	039	011	Na molongo ya mibale, libanga ya ribisi, ya safiri mpe ya diama.
+002	EXO	039	012	Na molongo ya misato, libanga ya opale, ya agate mpe ya ametisite;
+002	EXO	039	013	na molongo ya minei, libanga ya krizolite, ya onikisi mpe ya jasipe. Akangaki mabanga yango na bikangelo ya wolo.
+002	EXO	039	014	Mabanga yango ezalaki zomi na mibale kolanda bakombo ya bana mibali ya Isalaele. Na likolo ya libanga moko na moko, bakomaki kombo ya moko kati na mabota zomi na mibale; bakomaki yango ndenge basalaka bililingi na kashe.
+002	EXO	039	015	Basalaki basheneti ya wolo ya peto mpo na elamba ya tolo; basalaki yango ndenge bakangaka suki ya maboko.
+002	EXO	039	016	Basalaki bikangelo mibale ya wolo mpe bapete mibale ya wolo mpe bakangisaki yango na basonge mibale ya elamba ya tolo.
+002	EXO	039	017	Alekisaki basheneti mibale ya wolo kati na bapete mibale oyo atiaki na basonge mibale ya elamba ya tolo.
+002	EXO	039	018	Akangisaki basonge mibale mosusu ya basheneti oyo mibale na bikangelo mibale oyo atiaki na bankamba ya efode; bankamba yango elekaki na liboso.
+002	EXO	039	019	Asalaki lisusu bapete mibale ya wolo mpe atiaki yango na basonge mibale ya se ya elamba ya tolo, na ngambo ya kati oyo etala efode.
+002	EXO	039	020	Asalaki bapete mosusu mibale ya wolo oyo atiaki na bankamba mibale ya efode, na se, na liboso mpe na pembeni ya mokaba ya efode.
+002	EXO	039	021	Akangisaki na singa ya langi ya ble bapete ya wolo ya elamba ya tolo mpe bapete ya wolo ya efode, mpo ete elamba ya tolo ezala likolo ya efode mpe elongwa te na likolo na yango. Asalaki yango ndenge kaka Yawe atindaki Moyize.
+002	EXO	039	022	Basalaki nzambala oyo ezalaki na se ya efode: ezalaki ya langi ya ble na mobimba na yango, mpe ezalaki mosala ya bato oyo basalaka bilamba na maboko.
+002	EXO	039	023	Nzambala ezalaki na lidusu na kati-kati mpo na kokotisa moto; batongaki pembeni-pembeni ya lidusu yango poso ya makasi mpo ete epasuka te.
+002	EXO	039	024	Na se mpe zingazinga ya nzambala, batiaki bambuma ya grenade bakangisa na singa ya langi ya ble, ya motane ya pete, ya motane makasi mpe na singa ya lino ya kitoko oyo batongaki bililingi na likolo na yango.
+002	EXO	039	025	Basalaki na wolo ya peto bangonga ya mike-mike mpe batiaki yango kati na bagrenade, na se ya nzambala.
+002	EXO	039	026	Balandisaki yango boye: ngonga moko ya moke, grenade moko, mpe bongo na bongo, zingazinga ya basonge nyonso ya nzambala mpo na mosala, ndenge kaka Yawe atindaki Moyize.
+002	EXO	039	027	Batongaki na lino ya kitoko, mpo na Aron mpe bana na ye ya mibali, banzambala,
+002	EXO	039	028	bitendi ya lino ya kitoko mpo na moto, bikoti, bakaputula
+002	EXO	039	029	mpe mikaba oyo batonga bililingi na likolo na yango na basinga ya lino ya langi ya ble, ya motane ya pete mpe ya motane makasi, ndenge kaka Yawe atindaki Moyize.
+002	EXO	039	030	Basalaki na wolo ya peto medaye lokola elembo ya libulisi na ye epai na Yawe mpe bakomaki na likolo na yango ndenge basalaka bililingi na kashe: abulisama mpo na Yawe.
+002	EXO	039	031	Batiaki yango singa ya ble mpo na kokangisa yango na likolo ya kitendi ya moto, ndenge kaka Yawe atindaki Moyize.
+002	EXO	039	032	Boye misala nyonso ya Mongombo, ya Ndako ya kapo ya Bokutani, esilaki. Bana ya Isalaele basalaki misala nyonso ndenge kaka Yawe atindaki Moyize.
+002	EXO	039	033	Bamemaki Mongombo epai ya Moyize, elongo na biloko na yango nyonso: ndako ya kapo mpe bibende na yango oyo ezali lokola ndobo, bikangelo na yango, mabaya na yango, makonzi mpe bivandelo na yango,
+002	EXO	039	034	ezipelo ya poso ya meme oyo bapakola langi ya motane, ezipelo ya poso ya nyama ya ebale mpe barido,
+002	EXO	039	035	Sanduku ya Litatoli, mabaya ya komemela yango mpe mofinuku na yango,
+002	EXO	039	036	mesa, bisalelo na yango nyonso mpe mapa oyo esengeli kozala liboso ya Yawe;
+002	EXO	039	037	etelemiselo ya minda, oyo basala na wolo ya peto, minda na yango, bisalelo na yango nyonso mpe mafuta mpo na kopelisa minda yango,
+002	EXO	039	038	etumbelo oyo esalema na wolo, mafuta ya epakolami, malasi ya solo kitoko, rido ya ekotelo ya ndako ya kapo,
+002	EXO	039	039	etumbelo esalema na bronze, motalaka na yango ya bronze, mabaya ya komemela yango mpe bisalelo na yango nyonso, sani ya bronze mpe evandelo na yango,
+002	EXO	039	040	batapi ya lopango, makonzi na yango, makolo na yango, rido mpo na ekotelo ya lopango, basinga na yango, bapike na yango, bisalelo nyonso mpo na mosala ya Mongombo, Ndako ya kapo ya Bokutani,
+002	EXO	039	041	bilamba ya mosala ya bonganga-Nzambe mpo na kosala kati na Mongombo, bilamba ya bule mpo na Nganga-Nzambe Aron mpe bilamba ya mosala ya bonganga-Nzambe mpo na bana na ye ya mibali.
+002	EXO	039	042	Bana ya Isalaele basalaki misala nyonso ndenge kaka Yawe atindaki Moyize.
+002	EXO	039	043	Moyize atalaki malamu misala yango mpe amonaki ete basalaki yango ndenge kaka Yawe atindaki. Boye Moyize apambolaki bango.
+002	EXO	040	001	Yawe alobaki na Moyize:
+002	EXO	040	002	— Na mokolo ya liboso ya sanza ya liboso, okotelemisa Mongombo, Ndako ya kapo ya Bokutani;
+002	EXO	040	003	okotia kati na yango Sanduku ya Litatoli mpe okozipa yango na rido.
+002	EXO	040	004	Okokotisa mesa mpe okotia biloko oyo esengeli kozala likolo na yango; okokotisa etelemiselo ya minda mpe okopelisa minda na yango.
+002	EXO	040	005	Okotia etumbelo ya malasi, oyo basala na wolo liboso ya Sanduku ya Litatoli mpe okotia rido, na ekotelo ya Mongombo.
+002	EXO	040	006	Okotia etumbelo ya mbeka ya kotumba liboso ya ekotelo ya Mongombo, Ndako ya kapo ya Bokutani,
+002	EXO	040	007	mpe okotia sani mpo na komipetola na kati-kati ya Ndako ya kapo ya Bokutani mpe etumbelo, mpe okotia mayi kati na yango.
+002	EXO	040	008	Okotonga lopango zingazinga na yango mpe okotia rido na ekotelo ya lopango.
+002	EXO	040	009	Okozwa mafuta ya epakolami, okopakola Mongombo mpe nyonso oyo ezali kati na yango, mpe okobulisa yango elongo na bisalelo na yango nyonso mpe yango ekozala bule.
+002	EXO	040	010	Okopakola mafuta na etumbelo ya mbeka ya kotumba mpe bisalelo na yango nyonso; okobulisa etumbelo mpe yango ekozala bule koleka.
+002	EXO	040	011	Okopakola mafuta na sani mpo na komipetola mpe evandelo na yango, mpe okobulisa yango.
+002	EXO	040	012	Okomema Aron mpe bana na ye ya mibali na ekotelo ya Ndako ya kapo ya Bokutani mpe okosukola bango na mayi.
+002	EXO	040	013	Sima na yango, okolatisa Aron bilamba ya bule, okopakola ye mafuta mpe okobulisa ye mpo ete asalela Ngai lokola Nganga-Nzambe.
+002	EXO	040	014	Okomema mpe bana na ye ya mibali mpe okolatisa bango banzambala.
+002	EXO	040	015	Okopakola bango mafuta ndenge opakolaki tata na bango, mpo ete basalela Ngai lokola Banganga-Nzambe: epakolami na bango ekopesa bango nzela mpo na kosala mosala ya bonganga-Nzambe libela na libela kati na bakitani na bango.
+002	EXO	040	016	Moyize asalaki nyonso oyo Yawe atindaki ye.
+002	EXO	040	017	Boye, Mongombo etelemisamaki na mokolo ya liboso ya sanza ya liboso na mobu ya mibale.
+002	EXO	040	018	Tango Moyize atelemisaki Mongombo, atiaki bivandelo na esika na yango, atiaki bakadre, akotisaki mabaya mpe atelemisaki makonzi;
+002	EXO	040	019	atandaki ndako ya kapo na likolo ya Mongombo mpe atiaki ezipelo na likolo ya ndako ya kapo, ndenge kaka Yawe atindaki ye Moyize.
+002	EXO	040	020	Moyize azwaki bitando nyonso mibale ya mabanga ya Boyokani mpe atiaki yango kati na Sanduku, akangisaki mabaya na Sanduku mpe atiaki esika ya bolimbisi masumu na likolo na yango.
+002	EXO	040	021	Moyize akotisaki Sanduku kati na Mongombo mpe atiaki rido mpo na kokabola Esika ya bule mpe Esika-Oyo-Eleki-Bule, mpo ete bato bakoka komona Sanduku ya Litatoli te, ndenge kaka Yawe atindaki ye.
+002	EXO	040	022	Moyize atiaki mesa kati na Ndako ya kapo ya Bokutani na ngambo ya nor ya Mongombo libanda ya rido;
+002	EXO	040	023	mpe atiaki mapa na molongo, liboso ya Yawe, ndenge kaka Yawe atindaki ye Moyize.
+002	EXO	040	024	Atiaki etelemiselo ya minda kati na Ndako ya kapo ya Bokutani, etalana na mesa, na ngambo ya sude ya Mongombo.
+002	EXO	040	025	Apelisaki minda liboso ya Yawe, ndenge kaka Yawe atindaki ye Moyize.
+002	EXO	040	026	Atiaki etumbelo ya wolo kati na Ndako ya kapo ya Bokutani liboso ya rido,
+002	EXO	040	027	mpe atumbaki likolo na yango ansa ya solo kitoko, ndenge kaka Yawe atindaki ye Moyize.
+002	EXO	040	028	Bongo atiaki rido na ekotelo ya Mongombo.
+002	EXO	040	029	Atiaki etumbelo ya mbeka ya kotumba pembeni ya ekuke ya Mongombo, Ndako ya kapo ya Bokutani, abonzaki likolo na yango bambeka ya kotumba mpe makabo ya mbuma, ndenge kaka Yawe atindaki ye Moyize.
+002	EXO	040	030	Atiaki sani mpo na komipetola na kati-kati ya Ndako ya kapo ya Bokutani mpe etumbelo mpe atiaki kati na yango mayi ya kosukola.
+002	EXO	040	031	Moyize, Aron mpe bana mibali ya Aron basalelaki yango mpo na kosukola maboko mpe makolo na bango.
+002	EXO	040	032	Bazalaki komisukola tango nyonso bazalaki kokota na Ndako ya kapo ya Bokutani to kopusana pembeni ya etumbelo, ndenge kaka Yawe atindaki ye Moyize.
+002	EXO	040	033	Moyize atelemisaki lopango pembeni-pembeni ya Mongombo mpe ya etumbelo, mpe atiaki rido na ekuke ya lopango. Ezali boye nde Moyize asilisaki mosala.
+002	EXO	040	034	Lipata ezipaki Ndako ya kapo ya Bokutani mpe nkembo na Yawe etondaki kati na Mongombo.
+002	EXO	040	035	Moyize akokaki lisusu te kokota na Ndako ya kapo ya Bokutani, pamba te lipata evandaki likolo na yango mpe nkembo na Yawe etondaki kati na Mongombo.
+002	EXO	040	036	Tango nyonso lipata ezalaki kolongwa na likolo ya Ndako ya kapo ya Bokutani, bana ya Isalaele bazalaki kotelema mpo na kokende na mobembo na bango.
+002	EXO	040	037	Kasi soki lipata elongwe te, bango mpe bazalaki kolongwa te, bazalaki kozela kino na mokolo oyo lipata ekolongwa.
+002	EXO	040	038	Na moyi, lipata ya Yawe ezalaki na likolo ya Mongombo; bongo na butu, moto ezalaki kongala kati na lipata, mpe miso ya bana nyonso ya Isalaele ezalaki komona yango. Esalemaki bongo na mibembo na bango nyonso.
+#

@@ -1,0 +1,96 @@
+051	COL	001	001	Polo, ntoma ya Yesu-Klisto, kolanda mokano ya Nzambe, mpe ndeko Timote;
+051	COL	001	002	Epai ya bandeko oyo, kati na engumba Kolose, bazali bule mpe bayengebene kati na Klisto: Tika ete ngolu mpe kimia epesamela bino kowuta na Nzambe, Tata na biso!
+051	COL	001	003	Tozongisaka tango nyonso matondi epai ya Nzambe, Tata ya Yesu-Klisto, Nkolo na biso, tango tosambelaka mpo na bino,
+051	COL	001	004	pamba te toyokaki sango ya kondima na bino kati na Yesu-Klisto, mpe sango ya bolingo na bino mpo na basantu nyonso.
+051	COL	001	005	Kondima mpe bolingo yango etongami na likolo ya elikya ya bomengo oyo Nzambe abongisela bino kati na Likolo; elikya yango ebotamaki kati na bino tango boyokaki Liloba ya solo, Sango Malamu
+051	COL	001	006	oyo ekomaki kino epai na bino. Sango Malamu yango epanzani mokili mobimba, ezali kobota bambuma ebele mpe ezali kokende liboso, ndenge kaka esalaki kati na bino wuta mokolo oyo boyokaki yango mpe bozwaki penza bososoli ya kokoka na tina na ngolu ya Nzambe.
+051	COL	001	007	Ezali molingami Epafrasi, moninga na biso ya mosala, nde ateyaki bino Sango Malamu yango; azali mosali ya Klisto mpe asalaka na bosembo epai na bino.
+051	COL	001	008	Ezali mpe kaka ye moto ayebisaki biso ndenge nini Molimo atindikaka bino na bolingo.
+051	COL	001	009	Yango wana, wuta mokolo oyo toyokaki sango na tina na bino, totikaka te kobondela mpo na bino mpe kosenga na Nzambe ete atondisa bino na boyebi ya mokano na Ye, na bwanya nyonso mpe na bososoli oyo Molimo apesaka,
+051	COL	001	010	mpo ete bozala na bizaleli oyo ebongi liboso ya Nkolo, mpo ete bosepelisa Ye na nyonso, mpo ete bobota bambuma na nzela ya lolenge nyonso ya misala na bino ya malamu, mpo ete bokola kati na boyebi ya Nzambe,
+051	COL	001	011	mpo ete bokoma bato na nguya kati na makambo nyonso kolanda makasi ya nkembo na Ye, mpo ete boyikela nyonso mpiko mpe bozala na molende mpe esengo kino na suka;
+051	COL	001	012	mpe mpo ete, na esengo nyonso, bozongisaka matondi epai ya Tata oyo apesaki bino makoki ya kosangana na libula ya basantu kati na Bokonzi ya pole. Pamba te:
+051	COL	001	013	Akangolaki biso na bokonzi ya molili mpe amemaki biso kati na bokonzi ya Mwana na Ye ya bolingo,
+051	COL	001	014	oyo, kati na Ye, tozwi lisiko mpe bolimbisi ya masumu.
+051	COL	001	015	Klisto azali elilingi ya Nzambe oyo amonanaka te, azala liboso ya bikelamu nyonso,
+051	COL	001	016	pamba te ezali na nzela na Yesu nde nyonso ekelama kati na Likolo mpe na mabele, bikelamu oyo emonanaka mpe oyo emonanaka te, milimo mpe bokonzi ya milimo, bakonzi ya milimo mpe banguya. Ezali na nzela na Yesu mpe mpo na Yesu nde nyonso ekelama.
+051	COL	001	017	Yesu azali liboso na nyonso, mpe nyonso esimbama kati na Ye;
+051	COL	001	018	azali moto ya nzoto na Ye, oyo ezali Lingomba; azali ebandeli, Mosekwi ya liboso kati na bakufi, mpo ete azala na bokonzi ya liboso kati na nyonso,
+051	COL	001	019	pamba te, kati na Ye, Nzambe asepelaki kovandisa bonzambe na Ye nyonso
+051	COL	001	020	mpe kozongisa, na nzela ya Klisto, boyokani kati na Ye moko Nzambe mpe bikelamu nyonso, ezala oyo ezali na mabele to mpe oyo ezali kati na Likolo, na kotia kimia na nzela ya makila oyo Mwana na Ye asopaki na ekulusu.
+051	COL	001	021	Nzokande na kala, bozalaki mosika ya Nzambe mpe bozalaki banguna na Ye mpo na mabe nyonso oyo bozalaki kokanisa mpe kosala.
+051	COL	001	022	Kasi sik’oyo, Nzambe azongisi boyokani kati na Ye mpe bino na nzela ya kufa ya Yesu, Mwana na Ye, oyo akabaki nzoto na Ye ya bomoto lokola mbeka mpo na kotalisa bino epai ya Nzambe lokola bato ya bule, bazanga pamela mpe bazanga mbeba.
+051	COL	001	023	Kasi bosengeli penza kowumela, kotelema ngwi mpe kolenda kati na kondima na bino; mpe bosengeli koboya kopengwa mosika ya elikya oyo bozwaki wuta tango boyokaki Sango Malamu. Sango Malamu yango esakolamaki kati na bikelamu nyonso oyo ezali na se ya Likolo, mpe ngai Polo nakoma mosali na yango.
+051	COL	001	024	Nazali sik’oyo kosepela na pasi oyo nazali komona mpo na bino; pamba te pasi oyo Klisto atikalaki komona te, ngai nazali kokokisa yango kati na nzoto na ngai mpo na bolamu ya nzoto na Ye, oyo ezali Lingomba.
+051	COL	001	025	Nakoma mosali na yango kolanda mokumba oyo Nzambe apesa ngai: mokumba ya koteya bino Liloba na Nzambe na mobimba na yango.
+051	COL	001	026	Sango Malamu ezali mabombami oyo Nzambe abomba wuta na ebandeli, kasi alakisi yango sik’oyo epai ya basantu na Ye. (aiōn g165)
+051	COL	001	027	Nzambe asepeli kolakisa bango bomengo ya nkembo, oyo evandi kati na mabombami ya mabongisi na Ye mpo na Bapagano. Mabombami yango ezali: Klisto kati na bino, elikya ya nkembo.
+051	COL	001	028	Ezali Ye Klisto nde biso tosakolaka, na kokebisa mpe na koteya moto nyonso, na bwanya nyonso, mpo na kokomisa moto nyonso ya kokoka kati na Klisto.
+051	COL	001	029	Ezali mpo na yango nde nasalaka mpe nabundaka na nzela ya makasi ya Klisto, oyo esalaka na nguya kati na ngai.
+051	COL	002	001	Nalingi boyeba ete nazali kobunda etumba makasi mpo na bino, mpo na bandeko ya Laodise mpe mpo na bandeko nyonso oyo bamoni ngai nanu te.
+051	COL	002	002	Nazali kosala bongo mpo ete balendisama, bazala moko kati na bolingo, batonda na elikya oyo ewutaka na bososoli ya mabombami ya Nzambe, mpe batonda na boyebi ya mabombami yango; mabombami yango ezali Klisto.
+051	COL	002	003	Ezali kati Klisto nde bomengo nyonso ya bwanya mpe ya boyebi ya Nzambe ebombami.
+051	COL	002	004	Nalobi na bino bongo mpo ete moko te akosa bino na nzela ya maloba ya lokuta.
+051	COL	002	005	Pamba te, atako na nzoto, nazali mosika na bino, kasi na molimo, nazali elongo na bino; mpe nazali kosepela komona ete bozali kotambola na botosi mpe bozali kobatela kondima na bino kati na Klisto.
+051	COL	002	006	Yango wana, lokola bosilaki koyamba Yesu-Klisto lokola Nkolo, botambolaka lokola bato oyo bazali moko na Ye:
+051	COL	002	007	bomilendisaka mpe botongaka bomoi na bino kati na Ye, bokangamaka na kondima ndenge bateyaki bino, mpe bozongisaka matondi epai ya Nzambe.
+051	COL	002	008	Bosalaka keba ete moko te akanga bino na motambo ya mayele ya lokuta mpe ezanga tina, kolanda bokoko ya bato mpe etamboli ya mokili oyo, pamba te ewutaka na Klisto te.
+051	COL	002	009	Ezali kati na Klisto, kati na nzoto na Ye, nde mobimba ya nyonso oyo ezali kati na Nzambe evandi.
+051	COL	002	010	Ezali mpe kati na Ye nde bino botondisamaki, pamba te azali Mokonzi ya milimo nyonso mpe ya nguya nyonso.
+051	COL	002	011	Ezali lisusu kati na Ye nde bakataki bino ngenga, na nzela ya maboko ya bato te kasi na lolenge ya Klisto: balongolaki kati na bino nzoto ya bomoto mpe ya masumu,
+051	COL	002	012	bakundaki bino elongo na Klisto na nzela ya libatisi; mpe, kati na Ye, bosekwaki elongo na Ye na nzela ya kondima kati na nguya ya Nzambe oyo asekwisaki Ye kati na bakufi.
+051	COL	002	013	Bino oyo bozalaki bakufi kati na masumu na bino mpe kati na bozangi kokatisa ngenga ya nzoto na bino, Nzambe akomisaki bino bato ya bomoi elongo na Klisto. Alimbisaki masumu na biso nyonso,
+051	COL	002	014	apasolaki mokanda oyo mibeko na yango ekatelaki biso etumbu, asilisaki bokonzi ya mibeko yango, wana abakaki yango na ekulusu.
+051	COL	002	015	Asilisaki makasi ya milimo mabe mpe ya nguya ya bakonzi ya molili, asambwisaki yango na miso ya bato nyonso mpe atambolisaki yango lokola bakangami ya etumba tango alongaki yango na ekulusu.
+051	COL	002	016	Yango wana, bopesaka na moto moko te nzela ya kosambisa bino na tina na biloko ya kolia to ya komela to mpe na tina na mokolo ya feti lokola feti ya ebandeli ya sanza to ya Saba.
+051	COL	002	017	Nyonso wana ezalaki kaka elilingi ya makambo oyo esengelaki koya, kasi bosolo na yango ezali penza kati na Klisto.
+051	COL	002	018	Botelemelaka bato oyo bamisepelisaka na komikitisa ya lokuta to na kosambela ba-anjelu, bopesaka bango nzela te ya kozangisa bino elonga. Bamipesaka na bimoniseli ya makanisi na bango, batondi na lolendo ezanga tina,
+051	COL	002	019	baboyaka kokangama na Klisto oyo azali Mokonzi, Moto. Ezali Klisto nde asalaka ete nzoto mobimba ekola malamu kolanda mokano ya Nzambe mpe ekangana na nzela ya misisa mpe misuni.
+051	COL	002	020	Bokufaki elongo na Klisto mpe bokangolamaki longwa na bowumbu ya milimo mabe ya mokili oyo. Boye mpo na nini, lokola nde bozali nanu bato ya mokili oyo, bozali lisusu kondima mibeko na yango lokola:
+051	COL	002	021	« kozwa te, komeka elengi te, kosimba te? »
+051	COL	002	022	Boni, biloko oyo nyonso ebongisami te mpo na kobebisama sima na kosalela yango? Tala, ezali na yango kaka mibeko mpe malakisi ya bomoto!
+051	COL	002	023	Solo, mibeko ya bongo emonanaka lokola nde etondi na bwanya, pamba te esengaka na bato ete basambelaka ndenge balingi, bamilakisaka lokola bato ya komikitisa mpe bamipesaka pasi na nzoto; nzokande ezali na tina moko te, soki kaka te kokokisa baposa ya nzoto.
+051	COL	003	001	Lokola bosekwaki mpe elongo na Klisto, bolukaka biloko ya Likolo epai wapi Klisto avandi na ngambo ya loboko ya mobali ya Nzambe,
+051	COL	003	002	bokanisaka biloko ya Likolo kasi biloko ya mokili te.
+051	COL	003	003	Pamba te bokufaki penza, mpe bomoi na bino ezali sik’oyo ya kobombama elongo na Klisto kati na Nzambe.
+051	COL	003	004	Tango Klisto oyo azali bomoi na bino akomonana, bino mpe bokomonana elongo na Ye kati na nkembo.
+051	COL	003	005	Boye, boboma nyonso oyo, kati na bomoi na bino, ezali ya mokili: pite, bosoto, baposa ya mabe, bilulela mpe lokoso ya mbongo, pamba te lokoso ya mbongo ezali ndenge moko na kosambela bikeko.
+051	COL	003	006	Ezali makambo yango nde ebendaka kanda ya Nzambe.
+051	COL	003	007	Bino mpe na kala, bozalaki komipesa na makambo yango tango bomoi na bino ezalaki na se ya bokonzi ya makambo yango.
+051	COL	003	008	Kasi sik’oyo, bosengeli kolimwisa makambo yango nyonso: kanda, koyinana, misala mabe, mafinga mpe maloba mabe oyo ekoki kobima na minoko na bino.
+051	COL	003	009	Bokosanaka te, pamba te bobwakaki bomoto na bino ya kala elongo na misala na yango
+051	COL	003	010	mpe bolataki bomoto ya sika oyo emikomisaka ya sika mpo ete bokoma na boyebi ya kokoka kolanda elilingi ya Mokeli ya bomoto yango.
+051	COL	003	011	Boye, biso nyonso tozali ndenge moko: bokeseni ezali lisusu te kati na Mogreki mpe Moyuda, moto oyo akatama ngenga mpe moto oyo akatama ngenga te, mopaya mpe mwana mboka, mowumbu mpe monsomi. Bobele Klisto nde azali na tina: azali nyonso kati na bato nyonso.
+051	COL	003	012	Yango wana, lokola bozali baponami ya Nzambe, basantu mpe balingami na Ye, boyokelaka mingi bato mawa, bozalaka na bolingo, na boboto, na komikitisa mpe na motema molayi.
+051	COL	003	013	Boyikanaka mpiko; mpe soki moko azali na likambo ya kopamela moninga na tina na yango, bolimbisanaka. Bolimbisaka ndenge Nkolo alimbisaki bino.
+051	COL	003	014	Na likolo ya makambo oyo nyonso, bolataka bolingo oyo ekangisaka nyonso kati na bomoko ya kokoka.
+051	COL	003	015	Tika ete kimia ya Klisto ekonzaka kati na mitema na bino, pamba te bozali biteni ya nzoto moko mpe Nzambe abenga bino mpo ete bozala na kimia yango; mpe bozongisaka matondi.
+051	COL	003	016	Tika ete Liloba ya Klisto, kati na bomengo na yango nyonso, evanda kati na bino; boteyanaka mpe bokebisanaka na bwanya nyonso, na nzela ya banzembo ya masanzoli, banzembo ya lokumu mpe banzembo oyo ewutaka na Molimo. Mpe boyembelaka Nzambe na kozongisa matondi kati na mitema na bino.
+051	COL	003	017	Mpe nyonso oyo bokosala, ezala na maloba to na misala, bosalaka yango na Kombo ya Nkolo Yesu, na kozongisa matondi epai ya Nzambe Tata na nzela ya Yesu-Klisto.
+051	COL	003	018	Basi, botosaka mibali na bino ndenge ebongi kati na Nkolo.
+051	COL	003	019	Mibali, bolingaka basi na bino mpe bozalaka na makambo ya makasi te epai na bango.
+051	COL	003	020	Bana, botosaka baboti na bino na makambo nyonso, pamba te ezali ndenge wana nde bokosepelisa Nkolo.
+051	COL	003	021	Batata, boyokisaka bana na bino kanda te, noki te mitema na bango ekolemba.
+051	COL	003	022	Bawumbu, botosaka bankolo na bino na makambo nyonso; na miso na bango kaka te, lokola nde bozali kosepelisa bato, kasi na mitema ya bosembo mpe kati na kotosa Nkolo.
+051	COL	003	023	Mosala nyonso oyo bosalaka, bosalaka yango na mitema na bino mobimba, lokola nde bozali kosala yango mpo na Nkolo, kasi mpo na bato te,
+051	COL	003	024	pamba te boyebi malamu ete bokozwa, lokola lifuti, libula oyo Nkolo abongisa mpo na bato ya Nzambe. Ezali Klisto nde azali Nkolo oyo bosalelaka.
+051	COL	003	025	Moto oyo asalaka na ndenge ya mabe akozwa lifuti oyo ebongi mpo na misala na ye ya mabe, pamba te Nzambe aponaka bilongi te.
+051	COL	004	001	Bino bankolo, bosungaka bawumbu na bino na nzela ya biloko ya sembo mpe ya solo, pamba te boyebi malamu ete bino mpe bozali na Mokonzi kati na Likolo.
+051	COL	004	002	Bozalaka na molende ya kosambela, bosenzelaka mpe bozongisaka matondi epai ya Nzambe.
+051	COL	004	003	Bobondelaka mpe mpo na biso, na tina ete Nzambe apesa biso mabaku ya koteya Sango Malamu mpo na kosakola mabombami ya Klisto. Mpe ezali mpo na mabombami yango nde ngai nazali mokangami kati na boloko.
+051	COL	004	004	Bobondelaka Nzambe mpo ete nasakola yango na polele nyonso, ndenge nasengeli penza kosala.
+051	COL	004	005	Botambolaka na bwanya liboso ya bato oyo bazali bandimi te mpe bosalelaka tango na bino na ndenge ya malamu.
+051	COL	004	006	Tika ete maloba na bino etondaka tango nyonso na boboto mpe na elengi, mpo ete boyeba ndenge nini koyanola moto nyonso.
+051	COL	004	007	Tishike, ndeko molingami, mosali ya sembo mpe moninga na ngai kati na mosala ya Nkolo, akoyebisa bino makambo nyonso oyo etali ngai.
+051	COL	004	008	Ezali na tina yango nde nazali kotinda ye epai na bino, mpo ete apesa bino basango na tina na biso mpe alendisa bino.
+051	COL	004	009	Azali koya elongo na Onezime, ndeko molingami na biso ya solo, oyo azali moko kati na bino. Bakoyebisa bino makambo nyonso oyo ezali koleka awa.
+051	COL	004	010	Arisitarke, moninga na ngai kati na boloko, atindeli bino mbote. Boyamba mpe mbote ya Malako, ndeko ya Barnabasi, oyo na tina na ye napesaki bino mitindo ete, soki ayei epai na bino, boyamba ye malamu.
+051	COL	004	011	Yesu oyo babengaka Jistisi atindeli bino mbote. Kati na Bayuda oyo bakomaki Baklisto, kaka bango nde bazali kosala elongo na ngai mpo na Bokonzi ya Nzambe, mpe bazali mpo na ngai kobondisama mobimba.
+051	COL	004	012	Epafrasi, ye oyo azali mpe moko kati na bino mpe mowumbu ya Yesu-Klisto, atindeli bino mbote. Abundaka tango nyonso etumba mpo na bino kati na mabondeli, mpo ete botelema ngwi lokola bato oyo bakembi kati na kondima mpe baselingwa mpo na kokokisa mokano nyonso ya Nzambe.
+051	COL	004	013	Nazali kotatola solo mpo na ye ete azali kosala mosala makasi mpo na bino, mpo na bandeko ya Laodise mpe mpo na bandeko ya Iyerapolisi.
+051	COL	004	014	Monganga Luka, molingami na biso, mpe Demasi batindeli bino mbote.
+051	COL	004	015	Bopesa mbote epai ya bandeko ya Laodise, epai ya Nefa mpe epai ya Lingomba oyo esanganaka kati na ndako na ye.
+051	COL	004	016	Soki bosilisi kotanga mokanda oyo, bosala ete etangama mpe kati na Lingomba ya Laodise; bongo bino mpe botanga oyo ekowuta na Laodise.
+051	COL	004	017	Boloba na Arshipe: « Sala keba na lotomo oyo ozwaki kati na Nkolo mpo ete okokisa yango malamu. »
+051	COL	004	018	Ngai Polo, napesi bino mbote na kokoma yango na maboko na ngai. Bobosanaka te ete nazali mokangami kati na boloko. Tika ete ngolu ezala na bino!
+#

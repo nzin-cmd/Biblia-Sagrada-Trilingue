@@ -1,0 +1,57 @@
+035	HAB	001	001	Tala liloba oyo mosakoli Abakuki azwaki na emoniseli:
+035	HAB	001	002	Oh Yawe, kino tango nini nasengeli kobelela Yo mpo ete osunga, kasi ozali koyoka te? Nazali koganga epai na Yo: « Minyoko eleki! » kasi ozali kaka kobikisa te!
+035	HAB	001	003	Mpo na nini ozali kolakisa ngai makambo mabe ya boye? Mpo na nini ozali kosala eloko moko te? Liboso na ngai, nazali kaka komona libebi mpe makambo mabe, bato bazali kaka koswana mpe kofundana.
+035	HAB	001	004	Yango wana bato bazali kotosa lisusu mibeko te, bazali kokata lisusu makambo na bosembo te. Bato mabe bazali kolonga liboso ya bato ya sembo, makambo ezali lisusu kokatama na bosembo te.
+035	HAB	001	005	Botala nanu malamu bikolo mosusu mpe bokokamwa penza, pamba te nakosala likambo moko na tango na bino, likambo oyo bokondima te soki bayebisi bino yango.
+035	HAB	001	006	Nakotindela bino bato ya Babiloni, bato ya mitema mabe, oyo bayokelaka bato mawa te: batambolaka mokili mobimba mpo na kobotola bato bisika na bango ya losambo na makasi.
+035	HAB	001	007	Bazali bato ya somo mpe bato oyo babangisaka, basalaka makambo nyonso oyo bazali na yango posa, mpe moto moko te amekaka kotelemela bango.
+035	HAB	001	008	Bampunda na bango ekimaka mbangu koleka ata nkoyi, ezalaka na kanda makasi koleka ata mbwa ya zamba oyo ebimaka na pokwa mpo na koluka nyama ya kolia. Basoda na bango oyo batambolaka likolo ya bampunda batambolaka mbangu makasi mpe bawutaka mosika penza, bapumbwaka lokola mpongo soki ezali kokita na elulu mpo na kokanga nyama ya kolia.
+035	HAB	001	009	Bango nyonso bayaka nzela moko mpo na kotia mobulu, bakendaka kaka liboso lokola mopepe ya este, bazwaka bakangami ebele ndenge balokotaka mbuma ya zelo.
+035	HAB	001	010	Batiolaka bakonzi mpe basekaka bakambi, basekaka bingumba batonga makasi, batondisaka mabele pembeni ya bamir mpo ete bamata likolo na yango mpe bakota na engumba mpo na kobotola yango,
+035	HAB	001	011	balekaka lokola mopepe mpe bakobaka nzela na bango, basepelaka kosala mabe, mpe makasi na bango nde ezali nzambe na bango.
+035	HAB	001	012	Boni, ozali Yawe te wuta na ebandeli? Ozali Nzambe na ngai, Mosantu na ngai, okufaka te. Oh Yawe, oponaki bango mpo na kosambisa biso; mpe Yo Libanga na ngai, olendisaki bango mpo na kopesa biso etumbu.
+035	HAB	001	013	Miso na Yo ezali peto koleka, okoki kotala mabe te. Mpo na nini ozali kotala makambo mabe? Mpo na nini ozali kotala bato mabe na miso? Mpo na nini ovandi kimia wana bato mabe bazali konyokola bato oyo baleki bango na bosembo?
+035	HAB	001	014	Okomisi bato lokola bambisi ya ebale, lokola banyama oyo etambolaka na libumu mpe ezanga mokonzi.
+035	HAB	001	015	Moto mabe azwaka yango nyonso na ndobo, akangaka yango na monyama mpe atiaka yango na kitunga. Yango wana asepelaka mpe atondaka na esengo.
+035	HAB	001	016	Bongo abonzelaka monyama na ye mbeka, atumbelaka kitunga na ye ansa; pamba te na nzela ya monyama mpe ya kitunga na ye, azwaka bambisi ebele mpe bilei ya kitoko.
+035	HAB	001	017	Boni, akosepela solo kotika ete monyama na ye ezanga mbisi na kokoba koboma bato na mawa te?
+035	HAB	002	001	Nakotelema na esika na ngai ya kokengela, nakotelema ngai moko na likolo ya mir, nakosenzela mpo na komona makambo oyo akoyebisa ngai mpe eyano oyo nakopesa na banzembo oyo ya mawa.
+035	HAB	002	002	Yawe ayanolaki: — Koma emoniseli oyo, koma yango na etando ya mabanga, koma yango penza malamu mpo ete moto nyonso akoka kotanga yango na bopete.
+035	HAB	002	003	Emoniseli oyo ezali kaka kozela tango na yango oyo ekatama; ezali kolobela makambo oyo ekosalema na tango ya suka; solo, ekokosa te. Ata ewumeli, (zela) yango kaka; solo, ekokokisama, ekowumela te.
+035	HAB	002	004	Tala, atondisami na lolendo, motema na ye ezali na bosembo te; kasi moto ya sembo akobika na nzela ya kondima na ye.
+035	HAB	002	005	Solo, masanga ya vino ekosaka; moto ya lolendo avandaka kimia te. Mpo ete azali lokoso lokola mboka ya bakufi mpe atondaka te lokola kufa, asangisaka bato ya bikolo nyonso pembeni na ye mpe akomisaka bango bawumbu na ye. (Sheol h7585)
+035	HAB	002	006	Boni, bato wana nyonso bakoseka ye te na maloba ya kotiola mpe ya kosambwisa lokola: « Mawa na ye oyo azali kobomba biloko ya moyibi mpe akolisaka bomengo na ye na kobotola bato biloko na makasi! » Makambo ya boye ekokoba kino penza tango nini?
+035	HAB	002	007	Boni, bakolo biloko bakobimela yo te na pwasa? Bakolamukela yo mpe bakolengisa yo. Boni, okokoma te lokola mosuni na bango ya kolia?
+035	HAB	002	008	Lokola obotolaki bomengo ya bato ya bikolo ebele na makasi, bato oyo batikali bakobotola yo mpe bomengo na yo na makasi, mpo ete osopaki makila ya bato, obebisaki mikili mpe bingumba elongo na bavandi na yango nyonso.
+035	HAB	002	009	Mawa na moto oyo atongaka ndako na ye na nzela ya sembo te! Alukaka kosala zala na ye na likolo ya bangomba mpo na kokima ete makambo mabe ekomela ye.
+035	HAB	002	010	Lokola osalaki mabongisi ya kobebisa bato ebele, obongisaki nde soni ya ndako na yo moko mpe okotisi nde bomoi na yo moko na likama.
+035	HAB	002	011	Mabanga ya mir ekoganga mpe mabaya ya motondo ekoyanola.
+035	HAB	002	012	Mawa na moto oyo atongaka engumba na nzela ya makila mpe alendisaka yango na nzela ya lokuta!
+035	HAB	002	013	Boni, ekatama te epai na Yawe, Mokonzi ya mampinga, ete misala ya bato ezala kaka lokola koni oyo ezali kopela moto, ete bikolo enyokwamaka bobele se pamba?
+035	HAB	002	014	Pamba te mokili ekotonda na boyebi ya nkembo na Yawe ndenge mayi etondaka na ebale.
+035	HAB	002	015	Mawa na moto oyo amelisaka moninga na ye masanga makasi kino asilisa mbeki nyonso mpe alangwa mpo ete amona bolumbu na ye!
+035	HAB	002	016	Na esika ete otondisama na nkembo, okotondisama na soni. Sik’oyo ekomi tango na yo, mela mpe tikala bolumbu! Kopo oyo ewuti na loboko ya mobali ya Yawe eyei kozingela yo, mpe soni ekozipa nkembo na yo.
+035	HAB	002	017	Mabe oyo osalaki mokili ya Libani ekozongela yo, mpe somo ya banyama oyo obomaki ekokomela yo; pamba te osopaki makila ya bato, obebisaki mikili mpe bingumba elongo na bavandi na yango nyonso.
+035	HAB	002	018	Boni, banzambe ya bikeko ezali na tina nini, pamba te moto nde asalaki yango? Elilingi oyo eteyaka makambo ya lokuta ezali na tina penza nini? Pamba te moto oyo asalaki yango azali nde kotia elikya na mosala ya maboko na ye, asali nde ekeko oyo elobaka te.
+035	HAB	002	019	Mawa na moto oyo alobaka na eteni ya nzete: « Telema! » Mawa na moto oyo alobaka na libanga oyo ezanga bomoi: « Lamuka! » Boni, ekeko ekoki solo kolakisa moto nzela? Bazipa yango wolo mpe palata, kasi pema ezali te kati na yango.
+035	HAB	002	020	Nzokande, Yawe azali kati na Tempelo na Ye ya bule; tika ete mokili mobimba ezala kimia liboso na Ye!
+035	HAB	003	001	Libondeli ya Mosakoli Abakuki, na tina na lolenge ya banzembo ya mawa.
+035	HAB	003	002	Oh Yawe, nayokaki sango ya Kombo na Yo! Yawe, nabangaki misala na Yo. Sala yango lisusu na tango na biso! Sala ete eyebana lisusu na tango na biso! Kasi ata soki otomboki ndenge nini, kobosanaka te mawa na Yo mpo na biso.
+035	HAB	003	003	Nzambe abimelaki na engumba Temani, Mosantu abimelaki na ngomba Parani. Nkembo na Ye ezipaki likolo, mpe lokumu na Ye etondisaki mabele.
+035	HAB	003	004	Azalaki kongenga lokola moyi, mpe pole makasi ezalaki kobimela na loboko na Ye, epai wapi nguya na Ye ebombamaka.
+035	HAB	003	005	Bokono oyo ebomaka ezalaki kotambola liboso na Ye, mpe pasi makasi ezalaki kolanda matambe na Ye na sima.
+035	HAB	003	006	Tango atelemaki, mabele ekomaki koningana makasi; tango abalolaki elongi na Ye mpo na kotala, bato ya bikolo bakomaki kolenga, bangomba milayi oyo ya kala-kala ebukanaki, mpe bangomba mikuse oyo ya kala-kala ekitaki; kasi banzela na Ye ewumelaka seko na seko.
+035	HAB	003	007	Namonaki bandako ya kapo ya Kushani kati na pasi, mpe bandako ya mokili ya Madiani kati na mitungisi.
+035	HAB	003	008	Oh Yawe, otombokelaki nde bibale? Osopelaki nde miluka kanda na Yo? Osilikelaki nde ebale monene tango ozalaki kotambola likolo ya bampunda, likolo ya bashar na Yo ya lokumu?
+035	HAB	003	009	Obimisaki tolotolo na Yo na ebombelo na yango, maloba ya bandayi oyo olapaki ezalaki makonga na Yo. Ozindisaki mokili kati na bibale.
+035	HAB	003	010	Soki bangomba emoni Yo, elengaka; mayi etiolaka makasi, ebale monene etombokaka mpe bambonge na yango emataka kino na likolo.
+035	HAB	003	011	Tango makonga ya mike etambolaka lokola mikalikali mpe makonga ebetaka lokola bakake, moyi mpe sanza etelemaka kuna na likolo.
+035	HAB	003	012	Na kanda, otambolaka na mabele; mpe na kanda makasi na Yo, onyataka bikolo.
+035	HAB	003	013	Obimaka mpo na kokangola bato na Yo mpe mpo na kobikisa mopakolami na Yo. Obomaki mokambi ya mokili ya bato mabe, osambwisaki ye kobanda na moto kino na makolo.
+035	HAB	003	014	Otobolaki ye moto na nzela ya likonga na ye moko, tango basoda na ye bazalaki koya na elulu lokola mopepe mpo na kopanza biso. Bazalaki kosepela na elikya ete bakoboma biso na nkuku.
+035	HAB	003	015	Otambolaka na ebale elongo na bampunda na Yo; boye oningisaka mayi minene.
+035	HAB	003	016	Tango nayokaki sango oyo, motema na ngai ekomaki kobeta makasi, bibebu na ngai ekomaki kolenga, mikuwa na ngai ekomaki kopola mpe makolo na ngai ekomaki kolenga. Kasi nakokanga motema na ngai mpo na kozela mokolo ya pasi oyo ekokomela ekolo oyo ebundisaki biso.
+035	HAB	003	017	Nzokande, nzete ya figi ebimisi fololo te, nzete ya vino eboti mbuma te, nzete ya olive eboti mbuma te, bilanga ebimisi bilei te, bameme mpe bantaba ezali te kati na lopango, mpe bangombe ezali te kati na lopango.
+035	HAB	003	018	Kasi ngai nakosepela kati na Yawe mpe nakotondisama na esengo mingi kati na Nzambe, Mobikisi na ngai.
+035	HAB	003	019	Nkolo Yawe azali makasi na ngai: akomisaka makolo na ngai lokola makolo ya mboloko, apesaka ngai makasi ya komata kino na likolo ya bangomba. Wuta na buku ya motambolisi banzembo. Babetaki yango na mandanda.
+#

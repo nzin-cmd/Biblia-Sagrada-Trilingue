@@ -1,0 +1,48 @@
+034	NAH	001	001	Lisakoli na tina na engumba Ninive. Buku ya emoniseli ya Naumi, moto ya engumba Elikoshi.
+034	NAH	001	002	Yawe azali Nzambe oyo atonda na zuwa, oyo azongisaka mabe na mabe. Yawe azongisaka mabe na mabe mpe atombokaka makasi. Yawe azongisaka mabe na mabe epai ya banguna na Ye, akangelaka bayini na Ye kanda makasi.
+034	NAH	001	003	Yawe asilikaka noki te, mpe nguya na Ye ezali monene. Yawe atikaka te moto oyo asali mabe lokola nde asali na ye mabe te, kasi apesaka etumbu na moto oyo asali mabe. Yawe apasolaka nzela na Ye kati na ekumbaki, kati na mopepe makasi.
+034	NAH	001	004	Agangelaka ebale monene mpe akawusaka yango, akawusaka bibale nyonso. Etuka ya Bashani mpe ya Karimeli esili nyonso kokawuka, mpe matiti nyonso ya Libani esili kokawuka.
+034	NAH	001	005	Bangomba milayi eninganaka liboso na Ye, mpe bangomba mikuse epanzanaka. Mabele, mokili mpe bavandi na yango balengaka liboso na Ye.
+034	NAH	001	006	Nani akoki solo kotelema liboso na Ye soki asiliki? Nani akoki solo kobika soki kanda na Ye epeli? Mpo ete kanda na Ye epanzanaka lokola moto, bongo mabanga ebukanaka liboso na Ye.
+034	NAH	001	007	Yawe azali malamu, azali ebombamelo ya solo na tango ya pasi mpe abatelaka bato nyonso oyo batiaka elikya na Ye.
+034	NAH	001	008	Akobebisa engumba na Ye nyonso na mpela mpe akobengana banguna na Ye kino kati na molili.
+034	NAH	001	009	Likita ya ndenge nini bakoki kosalela Yawe? Azali Ye oyo asilisaka makambo nyonso; pasi ekoya lisusu te.
+034	NAH	001	010	Bakokoma lokola bato oyo bazali kati na banzube, lokola bato oyo balangwe masanga ya vino; bakozikisama nye lokola matiti ya kokawuka.
+034	NAH	001	011	Ezali kati na yo Ninive nde moto oyo azali na mabongisi mabe mpo na kotelemela Yawe mpe azali na batoli ya mabe abimi.
+034	NAH	001	012	Tala liloba oyo Yawe alobi: « Ata banguna na bino bazali ebele mpe makasi, bakosila kokufa mpe kolimwa. Oh mokili ya Yuda, soki nasambwisaki yo, nakosala yango lisusu te.
+034	NAH	001	013	Nakobuka ekangiseli na bango, oyo ezali na kingo na yo mpe nakolongola yo na minyololo. »
+034	NAH	001	014	Kasi Yawe azwi mokano oyo mpo na yo: « Okotikala kozwa lisusu bakitani te oyo bakobatela kombo na yo na bokonzi. Nakolongola kati na tempelo na yo banzambe na yo ya bikeko mpe bikeko nyonso oyo basala na bibende balekisa na moto. Nazali kobongisela yo kunda, pamba te ozali na yo pamba. »
+034	NAH	001	015	Botala kuna na bangomba makolo ya momemi sango malamu: amemi sango ya kimia! Oh mokili ya Yuda, sepela na bafeti na yo mpe kokisa ndayi na yo; pamba te wuta sik’oyo, moto mabe moko te akokota lisusu epai na yo; pamba te bango nyonso bakobebisama nye.
+034	NAH	002	001	Tala, mobebisi azali koya kosala yo mabe! Batela malamu bandako na yo batonga makasi, kengela nzela na yo, bongama mpo na bitumba mpe sangisa bato na yo.
+034	NAH	002	002	Yawe akozongisa lisusu nkembo ya Jakobi mpe ya Isalaele, atako babebisaki mpe bapanzaki mokili na bango, mpe atako babebisaki bilanga na bango ya vino.
+034	NAH	002	003	Banguba mpe bilamba ya basoda na bango ezali ya langi ya motane; bibende ya bashar na bango ezali kongenga na mokolo oyo babongisi mpo na bitumba, mpe makonga basala na nzete ekomi kotambola bipai na bipai.
+034	NAH	002	004	Bashar ezali kokota na elulu na nzela, ezali kokende mpe kozonga na bisika oyo bato ebele bakutanaka; ezali komonana lokola koni oyo ezali kopela moto, ezali kotambola na bangambo nyonso lokola mikalikali.
+034	NAH	002	005	Abengi basoda na ye nyonso ya mpiko. nzokande, na nzela na bango, bazali kotepatepa, bazali kokende na lombangu pene ya mir.
+034	NAH	002	006	Bikuke ya ebale efungwami, mpe ndako na ye ya bokonzi ebukani.
+034	NAH	002	007	Ekatami ete engumba wana ekokende na bowumbu mpe bakomema yango mosika penza; basali na yango ya basi bakolela lokola bibenga mpe bakomibeta batolo likolo ya pasi.
+034	NAH	002	008	Na kala, engumba Ninive ezalaki lokola liziba ya mayi. Kasi tala yango lelo oyo: etoboki mpe ekomi kobimisa mayi! Bazali kobelela: « Botelema! Botelema! » Kasi ata moto moko te azongi lisusu kuna.
+034	NAH	002	009	Bobotola wolo mpe palata na yango na makasi, pamba te bomengo na yango ezali penza mingi koleka mpe etonda na biloko ya motuya.
+034	NAH	002	010	Bakoteli yango, bapanzi yango, babotoli na makasi biloko na yango ya talo! Mitema ebukani, mabolongo ekomi kolenga, mpe banzoto etondi na somo.
+034	NAH	002	011	Wapi sik’oyo libulu epai wapi bankosi ezalaki kobokola bana na yango? Wapi sik’oyo libulu epai wapi nkosi ya mwasi elongo na bana na yango ezalaki kotambola na somo ata moke te?
+034	NAH	002	012	Nkosi ebomi banyama ebele mpo ete epesa yango lokola bilei epai ya bana na yango, ekangi nyama ya kolia mpo na mwasi na yango, bongo etondisi libulu na yango na banyama oyo ebomi mpe na misuni.
+034	NAH	002	013	« Nakotombokela yo, » elobi Yawe, Mokonzi ya mampinga; « nakozikisa bashar na yo na moto, mpe mopanga ekoboma bana ya nkosi na yo. Nakobotola yo misuni nyonso awa na se; boye mongongo ya batindami na yo ekotikala koyokana lisusu te. »
+034	NAH	003	001	Mawa na engumba oyo mosala na yango kosopa makila ya bato, engumba oyo etonda na makambo ya lokuta mpe na moyibi, engumba oyo ezangaka te koboma bato!
+034	NAH	003	002	Tango nyonso, kaka makelele ya bafimbu, makelele ya bapine: bampunda ezali kopumbwa, mpe bashar ezali koningana.
+034	NAH	003	003	Basoda oyo batambolaka likolo ya bampunda bazali kotambola-tambola, mipanga ezali kongenga, makonga ezali koleka-leka lokola mikalikali! Bato bazali kozoka, kokufa ebele penza! Bongo bibembe elali-lali bisika nyonso, mpe makolo ya bato ekomi kotuta bibembe tango bazali kotambola.
+034	NAH	003	004	Makambo oyo nyonso esalemi likolo ya makambo ya nkele ya engumba oyo etonda na kindumba, engumba ya kitoko makasi kasi etonda na misala ya soloka, engumba oyo epengwisaka bikolo na nzela ya kindumba na yango mpe epengwisaka bato na nzela ya misala na yango ya soloka.
+034	NAH	003	005	« Natombokeli yo, » elobi Yawe, Mokonzi ya mampinga; « nakotombola yo elamba kino na elongi, nakolakisa bolumbu na yo na miso ya bikolo mosusu mpe nakoyokisa yo soni na miso ya bamboka nyonso.
+034	NAH	003	006	Nakobwakela yo bosoto, nakosambwisa yo mpe nakokomisa yo eloko ya maseki.
+034	NAH	003	007	Bato nyonso oyo bakomona yo bakokima mpe bakoganga: ‹ Engumba Ninive ebebisami boye! Nani akoyokela yango mawa? › »
+034	NAH	003	008	Boni, okanisi ete ozali kitoko koleka engumba Tebesi oyo ezalaka pembeni ya ebale Nili mpe ezingelama na mayi, bongo ebale ebatelaka yango mpe mayi ezalaka lokola mir oyo ebombaka yango?
+034	NAH	003	009	Makasi na yango ezalaki kowuta na Kushi mpe na Ejipito; bato ya Puti mpe ya Libi bazalaki kosunga yango.
+034	NAH	003	010	Nzokande, yango mpe ekweyaki, mpe bamemaki bato na yango na bowumbu. Bakataki-kataki na biteni bana na bango na babalabala nyonso, babetaki zeke mpo na kopona bato na yango ya lokumu mpo ete bamema bango na bowumbu, mpe bakangaki bakambi na yango minyololo.
+034	NAH	003	011	Yo mpe okokoma lokola moto oyo alangwe masanga, yo mpe okoluka ekimelo mpo na kokima banguna na yo.
+034	NAH	003	012	Bandako na yo nyonso, oyo batonga makasi ezali lokola banzete ya figi etonda na bambuma ya liboso ekomela; soki kaka bameki koningisa yango, bambuma ekweyaka kino na monoko ya moto ya lokoso.
+034	NAH	003	013	Tala malamu mampinga na yo, balemba lokola basi; bikuke ya mokili na yo ezali polele liboso ya banguna na yo, pamba te moto ezikisi bikangelo na yango.
+034	NAH	003	014	Bino bato ya engumba oyo, bomitokela libela mayi mpo ete bakozingela bino; bolendisa libela bamir oyo ebatelaka engumba na bino; bokamata mabele oyo batongelaka bandako, bosangisa yango mpo ete ekoma potopoto, bongo bobeta babiliki mpe botumba yango.
+034	NAH	003	015	Kuna nde moto ekoya kozikisa yo, mopanga ekoya koboma yo mpe kosilisa yo lokola mabanki. Tika ete bato na yo bakoma ebele lokola mabanki, bakoma lisusu ebele makasi lokola mankoko.
+034	NAH	003	016	Okomisi motango ya bato na yo ya mombongo ebele koleka ata minzoto ya likolo, kasi babebisi mokili nyonso mpe bapumbwe na bango ndenge kaka mankoko esalaka.
+034	NAH	003	017	Bakengeli na yo bazali lokola mankoko, bakonzi ya basoda na yo bazali lokola maboke ya mabanki oyo eyaka kovanda na bamir ya lopango na tango ya malili; kasi soki kaka moyi ebimi, yango nyonso epanzani, mpe moto moko te ayebaka esika yango ekendaka.
+034	NAH	003	018	Oh mokonzi ya Asiri, bakambi na yo bazali kolala pongi, basoda na yo ya mpiko balali pongi ya makasi, mampinga na yo bapalangani na bangomba mpe moto akosangisa bango azali komonana te.
+034	NAH	003	019	Ezali ata na kisi moko te oyo ekoki kobikisa pota na yo; pota na yo ezali monene makasi! Moto nyonso oyo akoyoka sango ya makambo oyo ekomeli yo akobeta maboko mpo na kokweyisama na yo. Pamba te nani oyo ozangaki kosala mabe?
+#
